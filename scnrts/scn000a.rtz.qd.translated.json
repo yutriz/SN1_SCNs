@@ -1,0 +1,3869 @@
+{
+  "md5": "1e7f0060e24acc7fab0d625bf0f70c77",
+  "blocks": [
+    {
+      "offset": "3836",
+      "translated": true,
+      "len": 54,
+      "orig_text": "せんぱぁい！\nちょっと、ちょーっと\n待ってくださいよぉ！",
+      "translated_text": "Senpai!\nWait a second, wait\njust a second!",
+      "note": ""
+    },
+    {
+      "offset": "3911",
+      "translated": true,
+      "len": 27,
+      "orig_text": "おお、エミ\nどうかしたのか？",
+      "translated_text": "Oh, Emi.\nWhat's up?",
+      "note": ""
+    },
+    {
+      "offset": "39b5",
+      "translated": true,
+      "len": 52,
+      "orig_text": "えへへ、べつに用事っ\nてわけじゃないんです\nけど・・・",
+      "translated_text": "Ehehe, I don't really\nhave any business\nbut...",
+      "note": ""
+    },
+    {
+      "offset": "3a10",
+      "translated": true,
+      "len": 50,
+      "orig_text": "駅までですけど、\nよかったらいっしょに\n帰りません？",
+      "translated_text": "I'm going to the\nstation, but would you like\nto go home together?",
+      "note": ""
+    },
+    {
+      "offset": "3acb",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ああ、別にいいぜ",
+      "translated_text": "Ah, sure.",
+      "note": ""
+    },
+    {
+      "offset": "3b8e",
+      "translated": true,
+      "len": 4,
+      "orig_text": "お？",
+      "translated_text": "Oh?",
+      "note": ""
+    },
+    {
+      "offset": "3c53",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・はあぁ〜っ",
+      "translated_text": "...Sigh...",
+      "note": ""
+    },
+    {
+      "offset": "3d08",
+      "translated": true,
+      "len": 29,
+      "orig_text": "どうした？\nため息なんかついて",
+      "translated_text": "What's wrong?\nWhy the sigh?",
+      "note": ""
+    },
+    {
+      "offset": "3dae",
+      "translated": true,
+      "len": 37,
+      "orig_text": "わっ、センパイ！？\nな、何でもないです",
+      "translated_text": "Wah, Senpai!?\nN-Nothing's wrong!",
+      "note": ""
+    },
+    {
+      "offset": "3e5c",
+      "translated": true,
+      "len": 8,
+      "orig_text": "・・・？",
+      "translated_text": "...?",
+      "note": ""
+    },
+    {
+      "offset": "3f09",
+      "translated": true,
+      "len": 69,
+      "orig_text": "せんぱい、おそーい\n・・・って、あれ？\nカツヤじゃない\nなにやってんの？",
+      "translated_text": "Senpai, you're late...\n...Wait, huh?\nIsn't that Katsuya?\nWhat are you doing?",
+      "note": ""
+    },
+    {
+      "offset": "3fd7",
+      "translated": true,
+      "len": 67,
+      "orig_text": "ほっとけっ！\n・・・って、あっ！\n今のはエミへの発言\nですからねっ！！",
+      "translated_text": "Leave me alone!\n...Uh, oh!\nThat was meant for Emi,\nyou know!!",
+      "note": ""
+    },
+    {
+      "offset": "40e9",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・はあぁ〜っ",
+      "translated_text": "...Sigh...",
+      "note": ""
+    },
+    {
+      "offset": "4182",
+      "translated": true,
+      "len": 44,
+      "orig_text": "カツヤのやつ・・・\n何か悩みでも\nあるのかな？",
+      "translated_text": "That Katsuya...\nIs something bothering\nhim?",
+      "note": ""
+    },
+    {
+      "offset": "41f1",
+      "translated": true,
+      "len": 40,
+      "orig_text": "どうしよう？\n　そっとしておく\n　心配だな",
+      "translated_text": "What should I do?\n  Leave him alone\n  I'm worried",
+      "note": ""
+    },
+    {
+      "offset": "4382",
+      "translated": true,
+      "len": 54,
+      "orig_text": "せんぱぁい！\nちょっと、ちょーっと\n待ってくださいよぉ！",
+      "translated_text": "Senpai!\nWait a second, wait\njust a second!",
+      "note": ""
+    },
+    {
+      "offset": "445d",
+      "translated": true,
+      "len": 35,
+      "orig_text": "やあ、日比野さん\nどうかしたのかい？",
+      "translated_text": "Hello, Hibino-san.\nIs something the matter?",
+      "note": ""
+    },
+    {
+      "offset": "4509",
+      "translated": true,
+      "len": 52,
+      "orig_text": "えへへ、べつに用事っ\nてわけじゃないんです\nけど・・・",
+      "translated_text": "Ehehe, I don't really\nhave any business\nbut...",
+      "note": ""
+    },
+    {
+      "offset": "4564",
+      "translated": true,
+      "len": 50,
+      "orig_text": "駅までですけど、\nよかったらいっしょに\n帰りません？",
+      "translated_text": "I'm going to the\nstation, but would you like\nto go home together?",
+      "note": ""
+    },
+    {
+      "offset": "461f",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ああ、かまわないよ",
+      "translated_text": "Ah, I don't mind.",
+      "note": ""
+    },
+    {
+      "offset": "46e4",
+      "translated": true,
+      "len": 6,
+      "orig_text": "あれ？",
+      "translated_text": "Huh?",
+      "note": ""
+    },
+    {
+      "offset": "47ab",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・はあぁ〜っ",
+      "translated_text": "...Sigh...",
+      "note": ""
+    },
+    {
+      "offset": "4860",
+      "translated": true,
+      "len": 35,
+      "orig_text": "カツヤ君じゃないか\nどうかしたのかい",
+      "translated_text": "Isn't that Katsuya-kun?\nIs something wrong?",
+      "note": ""
+    },
+    {
+      "offset": "490c",
+      "translated": true,
+      "len": 37,
+      "orig_text": "わっ、センパイ！？\nな、何でもないです",
+      "translated_text": "Wah, Senpai!?\nN-Nothing's wrong!",
+      "note": ""
+    },
+    {
+      "offset": "4990",
+      "translated": true,
+      "len": 35,
+      "orig_text": "否定するのは、図星っ\nてことか・・・",
+      "translated_text": "Denying it means it's\ntrue...",
+      "note": ""
+    },
+    {
+      "offset": "4a58",
+      "translated": true,
+      "len": 69,
+      "orig_text": "せんぱい、おそーい\n・・・って、あれ？\nカツヤじゃない\nなにやってんの？",
+      "translated_text": "Senpai, you're late...\n...Wait, huh?\nIsn't that Katsuya?\nWhat are you doing?",
+      "note": ""
+    },
+    {
+      "offset": "4b26",
+      "translated": true,
+      "len": 67,
+      "orig_text": "ほっとけっ！\n・・・って、あっ！\n今のはエミへの発言\nですからねっ！！",
+      "translated_text": "Leave me alone!\n...Uh, oh!\nThat was meant for Emi,\nyou know!!",
+      "note": ""
+    },
+    {
+      "offset": "4c38",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・はあぁ〜っ",
+      "translated_text": "...Sigh...",
+      "note": ""
+    },
+    {
+      "offset": "4cdf",
+      "translated": true,
+      "len": 40,
+      "orig_text": "カツヤ君・・・\n何か悩みでも\nあるのかな？",
+      "translated_text": "Katsuya-kun...\nIs something bothering\nhim?",
+      "note": ""
+    },
+    {
+      "offset": "4d4a",
+      "translated": true,
+      "len": 40,
+      "orig_text": "どうしよう？\n　そっとしておく\n　心配だな",
+      "translated_text": "What should I do?\n  Leave him alone\n  I'm worried",
+      "note": ""
+    },
+    {
+      "offset": "4edb",
+      "translated": true,
+      "len": 56,
+      "orig_text": "センパーイっ！\nちょっと、ちょーっと\n待ってくださいよぉ！",
+      "translated_text": "Senpaaaai!\nWait a second, wait\njust a second!",
+      "note": ""
+    },
+    {
+      "offset": "4fb8",
+      "translated": true,
+      "len": 35,
+      "orig_text": "あら、カツヤくん\nこれから帰るとこ？",
+      "translated_text": "Oh, Katsuya-kun.\nAre you going home now?",
+      "note": ""
+    },
+    {
+      "offset": "503a",
+      "translated": true,
+      "len": 55,
+      "orig_text": "ええ\n駅までですけど、\nよかったらいっしょに\n帰りませんか",
+      "translated_text": "Yeah.\nI'm going to the station,\nbut would you like to\ngo home together?",
+      "note": ""
+    },
+    {
+      "offset": "50fa",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ええ、いいわよ",
+      "translated_text": "Sure, I'd love to.",
+      "note": ""
+    },
+    {
+      "offset": "51bb",
+      "translated": true,
+      "len": 6,
+      "orig_text": "あれ？",
+      "translated_text": "Huh?",
+      "note": ""
+    },
+    {
+      "offset": "5282",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・はあぁ〜っ",
+      "translated_text": "...Sigh...",
+      "note": ""
+    },
+    {
+      "offset": "5337",
+      "translated": true,
+      "len": 31,
+      "orig_text": "どうしたの？\nため息なんかついて",
+      "translated_text": "What's wrong?\nWhy the sigh?",
+      "note": ""
+    },
+    {
+      "offset": "53df",
+      "translated": true,
+      "len": 14,
+      "orig_text": "あっ、せんぱい",
+      "translated_text": "Ah, Senpai.",
+      "note": ""
+    },
+    {
+      "offset": "544c",
+      "translated": true,
+      "len": 73,
+      "orig_text": "いつも元気なエミちゃ\nんがめずらしいなあ\nいったい何をそんなに\n悩んでるの？",
+      "translated_text": "It's unusual for the\nalways cheerful Emi-chan...\nWhat's bothering you so\nmuch?",
+      "note": ""
+    },
+    {
+      "offset": "551e",
+      "translated": true,
+      "len": 46,
+      "orig_text": "あ、いえっ！\nななっ、なんでもない\nですぅっ！！",
+      "translated_text": "Ah, no!\nN-N-Nothing's wrong!!",
+      "note": ""
+    },
+    {
+      "offset": "55d5",
+      "translated": true,
+      "len": 29,
+      "orig_text": "・・・なんで\n赤くなるんだろ？",
+      "translated_text": "...Why\nis she blushing?",
+      "note": ""
+    },
+    {
+      "offset": "56dd",
+      "translated": true,
+      "len": 71,
+      "orig_text": "どうしたッスか、先輩\n・・・って、あれ？\nエミじゃないか\nなにやってんだよ",
+      "translated_text": "What's up, Senpai?\n...Wait, huh?\nIsn't that Emi?\nWhat are you doing?",
+      "note": ""
+    },
+    {
+      "offset": "57ad",
+      "translated": true,
+      "len": 73,
+      "orig_text": "なんでもないって！\n・・・いいから先輩も\nカツヤも、私のことは\n気にしないで",
+      "translated_text": "It's nothing!\n...Just leave me alone,\nboth of you. Don't worry\nabout me.",
+      "note": ""
+    },
+    {
+      "offset": "5871",
+      "translated": true,
+      "len": 40,
+      "orig_text": "どうしよう？\n　そっとしておく\n　心配だな",
+      "translated_text": "What should I do?\n  Leave her alone\n  I'm worried",
+      "note": ""
+    },
+    {
+      "offset": "5982",
+      "translated": true,
+      "len": 77,
+      "orig_text": "なに怒ってるんだよ？\n・・・ま、いいや\nセンパイ、こんな凶暴\n女ほっときましょう",
+      "translated_text": "Why is she angry?\n...Well, whatever.\nSenpai, let's just leave\nthis violent woman alone.",
+      "note": ""
+    },
+    {
+      "offset": "5aba",
+      "translated": true,
+      "len": 23,
+      "orig_text": "あっ\nちょっとカツヤ君！",
+      "translated_text": "Ah,\nHey, Katsuya-kun!",
+      "note": ""
+    },
+    {
+      "offset": "5b30",
+      "translated": true,
+      "len": 73,
+      "orig_text": "先輩、本当にたいした\nことじゃないですから\nあんまり気にしないで\nくださいね",
+      "translated_text": "Senpai, it's really\nnothing, so please\ndon't worry too\nmuch about it.",
+      "note": ""
+    },
+    {
+      "offset": "5bd8",
+      "translated": true,
+      "len": 23,
+      "orig_text": "・・・\nならいいんだけど",
+      "translated_text": "...\nIf you say so...",
+      "note": ""
+    },
+    {
+      "offset": "5cb0",
+      "translated": true,
+      "len": 33,
+      "orig_text": "センパーイ！\n早く帰りましょうよぉ",
+      "translated_text": "Senpaaaai!\nLet's go home quickly!",
+      "note": ""
+    },
+    {
+      "offset": "5d92",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ほら、呼んでますよ",
+      "translated_text": "See, she's calling you.",
+      "note": ""
+    },
+    {
+      "offset": "5e03",
+      "translated": true,
+      "len": 23,
+      "orig_text": "うん\nじゃあ、また明日ね",
+      "translated_text": "Yeah.\nSee you tomorrow then.",
+      "note": ""
+    },
+    {
+      "offset": "5e79",
+      "translated": true,
+      "len": 18,
+      "orig_text": "さよなら、せんぱい",
+      "translated_text": "Goodbye, Senpai.",
+      "note": ""
+    },
+    {
+      "offset": "5f54",
+      "translated": true,
+      "len": 42,
+      "orig_text": "うーん・・・\nそうは言われても\n気になるなぁ",
+      "translated_text": "Hmm...\nEven though she said that,\nI'm still worried.",
+      "note": ""
+    },
+    {
+      "offset": "6023",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ああ、またセンパイの\nお人好しがはじまっち\nまったよ",
+      "translated_text": "Ah, Senpai's kindhearted\nnature is acting up\nagain.",
+      "note": ""
+    },
+    {
+      "offset": "60fa",
+      "translated": true,
+      "len": 25,
+      "orig_text": "あ、あの・・・\nせんぱい？",
+      "translated_text": "Uh, um...\nSenpai?",
+      "note": ""
+    },
+    {
+      "offset": "61e2",
+      "translated": true,
+      "len": 61,
+      "orig_text": "ごめん、カツヤくん\nやっぱあたし今日は\n一緒に帰るの\nやめとくわ",
+      "translated_text": "Sorry, Katsuya-kun.\nI think I'll pass on\ngoing home together\ntoday.",
+      "note": ""
+    },
+    {
+      "offset": "62a8",
+      "translated": true,
+      "len": 25,
+      "orig_text": "へいへい\n予想してましたよ",
+      "translated_text": "Heh heh,\nI was expecting that.",
+      "note": ""
+    },
+    {
+      "offset": "62e8",
+      "translated": true,
+      "len": 81,
+      "orig_text": "俺はいいですからガラ\nにもなくたそがれてる\nコイツをよろしく面倒\n見てやって下さいな",
+      "translated_text": "Don't worry about me.\nPlease take care of\nthis guy who's acting\nout of character.",
+      "note": ""
+    },
+    {
+      "offset": "63de",
+      "translated": true,
+      "len": 42,
+      "orig_text": "ちょっ・・・\nそれってどういう\n意味よっ！？",
+      "translated_text": "H-Hey...\nWhat do you mean by\nthat!?",
+      "note": ""
+    },
+    {
+      "offset": "6491",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ひゃあ！\nそんじゃセンパイっ\nさいならぁ〜っ！",
+      "translated_text": "Yikes!\nWell then, Senpai,\nsee you later!",
+      "note": ""
+    },
+    {
+      "offset": "6570",
+      "translated": true,
+      "len": 10,
+      "orig_text": "んもうっ！",
+      "translated_text": "Geez!",
+      "note": ""
+    },
+    {
+      "offset": "66d1",
+      "translated": true,
+      "len": 56,
+      "orig_text": "センパーイっ！\nちょっと、ちょーっと\n待ってくださいよぉ！",
+      "translated_text": "Senpaaaai!\nWait a second, wait\njust a second!",
+      "note": ""
+    },
+    {
+      "offset": "67ae",
+      "translated": true,
+      "len": 37,
+      "orig_text": "あら、カツヤくん\nこれから帰るところ？",
+      "translated_text": "Oh, Katsuya-kun.\nAre you going home now?",
+      "note": ""
+    },
+    {
+      "offset": "6832",
+      "translated": true,
+      "len": 55,
+      "orig_text": "ええ\n駅までですけど、\nよかったらいっしょに\n帰りませんか",
+      "translated_text": "Yeah.\nI'm going to the station,\nbut would you like to\ngo home together?",
+      "note": ""
+    },
+    {
+      "offset": "68f2",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ええ、いいわよ",
+      "translated_text": "Sure, I'd love to.",
+      "note": ""
+    },
+    {
+      "offset": "69b3",
+      "translated": true,
+      "len": 6,
+      "orig_text": "あれ？",
+      "translated_text": "Huh?",
+      "note": ""
+    },
+    {
+      "offset": "6a7a",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・はあぁ〜っ",
+      "translated_text": "...Sigh...",
+      "note": ""
+    },
+    {
+      "offset": "6b2f",
+      "translated": true,
+      "len": 31,
+      "orig_text": "どうしたの？\nため息なんかついて",
+      "translated_text": "What's wrong?\nWhy the sigh?",
+      "note": ""
+    },
+    {
+      "offset": "6bd7",
+      "translated": true,
+      "len": 14,
+      "orig_text": "あっ、せんぱい",
+      "translated_text": "Ah, Senpai.",
+      "note": ""
+    },
+    {
+      "offset": "6c44",
+      "translated": true,
+      "len": 73,
+      "orig_text": "いつも元気なエミちゃ\nんがめずらしいなあ\nいったい何をそんなに\n悩んでるの？",
+      "translated_text": "It's unusual for the\nalways cheerful Emi-chan...\nWhat's bothering you so\nmuch?",
+      "note": ""
+    },
+    {
+      "offset": "6d16",
+      "translated": true,
+      "len": 46,
+      "orig_text": "あ、いえっ！\nななっ、なんでもない\nですぅっ！！",
+      "translated_text": "Ah, no!\nN-N-Nothing's wrong!!",
+      "note": ""
+    },
+    {
+      "offset": "6dcd",
+      "translated": true,
+      "len": 29,
+      "orig_text": "・・・なんで\n赤くなるんだろ？",
+      "translated_text": "...Why\nis she blushing?",
+      "note": ""
+    },
+    {
+      "offset": "6eb9",
+      "translated": true,
+      "len": 71,
+      "orig_text": "どうしたッスか、先輩\n・・・って、あれ？\nエミじゃないか\nなにやってんだよ",
+      "translated_text": "What's up, Senpai?\n...Wait, huh?\nIsn't that Emi?\nWhat are you doing?",
+      "note": ""
+    },
+    {
+      "offset": "6f89",
+      "translated": true,
+      "len": 73,
+      "orig_text": "なんでもないって！\n・・・いいから先輩も\nカツヤも、私のことは\n気にしないで",
+      "translated_text": "It's nothing!\n...Just leave me alone,\nboth of you. Don't worry\nabout me.",
+      "note": ""
+    },
+    {
+      "offset": "704d",
+      "translated": true,
+      "len": 40,
+      "orig_text": "どうしよう？\n　そっとしておく\n　心配だな",
+      "translated_text": "What should I do?\n  Leave her alone\n  I'm worried",
+      "note": ""
+    },
+    {
+      "offset": "715e",
+      "translated": true,
+      "len": 77,
+      "orig_text": "なに怒ってるんだよ？\n・・・ま、いいや\nセンパイ、こんな凶暴\n女ほっときましょう",
+      "translated_text": "Why is she angry?\n...Well, whatever.\nSenpai, let's just leave\nthis violent woman alone.",
+      "note": ""
+    },
+    {
+      "offset": "725e",
+      "translated": true,
+      "len": 23,
+      "orig_text": "あっ\nちょっとカツヤ君！",
+      "translated_text": "Ah,\nHey, Katsuya-kun!",
+      "note": ""
+    },
+    {
+      "offset": "731a",
+      "translated": true,
+      "len": 73,
+      "orig_text": "先輩、本当にたいした\nことじゃないですから\nあんまり気にしないで\nくださいね",
+      "translated_text": "Senpai, it's really\nnothing, so please\ndon't worry too\nmuch about it.",
+      "note": ""
+    },
+    {
+      "offset": "73ec",
+      "translated": true,
+      "len": 23,
+      "orig_text": "・・・\nならいいんだけど",
+      "translated_text": "...\nIf you say so...",
+      "note": ""
+    },
+    {
+      "offset": "74c4",
+      "translated": true,
+      "len": 33,
+      "orig_text": "センパーイ！\n早く帰りましょうよぉ",
+      "translated_text": "Senpaaaai!\nLet's go home quickly!",
+      "note": ""
+    },
+    {
+      "offset": "75a6",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ほら、呼んでますよ",
+      "translated_text": "See, she's calling you.",
+      "note": ""
+    },
+    {
+      "offset": "7617",
+      "translated": true,
+      "len": 23,
+      "orig_text": "うん\nじゃあ、また明日ね",
+      "translated_text": "Yeah.\nSee you tomorrow then.",
+      "note": ""
+    },
+    {
+      "offset": "768d",
+      "translated": true,
+      "len": 18,
+      "orig_text": "さよなら、せんぱい",
+      "translated_text": "Goodbye, Senpai.",
+      "note": ""
+    },
+    {
+      "offset": "7776",
+      "translated": true,
+      "len": 42,
+      "orig_text": "うーん・・・\nそうは言われても\n気になるなぁ",
+      "translated_text": "Hmm...\nEven though she said that,\nI'm still worried.",
+      "note": ""
+    },
+    {
+      "offset": "7845",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ああ、またセンパイの\nお人好しがはじまっち\nまったよ",
+      "translated_text": "Ah, Senpai's kindhearted\nnature is acting up\nagain.",
+      "note": ""
+    },
+    {
+      "offset": "791c",
+      "translated": true,
+      "len": 25,
+      "orig_text": "あ、あの・・・\nせんぱい？",
+      "translated_text": "Uh, um...\nSenpai?",
+      "note": ""
+    },
+    {
+      "offset": "7a04",
+      "translated": true,
+      "len": 61,
+      "orig_text": "ごめん、カツヤくん\nやっぱわたし今日は\n一緒に帰るの\nやめとくわ",
+      "translated_text": "Sorry, Katsuya-kun.\nI think I'll pass on\ngoing home together\ntoday.",
+      "note": ""
+    },
+    {
+      "offset": "7aae",
+      "translated": true,
+      "len": 25,
+      "orig_text": "へいへい\n予想してましたよ",
+      "translated_text": "Heh heh,\nI was expecting that.",
+      "note": ""
+    },
+    {
+      "offset": "7aee",
+      "translated": true,
+      "len": 81,
+      "orig_text": "俺はいいですからガラ\nにもなくたそがれてる\nコイツをよろしく面倒\n見てやって下さいな",
+      "translated_text": "Don't worry about me.\nPlease take care of\nthis one who's acting\nout of character.",
+      "note": ""
+    },
+    {
+      "offset": "7be4",
+      "translated": true,
+      "len": 42,
+      "orig_text": "ちょっ・・・\nそれってどういう\n意味よっ！？",
+      "translated_text": "H-Hey...\nWhat do you mean by\nthat!?",
+      "note": ""
+    },
+    {
+      "offset": "7c97",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ひゃあ！\nそんじゃセンパイっ\nさいならぁ〜っ！",
+      "translated_text": "Yikes!\nWell then, Senpai,\nsee you later!",
+      "note": ""
+    },
+    {
+      "offset": "7d76",
+      "translated": true,
+      "len": 10,
+      "orig_text": "んもうっ！",
+      "translated_text": "Geez!",
+      "note": ""
+    },
+    {
+      "offset": "8393",
+      "translated": true,
+      "len": 75,
+      "orig_text": "なんかカツヤのバカが\nめずらしくおとなし\nかったけど・・・\nどうかしたのかなぁ",
+      "translated_text": "That idiot Katsuya was\nunusually quiet...\nI wonder what's\nwrong with him?",
+      "note": ""
+    },
+    {
+      "offset": "8467",
+      "translated": true,
+      "len": 12,
+      "orig_text": "気になるか？",
+      "translated_text": "You worried?",
+      "note": ""
+    },
+    {
+      "offset": "84fc",
+      "translated": true,
+      "len": 69,
+      "orig_text": "そ、そんなことないで\nすよ！ただ、いつも\nうるさいアイツが\n珍しいなって",
+      "translated_text": "N-No, not at all!\nIt's just that it's\nunusual for him to be\nso quiet.",
+      "note": ""
+    },
+    {
+      "offset": "8592",
+      "translated": true,
+      "len": 39,
+      "orig_text": "・・・変なモノひろい\n食いでもしたかな？",
+      "translated_text": "...Maybe he ate\nsomething weird?",
+      "note": ""
+    },
+    {
+      "offset": "8618",
+      "translated": true,
+      "len": 35,
+      "orig_text": "なんだ、やっぱり心配\nなんじゃないか",
+      "translated_text": "What, you are worried\nabout him, aren't you?",
+      "note": ""
+    },
+    {
+      "offset": "869a",
+      "translated": true,
+      "len": 65,
+      "orig_text": "う・・・まあ、そりゃ\n「おさななじみ」って\nヤツですし\nあんなのでも",
+      "translated_text": "W-Well, yeah,\nhe's my \"childhood\nfriend\" after all,\neven if he's like that.",
+      "note": ""
+    },
+    {
+      "offset": "873a",
+      "translated": true,
+      "len": 37,
+      "orig_text": "「恋人」のまちがい\nなんじゃないのか？",
+      "translated_text": "Maybe you mean\n\"lover\" instead?",
+      "note": ""
+    },
+    {
+      "offset": "87e8",
+      "translated": true,
+      "len": 59,
+      "orig_text": "ひどいなぁ\n私にだって相手を\n選ぶ権利ぐらい\nありますってばぁ",
+      "translated_text": "That's mean!\nI have the right to\nchoose who I like,\nyou know!",
+      "note": ""
+    },
+    {
+      "offset": "8874",
+      "translated": true,
+      "len": 58,
+      "orig_text": "そういうセンパイこそ\n誰かイイひとがいるん\nじゃないですか？",
+      "translated_text": "Speaking of which,\ndoesn't Senpai have\nsomeone special?",
+      "note": ""
+    },
+    {
+      "offset": "8937",
+      "translated": true,
+      "len": 16,
+      "orig_text": "いや、フリーだよ",
+      "translated_text": "Nope, I'm free.",
+      "note": ""
+    },
+    {
+      "offset": "89d0",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ホントですかぁ？",
+      "translated_text": "Really?",
+      "note": ""
+    },
+    {
+      "offset": "8a3f",
+      "translated": true,
+      "len": 61,
+      "orig_text": "ウソをついても\n仕方がないだろう\n誰ともつきあって\nなんかないさ",
+      "translated_text": "There's no point\nin lying.\nI'm not seeing\nanyone.",
+      "note": ""
+    },
+    {
+      "offset": "8b05",
+      "translated": true,
+      "len": 27,
+      "orig_text": "へえ・・・\nなんか意外だなぁ",
+      "translated_text": "Hee...\nThat's surprising.",
+      "note": ""
+    },
+    {
+      "offset": "8b47",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ちなみにセンパイは、\nどんなタイプが好み\nなんですか？",
+      "translated_text": "By the way, Senpai,\nwhat kind of person\ndo you like?",
+      "note": ""
+    },
+    {
+      "offset": "8c04",
+      "translated": true,
+      "len": 39,
+      "orig_text": "なんだよ、いきなり\n別の話題にしないか？",
+      "translated_text": "Hey, why are you\nsuddenly changing\nthe subject?",
+      "note": ""
+    },
+    {
+      "offset": "8cb4",
+      "translated": true,
+      "len": 14,
+      "orig_text": "えへへ、ダーメ",
+      "translated_text": "Ehehe, no way.",
+      "note": ""
+    },
+    {
+      "offset": "8d4b",
+      "translated": true,
+      "len": 37,
+      "orig_text": "・・・なんか、ハメ\nられた気がするぞ？",
+      "translated_text": "...I feel like I've\nbeen tricked.",
+      "note": ""
+    },
+    {
+      "offset": "8db3",
+      "translated": true,
+      "len": 50,
+      "orig_text": "どうしよう？\n　活発な子かな\n　落ち着いた子がいいな",
+      "translated_text": "What should I say?\n  An energetic girl?\n  A calm girl?",
+      "note": ""
+    },
+    {
+      "offset": "8e96",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ふむふむ、活発な人が\nタイプですか\nなるほどー",
+      "translated_text": "Hmm hmm, so you like\nenergetic girls.\nI see.",
+      "note": ""
+    },
+    {
+      "offset": "8f13",
+      "translated": true,
+      "len": 79,
+      "orig_text": "センパイの行動力につ\nいていくには、相手も\nタフじゃないとダメっ\nてことかぁ・・・",
+      "translated_text": "To keep up with Senpai's\nenergy, she has to be\ntough too...\nI see...",
+      "note": ""
+    },
+    {
+      "offset": "8fd7",
+      "translated": true,
+      "len": 48,
+      "orig_text": "ふむふむ、おちついた\n人がタイプですか\nなるほどー",
+      "translated_text": "Hmm hmm, so you like\ncalm girls.\nI see.",
+      "note": ""
+    },
+    {
+      "offset": "902e",
+      "translated": true,
+      "len": 77,
+      "orig_text": "それにはまずセンパイ\nが、もうちょっとおち\nつきをもつほうが先だ\nと私は思うなぁ",
+      "translated_text": "I think Senpai needs\nto calm down a little\nfirst.\nThat's what I think.",
+      "note": ""
+    },
+    {
+      "offset": "911a",
+      "translated": true,
+      "len": 49,
+      "orig_text": "じゃあ、\nそういうお前は\nどんなタイプが\nいいんだ？",
+      "translated_text": "So,\nwhat kind of guy do\nyou like then?",
+      "note": ""
+    },
+    {
+      "offset": "91aa",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "...",
+      "note": ""
+    },
+    {
+      "offset": "9201",
+      "translated": true,
+      "len": 33,
+      "orig_text": "いっけなーい！\n電車が来ちゃう！？",
+      "translated_text": "Oh no!\nThe train is coming!?",
+      "note": ""
+    },
+    {
+      "offset": "92d5",
+      "translated": true,
+      "len": 20,
+      "orig_text": "え・・・って、おい？",
+      "translated_text": "Huh... Hey?",
+      "note": ""
+    },
+    {
+      "offset": "9348",
+      "translated": true,
+      "len": 4,
+      "orig_text": "エミ",
+      "translated_text": "Emi",
+      "note": ""
+    },
+    {
+      "offset": "9365",
+      "translated": true,
+      "len": 37,
+      "orig_text": "じゃあセンパイ、\nつづきはまた今度ねっ",
+      "translated_text": "Well then, Senpai,\nlet's continue this\nanother time.",
+      "note": ""
+    },
+    {
+      "offset": "9413",
+      "translated": true,
+      "len": 20,
+      "orig_text": "逃げやがったな・・・",
+      "translated_text": "She ran away...",
+      "note": ""
+    },
+    {
+      "offset": "95c4",
+      "translated": true,
+      "len": 75,
+      "orig_text": "なんかカツヤのバカが\nめずらしくおとなし\nかったけど・・・\nどうかしたのかなぁ",
+      "translated_text": "That idiot Katsuya was\nunusually quiet...\nI wonder what's\nwrong with him?",
+      "note": ""
+    },
+    {
+      "offset": "966e",
+      "translated": true,
+      "len": 14,
+      "orig_text": "気になるかい？",
+      "translated_text": "You worried?",
+      "note": ""
+    },
+    {
+      "offset": "9705",
+      "translated": true,
+      "len": 69,
+      "orig_text": "そ、そんなことないで\nすよ！ただ、いつも\nうるさいアイツが\n珍しいなって",
+      "translated_text": "N-No, not at all!\nIt's just that it's\nunusual for him to be\nso quiet.",
+      "note": ""
+    },
+    {
+      "offset": "979b",
+      "translated": true,
+      "len": 39,
+      "orig_text": "・・・変なモノひろい\n食いでもしたかな？",
+      "translated_text": "...Maybe he ate\nsomething weird?",
+      "note": ""
+    },
+    {
+      "offset": "984b",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ははは、やっぱり心配\nなんじゃないか",
+      "translated_text": "Hahaha, you are worried\nabout him, aren't you?",
+      "note": ""
+    },
+    {
+      "offset": "98f7",
+      "translated": true,
+      "len": 65,
+      "orig_text": "う・・・まあ、そりゃ\n「おさななじみ」って\nヤツですし\nあんなのでも",
+      "translated_text": "W-Well, yeah,\nhe's my \"childhood\nfriend\" after all,\neven if he's like that.",
+      "note": ""
+    },
+    {
+      "offset": "9997",
+      "translated": true,
+      "len": 39,
+      "orig_text": "「恋人」のまちがいな\nんじゃないのかな？",
+      "translated_text": "Maybe you mean\n\"lover\" instead?",
+      "note": ""
+    },
+    {
+      "offset": "9a47",
+      "translated": true,
+      "len": 59,
+      "orig_text": "ひどいなぁ\n私にだって相手を\n選ぶ権利ぐらい\nありますってばぁ",
+      "translated_text": "That's mean!\nI have the right to\nchoose who I like,\nyou know!",
+      "note": ""
+    },
+    {
+      "offset": "9ad3",
+      "translated": true,
+      "len": 58,
+      "orig_text": "そういうセンパイこそ\n誰かイイひとがいるん\nじゃないですか？",
+      "translated_text": "Speaking of which,\ndoesn't Senpai have\nsomeone special?",
+      "note": ""
+    },
+    {
+      "offset": "9b96",
+      "translated": true,
+      "len": 20,
+      "orig_text": "そんな相手はいないよ",
+      "translated_text": "I don't have anyone like\nthat.",
+      "note": ""
+    },
+    {
+      "offset": "9c33",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ホントですかぁ？",
+      "translated_text": "Really?",
+      "note": ""
+    },
+    {
+      "offset": "9ca2",
+      "translated": true,
+      "len": 63,
+      "orig_text": "嘘をついたって仕方が\nないだろう\n誰ともつきあってなん\nかいないよ",
+      "translated_text": "There's no point in\nlying.\nI'm not seeing\nanyone.",
+      "note": ""
+    },
+    {
+      "offset": "9d6a",
+      "translated": true,
+      "len": 27,
+      "orig_text": "へえ・・・\nなんか意外だなぁ",
+      "translated_text": "Hee...\nThat's surprising.",
+      "note": ""
+    },
+    {
+      "offset": "9dd6",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ちなみにセンパイは、\nどんなタイプが好み\nなんですか？",
+      "translated_text": "By the way, Senpai,\nwhat kind of person\ndo you like?",
+      "note": ""
+    },
+    {
+      "offset": "9e93",
+      "translated": true,
+      "len": 39,
+      "orig_text": "なんだよ、いきなり\n別の話題にしないかい",
+      "translated_text": "Hey, why are you\nsuddenly changing\nthe subject?",
+      "note": ""
+    },
+    {
+      "offset": "9f19",
+      "translated": true,
+      "len": 14,
+      "orig_text": "えへへ、ダーメ",
+      "translated_text": "Ehehe, no way.",
+      "note": ""
+    },
+    {
+      "offset": "9f86",
+      "translated": true,
+      "len": 39,
+      "orig_text": "・・・なんか、うまく\nのせられた気がする",
+      "translated_text": "...I feel like I've been\nsmoothly tricked.",
+      "note": ""
+    },
+    {
+      "offset": "9ff0",
+      "translated": true,
+      "len": 50,
+      "orig_text": "どうしよう？\n　活発な子かな\n　落ち着いた子がいいな",
+      "translated_text": "What should I say?\n  An energetic girl?\n  A calm girl?",
+      "note": ""
+    },
+    {
+      "offset": "a0d3",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ふむふむ、活発な人が\nタイプですか\nなるほどー",
+      "translated_text": "Hmm hmm, so you like\nenergetic girls.\nI see.",
+      "note": ""
+    },
+    {
+      "offset": "a150",
+      "translated": true,
+      "len": 75,
+      "orig_text": "センパイ、どっちかっ\nていったら「つくす」\nタイプだもんね\nうん、お似合いかも",
+      "translated_text": "Senpai, you're more\nof a \"devoted\" type,\naren't you?\nYeah, that might be a\ngood match.",
+      "note": ""
+    },
+    {
+      "offset": "a210",
+      "translated": true,
+      "len": 48,
+      "orig_text": "ふむふむ、おちついた\n人がタイプですか\nなるほどー",
+      "translated_text": "Hmm hmm, so you like\ncalm girls.\nI see.",
+      "note": ""
+    },
+    {
+      "offset": "a291",
+      "translated": true,
+      "len": 73,
+      "orig_text": "なんだか「オトナ」の\nおつきあいってカンジ\nがしちゃいますね\nカッコイイなぁ",
+      "translated_text": "It feels like a very\n\"adult\" kind of\nrelationship.\nThat's cool.",
+      "note": ""
+    },
+    {
+      "offset": "a379",
+      "translated": true,
+      "len": 61,
+      "orig_text": "それじゃ、\nそういう君の\nタイプっていうのは\nどんな人なんだい？",
+      "translated_text": "Well then,\nwhat kind of person\nis your type?",
+      "note": ""
+    },
+    {
+      "offset": "a43f",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "...",
+      "note": ""
+    },
+    {
+      "offset": "a46c",
+      "translated": true,
+      "len": 33,
+      "orig_text": "いっけなーい！\n電車が来ちゃう！？",
+      "translated_text": "Oh no!\nThe train is coming!?",
+      "note": ""
+    },
+    {
+      "offset": "a540",
+      "translated": true,
+      "len": 20,
+      "orig_text": "おい、ちょっと・・・",
+      "translated_text": "Hey, wait...",
+      "note": ""
+    },
+    {
+      "offset": "a5b3",
+      "translated": true,
+      "len": 4,
+      "orig_text": "エミ",
+      "translated_text": "Emi",
+      "note": ""
+    },
+    {
+      "offset": "a5d0",
+      "translated": true,
+      "len": 37,
+      "orig_text": "じゃあセンパイ、\nつづきはまた今度ねっ",
+      "translated_text": "Well then, Senpai,\nlet's continue this\nanother time.",
+      "note": ""
+    },
+    {
+      "offset": "a67e",
+      "translated": true,
+      "len": 16,
+      "orig_text": "逃げられた・・・",
+      "translated_text": "She got away...",
+      "note": ""
+    },
+    {
+      "offset": "a783",
+      "translated": true,
+      "len": 73,
+      "orig_text": "エミのやつ、いつもと\nちょっと様子が違った\nけど・・・どうしたん\nですかね？",
+      "translated_text": "Emi was acting a little\ndifferent than usual...\nI wonder what's\nwrong with her?",
+      "note": ""
+    },
+    {
+      "offset": "a855",
+      "translated": true,
+      "len": 10,
+      "orig_text": "気になる？",
+      "translated_text": "You worried?",
+      "note": ""
+    },
+    {
+      "offset": "a8e8",
+      "translated": true,
+      "len": 69,
+      "orig_text": "そ、そんなことないで\nすよ！ただ、いつも\nうるさいアイツが\n珍しいなあと",
+      "translated_text": "N-No, not at all!\nIt's just that it's\nunusual for her to be\nso quiet.",
+      "note": ""
+    },
+    {
+      "offset": "a954",
+      "translated": true,
+      "len": 39,
+      "orig_text": "・・・なんか天変地異\nでもおこったりして",
+      "translated_text": "...Maybe there's some\nnatural disaster\ngoing on?",
+      "note": ""
+    },
+    {
+      "offset": "aa04",
+      "translated": true,
+      "len": 33,
+      "orig_text": "なんだ、やっぱり\n心配なんじゃない",
+      "translated_text": "What, you are worried\nabout her, aren't you?",
+      "note": ""
+    },
+    {
+      "offset": "aaae",
+      "translated": true,
+      "len": 65,
+      "orig_text": "う・・・まあ、そりゃ\n「おさななじみ」って\nヤツですし\nあんなのでも",
+      "translated_text": "W-Well, yeah,\nshe's my \"childhood\nfriend\" after all,\neven if she's like that.",
+      "note": ""
+    },
+    {
+      "offset": "ab78",
+      "translated": true,
+      "len": 35,
+      "orig_text": "「恋人」のまちがい\nなんじゃないの？",
+      "translated_text": "Maybe you mean\n\"lover\" instead?",
+      "note": ""
+    },
+    {
+      "offset": "abfa",
+      "translated": true,
+      "len": 57,
+      "orig_text": "ひどいなぁ\n俺にだって相手を\n選ぶ権利ぐらい\nありますって！",
+      "translated_text": "That's mean!\nI have the right to\nchoose who I like,\ntoo!",
+      "note": ""
+    },
+    {
+      "offset": "ac84",
+      "translated": true,
+      "len": 58,
+      "orig_text": "そういうセンパイこそ\n誰かとつきあってるん\nじゃないですか？",
+      "translated_text": "Speaking of which,\ndoesn't Senpai have\nsomeone special?",
+      "note": ""
+    },
+    {
+      "offset": "ad47",
+      "translated": true,
+      "len": 31,
+      "orig_text": "え・・・つきあって\nなんかないよ",
+      "translated_text": "Huh... I'm not\nseeing anyone.",
+      "note": ""
+    },
+    {
+      "offset": "adef",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ホントですかぁ？",
+      "translated_text": "Really?",
+      "note": ""
+    },
+    {
+      "offset": "ae88",
+      "translated": true,
+      "len": 61,
+      "orig_text": "ウソをついても仕方が\nないもの\n誰ともつきあって\nなんかいないよ",
+      "translated_text": "There's no point in\nlying.\nI'm not seeing\nanyone.",
+      "note": ""
+    },
+    {
+      "offset": "af4e",
+      "translated": true,
+      "len": 27,
+      "orig_text": "へえ・・・\nなんか意外だなぁ",
+      "translated_text": "Hee...\nThat's surprising.",
+      "note": ""
+    },
+    {
+      "offset": "afba",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ちなみにセンパイは、\nどんなタイプが好み\nなんですか？",
+      "translated_text": "By the way, Senpai,\nwhat kind of person\ndo you like?",
+      "note": ""
+    },
+    {
+      "offset": "b077",
+      "translated": true,
+      "len": 16,
+      "orig_text": "なによ、いきなり",
+      "translated_text": "What, all of a sudden?",
+      "note": ""
+    },
+    {
+      "offset": "b0e6",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いいじゃないですか\n教えてくださいよ",
+      "translated_text": "Come on,\ntell me.",
+      "note": ""
+    },
+    {
+      "offset": "b192",
+      "translated": true,
+      "len": 31,
+      "orig_text": "なんか、はめられた\n気がするなぁ",
+      "translated_text": "I feel like I've been\ntricked...",
+      "note": ""
+    },
+    {
+      "offset": "b1f4",
+      "translated": true,
+      "len": 46,
+      "orig_text": "どうしよう？\n　活発な人かな\n　おちついた人かな",
+      "translated_text": "What should I say?\n  An energetic girl?\n  A calm girl?",
+      "note": ""
+    },
+    {
+      "offset": "b2fd",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ふむふむ、活発な人が\nタイプですか\nなるほどー",
+      "translated_text": "Hmm hmm, so you like\nenergetic girls.\nI see.",
+      "note": ""
+    },
+    {
+      "offset": "b37a",
+      "translated": true,
+      "len": 71,
+      "orig_text": "先輩の行動力に付い\nていくには相手もタフ\nじゃないと駄目って\nことですかー",
+      "translated_text": "To keep up with Senpai's\nenergy, she has to be\ntough too... Is that\nwhat you're saying?",
+      "note": ""
+    },
+    {
+      "offset": "b460",
+      "translated": true,
+      "len": 47,
+      "orig_text": "ふむふむ\n落ち着いた人が\nタイプですか\nなるほどー",
+      "translated_text": "Hmm hmm,\nso you like calm girls.\nI see.",
+      "note": ""
+    },
+    {
+      "offset": "b4e0",
+      "translated": true,
+      "len": 67,
+      "orig_text": "それにはまず\n先輩がもうちょっと\n落ち着きを持つほうが\n先だと思うなー",
+      "translated_text": "I think Senpai needs to\ncalm down a little\nfirst.\nThat's what I think.",
+      "note": ""
+    },
+    {
+      "offset": "b5c2",
+      "translated": true,
+      "len": 48,
+      "orig_text": "さあ、今度はあなたの\nタイプを教えてくれる\n番よ？",
+      "translated_text": "Now, it's your turn\nto tell me what your\ntype is, right?",
+      "note": ""
+    },
+    {
+      "offset": "b67b",
+      "translated": true,
+      "len": 40,
+      "orig_text": "・・・\nあ、ヤバっ！？\n電車が来る時間だ！",
+      "translated_text": "...\nAh, crap!?\nIt's time for the train!",
+      "note": ""
+    },
+    {
+      "offset": "b780",
+      "translated": true,
+      "len": 18,
+      "orig_text": "あ、ちょっと・・・",
+      "translated_text": "Ah, wait...",
+      "note": ""
+    },
+    {
+      "offset": "b7f1",
+      "translated": true,
+      "len": 6,
+      "orig_text": "カツヤ",
+      "translated_text": "Katsuya",
+      "note": ""
+    },
+    {
+      "offset": "b810",
+      "translated": true,
+      "len": 39,
+      "orig_text": "それじゃセンパイっ、\nまった明日〜っ！！",
+      "translated_text": "Well then, Senpai,\nsee ya tomorrow!!",
+      "note": ""
+    },
+    {
+      "offset": "b896",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・行っちゃった",
+      "translated_text": "...He's gone.",
+      "note": ""
+    },
+    {
+      "offset": "b99d",
+      "translated": true,
+      "len": 73,
+      "orig_text": "エミのやつ、いつもと\nちょっと様子が違った\nけど・・・どうしたん\nですかね？",
+      "translated_text": "Emi was acting a little\ndifferent than usual...\nI wonder what's\nwrong with her?",
+      "note": ""
+    },
+    {
+      "offset": "ba6f",
+      "translated": true,
+      "len": 10,
+      "orig_text": "気になる？",
+      "translated_text": "You worried?",
+      "note": ""
+    },
+    {
+      "offset": "bb02",
+      "translated": true,
+      "len": 69,
+      "orig_text": "そ、そんなことないで\nすよ！ただ、いつも\nうるさいアイツが\n珍しいなあと",
+      "translated_text": "N-No, not at all!\nIt's just that it's\nunusual for her to be\nso quiet.",
+      "note": ""
+    },
+    {
+      "offset": "bb6e",
+      "translated": true,
+      "len": 39,
+      "orig_text": "・・・なんか天変地異\nでもおこったりして",
+      "translated_text": "...Maybe there's some\nnatural disaster\ngoing on?",
+      "note": ""
+    },
+    {
+      "offset": "bc1e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "なんだ、やっぱり\n心配なんじゃない",
+      "translated_text": "What, you are worried\nabout her, aren't you?",
+      "note": ""
+    },
+    {
+      "offset": "bcc8",
+      "translated": true,
+      "len": 65,
+      "orig_text": "う・・・まあ、そりゃ\n「おさななじみ」って\nヤツですし\nあんなのでも",
+      "translated_text": "W-Well, yeah,\nshe's my \"childhood\nfriend\" after all,\neven if she's like that.",
+      "note": ""
+    },
+    {
+      "offset": "bd68",
+      "translated": true,
+      "len": 35,
+      "orig_text": "「恋人」のまちがい\nなんじゃないの？",
+      "translated_text": "Maybe you mean\n\"lover\" instead?",
+      "note": ""
+    },
+    {
+      "offset": "bdea",
+      "translated": true,
+      "len": 57,
+      "orig_text": "ひどいなぁ\n俺にだって相手を\n選ぶ権利ぐらい\nありますって！",
+      "translated_text": "That's mean!\nI have the right to\nchoose who I like,\ntoo!",
+      "note": ""
+    },
+    {
+      "offset": "be74",
+      "translated": true,
+      "len": 58,
+      "orig_text": "そういうセンパイこそ\n誰かとつきあってるん\nじゃないですか？",
+      "translated_text": "Speaking of which,\ndoesn't Senpai have\nsomeone special?",
+      "note": ""
+    },
+    {
+      "offset": "bf37",
+      "translated": true,
+      "len": 31,
+      "orig_text": "え・・・つきあって\nなんかないよ",
+      "translated_text": "Huh... I'm not\nseeing anyone.",
+      "note": ""
+    },
+    {
+      "offset": "bfdf",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ホントですかぁ？",
+      "translated_text": "Really?",
+      "note": ""
+    },
+    {
+      "offset": "c078",
+      "translated": true,
+      "len": 61,
+      "orig_text": "ウソをついても仕方が\nないもの\n誰ともつきあって\nなんかいないよ",
+      "translated_text": "There's no point in\nlying.\nI'm not seeing\nanyone.",
+      "note": ""
+    },
+    {
+      "offset": "c13e",
+      "translated": true,
+      "len": 27,
+      "orig_text": "へえ・・・\nなんか意外だなぁ",
+      "translated_text": "Hee...\nThat's surprising.",
+      "note": ""
+    },
+    {
+      "offset": "c1aa",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ちなみにセンパイは、\nどんなタイプが好み\nなんですか？",
+      "translated_text": "By the way, Senpai,\nwhat kind of person\ndo you like?",
+      "note": ""
+    },
+    {
+      "offset": "c267",
+      "translated": true,
+      "len": 16,
+      "orig_text": "なによ、いきなり",
+      "translated_text": "What, all of a sudden?",
+      "note": ""
+    },
+    {
+      "offset": "c2d6",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いいじゃないですか\n教えてくださいよ",
+      "translated_text": "Come on,\ntell me.",
+      "note": ""
+    },
+    {
+      "offset": "c382",
+      "translated": true,
+      "len": 31,
+      "orig_text": "なんか、はめられた\n気がするなぁ",
+      "translated_text": "I feel like I've been\ntricked...",
+      "note": ""
+    },
+    {
+      "offset": "c40e",
+      "translated": true,
+      "len": 46,
+      "orig_text": "どうしよう？\n　活発な人かな\n　おちついた人かな",
+      "translated_text": "What should I say?\n  An energetic girl?\n  A calm girl?",
+      "note": ""
+    },
+    {
+      "offset": "c517",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ふむふむ、活発な人が\nタイプですか\nなるほどー",
+      "translated_text": "Hmm hmm, so you like\nenergetic girls.\nI see.",
+      "note": ""
+    },
+    {
+      "offset": "c594",
+      "translated": true,
+      "len": 75,
+      "orig_text": "センパイどっちかって\nいったら「つくす」\nタイプですもんね\nうん、お似合いかも",
+      "translated_text": "Senpai, you're more\nof a \"devoted\" type,\naren't you?\nYeah, that might be a\ngood match.",
+      "note": ""
+    },
+    {
+      "offset": "c67e",
+      "translated": true,
+      "len": 48,
+      "orig_text": "ふむふむ、落ち着いた\n人がタイプですか\nなるほどー",
+      "translated_text": "Hmm hmm, so you like\ncalm girls.\nI see.",
+      "note": ""
+    },
+    {
+      "offset": "c6ff",
+      "translated": true,
+      "len": 71,
+      "orig_text": "なんだか「オトナ」の\nおつきあいって感じが\nしちゃいますね\nカッコイイなぁ",
+      "translated_text": "It feels like a very\n\"adult\" kind of\nrelationship.\nThat's cool.",
+      "note": ""
+    },
+    {
+      "offset": "c7e5",
+      "translated": true,
+      "len": 48,
+      "orig_text": "さあ、今度はあなたの\nタイプを教えてくれる\n番よ？",
+      "translated_text": "Now, it's your turn\nto tell me what your\ntype is, right?",
+      "note": ""
+    },
+    {
+      "offset": "c89e",
+      "translated": true,
+      "len": 40,
+      "orig_text": "・・・\nあ、ヤバっ！？\n電車が来る時間だ！",
+      "translated_text": "...\nAh, crap!?\nIt's time for the train!",
+      "note": ""
+    },
+    {
+      "offset": "c9a3",
+      "translated": true,
+      "len": 18,
+      "orig_text": "あ、ちょっと・・・",
+      "translated_text": "Ah, wait...",
+      "note": ""
+    },
+    {
+      "offset": "ca14",
+      "translated": true,
+      "len": 6,
+      "orig_text": "カツヤ",
+      "translated_text": "Katsuya",
+      "note": ""
+    },
+    {
+      "offset": "ca33",
+      "translated": true,
+      "len": 39,
+      "orig_text": "それじゃセンパイっ、\nまった明日〜っ！！",
+      "translated_text": "Well then, Senpai,\nsee ya tomorrow!!",
+      "note": ""
+    },
+    {
+      "offset": "cae3",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・行っちゃった",
+      "translated_text": "...He's gone.",
+      "note": ""
+    },
+    {
+      "offset": "ce0c",
+      "translated": true,
+      "len": 38,
+      "orig_text": "すいません\nエミと帰るところ\nだったのに",
+      "translated_text": "Sorry.\nI was about to go home\nwith Emi.",
+      "note": ""
+    },
+    {
+      "offset": "cebb",
+      "translated": true,
+      "len": 58,
+      "orig_text": "気にしなくていいぜ\nとくに大事な用がある\nわけでもなかったし",
+      "translated_text": "Don't worry about it.\nI didn't have anything\nimportant to do anyway.",
+      "note": ""
+    },
+    {
+      "offset": "cf46",
+      "translated": true,
+      "len": 35,
+      "orig_text": "それよりどうした？\n悩みでもあるのか",
+      "translated_text": "More importantly, what's\nwrong? You got a problem?",
+      "note": ""
+    },
+    {
+      "offset": "cfba",
+      "translated": true,
+      "len": 35,
+      "orig_text": "お金のこと以外なら\n相談にのるぜ！！",
+      "translated_text": "If it's not about money,\nI'll listen to ya!!",
+      "note": ""
+    },
+    {
+      "offset": "d066",
+      "translated": true,
+      "len": 46,
+      "orig_text": "・・・\nセンパイがいつも貧乏\nなのは知ってますよ",
+      "translated_text": "...\nI know you're always\nbroke, Senpai.",
+      "note": ""
+    },
+    {
+      "offset": "d0f3",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ははは・・・",
+      "translated_text": "Hahaha...",
+      "note": ""
+    },
+    {
+      "offset": "d188",
+      "translated": true,
+      "len": 61,
+      "orig_text": "せんぱいの\nクラスに、図書委員の\nヒグチさんって\nいましたよね？",
+      "translated_text": "There was a girl named\nHiguchi-san in your class,\nwho was on the library\ncommittee, right?",
+      "note": ""
+    },
+    {
+      "offset": "d24e",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ああ、しってるよ\nヒグチ・・・アヤ・・\nだっけ？",
+      "translated_text": "Yeah, I know her.\nHiguchi... Aya...\nwas it?",
+      "note": ""
+    },
+    {
+      "offset": "d2db",
+      "translated": true,
+      "len": 71,
+      "orig_text": "はい・・・\nその・・・じつは俺、\nアヤ先輩に告白しよう\nって思ってるんです",
+      "translated_text": "Yes...\nWell... the truth is,\nI'm thinking of\nconfessing to Aya-senpai.",
+      "note": ""
+    },
+    {
+      "offset": "d3ab",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ええ〜っ！？",
+      "translated_text": "Ehhh!?",
+      "note": ""
+    },
+    {
+      "offset": "d440",
+      "translated": true,
+      "len": 50,
+      "orig_text": "そんなにおどろかなく\nたっていいじゃない\nですかぁ！",
+      "translated_text": "You don't have to be\nso surprised,\ndo you!",
+      "note": ""
+    },
+    {
+      "offset": "d4fb",
+      "translated": true,
+      "len": 16,
+      "orig_text": "あ、わりぃ・・・",
+      "translated_text": "Ah, sorry...",
+      "note": ""
+    },
+    {
+      "offset": "d5a2",
+      "translated": true,
+      "len": 73,
+      "orig_text": "そりゃ、たしかに俺が\nお嬢様のアヤ先輩と\nつり合わないことは\nわかってますよ",
+      "translated_text": "Well, I know I'm\nnot good enough for a\nlady like Aya-senpai.",
+      "note": ""
+    },
+    {
+      "offset": "d612",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ライバルがいーっぱい\nいるのも知ってます",
+      "translated_text": "I know there are a lot\nof rivals.",
+      "note": ""
+    },
+    {
+      "offset": "d68a",
+      "translated": true,
+      "len": 62,
+      "orig_text": "でも、あきらめるのは\nアタックしてからでも\nいいって思いません？",
+      "translated_text": "But don't you think\nit's better to give up\nafter trying?",
+      "note": ""
+    },
+    {
+      "offset": "d751",
+      "translated": true,
+      "len": 59,
+      "orig_text": "ああ、\nカツヤにしては前向き\nでいいんじゃないか？\n見直したよ",
+      "translated_text": "Yeah,\nthat's a positive\nattitude for you,\nKatsuya. I'm impressed.",
+      "note": ""
+    },
+    {
+      "offset": "d7eb",
+      "translated": true,
+      "len": 56,
+      "orig_text": "でも、いざ告白しよう\nとすると、どうしても\n勇気がでなくて",
+      "translated_text": "But when it comes to\nactually confessing, I\njust can't work up the\ncourage.",
+      "note": ""
+    },
+    {
+      "offset": "d8ac",
+      "translated": true,
+      "len": 35,
+      "orig_text": "なるほど、それで\n悩んでたってわけか",
+      "translated_text": "I see, so that's what\nyou were worried about.",
+      "note": ""
+    },
+    {
+      "offset": "d92e",
+      "translated": true,
+      "len": 67,
+      "orig_text": "ねえ、センパイ\nあの人が誰かとつきあ\nってる話とか、聞いて\nません！？",
+      "translated_text": "Hey, Senpai,\nhave you heard anything\nabout her going out with\nsomeone!?",
+      "note": ""
+    },
+    {
+      "offset": "d9fa",
+      "translated": true,
+      "len": 53,
+      "orig_text": "悪いな\n俺、あんまりアイツと\n親しいわけじゃ\nないんだよ",
+      "translated_text": "Sorry,\nI'm not really that close\nto her.",
+      "note": ""
+    },
+    {
+      "offset": "da80",
+      "translated": true,
+      "len": 41,
+      "orig_text": "ほら、性格なんかモロ\nに正反対っぽいだろ？",
+      "translated_text": "See, our personalities\nare totally opposite,\nright?",
+      "note": ""
+    },
+    {
+      "offset": "db32",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・たしかに",
+      "translated_text": "...That's true.",
+      "note": ""
+    },
+    {
+      "offset": "dbc9",
+      "translated": true,
+      "len": 58,
+      "orig_text": "でも、ウワサにもなっ\nてないし、チャンスは\nまだあると思うぜ",
+      "translated_text": "But I haven't heard any\nrumors, so I think you\nstill have a chance.",
+      "note": ""
+    },
+    {
+      "offset": "dc2a",
+      "translated": true,
+      "len": 60,
+      "orig_text": "せっかく勇気を出した\nんだからさ、とにかく\nアタックしてみろよ",
+      "translated_text": "You've worked up the\ncourage, so just go for\nit!",
+      "note": ""
+    },
+    {
+      "offset": "dc8d",
+      "translated": true,
+      "len": 20,
+      "orig_text": "俺も応援してやっから",
+      "translated_text": "I'm rooting for you.",
+      "note": ""
+    },
+    {
+      "offset": "dd2a",
+      "translated": true,
+      "len": 42,
+      "orig_text": "うーん・・・\nよし、やるだけ\nやってみるか！",
+      "translated_text": "Hmm...\nAlright, I'll give it\na shot!",
+      "note": ""
+    },
+    {
+      "offset": "ddb3",
+      "translated": true,
+      "len": 10,
+      "orig_text": "がんばれよ",
+      "translated_text": "Good luck.",
+      "note": ""
+    },
+    {
+      "offset": "de46",
+      "translated": true,
+      "len": 65,
+      "orig_text": "それじゃ、センパイ\n相談にのってくれて\nありがとう\nございましたっ！",
+      "translated_text": "Well then, Senpai,\nthanks for listening to\nmy worries!",
+      "note": ""
+    },
+    {
+      "offset": "e05c",
+      "translated": true,
+      "len": 38,
+      "orig_text": "すいません\nエミと帰るところ\nだったのに",
+      "translated_text": "Sorry.\nI was about to go home\nwith Emi.",
+      "note": ""
+    },
+    {
+      "offset": "e10b",
+      "translated": true,
+      "len": 54,
+      "orig_text": "気にしなくていいよ\n大した用事があったわ\nけじゃないんだ",
+      "translated_text": "Don't worry about it.\nIt wasn't anything\nimportant.",
+      "note": ""
+    },
+    {
+      "offset": "e192",
+      "translated": true,
+      "len": 52,
+      "orig_text": "それよりどうしたんだ\n僕でよかったら相談に\nのるけど？",
+      "translated_text": "More importantly, what's\nwrong? I'll listen to you\nif you want.",
+      "note": ""
+    },
+    {
+      "offset": "e24f",
+      "translated": true,
+      "len": 56,
+      "orig_text": "・・・すいません\nいつもセンパイには\n甘えてばかりで・・・",
+      "translated_text": "...Sorry.\nI'm always relying on\nyou, Senpai...",
+      "note": ""
+    },
+    {
+      "offset": "e2e6",
+      "translated": true,
+      "len": 18,
+      "orig_text": "気にしなくていいよ",
+      "translated_text": "Don't worry about it.",
+      "note": ""
+    },
+    {
+      "offset": "e381",
+      "translated": true,
+      "len": 59,
+      "orig_text": "せんぱいの\nクラスに、バレー部の\nナツミさんって\nいますよね？",
+      "translated_text": "There was a girl named\nNatsumi-san in your\nclass, who was on the\nvolleyball team, right?",
+      "note": ""
+    },
+    {
+      "offset": "e41b",
+      "translated": true,
+      "len": 25,
+      "orig_text": "彼女がどうかした\nのかい？",
+      "translated_text": "Is something wrong\nwith her?",
+      "note": ""
+    },
+    {
+      "offset": "e493",
+      "translated": true,
+      "len": 52,
+      "orig_text": "その・・・じつは俺、\nナツミ先輩のことが\n好きなんです",
+      "translated_text": "Well... the truth is,\nI... like Natsumi-senpai.",
+      "note": ""
+    },
+    {
+      "offset": "e550",
+      "translated": true,
+      "len": 6,
+      "orig_text": "え！？",
+      "translated_text": "Huh!?",
+      "note": ""
+    },
+    {
+      "offset": "e5ed",
+      "translated": true,
+      "len": 77,
+      "orig_text": "そりゃ、たしかに俺が\nナツミ先輩にアタック\nするなんて無茶だって\nわかってますよ",
+      "translated_text": "Well, I know it's\ncrazy for me to try to\ngo after Natsumi-senpai.",
+      "note": ""
+    },
+    {
+      "offset": "e661",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ライバルがいーっぱい\nいるのも知ってます",
+      "translated_text": "I know there are a lot\nof rivals.",
+      "note": ""
+    },
+    {
+      "offset": "e6d9",
+      "translated": true,
+      "len": 59,
+      "orig_text": "でも、好きに\nなっちまったものは\nどうしようも\nないでしょう？",
+      "translated_text": "But what can I do?\nI can't help who I\nfall for, can I?",
+      "note": ""
+    },
+    {
+      "offset": "e773",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "...",
+      "note": ""
+    },
+    {
+      "offset": "e7d8",
+      "translated": true,
+      "len": 56,
+      "orig_text": "でも、いざ告白しよう\nとすると、どうしても\n勇気がでなくて",
+      "translated_text": "But when it comes to\nactually confessing, I\njust can't work up the\ncourage.",
+      "note": ""
+    },
+    {
+      "offset": "e86f",
+      "translated": true,
+      "len": 44,
+      "orig_text": "それで、いつも元気な\nキミが悩んでいたわけ\nだ",
+      "translated_text": "So that's what was\nbothering the always\ncheerful you.",
+      "note": ""
+    },
+    {
+      "offset": "e924",
+      "translated": true,
+      "len": 71,
+      "orig_text": "ねえ、センパイ\nあの人が誰かとつきあ\nってる話とか、聞いて\nませんよね！？",
+      "translated_text": "Hey, Senpai,\nhave you heard anything\nabout her going out with\nsomeone!?",
+      "note": ""
+    },
+    {
+      "offset": "e9f4",
+      "translated": true,
+      "len": 57,
+      "orig_text": "すまない\n僕は、あんまり彼女と\nは親しいわけじゃない\nんだよ",
+      "translated_text": "Sorry,\nI'm not really that close\nto her.",
+      "note": ""
+    },
+    {
+      "offset": "eab6",
+      "translated": true,
+      "len": 16,
+      "orig_text": "そうですか・・・",
+      "translated_text": "I see...",
+      "note": ""
+    },
+    {
+      "offset": "eb4f",
+      "translated": true,
+      "len": 50,
+      "orig_text": "あ、でも、恋人が\nいるって話はまだ\n聞いた事はないよ",
+      "translated_text": "Oh, but I haven't heard\nanything about her\nhaving a boyfriend.",
+      "note": ""
+    },
+    {
+      "offset": "ec0a",
+      "translated": true,
+      "len": 20,
+      "orig_text": "え、ホントですか！？",
+      "translated_text": "Eh, really!?",
+      "note": ""
+    },
+    {
+      "offset": "eca7",
+      "translated": true,
+      "len": 31,
+      "orig_text": "いや、保証はできない\nけど・・・",
+      "translated_text": "Well, I can't guarantee\nit...",
+      "note": ""
+    },
+    {
+      "offset": "ed25",
+      "translated": true,
+      "len": 20,
+      "orig_text": "よーし、がんばるぞ！",
+      "translated_text": "Alright, I'll do my best!",
+      "note": ""
+    },
+    {
+      "offset": "ed60",
+      "translated": true,
+      "len": 65,
+      "orig_text": "それじゃ、センパイ\n相談にのってくれて\nありがとう\nございましたっ！",
+      "translated_text": "Well then, Senpai,\nthanks for listening\nto my worries!",
+      "note": ""
+    },
+    {
+      "offset": "ee2a",
+      "translated": true,
+      "len": 42,
+      "orig_text": "あ・・・\nこれで本当に\nよかったのかな・・・",
+      "translated_text": "Ah...\nDid I really do the\nright thing...?",
+      "note": ""
+    },
+    {
+      "offset": "ef49",
+      "translated": true,
+      "len": 40,
+      "orig_text": "すいません\nカツヤと帰るところ\nだったのに",
+      "translated_text": "Sorry.\nI was about to go home\nwith Katsuya.",
+      "note": ""
+    },
+    {
+      "offset": "effa",
+      "translated": true,
+      "len": 58,
+      "orig_text": "気にしなくていいよ\nとくに大事な用がある\nわけでもなかったし",
+      "translated_text": "Don't worry about it.\nI didn't have anything\nimportant to do anyway.",
+      "note": ""
+    },
+    {
+      "offset": "f085",
+      "translated": true,
+      "len": 20,
+      "orig_text": "それよりどうしたの？",
+      "translated_text": "More importantly,\nwhat's wrong?",
+      "note": ""
+    },
+    {
+      "offset": "f0ea",
+      "translated": true,
+      "len": 29,
+      "orig_text": "あたしでよかったら\n力になるよ",
+      "translated_text": "I'll help you if you\nwant.",
+      "note": ""
+    },
+    {
+      "offset": "f190",
+      "translated": true,
+      "len": 44,
+      "orig_text": "・・・\n誰にも言わないって\n約束してくれます？",
+      "translated_text": "...\nPromise you won't tell\nanyone?",
+      "note": ""
+    },
+    {
+      "offset": "f21b",
+      "translated": true,
+      "len": 16,
+      "orig_text": "うん、信用してよ",
+      "translated_text": "Yeah, trust me.",
+      "note": ""
+    },
+    {
+      "offset": "f2b4",
+      "translated": true,
+      "len": 56,
+      "orig_text": "センパイのクラスに、\n生徒会の副会長さんが\nいましたよね？",
+      "translated_text": "There was a guy who's\nthe vice-president of\nthe student council in your\nclass, right?",
+      "note": ""
+    },
+    {
+      "offset": "f375",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ああ、トウヤ君\n彼がどうかしたの？",
+      "translated_text": "Ah, Touya-kun.\nIs something wrong\nwith him?",
+      "note": ""
+    },
+    {
+      "offset": "f41f",
+      "translated": true,
+      "len": 63,
+      "orig_text": "はい・・・\nそのトウヤ先輩に\n私、告白したいなって\n思ってるんです",
+      "translated_text": "Yes...\nI... I'm thinking of\nconfessing to\nTouya-senpai.",
+      "note": ""
+    },
+    {
+      "offset": "f4e7",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ええ〜っ！？",
+      "translated_text": "Ehhh!?",
+      "note": ""
+    },
+    {
+      "offset": "f57c",
+      "translated": true,
+      "len": 50,
+      "orig_text": "そんなにおどろかなく\nたっていいじゃないで\nすかぁ！",
+      "translated_text": "You don't have to be\nso surprised,\ndo you!",
+      "note": ""
+    },
+    {
+      "offset": "f60d",
+      "translated": true,
+      "len": 10,
+      "orig_text": "あ、ゴメン",
+      "translated_text": "Ah, sorry.",
+      "note": ""
+    },
+    {
+      "offset": "f6ae",
+      "translated": true,
+      "len": 77,
+      "orig_text": "そりゃ、たしかに私が\nトウヤ先輩にアタック\nするなんて無茶だとは\nわかってますよ",
+      "translated_text": "Well, I know it's\ncrazy for me to try to\ngo after Touya-senpai.",
+      "note": ""
+    },
+    {
+      "offset": "f722",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ライバルがいーっぱい\nいるのも知ってます",
+      "translated_text": "I know there are a lot\nof rivals.",
+      "note": ""
+    },
+    {
+      "offset": "f770",
+      "translated": true,
+      "len": 65,
+      "orig_text": "でも、好きになって\nしまったんだもの・・\nしかたないじゃない\nですか",
+      "translated_text": "But what can I do?\nI can't help who I\nfall for, can I?",
+      "note": ""
+    },
+    {
+      "offset": "f7d8",
+      "translated": true,
+      "len": 63,
+      "orig_text": "・・・\nでも、いざ告白しよう\nとすると、どうしても\n勇気がでなくて",
+      "translated_text": "... But when it comes to\nactually confessing, I\njust can't work up the\ncourage.",
+      "note": ""
+    },
+    {
+      "offset": "f8a0",
+      "translated": true,
+      "len": 33,
+      "orig_text": "なるほど、それで\n悩んでたって訳ね",
+      "translated_text": "I see, so that's what\nyou were worried about.",
+      "note": ""
+    },
+    {
+      "offset": "f94a",
+      "translated": true,
+      "len": 73,
+      "orig_text": "ねえ、センパイ\nあの人が誰かとつき\nあってる話とか、聞い\nてませんよねっ！？",
+      "translated_text": "Hey, Senpai,\nhave you heard anything\nabout him going out with\nsomeone!?",
+      "note": ""
+    },
+    {
+      "offset": "fa1c",
+      "translated": true,
+      "len": 53,
+      "orig_text": "うーん\nあたし、とくに彼と\n親しいわけじゃ\nないからなぁ",
+      "translated_text": "Hmm.\nI'm not particularly\nclose to him.",
+      "note": ""
+    },
+    {
+      "offset": "faa2",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ほら、性格とか正反対\nみたいなもんでしょ",
+      "translated_text": "See, our personalities\nare like total opposites.",
+      "note": ""
+    },
+    {
+      "offset": "fb28",
+      "translated": true,
+      "len": 16,
+      "orig_text": "そうですね・・・",
+      "translated_text": "That's true...",
+      "note": ""
+    },
+    {
+      "offset": "fbc1",
+      "translated": true,
+      "len": 58,
+      "orig_text": "でも、ウワサにもなっ\nてないし、チャンスは\nまだあると思うよ",
+      "translated_text": "But I haven't heard any\nrumors, so I think you\nstill have a chance.",
+      "note": ""
+    },
+    {
+      "offset": "fc22",
+      "translated": true,
+      "len": 60,
+      "orig_text": "せっかく勇気を出した\nんだからさ、ダメもと\nで告白してみたら？",
+      "translated_text": "You've worked up the\ncourage, so why not just\nconfess and see?",
+      "note": ""
+    },
+    {
+      "offset": "fc85",
+      "translated": true,
+      "len": 20,
+      "orig_text": "意外と、ＯＫかもよ？",
+      "translated_text": "He might say yes!",
+      "note": ""
+    },
+    {
+      "offset": "fd22",
+      "translated": true,
+      "len": 67,
+      "orig_text": "えへへ\nせんぱいにそう言って\nもらえたら、なんだか\n勇気がでてきました",
+      "translated_text": "Ehehe.\nHearing you say that,\nSenpai, actually gives\nme some courage.",
+      "note": ""
+    },
+    {
+      "offset": "fdc4",
+      "translated": true,
+      "len": 20,
+      "orig_text": "その意気、その意気！",
+      "translated_text": "That's the spirit!",
+      "note": ""
+    },
+    {
+      "offset": "fe61",
+      "translated": true,
+      "len": 8,
+      "orig_text": "はいっ！",
+      "translated_text": "Yes!",
+      "note": ""
+    },
+    {
+      "offset": "fe90",
+      "translated": true,
+      "len": 65,
+      "orig_text": "それじゃ先輩\n相談にのってくれて\n本当にありがとう\nございました！！",
+      "translated_text": "Well then, Senpai,\nthank you so much\nfor listening to\nmy worries!!",
+      "note": ""
+    },
+    {
+      "offset": "ffc6",
+      "translated": true,
+      "len": 40,
+      "orig_text": "すいません\nカツヤと帰るところ\nだったのに",
+      "translated_text": "Sorry.\nI was about to go home\nwith Katsuya.",
+      "note": ""
+    },
+    {
+      "offset": "10077",
+      "translated": true,
+      "len": 58,
+      "orig_text": "気にしなくていいよ\nとくに大事な用がある\nわけでもなかったし",
+      "translated_text": "Don't worry about it.\nI didn't have anything\nimportant to do anyway.",
+      "note": ""
+    },
+    {
+      "offset": "10102",
+      "translated": true,
+      "len": 20,
+      "orig_text": "それよりどうしたの？",
+      "translated_text": "More importantly,\nwhat's wrong?",
+      "note": ""
+    },
+    {
+      "offset": "1013d",
+      "translated": true,
+      "len": 29,
+      "orig_text": "わたしでよかったら\n力になるよ",
+      "translated_text": "I'll help you if you\nwant.",
+      "note": ""
+    },
+    {
+      "offset": "101e3",
+      "translated": true,
+      "len": 44,
+      "orig_text": "・・・\n誰にも言わないって\n約束してくれます？",
+      "translated_text": "...\nPromise you won't tell\nanyone?",
+      "note": ""
+    },
+    {
+      "offset": "10298",
+      "translated": true,
+      "len": 16,
+      "orig_text": "うん、信用してよ",
+      "translated_text": "Yeah, trust me.",
+      "note": ""
+    },
+    {
+      "offset": "10331",
+      "translated": true,
+      "len": 56,
+      "orig_text": "センパイのクラスに、\nバスケ部の部長さんが\nいましたよね？",
+      "translated_text": "There was a guy who's\nthe captain of the\nbasketball club in your\nclass, right?",
+      "note": ""
+    },
+    {
+      "offset": "103c8",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ああ、ハヤト君\n彼がどうかしたの？",
+      "translated_text": "Ah, Hayato-kun.\nIs something wrong\nwith him?",
+      "note": ""
+    },
+    {
+      "offset": "10472",
+      "translated": true,
+      "len": 63,
+      "orig_text": "はい・・・\nそのハヤト先輩に\n私、告白したいなって\n思ってるんです",
+      "translated_text": "Yes...\nI... I'm thinking of\nconfessing to\nHayato-senpai.",
+      "note": ""
+    },
+    {
+      "offset": "1053a",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ええ〜っ！？",
+      "translated_text": "Ehhh!?",
+      "note": ""
+    },
+    {
+      "offset": "105cf",
+      "translated": true,
+      "len": 50,
+      "orig_text": "そんなにおどろかなく\nたっていいじゃないで\nすかぁ！",
+      "translated_text": "You don't have to be\nso surprised,\ndo you!",
+      "note": ""
+    },
+    {
+      "offset": "1068a",
+      "translated": true,
+      "len": 10,
+      "orig_text": "あ、ゴメン",
+      "translated_text": "Ah, sorry.",
+      "note": ""
+    },
+    {
+      "offset": "1072b",
+      "translated": true,
+      "len": 77,
+      "orig_text": "そりゃ、たしかに私が\nハヤト先輩にアタック\nするなんて無茶だとは\nわかってますよ",
+      "translated_text": "Well, I know it's\ncrazy for me to try to\ngo after Hayato-senpai.",
+      "note": ""
+    },
+    {
+      "offset": "1079f",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ライバルがいーっぱい\nいるのも知ってます",
+      "translated_text": "I know there are a lot\nof rivals.",
+      "note": ""
+    },
+    {
+      "offset": "10817",
+      "translated": true,
+      "len": 65,
+      "orig_text": "でも、好きになって\nしまったんだもの・・\nしかたないじゃない\nですか",
+      "translated_text": "But what can I do?\nI can't help who I\nfall for,\ncan I?",
+      "note": ""
+    },
+    {
+      "offset": "1087f",
+      "translated": true,
+      "len": 63,
+      "orig_text": "・・・\nでも、いざ告白しよう\nとすると、どうしても\n勇気がでなくて",
+      "translated_text": "... But when it comes to\nactually confessing, I\njust can't work up the\ncourage.",
+      "note": ""
+    },
+    {
+      "offset": "10947",
+      "translated": true,
+      "len": 33,
+      "orig_text": "なるほど、それで\n悩んでたって訳ね",
+      "translated_text": "I see, so that's what\nyou were worried about.",
+      "note": ""
+    },
+    {
+      "offset": "109f1",
+      "translated": true,
+      "len": 73,
+      "orig_text": "ねえ、センパイ\nあの人が誰かとつき\nあってる話とか、聞い\nてませんよねっ！？",
+      "translated_text": "Hey, Senpai,\nhave you heard anything\nabout him going out with\nsomeone!?",
+      "note": ""
+    },
+    {
+      "offset": "10ac3",
+      "translated": true,
+      "len": 53,
+      "orig_text": "うーん\nあたし、とくに彼と\n親しいわけじゃ\nないからなぁ",
+      "translated_text": "Hmm.\nI'm not particularly\nclose to him.",
+      "note": ""
+    },
+    {
+      "offset": "10b49",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ほら、性格とか正反対\nみたいなもんでしょ",
+      "translated_text": "See, our personalities\nare like total opposites.",
+      "note": ""
+    },
+    {
+      "offset": "10bcf",
+      "translated": true,
+      "len": 16,
+      "orig_text": "そうですね・・・",
+      "translated_text": "That's true...",
+      "note": ""
+    },
+    {
+      "offset": "10c3e",
+      "translated": true,
+      "len": 58,
+      "orig_text": "でも、ウワサにもなっ\nてないし、チャンスは\nまだあると思うよ",
+      "translated_text": "But I haven't heard any\nrumors, so I think you\nstill have a chance.",
+      "note": ""
+    },
+    {
+      "offset": "10c9f",
+      "translated": true,
+      "len": 60,
+      "orig_text": "せっかく勇気を出した\nんだからさ、ダメもと\nで告白してみたら？",
+      "translated_text": "You've worked up the\ncourage, so why not just\nconfess and see?",
+      "note": ""
+    },
+    {
+      "offset": "10d2c",
+      "translated": true,
+      "len": 20,
+      "orig_text": "意外と、ＯＫかもよ？",
+      "translated_text": "He might say yes!",
+      "note": ""
+    },
+    {
+      "offset": "10dc9",
+      "translated": true,
+      "len": 67,
+      "orig_text": "えへへ\nせんぱいにそう言って\nもらえたら、なんだか\n勇気がでてきました",
+      "translated_text": "Ehehe.\nHearing you say that,\nSenpai, actually gives\nme some courage.",
+      "note": ""
+    },
+    {
+      "offset": "10e6b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "その意気、その意気！",
+      "translated_text": "That's the spirit!",
+      "note": ""
+    },
+    {
+      "offset": "10f08",
+      "translated": true,
+      "len": 8,
+      "orig_text": "はいっ！",
+      "translated_text": "Yes!",
+      "note": ""
+    },
+    {
+      "offset": "10f61",
+      "translated": true,
+      "len": 69,
+      "orig_text": "それじゃ、先輩\n相談にのってくだ\nさって本当にありが\nとうございました！",
+      "translated_text": "Well then, Senpai,\nthank you so much\nfor listening to\nmy worries!",
+      "note": ""
+    },
+    {
+      "offset": "1119d",
+      "translated": true,
+      "len": 155,
+      "orig_text": "　後輩と別れた俺は\n　まっすぐ家には帰らなかった\n　小高い丘の上にある公園\n　ここで考えごとをするように\n　なったのは、高校に入って\n　しばらく経ってからだった",
+      "translated_text": "  After parting ways with\n  my kouhai, I didn't\n  head straight home.\n  A park on top of a\n  small hill...\n  I started coming here\n  to think after a while\n  of entering high school.",
+      "note": ""
+    },
+    {
+      "offset": "1125a",
+      "translated": true,
+      "len": 155,
+      "orig_text": "　後輩と別れた僕は\n　まっすぐ家には帰らなかった\n　小高い丘の上にある公園\n　ここで考えごとをするように\n　なったのは、高校に入って\n　しばらく経ってからだった",
+      "translated_text": "  After parting ways with\n  my kouhai, I didn't\n  head straight home.\n  A park on top of a\n  small hill...\n  I started coming here\n  to think after a while\n  of entering high school.",
+      "note": ""
+    },
+    {
+      "offset": "11354",
+      "translated": true,
+      "len": 25,
+      "orig_text": "\n\n\n　　　いつからだろう？",
+      "translated_text": "\n\n\n      Since when?",
+      "note": ""
+    },
+    {
+      "offset": "11417",
+      "translated": true,
+      "len": 30,
+      "orig_text": "　　俺はなんとなくものたりない",
+      "translated_text": "    I feel vaguely\n    unsatisfied.",
+      "note": ""
+    },
+    {
+      "offset": "11457",
+      "translated": true,
+      "len": 30,
+      "orig_text": "　　僕はなんとなくものたりない",
+      "translated_text": "    I feel vaguely\n    unsatisfied.",
+      "note": ""
+    },
+    {
+      "offset": "1148e",
+      "translated": true,
+      "len": 66,
+      "orig_text": "　　気持ちを感じていた\n　　決して毎日がつまらない\n　　わけじゃない",
+      "translated_text": "    It's not that I find\n    my everyday life\n    boring.",
+      "note": ""
+    },
+    {
+      "offset": "1152f",
+      "translated": true,
+      "len": 88,
+      "orig_text": "\n　　学校は楽しいし、\n　　友達や後輩とのつきあいも\n　　うまくいっている\n　　だけど・・・",
+      "translated_text": "\n    School is fun,\n    and I get along well\n    with my friends and\n    kouhai.\n    But...",
+      "note": ""
+    },
+    {
+      "offset": "115e6",
+      "translated": true,
+      "len": 27,
+      "orig_text": "\n\n\n　本当にこれでいいのか？",
+      "translated_text": "\n\n\n  Is this really okay?",
+      "note": ""
+    },
+    {
+      "offset": "11660",
+      "translated": true,
+      "len": 141,
+      "orig_text": "　このまま大学に入って、\n　就職をして、結婚をして・・・\n　みんなと同じように\n　生きていけば、それなりに\n　幸せになれるのだろう\n　だけど・・・",
+      "translated_text": "  Go to college, get a\n  job, get married...\n  If I live like everyone\n  else, I guess I could\n  find some kind of\n  happiness. But...",
+      "note": ""
+    },
+    {
+      "offset": "11798",
+      "translated": true,
+      "len": 25,
+      "orig_text": "\n　それじゃ、なんかイヤだ",
+      "translated_text": "\n  I don't like that.",
+      "note": ""
+    },
+    {
+      "offset": "117d3",
+      "translated": true,
+      "len": 47,
+      "orig_text": "　それが本当に幸せだって\n　　言えるんだろうか？",
+      "translated_text": "  Can I really call\n    that happiness?",
+      "note": ""
+    },
+    {
+      "offset": "11861",
+      "translated": true,
+      "len": 98,
+      "orig_text": "\n　　決められた道を進んでいく\n　　だけじゃ、その横にある\n　　大切なものに気づくことは\n　　できない",
+      "translated_text": "\n    If I just keep going\n    down the path laid out\n    for me, I won't be able\n    to notice the important\n    things that might be\n    right next to it.",
+      "note": ""
+    },
+    {
+      "offset": "11922",
+      "translated": true,
+      "len": 70,
+      "orig_text": "\n\n　　けれども、そんなものが\n　　あるという保証だって\n　　ないのだろう",
+      "translated_text": "\n\n    But there's no\n    guarantee that such a\n    thing even exists.",
+      "note": ""
+    },
+    {
+      "offset": "119c7",
+      "translated": true,
+      "len": 60,
+      "orig_text": "\n　　可能性にかけてみることも、\n　　あきらめることもできず、",
+      "translated_text": "\n    Unable to take a\n    chance or give up,",
+      "note": ""
+    },
+    {
+      "offset": "11a4e",
+      "translated": true,
+      "len": 20,
+      "orig_text": "　　俺はただこうして",
+      "translated_text": "    I just keep",
+      "note": ""
+    },
+    {
+      "offset": "11a84",
+      "translated": true,
+      "len": 20,
+      "orig_text": "　　僕はただこうして",
+      "translated_text": "    I just keep",
+      "note": ""
+    },
+    {
+      "offset": "11ab1",
+      "translated": true,
+      "len": 20,
+      "orig_text": "　　迷いつづけている",
+      "translated_text": "    wandering.",
+      "note": ""
+    },
+    {
+      "offset": "11b70",
+      "translated": true,
+      "len": 53,
+      "orig_text": "　　俺がここに存在する意味\n　　俺がここに存在する価値",
+      "translated_text": "    The meaning of my\n    existence here.\n    The value of my\n    existence here.",
+      "note": ""
+    },
+    {
+      "offset": "11bc7",
+      "translated": true,
+      "len": 53,
+      "orig_text": "　　僕がここに存在する意味\n　　僕がここに存在する価値",
+      "translated_text": "    The meaning of my\n    existence here.\n    The value of my\n    existence here.",
+      "note": ""
+    },
+    {
+      "offset": "11c5b",
+      "translated": true,
+      "len": 41,
+      "orig_text": "\n\n　　　　それを知りたい\n　　　　今すぐに",
+      "translated_text": "\n\n        I want to know.\n        Right now.",
+      "note": ""
+    },
+    {
+      "offset": "11d2f",
+      "translated": true,
+      "len": 25,
+      "orig_text": "\n　　無茶苦茶だよな・・・",
+      "translated_text": "\n    This is crazy...",
+      "note": ""
+    },
+    {
+      "offset": "11d6a",
+      "translated": true,
+      "len": 57,
+      "orig_text": "情けないな・・・考えるだけで\n　確かめようともしないくせに",
+      "translated_text": "Pathetic... I just keep\nthinking without trying to\nfind out.",
+      "note": ""
+    },
+    {
+      "offset": "11e02",
+      "translated": true,
+      "len": 108,
+      "orig_text": "\n　そうつぶやいて、苦笑する\n　そんなことが簡単にわかれば、\n　誰だって自分の生き方に\n　迷ったりしないのだから",
+      "translated_text": "\n  I muttered and gave a\nwry smile.\nIf it were that easy to\nunderstand, no one would\never be lost in their\nown life.",
+      "note": ""
+    },
+    {
+      "offset": "11eff",
+      "translated": true,
+      "len": 159,
+      "orig_text": "　後輩と別れたあたしは\n　まっすぐ家には帰らなかった\n　小高い丘の上にある公園\n　ここで考えごとをするように\n　なったのは、高校に入って\n　しばらく経ってからだった",
+      "translated_text": "  After parting ways with\n  my kouhai, I didn't\n  head straight home.\n  A park on top of a\n  small hill...\n  I started coming here\n  to think after a while\n  of entering high school.",
+      "note": ""
+    },
+    {
+      "offset": "11ffd",
+      "translated": true,
+      "len": 23,
+      "orig_text": "\n\n\n　　　いつからだっけ",
+      "translated_text": "\n\n\n      Since when?",
+      "note": ""
+    },
+    {
+      "offset": "12073",
+      "translated": true,
+      "len": 94,
+      "orig_text": "\n　あたしはなんとなくもの\n　たりない気持ちを感じていた\n　決して毎日がつまらない\n　わけじゃない",
+      "translated_text": "\n  I've been feeling\nvaguely unsatisfied.\nIt's not that I find\nmy everyday life boring.",
+      "note": ""
+    },
+    {
+      "offset": "12130",
+      "translated": true,
+      "len": 88,
+      "orig_text": "\n　　学校は楽しいし、\n　　友達や後輩とのつきあいも\n　　うまくいっている\n　　だけど・・・",
+      "translated_text": "\n    School is fun,\n    and I get along well\n    with my friends and\n    kouhai.\n    But...",
+      "note": ""
+    },
+    {
+      "offset": "121e7",
+      "translated": true,
+      "len": 29,
+      "orig_text": "\n\n\n　本当にこれでいいのかな？",
+      "translated_text": "\n\n\n  Is this really okay?",
+      "note": ""
+    },
+    {
+      "offset": "12263",
+      "translated": true,
+      "len": 141,
+      "orig_text": "　このまま大学に入って、\n　就職をして、結婚をして・・・\n　みんなと同じように\n　生きていけば、それなりに\n　幸せになれるのだろう\n　だけど・・・",
+      "translated_text": "  Go to college, get a\n  job, get married...\n  If I live like everyone\n  else, I guess I could\n  find some kind of\n  happiness. But...",
+      "note": ""
+    },
+    {
+      "offset": "1234f",
+      "translated": true,
+      "len": 49,
+      "orig_text": "\n\n　　それ以上のしあわせは\n　　絶対に手に入らない",
+      "translated_text": "\n\n    I'll never be able to\n    find anything more\n    than that.",
+      "note": ""
+    },
+    {
+      "offset": "123df",
+      "translated": true,
+      "len": 98,
+      "orig_text": "\n　　決められた道を進んでいく\n　　だけじゃ、その横にある\n　　大切なものに気づくことは\n　　できない",
+      "translated_text": "\n    If I just keep going\n    down the path laid out\n    for me, I won't be able\n    to notice the important\n    things that might be\n    right next to it.",
+      "note": ""
+    },
+    {
+      "offset": "124a0",
+      "translated": true,
+      "len": 70,
+      "orig_text": "\n\n　　けれども、そんなものが\n　　あるという保証だって\n　　ありはしない",
+      "translated_text": "\n\n    But there's no\n    guarantee that such a\n    thing even exists.",
+      "note": ""
+    },
+    {
+      "offset": "12545",
+      "translated": true,
+      "len": 106,
+      "orig_text": "\n　　可能性にかけてみることも、\n　　あきらめることもできず、\n　　あたしはただこうして\n　　迷いつづけている",
+      "translated_text": "\n    Unable to take a\n    chance or give up,\n    I just keep\n    wandering.",
+      "note": ""
+    },
+    {
+      "offset": "1260e",
+      "translated": true,
+      "len": 57,
+      "orig_text": "\n\n　あたしにしかできないことって\n　どっかにないのかなぁ？",
+      "translated_text": "\n\n  Isn't there anything\n  out there that only I\n  can do?",
+      "note": ""
+    },
+    {
+      "offset": "126d8",
+      "translated": true,
+      "len": 155,
+      "orig_text": "　後輩と別れた私は\n　まっすぐ家には帰らなかった\n　小高い丘の上にある公園\n　ここで考えごとをするように\n　なったのは、高校に入って\n　しばらく経ってからだった",
+      "translated_text": "  After parting ways with\n  my kouhai, I didn't\n  head straight home.\n  A park on top of a\n  small hill...\n  I started coming here\n  to think after a while\n  of entering high school.",
+      "note": ""
+    },
+    {
+      "offset": "127d2",
+      "translated": true,
+      "len": 23,
+      "orig_text": "\n\n\n　　　いつからだろう",
+      "translated_text": "\n\n\n      Since when?",
+      "note": ""
+    },
+    {
+      "offset": "12848",
+      "translated": true,
+      "len": 98,
+      "orig_text": "\n　　私はなんとなくものたりない\n　　気持ちを感じていた\n　　決して毎日がつまらない\n　　わけじゃない",
+      "translated_text": "\n    I've been feeling\nvaguely unsatisfied.\nIt's not that I find\nmy everyday life boring.",
+      "note": ""
+    },
+    {
+      "offset": "12909",
+      "translated": true,
+      "len": 88,
+      "orig_text": "\n　　学校は楽しいし、\n　　友達や後輩とのつきあいも\n　　うまくいっている\n　　だけど・・・",
+      "translated_text": "\n    School is fun,\n    and I get along well\n    with my friends and\n    kouhai.\n    But...",
+      "note": ""
+    },
+    {
+      "offset": "129db",
+      "translated": true,
+      "len": 26,
+      "orig_text": "本当にこれでいいのかしら？",
+      "translated_text": "Is this really okay?",
+      "note": ""
+    },
+    {
+      "offset": "12a54",
+      "translated": true,
+      "len": 141,
+      "orig_text": "　このまま大学に入って、\n　就職をして、結婚をして・・・\n　みんなと同じように\n　生きていけば、それなりに\n　幸せになれるのだろう\n　だけど・・・",
+      "translated_text": "  Go to college, get a\n  job, get married...\n  If I live like everyone\n  else, I guess I could\n  find some kind of\n  happiness. But...",
+      "note": ""
+    },
+    {
+      "offset": "12b40",
+      "translated": true,
+      "len": 49,
+      "orig_text": "\n\n　　それ以上のしあわせは\n　　絶対に手に入らない",
+      "translated_text": "\n\n    I'll never be able to\n    find anything more\n    than that.",
+      "note": ""
+    },
+    {
+      "offset": "12bd0",
+      "translated": true,
+      "len": 98,
+      "orig_text": "\n　　決められた道を進んでいく\n　　だけじゃ、その横にある\n　　大切なものに気づくことは\n　　できない",
+      "translated_text": "\n    If I just keep going\n    down the path laid out\n    for me, I won't be able\n    to notice the important\n    things that might be\n    right next to it.",
+      "note": ""
+    },
+    {
+      "offset": "12c91",
+      "translated": true,
+      "len": 70,
+      "orig_text": "\n\n　　けれども、そんなものが\n　　あるという保証だって\n　　ありはしない",
+      "translated_text": "\n\n    But there's no\n    guarantee that such a\n    thing even exists.",
+      "note": ""
+    },
+    {
+      "offset": "12d36",
+      "translated": true,
+      "len": 102,
+      "orig_text": "\n　　可能性にかけてみることも、\n　　あきらめることもできず、\n　　私はただこうして\n　　迷いつづけている",
+      "translated_text": "\n    Unable to take a\n    chance or give up,\n    I just keep\n    wandering.",
+      "note": ""
+    },
+    {
+      "offset": "12dfb",
+      "translated": true,
+      "len": 74,
+      "orig_text": "\n\n　　　子供っぽいのかしら\n　　　夢みたいなことばかり\n　　　考えてて・・・",
+      "translated_text": "\n\n      Am I being childish?\n      Always thinking\n      about these dreamy\n      things...",
+      "note": ""
+    },
+    {
+      "offset": "13142",
+      "translated": true,
+      "len": 12,
+      "orig_text": "助けて・・・",
+      "translated_text": "Help me...",
+      "note": ""
+    },
+    {
+      "offset": "131d7",
+      "translated": true,
+      "len": 4,
+      "orig_text": "え？",
+      "translated_text": "Huh?",
+      "note": ""
+    },
+    {
+      "offset": "133cb",
+      "translated": true,
+      "len": 18,
+      "orig_text": "誰か、助けて・・・",
+      "translated_text": "Someone, help me...",
+      "note": ""
+    },
+    {
+      "offset": "1343c",
+      "translated": true,
+      "len": 35,
+      "orig_text": "頭の中で、誰かの声が\n聞こえる・・・",
+      "translated_text": "I hear a voice...\ninside my head...",
+      "note": ""
+    },
+    {
+      "offset": "134f0",
+      "translated": true,
+      "len": 20,
+      "orig_text": "なんだよ、この声！？",
+      "translated_text": "What is this voice!?",
+      "note": ""
+    },
+    {
+      "offset": "13526",
+      "translated": true,
+      "len": 14,
+      "orig_text": "幻聴か・・・？",
+      "translated_text": "Is it an auditory\nhallucination...?",
+      "note": ""
+    },
+    {
+      "offset": "13724",
+      "translated": true,
+      "len": 71,
+      "orig_text": "このままだと・・・\n壊れてしまう・・・\n何もかも・・・\n消えてしまう・・・",
+      "translated_text": "If this continues...\nI'll break...\nEverything...\nwill disappear...",
+      "note": ""
+    },
+    {
+      "offset": "13826",
+      "translated": true,
+      "len": 23,
+      "orig_text": "おい、\nあんたは誰だ！？",
+      "translated_text": "Hey,\nwho are you!?",
+      "note": ""
+    },
+    {
+      "offset": "1385f",
+      "translated": true,
+      "len": 18,
+      "orig_text": "おい、君は誰だ！？",
+      "translated_text": "Hey, who are you!?",
+      "note": ""
+    },
+    {
+      "offset": "13989",
+      "translated": true,
+      "len": 16,
+      "orig_text": "助けてくれ・・・",
+      "translated_text": "Please, help me...",
+      "note": ""
+    },
+    {
+      "offset": "139cd",
+      "translated": true,
+      "len": 16,
+      "orig_text": "助けてくれ・・・",
+      "translated_text": "Please, help me...",
+      "note": ""
+    },
+    {
+      "offset": "13a11",
+      "translated": true,
+      "len": 12,
+      "orig_text": "助けて・・・",
+      "translated_text": "Help me...",
+      "note": ""
+    },
+    {
+      "offset": "13a51",
+      "translated": true,
+      "len": 12,
+      "orig_text": "助けて・・・",
+      "translated_text": "Help me...",
+      "note": ""
+    },
+    {
+      "offset": "13c2b",
+      "translated": true,
+      "len": 25,
+      "orig_text": "くそっ、\n頭がいてぇ・・・",
+      "translated_text": "Damn it,\nmy head hurts...",
+      "note": ""
+    },
+    {
+      "offset": "13c6b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "どうなってんだっ！？",
+      "translated_text": "What's going on!?",
+      "note": ""
+    },
+    {
+      "offset": "13ca1",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ううっ、頭が痛む・・",
+      "translated_text": "Ugh, my head hurts...",
+      "note": ""
+    },
+    {
+      "offset": "13cdc",
+      "translated": true,
+      "len": 20,
+      "orig_text": "何が起こってるんだ？",
+      "translated_text": "What's happening?",
+      "note": ""
+    },
+    {
+      "offset": "13d7c",
+      "translated": true,
+      "len": 42,
+      "orig_text": "運命をとめて・・\nこの世界を\n助けてくれ！！",
+      "translated_text": "Stop destiny..\nSave this world,\nplease!!",
+      "note": ""
+    },
+    {
+      "offset": "13dda",
+      "translated": true,
+      "len": 42,
+      "orig_text": "運命をとめて・・\nこの世界を\n助けてくれ！！",
+      "translated_text": "Stop destiny..\nSave this world,\nplease!!",
+      "note": ""
+    },
+    {
+      "offset": "13e38",
+      "translated": true,
+      "len": 39,
+      "orig_text": "運命をとめて・・・\nこの世界を助けて！！",
+      "translated_text": "Stop destiny...\nSave this world!!",
+      "note": ""
+    },
+    {
+      "offset": "13e93",
+      "translated": true,
+      "len": 39,
+      "orig_text": "運命をとめて・・・\nこの世界を助けて！！",
+      "translated_text": "Stop destiny...\nSave this world!!",
+      "note": ""
+    },
+    {
+      "offset": "13f30",
+      "translated": true,
+      "len": 20,
+      "orig_text": "うっ、うわああっ！？",
+      "translated_text": "Ugh, whaaa!?",
+      "note": ""
+    },
+    {
+      "offset": "141d7",
+      "translated": true,
+      "len": 12,
+      "orig_text": "助けて・・・",
+      "translated_text": "Help me...",
+      "note": ""
+    },
+    {
+      "offset": "1426c",
+      "translated": true,
+      "len": 4,
+      "orig_text": "え？",
+      "translated_text": "Huh?",
+      "note": ""
+    },
+    {
+      "offset": "14460",
+      "translated": true,
+      "len": 18,
+      "orig_text": "誰か、助けて・・・",
+      "translated_text": "Someone, help me...",
+      "note": ""
+    },
+    {
+      "offset": "144d1",
+      "translated": true,
+      "len": 35,
+      "orig_text": "頭の中で、誰かの声が\n聞こえる・・・",
+      "translated_text": "I hear a voice...\ninside my head...",
+      "note": ""
+    },
+    {
+      "offset": "146e4",
+      "translated": true,
+      "len": 71,
+      "orig_text": "このままだと・・・\n壊れてしまう・・・\n何もかも・・・\n消えてしまう・・・",
+      "translated_text": "If this continues...\nI'll break...\nEverything...\nwill disappear...",
+      "note": ""
+    },
+    {
+      "offset": "1478a",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ねえ、誰なの！？",
+      "translated_text": "Hey, who is it!?",
+      "note": ""
+    },
+    {
+      "offset": "148b2",
+      "translated": true,
+      "len": 16,
+      "orig_text": "助けてくれ・・・",
+      "translated_text": "Please, help me...",
+      "note": ""
+    },
+    {
+      "offset": "148f6",
+      "translated": true,
+      "len": 16,
+      "orig_text": "助けてくれ・・・",
+      "translated_text": "Please, help me...",
+      "note": ""
+    },
+    {
+      "offset": "1493a",
+      "translated": true,
+      "len": 12,
+      "orig_text": "助けて・・・",
+      "translated_text": "Help me...",
+      "note": ""
+    },
+    {
+      "offset": "1497a",
+      "translated": true,
+      "len": 12,
+      "orig_text": "助けて・・・",
+      "translated_text": "Help me...",
+      "note": ""
+    },
+    {
+      "offset": "14b22",
+      "translated": true,
+      "len": 20,
+      "orig_text": "どうすればいいの！？",
+      "translated_text": "What should I do!?",
+      "note": ""
+    },
+    {
+      "offset": "14bc2",
+      "translated": true,
+      "len": 42,
+      "orig_text": "運命をとめて・・\nこの世界を\n助けてくれ！！",
+      "translated_text": "Stop destiny..\nSave this world,\nplease!!",
+      "note": ""
+    },
+    {
+      "offset": "14c20",
+      "translated": true,
+      "len": 42,
+      "orig_text": "運命をとめて・・\nこの世界を\n助けてくれ！！",
+      "translated_text": "Stop destiny..\nSave this world,\nplease!!",
+      "note": ""
+    },
+    {
+      "offset": "14c7e",
+      "translated": true,
+      "len": 39,
+      "orig_text": "運命をとめて・・・\nこの世界を助けて！！",
+      "translated_text": "Stop destiny...\nSave this world!!",
+      "note": ""
+    },
+    {
+      "offset": "14cd9",
+      "translated": true,
+      "len": 39,
+      "orig_text": "運命をとめて・・・\nこの世界を助けて！！",
+      "translated_text": "Stop destiny...\nSave this world!!",
+      "note": ""
+    },
+    {
+      "offset": "14d76",
+      "translated": true,
+      "len": 14,
+      "orig_text": "きゃああっ！？",
+      "translated_text": "Kyaaaah!?",
+      "note": ""
+    },
+    {
+      "offset": "1507f",
+      "translated": true,
+      "len": 26,
+      "orig_text": "サモナイト石を手に入れた！",
+      "translated_text": "You got a Summonite Stone!",
+      "note": ""
+    },
+    {
+      "offset": "1535b",
+      "translated": true,
+      "len": 12,
+      "orig_text": "うーん・・・",
+      "translated_text": "Hmm...",
+      "note": ""
+    },
+    {
+      "offset": "1538e",
+      "translated": true,
+      "len": 16,
+      "orig_text": "今のはいったい？",
+      "translated_text": "What was that?",
+      "note": ""
+    },
+    {
+      "offset": "1550f",
+      "translated": true,
+      "len": 23,
+      "orig_text": "げっ！\nなんだこりゃ！？",
+      "translated_text": "Gah!\nWhat is this!?",
+      "note": ""
+    },
+    {
+      "offset": "15585",
+      "translated": true,
+      "len": 56,
+      "orig_text": "なにかの穴の底みたい\nだけど・・・なんで、\nこんなとこに？",
+      "translated_text": "It looks like the bottom\nof some kind of hole...\nBut why am I here?",
+      "note": ""
+    },
+    {
+      "offset": "15600",
+      "translated": true,
+      "len": 62,
+      "orig_text": "どうしよう？\n　とにかくここから出よう\n　これは夢にちがいない！",
+      "translated_text": "What should I do?\n  Get out of here\n  This must be a dream!",
+      "note": ""
+    },
+    {
+      "offset": "156aa",
+      "translated": true,
+      "len": 27,
+      "orig_text": "・・・！？\nなんだここは！？",
+      "translated_text": "...!?\nWhere is this!?",
+      "note": ""
+    },
+    {
+      "offset": "15724",
+      "translated": true,
+      "len": 54,
+      "orig_text": "なにかの穴の底みたい\nだけど・・・どうして\n僕はここに？",
+      "translated_text": "It looks like the bottom\nof some kind of hole...\nBut how did I get here?",
+      "note": ""
+    },
+    {
+      "offset": "15822",
+      "translated": true,
+      "len": 71,
+      "orig_text": "うーん、きっとこれは\n夢なんだな\nだからほら、こうして\nほほをつねれば・・",
+      "translated_text": "Hmm, this must be\na dream.\nSo, if I pinch my cheek\nlike this...",
+      "note": ""
+    },
+    {
+      "offset": "158f2",
+      "translated": true,
+      "len": 31,
+      "orig_text": "いてっ！！\n・・・夢じゃねえ！？",
+      "translated_text": "Ouch!!\n...This isn't a dream!?",
+      "note": ""
+    },
+    {
+      "offset": "159e2",
+      "translated": true,
+      "len": 65,
+      "orig_text": "ここにいてもしかたが\nないよなぁ\nとりあえずは、上まで\n登ってみるか",
+      "translated_text": "There's no point in\nstaying here.\nI guess I'll try\nclimbing up.",
+      "note": ""
+    },
+    {
+      "offset": "15a74",
+      "translated": true,
+      "len": 17,
+      "orig_text": "ん？\nなんだこりゃ",
+      "translated_text": "Hm?\nWhat's this?",
+      "note": ""
+    },
+    {
+      "offset": "15aac",
+      "translated": true,
+      "len": 71,
+      "orig_text": "キレイな石だな\nなんか、いろんな\n色のがあちこちに飛び\nちってるけど・・・",
+      "translated_text": "What a pretty stone.\nThere are all sorts of\ncolors scattered\naround...",
+      "note": ""
+    },
+    {
+      "offset": "15b15",
+      "translated": true,
+      "len": 39,
+      "orig_text": "・・・ともかく、上に\n登ることが先決だな",
+      "translated_text": "...Anyway, climbing up\nis my priority.",
+      "note": ""
+    },
+    {
+      "offset": "15b8d",
+      "translated": true,
+      "len": 29,
+      "orig_text": "あれ・・・\nこれはなんだろう？",
+      "translated_text": "Huh...\nWhat is this?",
+      "note": ""
+    },
+    {
+      "offset": "15bd1",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ずいぶんとキレイな\n石がちらばってる・・",
+      "translated_text": "There are a lot of\nbeautiful stones\nscattered around...",
+      "note": ""
+    },
+    {
+      "offset": "15c3b",
+      "translated": true,
+      "len": 58,
+      "orig_text": "どうしよう？\n　なんだろう、この石？\n　そんな場合じゃないぞ",
+      "translated_text": "What should I do?\n  What are these stones?\n  This is no time for that.",
+      "note": ""
+    },
+    {
+      "offset": "15d58",
+      "translated": true,
+      "len": 73,
+      "orig_text": "宝石みたいな気もする\nけど、それにしちゃあ\n無造作に捨ててあるの\nが変だよな",
+      "translated_text": "They kind of look like\ngems, but it's strange\nthat they're just\nscattered around like this.",
+      "note": ""
+    },
+    {
+      "offset": "15dc8",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・まぁ、いいや",
+      "translated_text": "...Well, whatever.",
+      "note": ""
+    },
+    {
+      "offset": "15e01",
+      "translated": true,
+      "len": 59,
+      "orig_text": "せっかくだから\n拾っておこう\n何かの役にたつかも\nしれないしな",
+      "translated_text": "I'll pick them up since\nI'm here.\nThey might come in handy\nsomeday.",
+      "note": ""
+    },
+    {
+      "offset": "15e5e",
+      "translated": true,
+      "len": 67,
+      "orig_text": "宝石のような気もする\nけど、だったら無造作\nに捨ててあるはずがな\nいな",
+      "translated_text": "They kind of look like\ngems, but if they were,\nthey wouldn't be\nscattered around like this.",
+      "note": ""
+    },
+    {
+      "offset": "15ec8",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・まぁ、いいか",
+      "translated_text": "...Well, whatever.",
+      "note": ""
+    },
+    {
+      "offset": "15f01",
+      "translated": true,
+      "len": 55,
+      "orig_text": "せっかくだから拾って\nおこう\n何かの役にたつかもし\nれない",
+      "translated_text": "I'll pick them up since\nI'm here.\nThey might come in handy\nsomeday.",
+      "note": ""
+    },
+    {
+      "offset": "16017",
+      "translated": true,
+      "len": 63,
+      "orig_text": "おっと、見とれている\n場合じゃない\nまずはここから\n出ないと・・・",
+      "translated_text": "Whoops, I don't have\ntime to admire them.\nFirst, I need to get\nout of here...",
+      "note": ""
+    },
+    {
+      "offset": "1607d",
+      "translated": true,
+      "len": 62,
+      "orig_text": "とりあえずポケットに\nしまっておいて、まず\nはとっとと上に登ろう",
+      "translated_text": "I'll put them in my\npocket for now. First,\nI need to hurry up and\nclimb up.",
+      "note": ""
+    },
+    {
+      "offset": "160dd",
+      "translated": true,
+      "len": 50,
+      "orig_text": "考えるのは後にしよう\nまずはここから出ない\nと・・・",
+      "translated_text": "I'll think about it later.\nFirst, I need to get\nout of here...",
+      "note": ""
+    },
+    {
+      "offset": "16136",
+      "translated": true,
+      "len": 62,
+      "orig_text": "とりあえずポケットに\nしまっておいて、まず\nはこの穴の外へ出よう",
+      "translated_text": "I'll put them in my\npocket for now. First,\nI need to get out of\nthis hole.",
+      "note": ""
+    },
+    {
+      "offset": "16245",
+      "translated": true,
+      "len": 32,
+      "orig_text": "ん？\nあそこにも何か落ちて\nいるぞ",
+      "translated_text": "Hm?\nThere's something else\nfallen over there.",
+      "note": ""
+    },
+    {
+      "offset": "1628c",
+      "translated": true,
+      "len": 52,
+      "orig_text": "途中でひん曲がってる\nけど、これってもしか\nして・・・",
+      "translated_text": "It's bent in the middle,\nbut could this be...\n",
+      "note": ""
+    },
+    {
+      "offset": "162e7",
+      "translated": true,
+      "len": 18,
+      "orig_text": "剣、じゃないのか？",
+      "translated_text": "A sword, isn't it?",
+      "note": ""
+    },
+    {
+      "offset": "16320",
+      "translated": true,
+      "len": 41,
+      "orig_text": "なんで、こんなとこに\n剣が刺さってんだ！？",
+      "translated_text": "Why is there a sword\nstuck here!?",
+      "note": ""
+    },
+    {
+      "offset": "16370",
+      "translated": true,
+      "len": 48,
+      "orig_text": "この上に・・・\nいったい何があるって\nいうんだ！？",
+      "translated_text": "What could possibly\nbe up there!?",
+      "note": ""
+    },
+    {
+      "offset": "16408",
+      "translated": true,
+      "len": 40,
+      "orig_text": "ん？\nあそこにも何か\n刺さっているようだが",
+      "translated_text": "Hm?\nIt looks like there's\nsomething else stuck\nover there.",
+      "note": ""
+    },
+    {
+      "offset": "16457",
+      "translated": true,
+      "len": 29,
+      "orig_text": "これは・・・\n剣じゃないか！？",
+      "translated_text": "This is...\nA sword, isn't it!?",
+      "note": ""
+    },
+    {
+      "offset": "1649b",
+      "translated": true,
+      "len": 39,
+      "orig_text": "どうして、こんな物が\nこんな場所に・・・",
+      "translated_text": "Why is something like\nthis in a place like\nthis...?",
+      "note": ""
+    },
+    {
+      "offset": "164e9",
+      "translated": true,
+      "len": 60,
+      "orig_text": "いや、それ以前にどう\nすればこんな金属の塊\nがひしゃげるんだ？",
+      "translated_text": "No, before that, how\ncould a hunk of metal\nlike this get crushed?",
+      "note": ""
+    },
+    {
+      "offset": "1654c",
+      "translated": true,
+      "len": 37,
+      "orig_text": "普通じゃないことだけ\nはたしかだ・・・",
+      "translated_text": "One thing's for sure,\nthis is not normal...",
+      "note": ""
+    },
+    {
+      "offset": "166cc",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "!?",
+      "note": ""
+    },
+    {
+      "offset": "16761",
+      "translated": true,
+      "len": 56,
+      "orig_text": "・・・なんなんだよ\nまるで爆弾が爆発した\nみたいじゃないか",
+      "translated_text": "...What the hell?\nIt looks like a bomb\nwent off.",
+      "note": ""
+    },
+    {
+      "offset": "167c0",
+      "translated": true,
+      "len": 27,
+      "orig_text": "この人たち、\n大丈夫なのか？",
+      "translated_text": "Are these people\ngoing to be okay?",
+      "note": ""
+    },
+    {
+      "offset": "1682c",
+      "translated": true,
+      "len": 27,
+      "orig_text": "もしもし！\n返事できますか？",
+      "translated_text": "Hello!\nCan you hear me?",
+      "note": ""
+    },
+    {
+      "offset": "168d0",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "note": ""
+    },
+    {
+      "offset": "1693b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "死んじまってる・・・",
+      "translated_text": "They're dead...",
+      "note": ""
+    },
+    {
+      "offset": "16976",
+      "translated": true,
+      "len": 31,
+      "orig_text": "みんな、死んじまって\nるよ・・・",
+      "translated_text": "They're all\ndead...",
+      "note": ""
+    },
+    {
+      "offset": "16a1e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "なんなんだよッ！？",
+      "translated_text": "What the hell!?",
+      "note": ""
+    },
+    {
+      "offset": "16a57",
+      "translated": true,
+      "len": 10,
+      "orig_text": "うっ・・・",
+      "translated_text": "Ugh...",
+      "note": ""
+    },
+    {
+      "offset": "16ac0",
+      "translated": true,
+      "len": 20,
+      "orig_text": "うわあぁぁ〜〜っ！！",
+      "translated_text": "Uwaaaaahhh!!",
+      "note": ""
+    },
+    {
+      "offset": "16af6",
+      "translated": true,
+      "len": 41,
+      "orig_text": "この人たち、みんな死\nんでしまってる・・・",
+      "translated_text": "These people... they're\nall dead...",
+      "note": ""
+    },
+    {
+      "offset": "16b46",
+      "translated": true,
+      "len": 36,
+      "orig_text": "いったい、\n何が起きたって\nいうんだ？",
+      "translated_text": "What in the world\nhappened?",
+      "note": ""
+    },
+    {
+      "offset": "16bf3",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "note": ""
+    },
+    {
+      "offset": "16c5e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "僕のせい、なのか？",
+      "translated_text": "Is it... my fault?",
+      "note": ""
+    },
+    {
+      "offset": "16c97",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "note": ""
+    },
+    {
+      "offset": "16cca",
+      "translated": true,
+      "len": 37,
+      "orig_text": "とにかく、急いでここ\nから立ち去ろう！",
+      "translated_text": "Anyway, I need to\nget out of here, fast!",
+      "note": ""
+    },
+    {
+      "offset": "16e89",
+      "translated": true,
+      "len": 12,
+      "orig_text": "うーん・・・",
+      "translated_text": "Hmm...",
+      "note": ""
+    },
+    {
+      "offset": "16ebc",
+      "translated": true,
+      "len": 20,
+      "orig_text": "今のはいったい・・・",
+      "translated_text": "What was that...",
+      "note": ""
+    },
+    {
+      "offset": "1700f",
+      "translated": true,
+      "len": 27,
+      "orig_text": "えっ！？\nここはどこなの！？",
+      "translated_text": "Eh!?\nWhere is this!?",
+      "note": ""
+    },
+    {
+      "offset": "17089",
+      "translated": true,
+      "len": 62,
+      "orig_text": "なにかの穴の底みたい\nだけど・・・なんで、\nこんなとこに・・・？",
+      "translated_text": "It looks like the bottom\nof some kind of hole...\nBut why am I... here?",
+      "note": ""
+    },
+    {
+      "offset": "1710a",
+      "translated": true,
+      "len": 62,
+      "orig_text": "どうしよう？\n　とにかくここから出よう\n　これはそう、夢なのよ！",
+      "translated_text": "What should I do?\n  Get out of here\n  That's right, this is a dream!",
+      "note": ""
+    },
+    {
+      "offset": "17223",
+      "translated": true,
+      "len": 71,
+      "orig_text": "うーん、きっとこれは\n夢なんだわ\nだからほら、こうして\nほほをつねれば・・",
+      "translated_text": "Hmm, this must be\na dream.\nSo, if I pinch my cheek\nlike this...",
+      "note": ""
+    },
+    {
+      "offset": "172f3",
+      "translated": true,
+      "len": 31,
+      "orig_text": "いたいっ！\n・・・夢じゃない！？",
+      "translated_text": "Ouch!\n...This isn't a dream!?",
+      "note": ""
+    },
+    {
+      "offset": "173b1",
+      "translated": true,
+      "len": 57,
+      "orig_text": "ここにいても\nしかたがないわ\nまずは穴の上まで\n登ってみよう",
+      "translated_text": "There's no point in\nstaying here. First, I'll try\nclimbing up to the top\nof this hole.",
+      "note": ""
+    },
+    {
+      "offset": "1743b",
+      "translated": true,
+      "len": 21,
+      "orig_text": "ん？\nなんだろう、これ",
+      "translated_text": "Hm?\nWhat is this?",
+      "note": ""
+    },
+    {
+      "offset": "17477",
+      "translated": true,
+      "len": 73,
+      "orig_text": "すごくキレイな石\nなんか、いろんな色の\nがあちこちに飛びちっ\nているみたいね",
+      "translated_text": "What a beautiful stone.\nThere are all sorts of\ncolors scattered around,\nit seems.",
+      "note": ""
+    },
+    {
+      "offset": "17503",
+      "translated": true,
+      "len": 58,
+      "orig_text": "どうしよう？\n　全部拾っておこうかな\n　そんな場合じゃないわ",
+      "translated_text": "What should I do?\n  Should I pick them all up?\n  This is no time for that.",
+      "note": ""
+    },
+    {
+      "offset": "175ee",
+      "translated": true,
+      "len": 58,
+      "orig_text": "宝石かもしれないし、\nとりあえず何種類ずつ\nかは拾っていこう",
+      "translated_text": "It could be a gem, so\nI'll pick up at least\none of each kind.",
+      "note": ""
+    },
+    {
+      "offset": "1764f",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何かの役にたつかも\nしれないしね",
+      "translated_text": "They might come in\nhandy someday.",
+      "note": ""
+    },
+    {
+      "offset": "1771b",
+      "translated": true,
+      "len": 56,
+      "orig_text": "ううん、そんな\n場合じゃないわ・・・\nまずはここを出ないと",
+      "translated_text": "No, this is no time\nfor that...\nFirst, I need to get\nout of here.",
+      "note": ""
+    },
+    {
+      "offset": "1777a",
+      "translated": true,
+      "len": 54,
+      "orig_text": "とりあえず、目につい\nたものだけ拾っておく\nことにしよう",
+      "translated_text": "For now, I'll just\npick up the ones that\ncatch my eye.",
+      "note": ""
+    },
+    {
+      "offset": "17921",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "!?",
+      "note": ""
+    },
+    {
+      "offset": "17984",
+      "translated": true,
+      "len": 42,
+      "orig_text": "・・・なによ\nなんでみんな\n倒れてるのよ！？",
+      "translated_text": "...What?\nWhy is everyone\ncollapsed!?",
+      "note": ""
+    },
+    {
+      "offset": "179ff",
+      "translated": true,
+      "len": 25,
+      "orig_text": "ねえ、\n誰か返事をしてよ？",
+      "translated_text": "Hey,\nanswer me!",
+      "note": ""
+    },
+    {
+      "offset": "17a69",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ねえってば！",
+      "translated_text": "Hey, I said!",
+      "note": ""
+    },
+    {
+      "offset": "17ac6",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・ウソでしょ？",
+      "translated_text": "...You're kidding, right?",
+      "note": ""
+    },
+    {
+      "offset": "17aff",
+      "translated": true,
+      "len": 35,
+      "orig_text": "こんなのって、\n無責任じゃない・・・",
+      "translated_text": "This is...\nirresponsible...",
+      "note": ""
+    },
+    {
+      "offset": "17b73",
+      "translated": true,
+      "len": 18,
+      "orig_text": "誰か説明してよ！？",
+      "translated_text": "Someone explain this\nto me!?",
+      "note": ""
+    },
+    {
+      "offset": "17bd6",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・やだよぅ",
+      "translated_text": "...I don't want this.",
+      "note": ""
+    },
+    {
+      "offset": "17c6d",
+      "translated": true,
+      "len": 20,
+      "orig_text": "こんなのやだようっ！",
+      "translated_text": "I don't want this!",
+      "note": ""
+    },
+    {
+      "offset": "17e0e",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！？",
+      "translated_text": "...!?",
+      "note": ""
+    },
+    {
+      "offset": "17ea1",
+      "translated": true,
+      "len": 12,
+      "orig_text": "あのっ・・・",
+      "translated_text": "Um...",
+      "note": ""
+    },
+    {
+      "offset": "17f44",
+      "translated": true,
+      "len": 31,
+      "orig_text": "・・・・・・\n死んで・・・るの？",
+      "translated_text": "......\nAre they... dead?",
+      "note": ""
+    },
+    {
+      "offset": "17ffa",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ひどい・・・",
+      "translated_text": "This is awful...",
+      "note": ""
+    },
+    {
+      "offset": "1802d",
+      "translated": true,
+      "len": 39,
+      "orig_text": "どうして、こんなこと\nになってしまったの",
+      "translated_text": "How did it come to\nthis?",
+      "note": ""
+    },
+    {
+      "offset": "1807b",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "...",
+      "note": ""
+    },
+    {
+      "offset": "180a8",
+      "translated": true,
+      "len": 14,
+      "orig_text": "私のせいなの？",
+      "translated_text": "Is this my fault?",
+      "note": ""
+    },
+    {
+      "offset": "18107",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・イヤっ！",
+      "translated_text": "...No!",
+      "note": ""
+    },
+    {
+      "offset": "18174",
+      "translated": true,
+      "len": 16,
+      "orig_text": "イヤあぁぁっ！！",
+      "translated_text": "Noooo!!",
+      "note": ""
+    }
+  ]
+}
