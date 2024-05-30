@@ -5,9 +5,10 @@
       "offset": "3836",
       "translated": true,
       "len": 54,
-      "orig_text": "せんぱぁい！\nちょっと、ちょーっと\n待ってくださいよぉ！",
-      "translated_text": "Senpai!\nWait a second, wait\njust a second!",
-      "note": ""
+      "orig_text": "せんぱぁい！\n等一下！ちょっと、ちょーっと\n待ってくださいよぉ！",
+      "translated_text": "Senpai!\nWait a second.\nWait!",
+	  "translated_text_zh": "前辈！\n等一下！\n请等一下！",
+      "note": "e"
     },
     {
       "offset": "3911",
@@ -15,23 +16,26 @@
       "len": 27,
       "orig_text": "おお、エミ\nどうかしたのか？",
       "translated_text": "Oh, Emi.\nWhat's up?",
-      "note": ""
+	  "translated_text_zh": "哦、绘美\n怎么了？",
+      "note": "h"
     },
     {
       "offset": "39b5",
       "translated": true,
       "len": 52,
       "orig_text": "えへへ、べつに用事っ\nてわけじゃないんです\nけど・・・",
-      "translated_text": "Ehehe, I don't really\nhave any business\nbut...",
-      "note": ""
+      "translated_text": "Ehehe,\nnothing important\nbut...",
+	  "translated_text_zh": "欸嘿嘿\n没什么事\n但是・・・",
+      "note": "e"
     },
     {
       "offset": "3a10",
       "translated": true,
       "len": 50,
       "orig_text": "駅までですけど、\nよかったらいっしょに\n帰りません？",
-      "translated_text": "I'm going to the\nstation, but would you like\nto go home together?",
-      "note": ""
+      "translated_text": "I'm going to the\nstation. Would you like\nto go home together?",
+	  "translated_text_zh": "我正要去车站\n如果可以的话\n要不要一起回家？",
+      "note": "e"
     },
     {
       "offset": "3acb",
@@ -39,7 +43,8 @@
       "len": 16,
       "orig_text": "ああ、別にいいぜ",
       "translated_text": "Ah, sure.",
-      "note": ""
+	  "translated_text_zh": "嗯、可以",
+      "note": "h"
     },
     {
       "offset": "3b8e",
@@ -47,7 +52,8 @@
       "len": 4,
       "orig_text": "お？",
       "translated_text": "Oh?",
-      "note": ""
+	  "translated_text_zh": "嗯？",
+      "note": "h"
     },
     {
       "offset": "3c53",
@@ -55,23 +61,26 @@
       "len": 16,
       "orig_text": "・・・はあぁ〜っ",
       "translated_text": "...Sigh...",
-      "note": ""
+	  "translated_text_zh": "唉・・・",
+      "note": "k"
     },
     {
       "offset": "3d08",
       "translated": true,
       "len": 29,
       "orig_text": "どうした？\nため息なんかついて",
-      "translated_text": "What's wrong?\nWhy the sigh?",
-      "note": ""
+      "translated_text": "What's wrong?\nWhy do you sigh?",
+	  "translated_text_zh": "怎么了？\n为什么叹气？",
+      "note": "h"
     },
     {
       "offset": "3dae",
       "translated": true,
       "len": 37,
       "orig_text": "わっ、センパイ！？\nな、何でもないです",
-      "translated_text": "Wah, Senpai!?\nN-Nothing's wrong!",
-      "note": ""
+      "translated_text": "Wah, Senpai!?\nN-Nothing!",
+	  "translated_text_zh": "哎？前辈？\n没什么事情・・・",
+      "note": "k"
     },
     {
       "offset": "3e5c",
@@ -79,23 +88,26 @@
       "len": 8,
       "orig_text": "・・・？",
       "translated_text": "...?",
-      "note": ""
+	  "translated_text_zh": "・・・？",
+      "note": "k"
     },
     {
       "offset": "3f09",
       "translated": true,
       "len": 69,
       "orig_text": "せんぱい、おそーい\n・・・って、あれ？\nカツヤじゃない\nなにやってんの？",
-      "translated_text": "Senpai, you're late...\n...Wait, huh?\nIsn't that Katsuya?\nWhat are you doing?",
-      "note": ""
+      "translated_text": "Senpai, you're slow..\n...Wait, huh?\nIsn't that Katsuya?\nWhat are you doing?",
+	  "translated_text_zh": "前辈你好慢啊・・・\n哎？这不是胜也吗？\n你这在干什么？",
+      "note": "e"
     },
     {
       "offset": "3fd7",
       "translated": true,
       "len": 67,
       "orig_text": "ほっとけっ！\n・・・って、あっ！\n今のはエミへの発言\nですからねっ！！",
-      "translated_text": "Leave me alone!\n...Uh, oh!\nThat was meant for Emi,\nyou know!!",
-      "note": ""
+      "translated_text": "Leave me alone!\n...Uh, no!\nThat was for Emi,\nyou know!!",
+	  "translated_text_zh": "别管我啦！\n啊！刚刚是\n在跟绘美说话！",
+      "note": "k"
     },
     {
       "offset": "40e9",
@@ -103,15 +115,17 @@
       "len": 16,
       "orig_text": "・・・はあぁ〜っ",
       "translated_text": "...Sigh...",
-      "note": ""
+	  "translated_text_zh": "唉・・・",
+      "note": "k"
     },
     {
       "offset": "4182",
       "translated": true,
       "len": 44,
       "orig_text": "カツヤのやつ・・・\n何か悩みでも\nあるのかな？",
-      "translated_text": "That Katsuya...\nIs something bothering\nhim?",
-      "note": ""
+      "translated_text": "Is something\nbothering Katsuya?",
+	  "translated_text_zh": "胜也这家伙・・・\n是有什么烦恼吗？",
+      "note": "h"
     },
     {
       "offset": "41f1",
@@ -119,7 +133,8 @@
       "len": 40,
       "orig_text": "どうしよう？\n　そっとしておく\n　心配だな",
       "translated_text": "What should I do?\n  Leave him alone\n  I'm worried",
-      "note": ""
+	  "translated_text_zh": "怎么办呢？\n  不管了\n  有点担心",
+      "note": "h c"
     },
     {
       "offset": "4382",
@@ -127,6 +142,7 @@
       "len": 54,
       "orig_text": "せんぱぁい！\nちょっと、ちょーっと\n待ってくださいよぉ！",
       "translated_text": "Senpai!\nWait a second, wait\njust a second!",
+	  "translated_text_zh": "前辈！\n等一下！\n请等一下！",
       "note": ""
     },
     {
@@ -134,7 +150,8 @@
       "translated": true,
       "len": 35,
       "orig_text": "やあ、日比野さん\nどうかしたのかい？",
-      "translated_text": "Hello, Hibino-san.\nIs something the matter?",
+      "translated_text": "Hello, Hibino-san.\nWhat's up?",
+	  "translated_text_zh": "呀？日比野桑\n有什么事吗？",
       "note": ""
     },
     {
@@ -142,7 +159,8 @@
       "translated": true,
       "len": 52,
       "orig_text": "えへへ、べつに用事っ\nてわけじゃないんです\nけど・・・",
-      "translated_text": "Ehehe, I don't really\nhave any business\nbut...",
+      "translated_text": "Ehehe,\nnothing important\nbut...",
+	   "translated_text_zh": "欸嘿嘿\n没什么事\n但是・・・",
       "note": ""
     },
     {
@@ -150,7 +168,8 @@
       "translated": true,
       "len": 50,
       "orig_text": "駅までですけど、\nよかったらいっしょに\n帰りません？",
-      "translated_text": "I'm going to the\nstation, but would you like\nto go home together?",
+      "translated_text": "I'm going to the\nstation. Would you like\nto go home together?",
+	  "translated_text_zh": "我正要去车站\n如果可以的话\n要不要一起回家？",
       "note": ""
     },
     {
@@ -158,7 +177,8 @@
       "translated": true,
       "len": 18,
       "orig_text": "ああ、かまわないよ",
-      "translated_text": "Ah, I don't mind.",
+      "translated_text": "Ah, all right.",
+	  "translated_text_zh": "可以啊",
       "note": ""
     },
     {
@@ -167,6 +187,7 @@
       "len": 6,
       "orig_text": "あれ？",
       "translated_text": "Huh?",
+	  "translated_text_zh": "嗯?",
       "note": ""
     },
     {
@@ -175,14 +196,16 @@
       "len": 16,
       "orig_text": "・・・はあぁ〜っ",
       "translated_text": "...Sigh...",
+	  "translated_text_zh": "唉・・・",
       "note": ""
     },
     {
       "offset": "4860",
       "translated": true,
-      "len": 35,
+      "len": 35, 
       "orig_text": "カツヤ君じゃないか\nどうかしたのかい",
-      "translated_text": "Isn't that Katsuya-kun?\nIs something wrong?",
+      "translated_text": "Katsuya-kun?\nWhat's wrong?",
+	  "translated_text_zh": "胜也君？\n怎么了?",
       "note": ""
     },
     {
@@ -190,7 +213,8 @@
       "translated": true,
       "len": 37,
       "orig_text": "わっ、センパイ！？\nな、何でもないです",
-      "translated_text": "Wah, Senpai!?\nN-Nothing's wrong!",
+      "translated_text": "Wah, Senpai!?\nN-Nothing!",
+	  "translated_text_zh": "哇啊！前辈！\n没什么",
       "note": ""
     },
     {
@@ -199,6 +223,7 @@
       "len": 35,
       "orig_text": "否定するのは、図星っ\nてことか・・・",
       "translated_text": "Denying it means it's\ntrue...",
+	 "translated_text_zh": "否定就是承认・・・",
       "note": ""
     },
     {
@@ -206,7 +231,8 @@
       "translated": true,
       "len": 69,
       "orig_text": "せんぱい、おそーい\n・・・って、あれ？\nカツヤじゃない\nなにやってんの？",
-      "translated_text": "Senpai, you're late...\n...Wait, huh?\nIsn't that Katsuya?\nWhat are you doing?",
+      "translated_text": "Senpai, you're slow..\n...Wait, huh?\nIsn't that Katsuya?\nWhat are you doing?",
+	  "translated_text_zh": "前辈你好慢啊・・・\n哎？那不是胜也吗？\n你在干嘛？",
       "note": ""
     },
     {
@@ -214,7 +240,8 @@
       "translated": true,
       "len": 67,
       "orig_text": "ほっとけっ！\n・・・って、あっ！\n今のはエミへの発言\nですからねっ！！",
-      "translated_text": "Leave me alone!\n...Uh, oh!\nThat was meant for Emi,\nyou know!!",
+      "translated_text": "Leave me alone!\n...Uh, no!\nThat was for Emi,\nyou know!!",
+	  "translated_text_zh": "别管我啦！\n啊！不、刚刚的话是\n对艾米说的？",
       "note": ""
     },
     {
@@ -223,6 +250,7 @@
       "len": 16,
       "orig_text": "・・・はあぁ〜っ",
       "translated_text": "...Sigh...",
+	  "translated_text_zh": "唉・・・",
       "note": ""
     },
     {
@@ -231,6 +259,7 @@
       "len": 40,
       "orig_text": "カツヤ君・・・\n何か悩みでも\nあるのかな？",
       "translated_text": "Katsuya-kun...\nIs something bothering\nhim?",
+	  "translated_text_zh": "胜也君・・・\n他有什么烦心事吗？",
       "note": ""
     },
     {
@@ -239,6 +268,7 @@
       "len": 40,
       "orig_text": "どうしよう？\n　そっとしておく\n　心配だな",
       "translated_text": "What should I do?\n  Leave him alone\n  I'm worried",
+	  "translated_text_zh": "该怎么办呢？\n  不管他\n  有点担心",
       "note": ""
     },
     {
@@ -246,7 +276,8 @@
       "translated": true,
       "len": 56,
       "orig_text": "センパーイっ！\nちょっと、ちょーっと\n待ってくださいよぉ！",
-      "translated_text": "Senpaaaai!\nWait a second, wait\njust a second!",
+      "translated_text": "Senpaaaai!\nWait a second,\njust a second!",
+	  "translated_text_zh": "前辈！\n请等一下！\n请等一下！",
       "note": ""
     },
     {
@@ -255,6 +286,7 @@
       "len": 35,
       "orig_text": "あら、カツヤくん\nこれから帰るとこ？",
       "translated_text": "Oh, Katsuya-kun.\nAre you going home now?",
+	  "translated_text_zh": "啊、胜也君\n是准备回去吗？",
       "note": ""
     },
     {
@@ -262,7 +294,8 @@
       "translated": true,
       "len": 55,
       "orig_text": "ええ\n駅までですけど、\nよかったらいっしょに\n帰りませんか",
-      "translated_text": "Yeah.\nI'm going to the station,\nbut would you like to\ngo home together?",
+      "translated_text": "Yeah.\nI'm going to the station\nWould you like to\ngo home together?",
+	  "translated_text_zh": "嗯、正要去车站\n如果可以的话\n要不要一起回去？",
       "note": ""
     },
     {
@@ -271,6 +304,7 @@
       "len": 14,
       "orig_text": "ええ、いいわよ",
       "translated_text": "Sure, I'd love to.",
+	  "translated_text_zh": "好啊",
       "note": ""
     },
     {
@@ -279,6 +313,7 @@
       "len": 6,
       "orig_text": "あれ？",
       "translated_text": "Huh?",
+	  "translated_text_zh": "嗯？",
       "note": ""
     },
     {
@@ -287,6 +322,7 @@
       "len": 16,
       "orig_text": "・・・はあぁ〜っ",
       "translated_text": "...Sigh...",
+	  "translated_text_zh": "唉・・・",
       "note": ""
     },
     {
@@ -294,7 +330,8 @@
       "translated": true,
       "len": 31,
       "orig_text": "どうしたの？\nため息なんかついて",
-      "translated_text": "What's wrong?\nWhy the sigh?",
+      "translated_text": "What's up?\nWhy do you sigh?",
+	  "translated_text_zh": "嗯？怎么了？\n为什么叹气？",
       "note": ""
     },
     {
@@ -303,6 +340,7 @@
       "len": 14,
       "orig_text": "あっ、せんぱい",
       "translated_text": "Ah, Senpai.",
+	  "translated_text_zh": "啊、前辈",
       "note": ""
     },
     {
@@ -311,6 +349,7 @@
       "len": 73,
       "orig_text": "いつも元気なエミちゃ\nんがめずらしいなあ\nいったい何をそんなに\n悩んでるの？",
       "translated_text": "It's unusual for the\nalways cheerful Emi-chan...\nWhat's bothering you so\nmuch?",
+	  "translated_text_zh": "这可不像总是元气满满\n的绘美酱啊\n有什么烦心事吗？",
       "note": ""
     },
     {
@@ -319,6 +358,7 @@
       "len": 46,
       "orig_text": "あ、いえっ！\nななっ、なんでもない\nですぅっ！！",
       "translated_text": "Ah, no!\nN-N-Nothing's wrong!!",
+	  "translated_text_zh": "啊、不是！\n没、没什么！",
       "note": ""
     },
     {
@@ -326,7 +366,8 @@
       "translated": true,
       "len": 29,
       "orig_text": "・・・なんで\n赤くなるんだろ？",
-      "translated_text": "...Why\nis she blushing?",
+      "translated_text": "...Why\nare you blushing?",
+	  "translated_text_zh": "怎么了？\n为什么脸红了？",
       "note": ""
     },
     {
@@ -335,6 +376,7 @@
       "len": 71,
       "orig_text": "どうしたッスか、先輩\n・・・って、あれ？\nエミじゃないか\nなにやってんだよ",
       "translated_text": "What's up, Senpai?\n...Wait, huh?\nIsn't that Emi?\nWhat are you doing?",
+	  "translated_text_zh": "怎么了？前辈\n诶？\n这不是绘美吗\n在干什么？",
       "note": ""
     },
     {
@@ -342,7 +384,8 @@
       "translated": true,
       "len": 73,
       "orig_text": "なんでもないって！\n・・・いいから先輩も\nカツヤも、私のことは\n気にしないで",
-      "translated_text": "It's nothing!\n...Just leave me alone,\nboth of you. Don't worry\nabout me.",
+      "translated_text": "It's nothing!\n...Just leave me alone,\nsenpai and Katsuya",
+	  "translated_text_zh": "什么也没有！\n好啦、前辈和胜也\n请都别操心我的事情了",
       "note": ""
     },
     {
@@ -351,6 +394,7 @@
       "len": 40,
       "orig_text": "どうしよう？\n　そっとしておく\n　心配だな",
       "translated_text": "What should I do?\n  Leave her alone\n  I'm worried",
+	  "translated_text_zh": "怎么办才好呢？\n  不管她了\n  果然还是担心",
       "note": ""
     },
     {
@@ -358,7 +402,8 @@
       "translated": true,
       "len": 77,
       "orig_text": "なに怒ってるんだよ？\n・・・ま、いいや\nセンパイ、こんな凶暴\n女ほっときましょう",
-      "translated_text": "Why is she angry?\n...Well, whatever.\nSenpai, let's just leave\nthis violent woman alone.",
+      "translated_text": "What are you mad\nabout? Well, whatever\nSenpai, just leave thi\nviolent woman alone.",
+	  "translated_text_zh": "你在生什么气啊？\n算了、前辈\n不要管这个凶暴女了",
       "note": ""
     },
     {
@@ -367,6 +412,7 @@
       "len": 23,
       "orig_text": "あっ\nちょっとカツヤ君！",
       "translated_text": "Ah,\nHey, Katsuya-kun!",
+	  "translated_text_zh": "啊\n胜也君等一下",
       "note": ""
     },
     {
@@ -375,6 +421,7 @@
       "len": 73,
       "orig_text": "先輩、本当にたいした\nことじゃないですから\nあんまり気にしないで\nくださいね",
       "translated_text": "Senpai, it's really\nnothing, so please\ndon't worry too\nmuch about it.",
+	  "translated_text_zh": "前辈\n真的没什么事情\n所以请不要太在意",
       "note": ""
     },
     {
@@ -383,6 +430,7 @@
       "len": 23,
       "orig_text": "・・・\nならいいんだけど",
       "translated_text": "...\nIf you say so...",
+	  "translated_text_zh": "・・・\n虽然是这样说",
       "note": ""
     },
     {
@@ -391,6 +439,7 @@
       "len": 33,
       "orig_text": "センパーイ！\n早く帰りましょうよぉ",
       "translated_text": "Senpaaaai!\nLet's go home quickly!",
+	  "translated_text_zh": "前辈！！\n我们赶快回去吧",
       "note": ""
     },
     {
@@ -399,6 +448,7 @@
       "len": 18,
       "orig_text": "ほら、呼んでますよ",
       "translated_text": "See, she's calling you.",
+	  "translated_text_zh": "在喊你哦",
       "note": ""
     },
     {
@@ -407,6 +457,7 @@
       "len": 23,
       "orig_text": "うん\nじゃあ、また明日ね",
       "translated_text": "Yeah.\nSee you tomorrow then.",
+	  "translated_text_zh": "嗯\n那么、明天见",
       "note": ""
     },
     {
@@ -415,6 +466,7 @@
       "len": 18,
       "orig_text": "さよなら、せんぱい",
       "translated_text": "Goodbye, Senpai.",
+	  "translated_text_zh": "前辈再见",
       "note": ""
     },
     {
@@ -423,6 +475,7 @@
       "len": 42,
       "orig_text": "うーん・・・\nそうは言われても\n気になるなぁ",
       "translated_text": "Hmm...\nEven though she said that,\nI'm still worried.",
+	  "translated_text_zh": "呃・・・\n虽然这么说了\n果然还是很在意",
       "note": ""
     },
     {
@@ -431,6 +484,7 @@
       "len": 50,
       "orig_text": "ああ、またセンパイの\nお人好しがはじまっち\nまったよ",
       "translated_text": "Ah, Senpai's kindhearted\nnature is acting up\nagain.",
+	  "translated_text_zh": "哈哈\n前辈总是这么\n会关心人呢",
       "note": ""
     },
     {
@@ -439,6 +493,7 @@
       "len": 25,
       "orig_text": "あ、あの・・・\nせんぱい？",
       "translated_text": "Uh, um...\nSenpai?",
+	  "translated_text_zh": "呃嗯・・・\n前・・辈？",
       "note": ""
     },
     {
@@ -446,7 +501,8 @@
       "translated": true,
       "len": 61,
       "orig_text": "ごめん、カツヤくん\nやっぱあたし今日は\n一緒に帰るの\nやめとくわ",
-      "translated_text": "Sorry, Katsuya-kun.\nI think I'll pass on\ngoing home together\ntoday.",
+      "translated_text": "Sorry, Katsuya-kun.\nCould you go home\nyourself today?",
+	  "translated_text_zh": "对不起啊、胜也君\n今天、不能和你一起回去了",
       "note": ""
     },
     {
@@ -455,6 +511,7 @@
       "len": 25,
       "orig_text": "へいへい\n予想してましたよ",
       "translated_text": "Heh heh,\nI was expecting that.",
+	  "translated_text_zh": "嗯哈\n料到了",
       "note": ""
     },
     {
@@ -462,7 +519,8 @@
       "translated": true,
       "len": 81,
       "orig_text": "俺はいいですからガラ\nにもなくたそがれてる\nコイツをよろしく面倒\n見てやって下さいな",
-      "translated_text": "Don't worry about me.\nPlease take care of\nthis guy who's acting\nout of character.",
+      "translated_text": "Don't worry about me.\nPlease take care of\nthe one who's acting\nout of character.",
+	  "translated_text_zh": "我无所谓啦、所以\n还请好好照顾这个\n不在状态的家伙",
       "note": ""
     },
     {
@@ -471,6 +529,7 @@
       "len": 42,
       "orig_text": "ちょっ・・・\nそれってどういう\n意味よっ！？",
       "translated_text": "H-Hey...\nWhat do you mean by\nthat!?",
+	  "translated_text_zh": "你、\n你这话是什么意思?",
       "note": ""
     },
     {
@@ -479,6 +538,7 @@
       "len": 44,
       "orig_text": "ひゃあ！\nそんじゃセンパイっ\nさいならぁ〜っ！",
       "translated_text": "Yikes!\nWell then, Senpai,\nsee you later!",
+	  "translated_text_zh": "嗯啊啊！！\n那么前辈快点拜拜啦！",
       "note": ""
     },
     {
@@ -487,6 +547,7 @@
       "len": 10,
       "orig_text": "んもうっ！",
       "translated_text": "Geez!",
+	  "translated_text_zh": "哼！",
       "note": ""
     },
     {
@@ -495,6 +556,7 @@
       "len": 56,
       "orig_text": "センパーイっ！\nちょっと、ちょーっと\n待ってくださいよぉ！",
       "translated_text": "Senpaaaai!\nWait a second, wait\njust a second!",
+	  "translated_text_zh": "前辈！\n请等一下！\n请等一下！",
       "note": ""
     },
     {
@@ -503,6 +565,7 @@
       "len": 37,
       "orig_text": "あら、カツヤくん\nこれから帰るところ？",
       "translated_text": "Oh, Katsuya-kun.\nAre you going home now?",
+	   "translated_text_zh": "啊、胜也君\n是准备回家吗？",
       "note": ""
     },
     {
@@ -510,7 +573,8 @@
       "translated": true,
       "len": 55,
       "orig_text": "ええ\n駅までですけど、\nよかったらいっしょに\n帰りませんか",
-      "translated_text": "Yeah.\nI'm going to the station,\nbut would you like to\ngo home together?",
+      "translated_text": "Yeah.\nI'm going to the station\nWould you like to\ngo home together?",
+	  "translated_text_zh": "嗯、正要去车站\n如果可以的话\n要不要一起回家？",
       "note": ""
     },
     {
@@ -519,6 +583,7 @@
       "len": 14,
       "orig_text": "ええ、いいわよ",
       "translated_text": "Sure, I'd love to.",
+	  "translated_text_zh": "好啊",
       "note": ""
     },
     {
@@ -527,6 +592,7 @@
       "len": 6,
       "orig_text": "あれ？",
       "translated_text": "Huh?",
+	  "translated_text_zh": "嗯？",
       "note": ""
     },
     {
@@ -535,6 +601,7 @@
       "len": 16,
       "orig_text": "・・・はあぁ〜っ",
       "translated_text": "...Sigh...",
+	  "translated_text_zh": "唉・・・",
       "note": ""
     },
     {
@@ -542,7 +609,8 @@
       "translated": true,
       "len": 31,
       "orig_text": "どうしたの？\nため息なんかついて",
-      "translated_text": "What's wrong?\nWhy the sigh?",
+      "translated_text": "What's up?\nWhy do you sigh?",
+	  "translated_text_zh": "嗯？怎么了？\n为什么叹气？",
       "note": ""
     },
     {
@@ -551,6 +619,7 @@
       "len": 14,
       "orig_text": "あっ、せんぱい",
       "translated_text": "Ah, Senpai.",
+	  "translated_text_zh": "啊、前辈",
       "note": ""
     },
     {
@@ -558,7 +627,8 @@
       "translated": true,
       "len": 73,
       "orig_text": "いつも元気なエミちゃ\nんがめずらしいなあ\nいったい何をそんなに\n悩んでるの？",
-      "translated_text": "It's unusual for the\nalways cheerful Emi-chan...\nWhat's bothering you so\nmuch?",
+	  "translated_text": "It's unusual for the\nalways cheerful Emi-chan...\nWhat's bothering you so\nmuch?",
+	  "translated_text_zh": "这可不像总是元气满满\n的绘美酱啊\n有什么烦心事吗？",
       "note": ""
     },
     {
@@ -566,7 +636,8 @@
       "translated": true,
       "len": 46,
       "orig_text": "あ、いえっ！\nななっ、なんでもない\nですぅっ！！",
-      "translated_text": "Ah, no!\nN-N-Nothing's wrong!!",
+      "translated_text": "Ah, no!\nN-N-Nothing!!",
+	  "translated_text_zh": "啊、不是！\n没、没什么！",
       "note": ""
     },
     {
@@ -575,6 +646,7 @@
       "len": 29,
       "orig_text": "・・・なんで\n赤くなるんだろ？",
       "translated_text": "...Why\nis she blushing?",
+	  "translated_text_zh": "怎么了？\n为什么脸红了？",
       "note": ""
     },
     {
@@ -583,6 +655,7 @@
       "len": 71,
       "orig_text": "どうしたッスか、先輩\n・・・って、あれ？\nエミじゃないか\nなにやってんだよ",
       "translated_text": "What's up, Senpai?\n...Wait, huh?\nIsn't that Emi?\nWhat are you doing?",
+	  "translated_text_zh": "怎么了？前辈\n诶？\n这不是绘美吗\n在干什么？",
       "note": ""
     },
     {
@@ -590,7 +663,8 @@
       "translated": true,
       "len": 73,
       "orig_text": "なんでもないって！\n・・・いいから先輩も\nカツヤも、私のことは\n気にしないで",
-      "translated_text": "It's nothing!\n...Just leave me alone,\nboth of you. Don't worry\nabout me.",
+      "translated_text": "It's nothing!\n...Just leave me alone,\nsenpai and Katsuya",
+	  "translated_text_zh": "什么也没有！\n好啦、前辈和胜也\n请都别操心我的事情了",
       "note": ""
     },
     {
@@ -599,6 +673,7 @@
       "len": 40,
       "orig_text": "どうしよう？\n　そっとしておく\n　心配だな",
       "translated_text": "What should I do?\n  Leave her alone\n  I'm worried",
+	  "translated_text_zh": "怎么办才好呢？\n  不管她了\n  果然还是担心",
       "note": ""
     },
     {
@@ -606,7 +681,8 @@
       "translated": true,
       "len": 77,
       "orig_text": "なに怒ってるんだよ？\n・・・ま、いいや\nセンパイ、こんな凶暴\n女ほっときましょう",
-      "translated_text": "Why is she angry?\n...Well, whatever.\nSenpai, let's just leave\nthis violent woman alone.",
+      "translated_text": "What are you mad\nabout? Well, whatever\nSenpai, just leave this\nviolent woman alone.",
+	  "translated_text_zh": "你在生什么气啊？\n算了、前辈\n不要管这个凶暴女了",
       "note": ""
     },
     {
@@ -615,6 +691,7 @@
       "len": 23,
       "orig_text": "あっ\nちょっとカツヤ君！",
       "translated_text": "Ah,\nHey, Katsuya-kun!",
+	  "translated_text_zh": "啊\n胜也君等一下",
       "note": ""
     },
     {
@@ -623,6 +700,7 @@
       "len": 73,
       "orig_text": "先輩、本当にたいした\nことじゃないですから\nあんまり気にしないで\nくださいね",
       "translated_text": "Senpai, it's really\nnothing, so please\ndon't worry too\nmuch about it.",
+	  "translated_text_zh": "前辈\n真的没什么事情\n所以请不要太在意",
       "note": ""
     },
     {
@@ -631,6 +709,7 @@
       "len": 23,
       "orig_text": "・・・\nならいいんだけど",
       "translated_text": "...\nIf you say so...",
+	  "translated_text_zh": "・・・\n虽然是这样说",
       "note": ""
     },
     {
@@ -639,6 +718,7 @@
       "len": 33,
       "orig_text": "センパーイ！\n早く帰りましょうよぉ",
       "translated_text": "Senpaaaai!\nLet's go home quickly!",
+	  "translated_text_zh": "前辈！！\n我们赶快回去吧",
       "note": ""
     },
     {
@@ -647,6 +727,7 @@
       "len": 18,
       "orig_text": "ほら、呼んでますよ",
       "translated_text": "See, she's calling you.",
+	  "translated_text_zh": "在叫你哦",
       "note": ""
     },
     {
@@ -655,6 +736,7 @@
       "len": 23,
       "orig_text": "うん\nじゃあ、また明日ね",
       "translated_text": "Yeah.\nSee you tomorrow then.",
+	  "translated_text_zh": "嗯\n明天见",
       "note": ""
     },
     {
@@ -663,6 +745,7 @@
       "len": 18,
       "orig_text": "さよなら、せんぱい",
       "translated_text": "Goodbye, Senpai.",
+	  "translated_text_zh": "前辈再见",
       "note": ""
     },
     {
@@ -671,6 +754,7 @@
       "len": 42,
       "orig_text": "うーん・・・\nそうは言われても\n気になるなぁ",
       "translated_text": "Hmm...\nEven though she said that,\nI'm still worried.",
+	  "translated_text_zh": "呃・・・\n虽然这么说了\n果然还是很在意",
       "note": ""
     },
     {
@@ -679,6 +763,7 @@
       "len": 50,
       "orig_text": "ああ、またセンパイの\nお人好しがはじまっち\nまったよ",
       "translated_text": "Ah, Senpai's kindhearted\nnature is acting up\nagain.",
+	  "translated_text_zh": "哈哈\n前辈总是这么\n会关心人呢",
       "note": ""
     },
     {
@@ -687,6 +772,7 @@
       "len": 25,
       "orig_text": "あ、あの・・・\nせんぱい？",
       "translated_text": "Uh, um...\nSenpai?",
+	  "translated_text_zh": "呃嗯・・・\n前・・辈？",
       "note": ""
     },
     {
@@ -694,7 +780,8 @@
       "translated": true,
       "len": 61,
       "orig_text": "ごめん、カツヤくん\nやっぱわたし今日は\n一緒に帰るの\nやめとくわ",
-      "translated_text": "Sorry, Katsuya-kun.\nI think I'll pass on\ngoing home together\ntoday.",
+      "translated_text": "Sorry, Katsuya-kun.\nCould you go home\nyourself today?",
+	  "translated_text_zh": "对不起啊、胜也君\n今天、不能和你一起回去了",
       "note": ""
     },
     {
@@ -703,6 +790,7 @@
       "len": 25,
       "orig_text": "へいへい\n予想してましたよ",
       "translated_text": "Heh heh,\nI was expecting that.",
+	  "translated_text_zh": "嗯哈\n料到了",
       "note": ""
     },
     {
@@ -710,7 +798,8 @@
       "translated": true,
       "len": 81,
       "orig_text": "俺はいいですからガラ\nにもなくたそがれてる\nコイツをよろしく面倒\n見てやって下さいな",
-      "translated_text": "Don't worry about me.\nPlease take care of\nthis one who's acting\nout of character.",
+      "translated_text": "Don't worry about me.\nPlease take care of\nthe one who's acting\nout of character.",
+	  "translated_text_zh": "我无所谓啦、所以\n还请好好照顾这个\n不在状态的家伙",
       "note": ""
     },
     {
@@ -719,6 +808,7 @@
       "len": 42,
       "orig_text": "ちょっ・・・\nそれってどういう\n意味よっ！？",
       "translated_text": "H-Hey...\nWhat do you mean by\nthat!?",
+	  "translated_text_zh": "你、\n你这话是什么意思?",
       "note": ""
     },
     {
@@ -727,6 +817,7 @@
       "len": 44,
       "orig_text": "ひゃあ！\nそんじゃセンパイっ\nさいならぁ〜っ！",
       "translated_text": "Yikes!\nWell then, Senpai,\nsee you later!",
+	  "translated_text_zh": "嗯啊啊！！\n那么前辈快点拜拜啦！",
       "note": ""
     },
     {
@@ -735,6 +826,7 @@
       "len": 10,
       "orig_text": "んもうっ！",
       "translated_text": "Geez!",
+	  "translated_text_zh": "哼！",
       "note": ""
     },
     {
@@ -743,7 +835,8 @@
       "len": 75,
       "orig_text": "なんかカツヤのバカが\nめずらしくおとなし\nかったけど・・・\nどうかしたのかなぁ",
       "translated_text": "That idiot Katsuya was\nunusually quiet...\nI wonder what's\nwrong with him?",
-      "note": ""
+	  "translated_text_zh": "笨蛋胜也怎么一反平常\n地沉默・・・\n他今天是怎么了？",
+      "note": "e"
     },
     {
       "offset": "8467",
@@ -751,7 +844,8 @@
       "len": 12,
       "orig_text": "気になるか？",
       "translated_text": "You worried?",
-      "note": ""
+	  "translated_text_zh": "有点在意他？",
+      "note": "h ref k"
     },
     {
       "offset": "84fc",
@@ -759,7 +853,8 @@
       "len": 69,
       "orig_text": "そ、そんなことないで\nすよ！ただ、いつも\nうるさいアイツが\n珍しいなって",
       "translated_text": "N-No, not at all!\nIt's just that it's\nunusual for him to be\nso quiet.",
-      "note": ""
+	  "translated_text_zh": "不、不是的！\n只是那家伙一直话很多\n今天却这么沉默",
+      "note": "e"
     },
     {
       "offset": "8592",
@@ -767,7 +862,8 @@
       "len": 39,
       "orig_text": "・・・変なモノひろい\n食いでもしたかな？",
       "translated_text": "...Maybe he ate\nsomething weird?",
-      "note": ""
+	  "translated_text_zh": "也许是\n吃了奇怪的东西？",
+      "note": "h"
     },
     {
       "offset": "8618",
@@ -775,7 +871,8 @@
       "len": 35,
       "orig_text": "なんだ、やっぱり心配\nなんじゃないか",
       "translated_text": "What, you are worried\nabout him, aren't you?",
-      "note": ""
+	  "translated_text_zh": "果然还是\n有点在意他？",
+      "note": "h"
     },
     {
       "offset": "869a",
@@ -783,7 +880,8 @@
       "len": 65,
       "orig_text": "う・・・まあ、そりゃ\n「おさななじみ」って\nヤツですし\nあんなのでも",
       "translated_text": "W-Well, yeah,\nhe's my \"childhood\nfriend\" after all,\neven if he's like that.",
-      "note": ""
+	  "translated_text_zh": "嗯・・・\n和他也算是幼驯染吧",
+      "note": "e"
     },
     {
       "offset": "873a",
@@ -791,7 +889,8 @@
       "len": 37,
       "orig_text": "「恋人」のまちがい\nなんじゃないのか？",
       "translated_text": "Maybe you mean\n\"lover\" instead?",
-      "note": ""
+	  "translated_text_zh": "不是「恋人」吗？",
+      "note": "h"
     },
     {
       "offset": "87e8",
@@ -799,7 +898,8 @@
       "len": 59,
       "orig_text": "ひどいなぁ\n私にだって相手を\n選ぶ権利ぐらい\nありますってばぁ",
       "translated_text": "That's mean!\nI have the right to\nchoose who I like,\nyou know!",
-      "note": ""
+	  "translated_text_zh": "好过分欸\n我也有选择喜欢人\n的权力",
+      "note": "e"
     },
     {
       "offset": "8874",
@@ -807,7 +907,8 @@
       "len": 58,
       "orig_text": "そういうセンパイこそ\n誰かイイひとがいるん\nじゃないですか？",
       "translated_text": "Speaking of which,\ndoesn't Senpai have\nsomeone special?",
-      "note": ""
+	  "translated_text_zh": "说起来\n对前辈来说\n有特别的人吗？",
+      "note": "e"
     },
     {
       "offset": "8937",
@@ -815,7 +916,8 @@
       "len": 16,
       "orig_text": "いや、フリーだよ",
       "translated_text": "Nope, I'm free.",
-      "note": ""
+	  "translated_text_zh": "没有",
+      "note": "h"
     },
     {
       "offset": "89d0",
@@ -823,15 +925,17 @@
       "len": 16,
       "orig_text": "ホントですかぁ？",
       "translated_text": "Really?",
-      "note": ""
+	  "translated_text_zh": "真的吗？",
+      "note": "e"
     },
     {
       "offset": "8a3f",
       "translated": true,
       "len": 61,
       "orig_text": "ウソをついても\n仕方がないだろう\n誰ともつきあって\nなんかないさ",
-      "translated_text": "There's no point\nin lying.\nI'm not seeing\nanyone.",
-      "note": ""
+      "translated_text": "There's no point\nin lying.\nI'm not dating\nanyone.",
+      "translated_text_zh": "骗你也没有好处\n我并没有跟谁在交往",
+	  "note": "h"
     },
     {
       "offset": "8b05",
@@ -839,7 +943,8 @@
       "len": 27,
       "orig_text": "へえ・・・\nなんか意外だなぁ",
       "translated_text": "Hee...\nThat's surprising.",
-      "note": ""
+	  "translated_text_zh": "欸・・・\n有点意想不到呢",
+      "note": "e"
     },
     {
       "offset": "8b47",
@@ -847,15 +952,17 @@
       "len": 52,
       "orig_text": "ちなみにセンパイは、\nどんなタイプが好み\nなんですか？",
       "translated_text": "By the way, Senpai,\nwhat kind of person\ndo you like?",
-      "note": ""
+      "translated_text_zh": "对了前辈\n你喜欢什么类型的女生",
+	  "note": "e to h"
     },
     {
       "offset": "8c04",
       "translated": true,
       "len": 39,
       "orig_text": "なんだよ、いきなり\n別の話題にしないか？",
-      "translated_text": "Hey, why are you\nsuddenly changing\nthe subject?",
-      "note": ""
+      "translated_text": "Why so sudden?\nCan we change the\nsubject?",
+	  "translated_text_zh": "什么呀\n突然转到这个话题\n能不能换个话题？",
+      "note": "h"
     },
     {
       "offset": "8cb4",
@@ -863,7 +970,8 @@
       "len": 14,
       "orig_text": "えへへ、ダーメ",
       "translated_text": "Ehehe, no way.",
-      "note": ""
+	  "translated_text_zh": "嘿嘿、不行",
+      "note": "e"
     },
     {
       "offset": "8d4b",
@@ -871,7 +979,8 @@
       "len": 37,
       "orig_text": "・・・なんか、ハメ\nられた気がするぞ？",
       "translated_text": "...I feel like I've\nbeen tricked.",
-      "note": ""
+	  "translated_text_zh": "总觉得\n被耍了啊",
+      "note": "h"
     },
     {
       "offset": "8db3",
@@ -879,7 +988,8 @@
       "len": 50,
       "orig_text": "どうしよう？\n　活発な子かな\n　落ち着いた子がいいな",
       "translated_text": "What should I say?\n  An energetic girl?\n  A calm girl?",
-      "note": ""
+	  "translated_text_zh": "怎么回答呢？\n　活泼型的吧\n　文静型的吧",
+      "note": "h c"
     },
     {
       "offset": "8e96",
@@ -887,6 +997,7 @@
       "len": 44,
       "orig_text": "ふむふむ、活発な人が\nタイプですか\nなるほどー",
       "translated_text": "Hmm hmm, so you like\nenergetic girls.\nI see.",
+	  "translated_text_zh": "嗯、、、\n原来前辈喜欢活泼型的",
       "note": ""
     },
     {
@@ -894,15 +1005,17 @@
       "translated": true,
       "len": 79,
       "orig_text": "センパイの行動力につ\nいていくには、相手も\nタフじゃないとダメっ\nてことかぁ・・・",
-      "translated_text": "To keep up with Senpai's\nenergy, she has to be\ntough too...\nI see...",
-      "note": ""
+      "translated_text": "To keep up with Senpai's\nenergy, have to be\ntough too...\nI see...",
+	  "translated_text_zh": "为了跟上前辈的精力\n另一方面也得加强呢",
+      "note": "bad"
     },
     {
       "offset": "8fd7",
       "translated": true,
       "len": 48,
       "orig_text": "ふむふむ、おちついた\n人がタイプですか\nなるほどー",
-      "translated_text": "Hmm hmm, so you like\ncalm girls.\nI see.",
+	  "translated_text": "Hmm hmm, so you like\nenergetic girls.\nI see.",
+      "translated_text_zh": "哦、、、\n原来前辈喜欢文静系的",
       "note": ""
     },
     {
@@ -911,7 +1024,8 @@
       "len": 77,
       "orig_text": "それにはまずセンパイ\nが、もうちょっとおち\nつきをもつほうが先だ\nと私は思うなぁ",
       "translated_text": "I think Senpai needs\nto calm down a little\nfirst.\nThat's what I think.",
-      "note": ""
+	  "translated_text_zh": "那么前辈自己首先得\n变得稍微文静一点呢\n我觉得",
+      "note": "e to h"
     },
     {
       "offset": "911a",
@@ -919,7 +1033,8 @@
       "len": 49,
       "orig_text": "じゃあ、\nそういうお前は\nどんなタイプが\nいいんだ？",
       "translated_text": "So,\nwhat kind of guy do\nyou like then?",
-      "note": ""
+	  "translated_text_zh": "那么\n你喜欢什么类型的呢",
+      "note": "h to e"
     },
     {
       "offset": "91aa",
@@ -927,7 +1042,8 @@
       "len": 6,
       "orig_text": "・・・",
       "translated_text": "...",
-      "note": ""
+	  "translated_text_zh": "・・・",
+      "note": "e"
     },
     {
       "offset": "9201",
@@ -935,7 +1051,8 @@
       "len": 33,
       "orig_text": "いっけなーい！\n電車が来ちゃう！？",
       "translated_text": "Oh no!\nThe train is coming!?",
-      "note": ""
+	  "translated_text_zh": "得出发了\n电车来了！？",
+      "note": "e"
     },
     {
       "offset": "92d5",
@@ -943,7 +1060,8 @@
       "len": 20,
       "orig_text": "え・・・って、おい？",
       "translated_text": "Huh... Hey?",
-      "note": ""
+	  "translated_text_zh": "哎・・・？",
+      "note": "h"
     },
     {
       "offset": "9348",
@@ -951,6 +1069,7 @@
       "len": 4,
       "orig_text": "エミ",
       "translated_text": "Emi",
+	  "translated_text_zh": "绘美",
       "note": ""
     },
     {
@@ -959,7 +1078,8 @@
       "len": 37,
       "orig_text": "じゃあセンパイ、\nつづきはまた今度ねっ",
       "translated_text": "Well then, Senpai,\nlet's continue this\nanother time.",
-      "note": ""
+	  "translated_text_zh": "那么、前辈\n改天我们再继续今天的\n话题吧",
+      "note": "e"
     },
     {
       "offset": "9413",
@@ -967,7 +1087,8 @@
       "len": 20,
       "orig_text": "逃げやがったな・・・",
       "translated_text": "She ran away...",
-      "note": ""
+	  "translated_text_zh": "走掉了啊・・・",
+      "note": "h"
     },
     {
       "offset": "95c4",
@@ -975,6 +1096,7 @@
       "len": 75,
       "orig_text": "なんかカツヤのバカが\nめずらしくおとなし\nかったけど・・・\nどうかしたのかなぁ",
       "translated_text": "That idiot Katsuya was\nunusually quiet...\nI wonder what's\nwrong with him?",
+	  "translated_text_zh":  "笨蛋胜也怎么一反平常\n地沉默・・・\n他到底怎么什么了？",
       "note": ""
     },
     {
@@ -983,6 +1105,7 @@
       "len": 14,
       "orig_text": "気になるかい？",
       "translated_text": "You worried?",
+	  "translated_text_zh":  "有点在意他？",
       "note": ""
     },
     {
@@ -991,6 +1114,7 @@
       "len": 69,
       "orig_text": "そ、そんなことないで\nすよ！ただ、いつも\nうるさいアイツが\n珍しいなって",
       "translated_text": "N-No, not at all!\nIt's just that it's\nunusual for him to be\nso quiet.",
+	  "translated_text_zh": "不、不是的！\n只是平常话多的那家伙\n今天为什么没话",
       "note": ""
     },
     {
@@ -999,6 +1123,7 @@
       "len": 39,
       "orig_text": "・・・変なモノひろい\n食いでもしたかな？",
       "translated_text": "...Maybe he ate\nsomething weird?",
+	   "translated_text_zh": "也许是\n吃了奇怪的东西？",
       "note": ""
     },
     {
@@ -1007,6 +1132,7 @@
       "len": 35,
       "orig_text": "ははは、やっぱり心配\nなんじゃないか",
       "translated_text": "Hahaha, you are worried\nabout him, aren't you?",
+	   "translated_text_zh": "果然还是\n有点在意？",
       "note": ""
     },
     {
@@ -1015,6 +1141,7 @@
       "len": 65,
       "orig_text": "う・・・まあ、そりゃ\n「おさななじみ」って\nヤツですし\nあんなのでも",
       "translated_text": "W-Well, yeah,\nhe's my \"childhood\nfriend\" after all,\neven if he's like that.",
+	   "translated_text_zh": "呃・・・\n也算是幼驯染吧",
       "note": ""
     },
     {
@@ -1023,6 +1150,7 @@
       "len": 39,
       "orig_text": "「恋人」のまちがいな\nんじゃないのかな？",
       "translated_text": "Maybe you mean\n\"lover\" instead?",
+	  "translated_text_zh": "不是「恋人」吗？",
       "note": ""
     },
     {
@@ -1031,6 +1159,7 @@
       "len": 59,
       "orig_text": "ひどいなぁ\n私にだって相手を\n選ぶ権利ぐらい\nありますってばぁ",
       "translated_text": "That's mean!\nI have the right to\nchoose who I like,\nyou know!",
+	   "translated_text_zh": "好过分欸\n我也有选择我喜欢的人\n的权力",
       "note": ""
     },
     {
@@ -1039,6 +1168,7 @@
       "len": 58,
       "orig_text": "そういうセンパイこそ\n誰かイイひとがいるん\nじゃないですか？",
       "translated_text": "Speaking of which,\ndoesn't Senpai have\nsomeone special?",
+	  "translated_text_zh": "说起来\n对前辈来说\n有特别的人吗？",
       "note": ""
     },
     {
@@ -1047,6 +1177,7 @@
       "len": 20,
       "orig_text": "そんな相手はいないよ",
       "translated_text": "I don't have anyone like\nthat.",
+	  "translated_text_zh": "没有这样的人",
       "note": ""
     },
     {
@@ -1055,6 +1186,7 @@
       "len": 16,
       "orig_text": "ホントですかぁ？",
       "translated_text": "Really?",
+	  "translated_text_zh": "真的吗？",
       "note": ""
     },
     {
@@ -1062,7 +1194,8 @@
       "translated": true,
       "len": 63,
       "orig_text": "嘘をついたって仕方が\nないだろう\n誰ともつきあってなん\nかいないよ",
-      "translated_text": "There's no point in\nlying.\nI'm not seeing\nanyone.",
+      "translated_text": "There's no point in\nlying.\nI'm not dating\nanyone.",
+	   "translated_text_zh": "骗你也没有意义\n我并没有跟谁在交往",
       "note": ""
     },
     {
@@ -1071,6 +1204,7 @@
       "len": 27,
       "orig_text": "へえ・・・\nなんか意外だなぁ",
       "translated_text": "Hee...\nThat's surprising.",
+	  "translated_text_zh": "欸・・・\n有点意想不到呢",
       "note": ""
     },
     {
@@ -1079,6 +1213,7 @@
       "len": 52,
       "orig_text": "ちなみにセンパイは、\nどんなタイプが好み\nなんですか？",
       "translated_text": "By the way, Senpai,\nwhat kind of person\ndo you like?",
+	  "translated_text_zh": "对了前辈\n你喜欢什么类型的女生",
       "note": ""
     },
     {
@@ -1086,7 +1221,8 @@
       "translated": true,
       "len": 39,
       "orig_text": "なんだよ、いきなり\n別の話題にしないかい",
-      "translated_text": "Hey, why are you\nsuddenly changing\nthe subject?",
+      "translated_text": "Why so sudden?\nCan we change the\nsubject?",
+	  "translated_text_zh": "什么呀、\n突然转到这个话题\n能不能换个话题？",
       "note": ""
     },
     {
@@ -1095,6 +1231,7 @@
       "len": 14,
       "orig_text": "えへへ、ダーメ",
       "translated_text": "Ehehe, no way.",
+	  "translated_text_zh": "嘿嘿、不行",
       "note": ""
     },
     {
@@ -1103,6 +1240,7 @@
       "len": 39,
       "orig_text": "・・・なんか、うまく\nのせられた気がする",
       "translated_text": "...I feel like I've been\nsmoothly tricked.",
+	  "translated_text_zh": "总觉得\n被耍了啊",
       "note": ""
     },
     {
@@ -1111,6 +1249,7 @@
       "len": 50,
       "orig_text": "どうしよう？\n　活発な子かな\n　落ち着いた子がいいな",
       "translated_text": "What should I say?\n  An energetic girl?\n  A calm girl?",
+	  "translated_text_zh": "怎么回答呢？\n　活泼型的吧\n　文静型的吧",
       "note": ""
     },
     {
@@ -1119,6 +1258,7 @@
       "len": 44,
       "orig_text": "ふむふむ、活発な人が\nタイプですか\nなるほどー",
       "translated_text": "Hmm hmm, so you like\nenergetic girls.\nI see.",
+	  "translated_text_zh": "嗯、、、\n原来前辈喜欢活泼型的",
       "note": ""
     },
     {
@@ -1126,8 +1266,9 @@
       "translated": true,
       "len": 75,
       "orig_text": "センパイ、どっちかっ\nていったら「つくす」\nタイプだもんね\nうん、お似合いかも",
-      "translated_text": "Senpai, you're more\nof a \"devoted\" type,\naren't you?\nYeah, that might be a\ngood match.",
-      "note": ""
+      "translated_text": "Senpai, you like\n\"devoted\",\naren't you?\nYeah, that might be a\ngood match.",
+	  "translated_text_zh": "嗯、、、原来前辈\n喜欢那种全力以赴型的\n很般配哦",
+      "note": "bad"
     },
     {
       "offset": "a210",
@@ -1135,6 +1276,7 @@
       "len": 48,
       "orig_text": "ふむふむ、おちついた\n人がタイプですか\nなるほどー",
       "translated_text": "Hmm hmm, so you like\ncalm girls.\nI see.",
+	   "translated_text_zh": "嗯、、、\n原来前辈喜欢文静系的",
       "note": ""
     },
     {
@@ -1143,6 +1285,7 @@
       "len": 73,
       "orig_text": "なんだか「オトナ」の\nおつきあいってカンジ\nがしちゃいますね\nカッコイイなぁ",
       "translated_text": "It feels like a very\n\"adult\" kind of\nrelationship.\nThat's cool.",
+	  "translated_text_zh": "很有「大人」感觉的\n关系吗\n有点帅气呢",
       "note": ""
     },
     {
@@ -1151,6 +1294,7 @@
       "len": 61,
       "orig_text": "それじゃ、\nそういう君の\nタイプっていうのは\nどんな人なんだい？",
       "translated_text": "Well then,\nwhat kind of person\nis your type?",
+	  "translated_text_zh": "那么\n你喜欢什么类型呢",
       "note": ""
     },
     {
@@ -1159,6 +1303,7 @@
       "len": 6,
       "orig_text": "・・・",
       "translated_text": "...",
+	  "translated_text_zh": "・・・",
       "note": ""
     },
     {
@@ -1167,6 +1312,7 @@
       "len": 33,
       "orig_text": "いっけなーい！\n電車が来ちゃう！？",
       "translated_text": "Oh no!\nThe train is coming!?",
+	  	"translated_text_zh": "得出发了\n电车来了！？",
       "note": ""
     },
     {
@@ -1175,6 +1321,7 @@
       "len": 20,
       "orig_text": "おい、ちょっと・・・",
       "translated_text": "Hey, wait...",
+	  "translated_text_zh": "喂、等下",
       "note": ""
     },
     {
@@ -1183,6 +1330,7 @@
       "len": 4,
       "orig_text": "エミ",
       "translated_text": "Emi",
+	  "translated_text_zh": "绘美",
       "note": ""
     },
     {
@@ -1191,6 +1339,7 @@
       "len": 37,
       "orig_text": "じゃあセンパイ、\nつづきはまた今度ねっ",
       "translated_text": "Well then, Senpai,\nlet's continue this\nanother time.",
+	  "translated_text_zh": "那么、前辈\n改天再继续今天的话题吧",
       "note": ""
     },
     {
@@ -1199,6 +1348,7 @@
       "len": 16,
       "orig_text": "逃げられた・・・",
       "translated_text": "She got away...",
+	  "translated_text_zh": "走掉了啊・・・",
       "note": ""
     },
     {
@@ -1206,7 +1356,8 @@
       "translated": true,
       "len": 73,
       "orig_text": "エミのやつ、いつもと\nちょっと様子が違った\nけど・・・どうしたん\nですかね？",
-      "translated_text": "Emi was acting a little\ndifferent than usual...\nI wonder what's\nwrong with her?",
+      "translated_text": "Emi was acting a little\ndifferent than usual...\nI wonder what's\nup with her?",
+	  "translated_text_zh": "总觉得\n绘美今天有点不一样\n怎么回事呢",
       "note": ""
     },
     {
@@ -1215,6 +1366,7 @@
       "len": 10,
       "orig_text": "気になる？",
       "translated_text": "You worried?",
+	  "translated_text_zh":  "有点在意？",
       "note": ""
     },
     {
@@ -1222,7 +1374,8 @@
       "translated": true,
       "len": 69,
       "orig_text": "そ、そんなことないで\nすよ！ただ、いつも\nうるさいアイツが\n珍しいなあと",
-      "translated_text": "N-No, not at all!\nIt's just that it's\nunusual for her to be\nso quiet.",
+      "translated_text": "N-No, not at all!\nIt's just that it's\nunusual for him to be\nso quiet.",
+	  "translated_text_zh": "不、不是的！\n只是平常话多的那家伙\n今天为什么没什么话",
       "note": ""
     },
     {
@@ -1231,6 +1384,7 @@
       "len": 39,
       "orig_text": "・・・なんか天変地異\nでもおこったりして",
       "translated_text": "...Maybe there's some\nnatural disaster\ngoing on?",
+	   "translated_text_zh": "・・・或许是\n天地异变？",
       "note": ""
     },
     {
@@ -1239,6 +1393,7 @@
       "len": 33,
       "orig_text": "なんだ、やっぱり\n心配なんじゃない",
       "translated_text": "What, you are worried\nabout her, aren't you?",
+	   "translated_text_zh": "所以是\n不担心？",
       "note": ""
     },
     {
@@ -1247,6 +1402,7 @@
       "len": 65,
       "orig_text": "う・・・まあ、そりゃ\n「おさななじみ」って\nヤツですし\nあんなのでも",
       "translated_text": "W-Well, yeah,\nshe's my \"childhood\nfriend\" after all,\neven if she's like that.",
+	   "translated_text_zh": "呃・・・\n也算是幼驯染吧",
       "note": ""
     },
     {
@@ -1255,6 +1411,7 @@
       "len": 35,
       "orig_text": "「恋人」のまちがい\nなんじゃないの？",
       "translated_text": "Maybe you mean\n\"lover\" instead?",
+	  "translated_text_zh": "不是「恋人」吗？",
       "note": ""
     },
     {
@@ -1263,6 +1420,7 @@
       "len": 57,
       "orig_text": "ひどいなぁ\n俺にだって相手を\n選ぶ権利ぐらい\nありますって！",
       "translated_text": "That's mean!\nI have the right to\nchoose who I like,\ntoo!",
+	  "translated_text_zh": "过分\n我也有选择我喜欢的人\n的权力",
       "note": ""
     },
     {
@@ -1270,7 +1428,8 @@
       "translated": true,
       "len": 58,
       "orig_text": "そういうセンパイこそ\n誰かとつきあってるん\nじゃないですか？",
-      "translated_text": "Speaking of which,\ndoesn't Senpai have\nsomeone special?",
+      "translated_text": "Speaking of which,\nis Senpai dating\nsomeone?",
+	   "translated_text_zh": "前辈有在交往吗？",
       "note": ""
     },
     {
@@ -1278,7 +1437,8 @@
       "translated": true,
       "len": 31,
       "orig_text": "え・・・つきあって\nなんかないよ",
-      "translated_text": "Huh... I'm not\nseeing anyone.",
+      "translated_text": "Huh... I'm not",
+	  "translated_text_zh": "欸・・・没有",
       "note": ""
     },
     {
@@ -1287,6 +1447,7 @@
       "len": 16,
       "orig_text": "ホントですかぁ？",
       "translated_text": "Really?",
+	   "translated_text_zh": "真的吗？",
       "note": ""
     },
     {
@@ -1294,7 +1455,8 @@
       "translated": true,
       "len": 61,
       "orig_text": "ウソをついても仕方が\nないもの\n誰ともつきあって\nなんかいないよ",
-      "translated_text": "There's no point in\nlying.\nI'm not seeing\nanyone.",
+      "translated_text": "There's no point in\nlying.\nI'm not dating\nanyone.",
+	    "translated_text_zh": "骗你也没有意义\n我并没有跟谁在交往",
       "note": ""
     },
     {
@@ -1303,6 +1465,7 @@
       "len": 27,
       "orig_text": "へえ・・・\nなんか意外だなぁ",
       "translated_text": "Hee...\nThat's surprising.",
+	   "translated_text_zh": "欸・・・\n有点意想不到呢",
       "note": ""
     },
     {
@@ -1311,6 +1474,7 @@
       "len": 52,
       "orig_text": "ちなみにセンパイは、\nどんなタイプが好み\nなんですか？",
       "translated_text": "By the way, Senpai,\nwhat kind of person\ndo you like?",
+	   "translated_text_zh": "对了前辈\n你喜欢什么类型",
       "note": ""
     },
     {
@@ -1319,6 +1483,7 @@
       "len": 16,
       "orig_text": "なによ、いきなり",
       "translated_text": "What, all of a sudden?",
+	   "translated_text_zh": "什么啊\n突然这么问",
       "note": ""
     },
     {
@@ -1327,6 +1492,7 @@
       "len": 35,
       "orig_text": "いいじゃないですか\n教えてくださいよ",
       "translated_text": "Come on,\ntell me.",
+	  "translated_text_zh": "也没什么\n就告诉我嘛",
       "note": ""
     },
     {
@@ -1335,6 +1501,7 @@
       "len": 31,
       "orig_text": "なんか、はめられた\n気がするなぁ",
       "translated_text": "I feel like I've been\ntricked...",
+	    "translated_text_zh": "总感觉\n被耍了呀",
       "note": ""
     },
     {
@@ -1342,7 +1509,8 @@
       "translated": true,
       "len": 46,
       "orig_text": "どうしよう？\n　活発な人かな\n　おちついた人かな",
-      "translated_text": "What should I say?\n  An energetic girl?\n  A calm girl?",
+      "translated_text": "What should I say?\n   energetic\n  calm",
+	   "translated_text_zh": "怎么回答呢？\n　活泼型\n　冷静型",
       "note": ""
     },
     {
@@ -1350,7 +1518,8 @@
       "translated": true,
       "len": 44,
       "orig_text": "ふむふむ、活発な人が\nタイプですか\nなるほどー",
-      "translated_text": "Hmm hmm, so you like\nenergetic girls.\nI see.",
+      "translated_text": "Hmm hmm, so you like\nenergetic ones.\nI see.",
+	    "translated_text_zh": "嗯、、、\n原来前辈喜欢有活力的",
       "note": ""
     },
     {
@@ -1358,8 +1527,9 @@
       "translated": true,
       "len": 71,
       "orig_text": "先輩の行動力に付い\nていくには相手もタフ\nじゃないと駄目って\nことですかー",
-      "translated_text": "To keep up with Senpai's\nenergy, she has to be\ntough too... Is that\nwhat you're saying?",
-      "note": ""
+      "translated_text": "To keep up with Senpai's\nenergy, must be\ntough too...",
+	   "translated_text_zh": "想跟上前辈的活力\n也必须努力了",
+      "note": "bad"
     },
     {
       "offset": "b460",
@@ -1367,6 +1537,7 @@
       "len": 47,
       "orig_text": "ふむふむ\n落ち着いた人が\nタイプですか\nなるほどー",
       "translated_text": "Hmm hmm,\nso you like calm girls.\nI see.",
+	   "translated_text_zh": "嗯、、、\n原来前辈喜欢\n沉着冷静型的",
       "note": ""
     },
     {
@@ -1375,6 +1546,7 @@
       "len": 67,
       "orig_text": "それにはまず\n先輩がもうちょっと\n落ち着きを持つほうが\n先だと思うなー",
       "translated_text": "I think Senpai needs to\ncalm down a little\nfirst.\nThat's what I think.",
+	  "translated_text_zh": "那么前辈自己首先得\n变得稍微文静一点呢\n我觉得",
       "note": ""
     },
     {
@@ -1383,6 +1555,7 @@
       "len": 48,
       "orig_text": "さあ、今度はあなたの\nタイプを教えてくれる\n番よ？",
       "translated_text": "Now, it's your turn\nto tell me what your\ntype is, right?",
+	   "translated_text_zh": "现在该你了\n告诉我\n你喜欢什么类型吧",
       "note": ""
     },
     {
@@ -1391,6 +1564,7 @@
       "len": 40,
       "orig_text": "・・・\nあ、ヤバっ！？\n電車が来る時間だ！",
       "translated_text": "...\nAh, crap!?\nIt's time for the train!",
+	    "translated_text_zh": "・・・\n糟糕\n电车要来了",
       "note": ""
     },
     {
@@ -1399,6 +1573,7 @@
       "len": 18,
       "orig_text": "あ、ちょっと・・・",
       "translated_text": "Ah, wait...",
+	    "translated_text_zh": "喂、等等",
       "note": ""
     },
     {
@@ -1407,6 +1582,7 @@
       "len": 6,
       "orig_text": "カツヤ",
       "translated_text": "Katsuya",
+	   "translated_text_zh": "胜也",
       "note": ""
     },
     {
@@ -1415,6 +1591,7 @@
       "len": 39,
       "orig_text": "それじゃセンパイっ、\nまった明日〜っ！！",
       "translated_text": "Well then, Senpai,\nsee ya tomorrow!!",
+	     "translated_text_zh": "前辈再见啦\n我们明天见",
       "note": ""
     },
     {
@@ -1423,6 +1600,7 @@
       "len": 18,
       "orig_text": "・・・行っちゃった",
       "translated_text": "...He's gone.",
+	     "translated_text_zh": "走掉了・・・",
       "note": ""
     },
     {
@@ -1430,7 +1608,8 @@
       "translated": true,
       "len": 73,
       "orig_text": "エミのやつ、いつもと\nちょっと様子が違った\nけど・・・どうしたん\nですかね？",
-      "translated_text": "Emi was acting a little\ndifferent than usual...\nI wonder what's\nwrong with her?",
+      "translated_text": "Emi was acting a little\ndifferent than usual...\nI wonder what's\nup with her?",
+	  "translated_text_zh": "总觉得\n绘美今天有点不一样\n怎么回事呢",
       "note": ""
     },
     {
@@ -1439,6 +1618,7 @@
       "len": 10,
       "orig_text": "気になる？",
       "translated_text": "You worried?",
+	    "translated_text_zh":  "有点在意？",
       "note": ""
     },
     {
@@ -1447,6 +1627,7 @@
       "len": 69,
       "orig_text": "そ、そんなことないで\nすよ！ただ、いつも\nうるさいアイツが\n珍しいなあと",
       "translated_text": "N-No, not at all!\nIt's just that it's\nunusual for her to be\nso quiet.",
+	  "translated_text_zh": "不、不是的！\n只是平常话多的那家伙\n今天为什么没什么话",
       "note": ""
     },
     {
@@ -1455,6 +1636,7 @@
       "len": 39,
       "orig_text": "・・・なんか天変地異\nでもおこったりして",
       "translated_text": "...Maybe there's some\nnatural disaster\ngoing on?",
+	  "translated_text_zh": "・・・或许是\n天地异变？",
       "note": ""
     },
     {
@@ -1463,6 +1645,7 @@
       "len": 33,
       "orig_text": "なんだ、やっぱり\n心配なんじゃない",
       "translated_text": "What, you are worried\nabout her, aren't you?",
+	     "translated_text_zh": "所以是\n不担心？",
       "note": ""
     },
     {
@@ -1471,6 +1654,7 @@
       "len": 65,
       "orig_text": "う・・・まあ、そりゃ\n「おさななじみ」って\nヤツですし\nあんなのでも",
       "translated_text": "W-Well, yeah,\nshe's my \"childhood\nfriend\" after all,\neven if she's like that.",
+	   "translated_text_zh": "呃・・・\n也算是幼驯染吧",
       "note": ""
     },
     {
@@ -1479,6 +1663,7 @@
       "len": 35,
       "orig_text": "「恋人」のまちがい\nなんじゃないの？",
       "translated_text": "Maybe you mean\n\"lover\" instead?",
+	  "translated_text_zh": "不是「恋人」吗？",
       "note": ""
     },
     {
@@ -1487,14 +1672,16 @@
       "len": 57,
       "orig_text": "ひどいなぁ\n俺にだって相手を\n選ぶ権利ぐらい\nありますって！",
       "translated_text": "That's mean!\nI have the right to\nchoose who I like,\ntoo!",
-      "note": ""
+       "translated_text_zh": "过分\n我也有选择我喜欢的人\n的权力",
+	  "note": ""
     },
     {
       "offset": "be74",
       "translated": true,
       "len": 58,
       "orig_text": "そういうセンパイこそ\n誰かとつきあってるん\nじゃないですか？",
-      "translated_text": "Speaking of which,\ndoesn't Senpai have\nsomeone special?",
+      "translated_text": "Speaking of which,\nis Senpai dating\nsomeone?",
+	     "translated_text_zh": "前辈有在交往吗？",
       "note": ""
     },
     {
@@ -1502,7 +1689,8 @@
       "translated": true,
       "len": 31,
       "orig_text": "え・・・つきあって\nなんかないよ",
-      "translated_text": "Huh... I'm not\nseeing anyone.",
+      "translated_text": "Huh... I'm not\ndating anyone.",
+	  "translated_text_zh": "欸・・・交往・・・\n没有",
       "note": ""
     },
     {
@@ -1511,6 +1699,7 @@
       "len": 16,
       "orig_text": "ホントですかぁ？",
       "translated_text": "Really?",
+	   "translated_text_zh": "真的吗？",
       "note": ""
     },
     {
@@ -1518,7 +1707,8 @@
       "translated": true,
       "len": 61,
       "orig_text": "ウソをついても仕方が\nないもの\n誰ともつきあって\nなんかいないよ",
-      "translated_text": "There's no point in\nlying.\nI'm not seeing\nanyone.",
+      "translated_text": "There's no point in\nlying.\nI'm not dating\nanyone.",
+	  	    "translated_text_zh": "骗你也没有意义\n我并没有跟谁在交往",
       "note": ""
     },
     {
@@ -1527,6 +1717,7 @@
       "len": 27,
       "orig_text": "へえ・・・\nなんか意外だなぁ",
       "translated_text": "Hee...\nThat's surprising.",
+	  "translated_text_zh": "欸・・・\n有点意想不到呢",
       "note": ""
     },
     {
@@ -1535,6 +1726,7 @@
       "len": 52,
       "orig_text": "ちなみにセンパイは、\nどんなタイプが好み\nなんですか？",
       "translated_text": "By the way, Senpai,\nwhat kind of person\ndo you like?",
+	 "translated_text_zh": "对了前辈\n你喜欢什么类型",
       "note": ""
     },
     {
@@ -1542,7 +1734,8 @@
       "translated": true,
       "len": 16,
       "orig_text": "なによ、いきなり",
-      "translated_text": "What, all of a sudden?",
+     "translated_text": "What, all of a sudden?",
+	   "translated_text_zh": "什么啊\n突然这么问",
       "note": ""
     },
     {
@@ -1551,6 +1744,7 @@
       "len": 35,
       "orig_text": "いいじゃないですか\n教えてくださいよ",
       "translated_text": "Come on,\ntell me.",
+	  "translated_text_zh": "也没什么\n就告诉我嘛",
       "note": ""
     },
     {
@@ -1559,6 +1753,7 @@
       "len": 31,
       "orig_text": "なんか、はめられた\n気がするなぁ",
       "translated_text": "I feel like I've been\ntricked...",
+	    "translated_text_zh": "总感觉\n被耍了呀",
       "note": ""
     },
     {
@@ -1566,7 +1761,8 @@
       "translated": true,
       "len": 46,
       "orig_text": "どうしよう？\n　活発な人かな\n　おちついた人かな",
-      "translated_text": "What should I say?\n  An energetic girl?\n  A calm girl?",
+      "translated_text": "What should I say?\n  energetic one\n  calm one",
+	    "translated_text_zh": "怎么回答呢？\n　活泼型\n　冷静型",
       "note": ""
     },
     {
@@ -1574,7 +1770,8 @@
       "translated": true,
       "len": 44,
       "orig_text": "ふむふむ、活発な人が\nタイプですか\nなるほどー",
-      "translated_text": "Hmm hmm, so you like\nenergetic girls.\nI see.",
+      "translated_text": "Hmm hmm, so you like\nenergetic one.\nI see.",
+	     "translated_text_zh": "嗯、、、\n原来前辈喜欢\n沉着冷静型的",
       "note": ""
     },
     {
@@ -1583,6 +1780,7 @@
       "len": 75,
       "orig_text": "センパイどっちかって\nいったら「つくす」\nタイプですもんね\nうん、お似合いかも",
       "translated_text": "Senpai, you're more\nof a \"devoted\" type,\naren't you?\nYeah, that might be a\ngood match.",
+	    "translated_text_zh": "嗯、、、原来前辈\n喜欢那种全力以赴型的\n很般配哦",
       "note": ""
     },
     {
@@ -1591,6 +1789,7 @@
       "len": 48,
       "orig_text": "ふむふむ、落ち着いた\n人がタイプですか\nなるほどー",
       "translated_text": "Hmm hmm, so you like\ncalm girls.\nI see.",
+	   "translated_text_zh": "嗯、、、\n原来前辈喜欢文静系的",
       "note": ""
     },
     {
@@ -1599,6 +1798,7 @@
       "len": 71,
       "orig_text": "なんだか「オトナ」の\nおつきあいって感じが\nしちゃいますね\nカッコイイなぁ",
       "translated_text": "It feels like a very\n\"adult\" kind of\nrelationship.\nThat's cool.",
+	  	  "translated_text_zh": "很有「大人」感觉的\n关系吗\n好酷",
       "note": ""
     },
     {
@@ -1607,6 +1807,7 @@
       "len": 48,
       "orig_text": "さあ、今度はあなたの\nタイプを教えてくれる\n番よ？",
       "translated_text": "Now, it's your turn\nto tell me what your\ntype is, right?",
+	   "translated_text_zh": "现在该你了\n告诉我\n你喜欢什么类型吧",
       "note": ""
     },
     {
@@ -1615,6 +1816,7 @@
       "len": 40,
       "orig_text": "・・・\nあ、ヤバっ！？\n電車が来る時間だ！",
       "translated_text": "...\nAh, crap!?\nIt's time for the train!",
+	   "translated_text_zh": "・・・\n糟糕\n电车要来了",
       "note": ""
     },
     {
@@ -1623,6 +1825,7 @@
       "len": 18,
       "orig_text": "あ、ちょっと・・・",
       "translated_text": "Ah, wait...",
+	    "translated_text_zh": "喂、等等",
       "note": ""
     },
     {
@@ -1631,6 +1834,7 @@
       "len": 6,
       "orig_text": "カツヤ",
       "translated_text": "Katsuya",
+	   "translated_text_zh": "胜也",
       "note": ""
     },
     {
@@ -1639,6 +1843,7 @@
       "len": 39,
       "orig_text": "それじゃセンパイっ、\nまった明日〜っ！！",
       "translated_text": "Well then, Senpai,\nsee ya tomorrow!!",
+	     "translated_text_zh": "前辈再见啦\n我们明天见",
       "note": ""
     },
     {
@@ -1647,6 +1852,7 @@
       "len": 18,
       "orig_text": "・・・行っちゃった",
       "translated_text": "...He's gone.",
+	   "translated_text_zh": "走掉了・・・",
       "note": ""
     },
     {
@@ -1654,7 +1860,8 @@
       "translated": true,
       "len": 38,
       "orig_text": "すいません\nエミと帰るところ\nだったのに",
-      "translated_text": "Sorry.\nI was about to go home\nwith Emi.",
+      "translated_text": "Sorry. You were\nsupposed to go back\nwith Emi today.",
+      "translated_text_zh": "对不起、前辈\n你今天本来是要跟\n绘美一起回去的",
       "note": ""
     },
     {
@@ -1663,6 +1870,7 @@
       "len": 58,
       "orig_text": "気にしなくていいぜ\nとくに大事な用がある\nわけでもなかったし",
       "translated_text": "Don't worry about it.\nI didn't have anything\nimportant to do anyway.",
+	    "translated_text_zh": "别在意哟\n本来我也没什么要事",
       "note": ""
     },
     {
@@ -1671,6 +1879,7 @@
       "len": 35,
       "orig_text": "それよりどうした？\n悩みでもあるのか",
       "translated_text": "More importantly, what's\nwrong? You got a problem?",
+	       "translated_text_zh": "比起这个\n你有好像有些烦心事",
       "note": ""
     },
     {
@@ -1679,6 +1888,7 @@
       "len": 35,
       "orig_text": "お金のこと以外なら\n相談にのるぜ！！",
       "translated_text": "If it's not about money,\nI'll listen to ya!!",
+	  	  "translated_text_zh": "钱以外的事情\n都可以说哦！！",
       "note": ""
     },
     {
@@ -1687,6 +1897,7 @@
       "len": 46,
       "orig_text": "・・・\nセンパイがいつも貧乏\nなのは知ってますよ",
       "translated_text": "...\nI know you're always\nbroke, Senpai.",
+	  	"translated_text_zh": "・・・\n前辈的拮据我也是知道的",
       "note": ""
     },
     {
@@ -1695,6 +1906,7 @@
       "len": 12,
       "orig_text": "ははは・・・",
       "translated_text": "Hahaha...",
+	  "translated_text_zh": "哈哈哈・・・",
       "note": ""
     },
     {
@@ -1703,6 +1915,7 @@
       "len": 61,
       "orig_text": "せんぱいの\nクラスに、図書委員の\nヒグチさんって\nいましたよね？",
       "translated_text": "There was a girl named\nHiguchi-san in your class,\nwho was on the library\ncommittee, right?",
+	  "translated_text_zh": "图书委员樋口桑、\n是前辈同班同学吧？",
       "note": ""
     },
     {
@@ -1711,6 +1924,7 @@
       "len": 46,
       "orig_text": "ああ、しってるよ\nヒグチ・・・アヤ・・\nだっけ？",
       "translated_text": "Yeah, I know her.\nHiguchi... Aya...\nwas it?",
+	  "translated_text_zh": "啊、我认识她\n樋口绫是吧？",
       "note": ""
     },
     {
@@ -1719,6 +1933,7 @@
       "len": 71,
       "orig_text": "はい・・・\nその・・・じつは俺、\nアヤ先輩に告白しよう\nって思ってるんです",
       "translated_text": "Yes...\nWell... the truth is,\nI'm thinking of\nconfessing to Aya-senpai.",
+	  "translated_text_zh": "是的・・・\n我准备向绫前辈\n告白来着・・・",
       "note": ""
     },
     {
@@ -1727,6 +1942,8 @@
       "len": 12,
       "orig_text": "ええ〜っ！？",
       "translated_text": "Ehhh!?",
+	    "translated_text_zh": "欸！？",
+	  
       "note": ""
     },
     {
@@ -1735,6 +1952,7 @@
       "len": 50,
       "orig_text": "そんなにおどろかなく\nたっていいじゃない\nですかぁ！",
       "translated_text": "You don't have to be\nso surprised,\ndo you!",
+	    "translated_text_zh": "没必要这么大惊小怪吧\n！！！",
       "note": ""
     },
     {
@@ -1743,6 +1961,7 @@
       "len": 16,
       "orig_text": "あ、わりぃ・・・",
       "translated_text": "Ah, sorry...",
+	  "translated_text_zh": "呃、对不起\n！！！",
       "note": ""
     },
     {
@@ -1751,6 +1970,7 @@
       "len": 73,
       "orig_text": "そりゃ、たしかに俺が\nお嬢様のアヤ先輩と\nつり合わないことは\nわかってますよ",
       "translated_text": "Well, I know I'm\nnot good enough for a\nlady like Aya-senpai.",
+	    "translated_text_zh": "确实我知道\n我和大小姐綾前辈\n不太般配",
       "note": ""
     },
     {
@@ -1759,6 +1979,7 @@
       "len": 39,
       "orig_text": "ライバルがいーっぱい\nいるのも知ってます",
       "translated_text": "I know there are a lot\nof rivals.",
+	    "translated_text_zh": "我也知道\n绫前辈有很多追求者",
       "note": ""
     },
     {
@@ -1767,6 +1988,7 @@
       "len": 62,
       "orig_text": "でも、あきらめるのは\nアタックしてからでも\nいいって思いません？",
       "translated_text": "But don't you think\nit's better to give up\nafter trying?",
+	      "translated_text_zh": "但是前辈你不觉得\n要放弃的话\n也要先尝试下告白吧？",
       "note": ""
     },
     {
@@ -1775,6 +1997,7 @@
       "len": 59,
       "orig_text": "ああ、\nカツヤにしては前向き\nでいいんじゃないか？\n見直したよ",
       "translated_text": "Yeah,\nthat's a positive\nattitude for you,\nKatsuya. I'm impressed.",
+	    "translated_text_zh": "按你这么说\n向前看不也挺好的吗？\n再试试呗",
       "note": ""
     },
     {
@@ -1783,6 +2006,7 @@
       "len": 56,
       "orig_text": "でも、いざ告白しよう\nとすると、どうしても\n勇気がでなくて",
       "translated_text": "But when it comes to\nactually confessing, I\njust can't work up the\ncourage.",
+	    "translated_text_zh": "・・・\n但真的想去告白的时候\n无论如何就是拿不出勇气",
       "note": ""
     },
     {
@@ -1791,6 +2015,7 @@
       "len": 35,
       "orig_text": "なるほど、それで\n悩んでたってわけか",
       "translated_text": "I see, so that's what\nyou were worried about.",
+	   "translated_text_zh": "原来如此\n你是因为这个才烦恼的啊",
       "note": ""
     },
     {
@@ -1799,6 +2024,7 @@
       "len": 67,
       "orig_text": "ねえ、センパイ\nあの人が誰かとつきあ\nってる話とか、聞いて\nません！？",
       "translated_text": "Hey, Senpai,\nhave you heard anything\nabout her going out with\nsomeone!?",
+	  "translated_text_zh": "呐\n前辈、你听说过\n她现在在和谁交往吗？",
       "note": ""
     },
     {
@@ -1807,6 +2033,7 @@
       "len": 53,
       "orig_text": "悪いな\n俺、あんまりアイツと\n親しいわけじゃ\nないんだよ",
       "translated_text": "Sorry,\nI'm not really that close\nto her.",
+	  "translated_text_zh": "抱歉\n我跟她不是很熟",
       "note": ""
     },
     {
@@ -1815,6 +2042,7 @@
       "len": 41,
       "orig_text": "ほら、性格なんかモロ\nに正反対っぽいだろ？",
       "translated_text": "See, our personalities\nare totally opposite,\nright?",
+	  "translated_text_zh": "你看、\n性格还有说话风格都完全相反是吧？",
       "note": ""
     },
     {
@@ -1823,6 +2051,7 @@
       "len": 14,
       "orig_text": "・・・たしかに",
       "translated_text": "...That's true.",
+	   "translated_text_zh": "也是呢・・・",
       "note": ""
     },
     {
@@ -1831,6 +2060,7 @@
       "len": 58,
       "orig_text": "でも、ウワサにもなっ\nてないし、チャンスは\nまだあると思うぜ",
       "translated_text": "But I haven't heard any\nrumors, so I think you\nstill have a chance.",
+	  "translated_text_zh": "但是\n现在还没有这样的传言\n我想你还是有机会的",
       "note": ""
     },
     {
@@ -1839,6 +2069,7 @@
       "len": 60,
       "orig_text": "せっかく勇気を出した\nんだからさ、とにかく\nアタックしてみろよ",
       "translated_text": "You've worked up the\ncourage, so just go for\nit!",
+	  "translated_text_zh": "难得鼓起勇气\n总之就对她告白看看嘛",
       "note": ""
     },
     {
@@ -1847,6 +2078,7 @@
       "len": 20,
       "orig_text": "俺も応援してやっから",
       "translated_text": "I'm rooting for you.",
+	  "translated_text_zh": "我也会为你加油的",
       "note": ""
     },
     {
@@ -1855,6 +2087,7 @@
       "len": 42,
       "orig_text": "うーん・・・\nよし、やるだけ\nやってみるか！",
       "translated_text": "Hmm...\nAlright, I'll give it\na shot!",
+	  "translated_text_zh": "呜嗯・・・\n好\n我就尽我所能试试看吧！",
       "note": ""
     },
     {
@@ -1863,6 +2096,7 @@
       "len": 10,
       "orig_text": "がんばれよ",
       "translated_text": "Good luck.",
+	    "translated_text_zh": "加油",
       "note": ""
     },
     {
@@ -1871,6 +2105,7 @@
       "len": 65,
       "orig_text": "それじゃ、センパイ\n相談にのってくれて\nありがとう\nございましたっ！",
       "translated_text": "Well then, Senpai,\nthanks for listening to\nmy worries!",
+	  	"translated_text_zh": "和前辈聊了这么多\n真是太感谢了！\n前辈再见！",
       "note": ""
     },
     {
@@ -1878,7 +2113,8 @@
       "translated": true,
       "len": 38,
       "orig_text": "すいません\nエミと帰るところ\nだったのに",
-      "translated_text": "Sorry.\nI was about to go home\nwith Emi.",
+      "translated_text": "Sorry. You were\nsupposed to go back\nwith Emi today.",
+      "translated_text_zh": "对不起、前辈\n你今天本来是要跟\n绘美一起回去的",
       "note": ""
     },
     {
@@ -1887,6 +2123,7 @@
       "len": 54,
       "orig_text": "気にしなくていいよ\n大した用事があったわ\nけじゃないんだ",
       "translated_text": "Don't worry about it.\nIt wasn't anything\nimportant.",
+	   "translated_text_zh": "别在意哟\n也不是什么很重要的事",
       "note": ""
     },
     {
@@ -1895,6 +2132,7 @@
       "len": 52,
       "orig_text": "それよりどうしたんだ\n僕でよかったら相談に\nのるけど？",
       "translated_text": "More importantly, what's\nwrong? I'll listen to you\nif you want.",
+	   "translated_text_zh": "比起这个\n如果你想和我谈谈\n我可以帮你",
       "note": ""
     },
     {
@@ -1903,6 +2141,7 @@
       "len": 56,
       "orig_text": "・・・すいません\nいつもセンパイには\n甘えてばかりで・・・",
       "translated_text": "...Sorry.\nI'm always relying on\nyou, Senpai...",
+	   "translated_text_zh": "・・・对不起\n总是来麻烦前辈",
       "note": ""
     },
     {
@@ -1911,6 +2150,7 @@
       "len": 18,
       "orig_text": "気にしなくていいよ",
       "translated_text": "Don't worry about it.",
+	    "translated_text_zh": "别在意",
       "note": ""
     },
     {
@@ -1919,6 +2159,7 @@
       "len": 59,
       "orig_text": "せんぱいの\nクラスに、バレー部の\nナツミさんって\nいますよね？",
       "translated_text": "There was a girl named\nNatsumi-san in your\nclass, who was on the\nvolleyball team, right?",
+	  "translated_text_zh": "芭蕾部的夏美桑、\n是前辈同班同学吧？",
       "note": ""
     },
     {
@@ -1927,6 +2168,7 @@
       "len": 25,
       "orig_text": "彼女がどうかした\nのかい？",
       "translated_text": "Is something wrong\nwith her?",
+	   "translated_text_zh": "她怎么了？",
       "note": ""
     },
     {
@@ -1935,6 +2177,7 @@
       "len": 52,
       "orig_text": "その・・・じつは俺、\nナツミ先輩のことが\n好きなんです",
       "translated_text": "Well... the truth is,\nI... like Natsumi-senpai.",
+	   "translated_text_zh": "我・・・\n我喜欢夏美前辈",
       "note": ""
     },
     {
@@ -1943,6 +2186,7 @@
       "len": 6,
       "orig_text": "え！？",
       "translated_text": "Huh!?",
+	    "translated_text_zh": "欸！？",
       "note": ""
     },
     {
@@ -1951,6 +2195,7 @@
       "len": 77,
       "orig_text": "そりゃ、たしかに俺が\nナツミ先輩にアタック\nするなんて無茶だって\nわかってますよ",
       "translated_text": "Well, I know it's\ncrazy for me to try to\ngo after Natsumi-senpai.",
+	  	  "translated_text_zh": "是的、我知道\n虽然有点荒唐、\n向夏美前辈告白什么的",
       "note": ""
     },
     {
@@ -1959,6 +2204,7 @@
       "len": 39,
       "orig_text": "ライバルがいーっぱい\nいるのも知ってます",
       "translated_text": "I know there are a lot\nof rivals.",
+	    "translated_text_zh": "我也知道\n夏美前辈有很多追求者",
       "note": ""
     },
     {
@@ -1967,6 +2213,7 @@
       "len": 59,
       "orig_text": "でも、好きに\nなっちまったものは\nどうしようも\nないでしょう？",
       "translated_text": "But what can I do?\nI can't help who I\nfall for, can I?",
+	    "translated_text_zh": "但是、\n喜欢上一个人\n是没有办法的\n对吧",
       "note": ""
     },
     {
@@ -1975,6 +2222,7 @@
       "len": 6,
       "orig_text": "・・・",
       "translated_text": "...",
+	    "translated_text_zh": "・・・",
       "note": ""
     },
     {
@@ -1983,6 +2231,7 @@
       "len": 56,
       "orig_text": "でも、いざ告白しよう\nとすると、どうしても\n勇気がでなくて",
       "translated_text": "But when it comes to\nactually confessing, I\njust can't work up the\ncourage.",
+	    "translated_text_zh": "但是・・・\n但真的想去告白的时候\n无论如何就是拿不出勇气",
       "note": ""
     },
     {
@@ -1991,6 +2240,7 @@
       "len": 44,
       "orig_text": "それで、いつも元気な\nキミが悩んでいたわけ\nだ",
       "translated_text": "So that's what was\nbothering the always\ncheerful you.",
+	   "translated_text_zh": "这就是让总是元气满满\n的你烦恼的事啊",
       "note": ""
     },
     {
@@ -1999,6 +2249,7 @@
       "len": 71,
       "orig_text": "ねえ、センパイ\nあの人が誰かとつきあ\nってる話とか、聞いて\nませんよね！？",
       "translated_text": "Hey, Senpai,\nhave you heard anything\nabout her going out with\nsomeone!?",
+	    "translated_text_zh": "呐\n前辈、你听说过\n她现在在和谁交往吗？",
       "note": ""
     },
     {
@@ -2007,6 +2258,7 @@
       "len": 57,
       "orig_text": "すまない\n僕は、あんまり彼女と\nは親しいわけじゃない\nんだよ",
       "translated_text": "Sorry,\nI'm not really that close\nto her.",
+	  		  "translated_text_zh": "抱歉\n我跟她不是很熟",
       "note": ""
     },
     {
@@ -2015,6 +2267,7 @@
       "len": 16,
       "orig_text": "そうですか・・・",
       "translated_text": "I see...",
+	  	  "translated_text_zh": "这样吗",
       "note": ""
     },
     {
@@ -2023,6 +2276,7 @@
       "len": 50,
       "orig_text": "あ、でも、恋人が\nいるって話はまだ\n聞いた事はないよ",
       "translated_text": "Oh, but I haven't heard\nanything about her\nhaving a boyfriend.",
+	  	  "translated_text_zh": "但是\n没听说过她有恋人哦",
       "note": ""
     },
     {
@@ -2031,6 +2285,7 @@
       "len": 20,
       "orig_text": "え、ホントですか！？",
       "translated_text": "Eh, really!?",
+	  "translated_text_zh": "真的吗！？",
       "note": ""
     },
     {
@@ -2039,6 +2294,7 @@
       "len": 31,
       "orig_text": "いや、保証はできない\nけど・・・",
       "translated_text": "Well, I can't guarantee\nit...",
+	  "translated_text_zh": "呃、虽然我不能保证",
       "note": ""
     },
     {
@@ -2047,6 +2303,7 @@
       "len": 20,
       "orig_text": "よーし、がんばるぞ！",
       "translated_text": "Alright, I'll do my best!",
+	  	  "translated_text_zh": "好、我会加油的",
       "note": ""
     },
     {
@@ -2055,7 +2312,8 @@
       "len": 65,
       "orig_text": "それじゃ、センパイ\n相談にのってくれて\nありがとう\nございましたっ！",
       "translated_text": "Well then, Senpai,\nthanks for listening\nto my worries!",
-      "note": ""
+      	  "translated_text_zh": "和前辈聊了这么多\n真是太感谢了！\n前辈再见！",
+	  "note": ""
     },
     {
       "offset": "ee2a",
@@ -2063,6 +2321,7 @@
       "len": 42,
       "orig_text": "あ・・・\nこれで本当に\nよかったのかな・・・",
       "translated_text": "Ah...\nDid I really do the\nright thing...?",
+	  	  "translated_text_zh": "呃・・・\n这样真的好吗・・・",
       "note": ""
     },
     {
@@ -2070,7 +2329,8 @@
       "translated": true,
       "len": 40,
       "orig_text": "すいません\nカツヤと帰るところ\nだったのに",
-      "translated_text": "Sorry.\nI was about to go home\nwith Katsuya.",
+      "translated_text": "Sorry. You were\nsupposed to go back\nwith Katsuya today.",
+      "translated_text_zh": "对不起、前辈\n你今天本来是要跟胜\n也一起回去的",
       "note": ""
     },
     {
@@ -2078,7 +2338,8 @@
       "translated": true,
       "len": 58,
       "orig_text": "気にしなくていいよ\nとくに大事な用がある\nわけでもなかったし",
-      "translated_text": "Don't worry about it.\nI didn't have anything\nimportant to do anyway.",
+      "translated_text": "Never mind.\nIt's not a big deal\nanyway.",
+	  "translated_text_zh": "别在意哟\n本来也没什么大不了的",
       "note": ""
     },
     {
@@ -2086,7 +2347,8 @@
       "translated": true,
       "len": 20,
       "orig_text": "それよりどうしたの？",
-      "translated_text": "More importantly,\nwhat's wrong?",
+      "translated_text": "More importantly,\nwhat's up?",
+	  "translated_text_zh": "比起这个\n你有什么事吗",
       "note": ""
     },
     {
@@ -2094,7 +2356,8 @@
       "translated": true,
       "len": 29,
       "orig_text": "あたしでよかったら\n力になるよ",
-      "translated_text": "I'll help you if you\nwant.",
+    "translated_text": "If I can help you\nI am happy to",
+	   "translated_text_zh": "如果我可以帮你的话\n我很乐意哦",
       "note": ""
     },
     {
@@ -2103,6 +2366,7 @@
       "len": 44,
       "orig_text": "・・・\n誰にも言わないって\n約束してくれます？",
       "translated_text": "...\nPromise you won't tell\nanyone?",
+	    "translated_text_zh": "・・・\n答应我\n跟谁也不准说哦",
       "note": ""
     },
     {
@@ -2111,6 +2375,7 @@
       "len": 16,
       "orig_text": "うん、信用してよ",
       "translated_text": "Yeah, trust me.",
+	   "translated_text_zh": "嗯\n我保证",
       "note": ""
     },
     {
@@ -2119,6 +2384,7 @@
       "len": 56,
       "orig_text": "センパイのクラスに、\n生徒会の副会長さんが\nいましたよね？",
       "translated_text": "There was a guy who's\nthe vice-president of\nthe student council in your\nclass, right?",
+	   "translated_text_zh": "学生会副会长、\n是前辈同班同学吧？",
       "note": ""
     },
     {
@@ -2127,6 +2393,7 @@
       "len": 33,
       "orig_text": "ああ、トウヤ君\n彼がどうかしたの？",
       "translated_text": "Ah, Touya-kun.\nIs something wrong\nwith him?",
+	   "translated_text_zh": "啊、远山君吗？\n他怎么了？",
       "note": ""
     },
     {
@@ -2135,7 +2402,8 @@
       "len": 63,
       "orig_text": "はい・・・\nそのトウヤ先輩に\n私、告白したいなって\n思ってるんです",
       "translated_text": "Yes...\nI... I'm thinking of\nconfessing to\nTouya-senpai.",
-      "note": ""
+      "translated_text_zh": "是的・・・\n我准备向远山前辈\n告白来着・・・",
+	 "note": ""
     },
     {
       "offset": "f4e7",
@@ -2143,6 +2411,7 @@
       "len": 12,
       "orig_text": "ええ〜っ！？",
       "translated_text": "Ehhh!?",
+	    "translated_text_zh": "欸！？",
       "note": ""
     },
     {
@@ -2151,6 +2420,7 @@
       "len": 50,
       "orig_text": "そんなにおどろかなく\nたっていいじゃないで\nすかぁ！",
       "translated_text": "You don't have to be\nso surprised,\ndo you!",
+	    "translated_text_zh": "没必要这么大惊小怪吧\n！！！",
       "note": ""
     },
     {
@@ -2159,6 +2429,7 @@
       "len": 10,
       "orig_text": "あ、ゴメン",
       "translated_text": "Ah, sorry.",
+	    "translated_text_zh": "对不起・・・",
       "note": ""
     },
     {
@@ -2167,6 +2438,7 @@
       "len": 77,
       "orig_text": "そりゃ、たしかに私が\nトウヤ先輩にアタック\nするなんて無茶だとは\nわかってますよ",
       "translated_text": "Well, I know it's\ncrazy for me to try to\ngo after Touya-senpai.",
+	   "translated_text_zh": "是的、我知道\n虽然有点荒唐、\n向远山前辈告白什么的",
       "note": ""
     },
     {
@@ -2175,6 +2447,7 @@
       "len": 39,
       "orig_text": "ライバルがいーっぱい\nいるのも知ってます",
       "translated_text": "I know there are a lot\nof rivals.",
+	      "translated_text_zh": "我也知道\n远山前辈有很多追求者",
       "note": ""
     },
     {
@@ -2183,6 +2456,7 @@
       "len": 65,
       "orig_text": "でも、好きになって\nしまったんだもの・・\nしかたないじゃない\nですか",
       "translated_text": "But what can I do?\nI can't help who I\nfall for, can I?",
+	  "translated_text_zh": "但是、\n喜欢上一个人\n是没有办法的啊",
       "note": ""
     },
     {
@@ -2191,6 +2465,7 @@
       "len": 63,
       "orig_text": "・・・\nでも、いざ告白しよう\nとすると、どうしても\n勇気がでなくて",
       "translated_text": "... But when it comes to\nactually confessing, I\njust can't work up the\ncourage.",
+	   "translated_text_zh": "但是・・・\n但真的想去告白的时候\n无论如何就是拿不出勇气",
       "note": ""
     },
     {
@@ -2199,6 +2474,7 @@
       "len": 33,
       "orig_text": "なるほど、それで\n悩んでたって訳ね",
       "translated_text": "I see, so that's what\nyou were worried about.",
+	  "translated_text_zh": "我懂了\n所以这就是\n你的烦心事啊",
       "note": ""
     },
     {
@@ -2207,6 +2483,7 @@
       "len": 73,
       "orig_text": "ねえ、センパイ\nあの人が誰かとつき\nあってる話とか、聞い\nてませんよねっ！？",
       "translated_text": "Hey, Senpai,\nhave you heard anything\nabout him going out with\nsomeone!?",
+	     "translated_text_zh": "呐\n前辈、你听说过\n他现在在和谁交往吗？",
       "note": ""
     },
     {
@@ -2215,6 +2492,7 @@
       "len": 53,
       "orig_text": "うーん\nあたし、とくに彼と\n親しいわけじゃ\nないからなぁ",
       "translated_text": "Hmm.\nI'm not particularly\nclose to him.",
+	    "translated_text_zh": "呃・・・\n我跟他也不是特别熟\n所以・・・",
       "note": ""
     },
     {
@@ -2223,6 +2501,7 @@
       "len": 39,
       "orig_text": "ほら、性格とか正反対\nみたいなもんでしょ",
       "translated_text": "See, our personalities\nare like total opposites.",
+	    "translated_text_zh": "你也看的出来吧\n我跟他的性格\n是完全相反的",
       "note": ""
     },
     {
@@ -2231,6 +2510,7 @@
       "len": 16,
       "orig_text": "そうですね・・・",
       "translated_text": "That's true...",
+	   "translated_text_zh": "也是呢・・・",
       "note": ""
     },
     {
@@ -2239,6 +2519,7 @@
       "len": 58,
       "orig_text": "でも、ウワサにもなっ\nてないし、チャンスは\nまだあると思うよ",
       "translated_text": "But I haven't heard any\nrumors, so I think you\nstill have a chance.",
+	   "translated_text_zh": "但是\n现在还没有这样的传言\n我想你还是有机会的",
       "note": ""
     },
     {
@@ -2247,6 +2528,7 @@
       "len": 60,
       "orig_text": "せっかく勇気を出した\nんだからさ、ダメもと\nで告白してみたら？",
       "translated_text": "You've worked up the\ncourage, so why not just\nconfess and see?",
+	    "translated_text_zh": "难得鼓起勇气\n总之就去告白看看嘛",
       "note": ""
     },
     {
@@ -2255,6 +2537,7 @@
       "len": 20,
       "orig_text": "意外と、ＯＫかもよ？",
       "translated_text": "He might say yes!",
+	    "translated_text_zh": "也许会意外地成功哦？",
       "note": ""
     },
     {
@@ -2263,6 +2546,7 @@
       "len": 67,
       "orig_text": "えへへ\nせんぱいにそう言って\nもらえたら、なんだか\n勇気がでてきました",
       "translated_text": "Ehehe.\nHearing you say that,\nSenpai, actually gives\nme some courage.",
+	    "translated_text_zh": "诶嘿嘿\n被前辈这么鼓励了\n勇气好像也涌出来了",
       "note": ""
     },
     {
@@ -2271,6 +2555,7 @@
       "len": 20,
       "orig_text": "その意気、その意気！",
       "translated_text": "That's the spirit!",
+	   "translated_text_zh": "就是这种感觉！",
       "note": ""
     },
     {
@@ -2279,6 +2564,7 @@
       "len": 8,
       "orig_text": "はいっ！",
       "translated_text": "Yes!",
+	    "translated_text_zh": "嗯！",
       "note": ""
     },
     {
@@ -2287,6 +2573,7 @@
       "len": 65,
       "orig_text": "それじゃ先輩\n相談にのってくれて\n本当にありがとう\nございました！！",
       "translated_text": "Well then, Senpai,\nthank you so much\nfor listening to\nmy worries!!",
+	  	  "translated_text_zh": "和前辈聊了这么多\n真是太感谢了！\n前辈再见！",
       "note": ""
     },
     {
@@ -2294,7 +2581,8 @@
       "translated": true,
       "len": 40,
       "orig_text": "すいません\nカツヤと帰るところ\nだったのに",
-      "translated_text": "Sorry.\nI was about to go home\nwith Katsuya.",
+      "translated_text": "Sorry. You were\nsupposed to go back\nwith Katsuya today.",
+      "translated_text_zh": "对不起、前辈\n你今天本来是要跟胜\n也一起回去的",
       "note": ""
     },
     {
@@ -2303,6 +2591,7 @@
       "len": 58,
       "orig_text": "気にしなくていいよ\nとくに大事な用がある\nわけでもなかったし",
       "translated_text": "Don't worry about it.\nI didn't have anything\nimportant to do anyway.",
+	    "translated_text_zh": "别在意哟\n本来也没什么大不了的",
       "note": ""
     },
     {
@@ -2310,7 +2599,8 @@
       "translated": true,
       "len": 20,
       "orig_text": "それよりどうしたの？",
-      "translated_text": "More importantly,\nwhat's wrong?",
+      "translated_text": "More importantly,\nwhat's up?",
+	     "translated_text_zh": "比起这个\n你有什么事吗",
       "note": ""
     },
     {
@@ -2318,7 +2608,8 @@
       "translated": true,
       "len": 29,
       "orig_text": "わたしでよかったら\n力になるよ",
-      "translated_text": "I'll help you if you\nwant.",
+      "translated_text": "If I can help you\nI am happy to",
+	  "translated_text_zh": "如果我可以帮你的话\n我很乐意哦",
       "note": ""
     },
     {
@@ -2327,6 +2618,7 @@
       "len": 44,
       "orig_text": "・・・\n誰にも言わないって\n約束してくれます？",
       "translated_text": "...\nPromise you won't tell\nanyone?",
+	  "translated_text_zh": "・・・\n答应我\n跟谁也不准说哦",
       "note": ""
     },
     {
@@ -2335,6 +2627,7 @@
       "len": 16,
       "orig_text": "うん、信用してよ",
       "translated_text": "Yeah, trust me.",
+	  "translated_text_zh": "嗯\n我保证",
       "note": ""
     },
     {
@@ -2343,6 +2636,7 @@
       "len": 56,
       "orig_text": "センパイのクラスに、\nバスケ部の部長さんが\nいましたよね？",
       "translated_text": "There was a guy who's\nthe captain of the\nbasketball club in your\nclass, right?",
+	  "translated_text_zh": "篮球部长、\n是前辈同班同学吧？",
       "note": ""
     },
     {
@@ -2350,7 +2644,8 @@
       "translated": true,
       "len": 33,
       "orig_text": "ああ、ハヤト君\n彼がどうかしたの？",
-      "translated_text": "Ah, Hayato-kun.\nIs something wrong\nwith him?",
+      "translated_text": "Ah, Hayato-kun?\nWhat about him?",
+	  "translated_text_zh": "啊、勇人君吗？\n他怎么了？",
       "note": ""
     },
     {
@@ -2359,6 +2654,7 @@
       "len": 63,
       "orig_text": "はい・・・\nそのハヤト先輩に\n私、告白したいなって\n思ってるんです",
       "translated_text": "Yes...\nI... I'm thinking of\nconfessing to\nHayato-senpai.",
+	  "translated_text_zh": "是的・・・\n我准备向勇人前辈\n告白来着・・・",
       "note": ""
     },
     {
@@ -2367,6 +2663,7 @@
       "len": 12,
       "orig_text": "ええ〜っ！？",
       "translated_text": "Ehhh!?",
+	  "translated_text_zh": "欸！？",
       "note": ""
     },
     {
@@ -2375,6 +2672,7 @@
       "len": 50,
       "orig_text": "そんなにおどろかなく\nたっていいじゃないで\nすかぁ！",
       "translated_text": "You don't have to be\nso surprised,\ndo you!",
+	  "translated_text_zh": "没必要这么大惊小怪吧\n！！！",
       "note": ""
     },
     {
@@ -2383,6 +2681,7 @@
       "len": 10,
       "orig_text": "あ、ゴメン",
       "translated_text": "Ah, sorry.",
+	  "translated_text_zh": "对不起・・・",
       "note": ""
     },
     {
@@ -2390,7 +2689,8 @@
       "translated": true,
       "len": 77,
       "orig_text": "そりゃ、たしかに私が\nハヤト先輩にアタック\nするなんて無茶だとは\nわかってますよ",
-      "translated_text": "Well, I know it's\ncrazy for me to try to\ngo after Hayato-senpai.",
+      "translated_text": "Well, I know it's\ncrazy for me to try to\nget Hayato-senpai.",
+	  "translated_text_zh": "是的、我知道\n虽然有点荒唐、\n向勇人前辈告白什么的",
       "note": ""
     },
     {
@@ -2399,6 +2699,7 @@
       "len": 39,
       "orig_text": "ライバルがいーっぱい\nいるのも知ってます",
       "translated_text": "I know there are a lot\nof rivals.",
+	  "translated_text_zh": "我也知道\n勇人前辈有很多追求者",
       "note": ""
     },
     {
@@ -2406,7 +2707,8 @@
       "translated": true,
       "len": 65,
       "orig_text": "でも、好きになって\nしまったんだもの・・\nしかたないじゃない\nですか",
-      "translated_text": "But what can I do?\nI can't help who I\nfall for,\ncan I?",
+      "translated_text": "But?\nI can't help who I\nfall for can I?",
+	  "translated_text_zh": "但是、\n喜欢上一个人\n是没有办法的",
       "note": ""
     },
     {
@@ -2415,6 +2717,7 @@
       "len": 63,
       "orig_text": "・・・\nでも、いざ告白しよう\nとすると、どうしても\n勇気がでなくて",
       "translated_text": "... But when it comes to\nactually confessing, I\njust can't work up the\ncourage.",
+	  "translated_text_zh": "・・・\n但真的想去告白的时候\n总是拿不出勇气・・・",
       "note": ""
     },
     {
@@ -2423,6 +2726,7 @@
       "len": 33,
       "orig_text": "なるほど、それで\n悩んでたって訳ね",
       "translated_text": "I see, so that's what\nyou were worried about.",
+	  "translated_text_zh": "我懂了\n所以这就是\n你的烦心事啊",
       "note": ""
     },
     {
@@ -2431,6 +2735,7 @@
       "len": 73,
       "orig_text": "ねえ、センパイ\nあの人が誰かとつき\nあってる話とか、聞い\nてませんよねっ！？",
       "translated_text": "Hey, Senpai,\nhave you heard anything\nabout him going out with\nsomeone!?",
+	  "translated_text_zh": "呐、前辈\n勇人前辈没有和其他人在交往吧！？",
       "note": ""
     },
     {
@@ -2438,7 +2743,8 @@
       "translated": true,
       "len": 53,
       "orig_text": "うーん\nあたし、とくに彼と\n親しいわけじゃ\nないからなぁ",
-      "translated_text": "Hmm.\nI'm not particularly\nclose to him.",
+      "translated_text": "Hmm.\nI'm not particularly\nclose to him. So..",
+	  "translated_text_zh": "呃・・・\n我跟他也不是特别熟\n所以・・・",
       "note": ""
     },
     {
@@ -2447,6 +2753,7 @@
       "len": 39,
       "orig_text": "ほら、性格とか正反対\nみたいなもんでしょ",
       "translated_text": "See, our personalities\nare like total opposites.",
+	  "translated_text_zh": "你也看的出来吧\n我跟他的性格\n是完全相反的",
       "note": ""
     },
     {
@@ -2455,6 +2762,7 @@
       "len": 16,
       "orig_text": "そうですね・・・",
       "translated_text": "That's true...",
+	  "translated_text_zh": "也是呢・・・",
       "note": ""
     },
     {
@@ -2463,6 +2771,7 @@
       "len": 58,
       "orig_text": "でも、ウワサにもなっ\nてないし、チャンスは\nまだあると思うよ",
       "translated_text": "But I haven't heard any\nrumors, so I think you\nstill have a chance.",
+	  "translated_text_zh": "但是我没有听到任何传\n言哦、所以你的机会还\n是很大的",
       "note": ""
     },
     {
@@ -2470,7 +2779,8 @@
       "translated": true,
       "len": 60,
       "orig_text": "せっかく勇気を出した\nんだからさ、ダメもと\nで告白してみたら？",
-      "translated_text": "You've worked up the\ncourage, so why not just\nconfess and see?",
+      "translated_text": "You've worked up the\ncourage, so why not just\nconfess?",
+	  "translated_text_zh": "既然你已经鼓起勇气\n告诉我了、那么\n告白也一定没问题的",
       "note": ""
     },
     {
@@ -2479,6 +2789,7 @@
       "len": 20,
       "orig_text": "意外と、ＯＫかもよ？",
       "translated_text": "He might say yes!",
+	  "translated_text_zh": "也许会意外地成功哦？",
       "note": ""
     },
     {
@@ -2487,6 +2798,7 @@
       "len": 67,
       "orig_text": "えへへ\nせんぱいにそう言って\nもらえたら、なんだか\n勇気がでてきました",
       "translated_text": "Ehehe.\nHearing you say that,\nSenpai, actually gives\nme some courage.",
+	  "translated_text_zh": "诶嘿嘿\n被前辈这么鼓励了\n勇气好像也涌出来了",
       "note": ""
     },
     {
@@ -2495,6 +2807,7 @@
       "len": 20,
       "orig_text": "その意気、その意気！",
       "translated_text": "That's the spirit!",
+	  "translated_text_zh": "就是这种感觉！",
       "note": ""
     },
     {
@@ -2503,6 +2816,7 @@
       "len": 8,
       "orig_text": "はいっ！",
       "translated_text": "Yes!",
+	  "translated_text_zh": "嗯！",
       "note": ""
     },
     {
@@ -2510,7 +2824,8 @@
       "translated": true,
       "len": 69,
       "orig_text": "それじゃ、先輩\n相談にのってくだ\nさって本当にありが\nとうございました！",
-      "translated_text": "Well then, Senpai,\nthank you so much\nfor listening to\nmy worries!",
+      "translated_text": "Senpai, thank you\nso much for listening\nto me! See you!",
+	  "translated_text_zh": "和前辈聊了这么多\n真是太感谢了！\n前辈再见！",
       "note": ""
     },
     {
@@ -2519,7 +2834,8 @@
       "len": 155,
       "orig_text": "　後輩と別れた俺は\n　まっすぐ家には帰らなかった\n　小高い丘の上にある公園\n　ここで考えごとをするように\n　なったのは、高校に入って\n　しばらく経ってからだった",
       "translated_text": "  After parting ways with\n  my kouhai, I didn't\n  head straight home.\n  A park on top of a\n  small hill...\n  I started coming here\n  to think after a while\n  of entering high school.",
-      "note": ""
+	  "translated_text_zh": " 和后辈分别后、我没有直接回家\n 而是去了小山顶上的一个公园\n  进入高中不久之后、我就养成了\n在那里思考事情的习惯",
+      "note": "h"
     },
     {
       "offset": "1125a",
@@ -2527,6 +2843,7 @@
       "len": 155,
       "orig_text": "　後輩と別れた僕は\n　まっすぐ家には帰らなかった\n　小高い丘の上にある公園\n　ここで考えごとをするように\n　なったのは、高校に入って\n　しばらく経ってからだった",
       "translated_text": "  After parting ways with\n  my kouhai, I didn't\n  head straight home.\n  A park on top of a\n  small hill...\n  I started coming here\n  to think after a while\n  of entering high school.",
+	  "translated_text_zh": "  和后辈分别后、我没有直接回家\n  而是去了小山顶上的一个公园\n  进入高中不久之后\n  我就养成了在那里思考事情的\n  习惯",
       "note": ""
     },
     {
@@ -2534,8 +2851,9 @@
       "translated": true,
       "len": 25,
       "orig_text": "\n\n\n　　　いつからだろう？",
-      "translated_text": "\n\n\n      Since when?",
-      "note": ""
+      "translated_text": "\n\n\n     Since when?",
+	  "translated_text_zh": "\n\n\n　　从什么时候开始的呢？",
+      "note": "h"
     },
     {
       "offset": "11417",
@@ -2543,7 +2861,8 @@
       "len": 30,
       "orig_text": "　　俺はなんとなくものたりない",
       "translated_text": "    I feel vaguely\n    unsatisfied.",
-      "note": ""
+	  "translated_text_zh": "　总觉得有点不满足",
+      "note": "h"
     },
     {
       "offset": "11457",
@@ -2551,6 +2870,7 @@
       "len": 30,
       "orig_text": "　　僕はなんとなくものたりない",
       "translated_text": "    I feel vaguely\n    unsatisfied.",
+	  	"translated_text_zh": "　　总觉得有点不满足",
       "note": ""
     },
     {
@@ -2559,7 +2879,8 @@
       "len": 66,
       "orig_text": "　　気持ちを感じていた\n　　決して毎日がつまらない\n　　わけじゃない",
       "translated_text": "    It's not that I find\n    my everyday life\n    boring.",
-      "note": ""
+     	"translated_text_zh": "\n　倒也不是说\n　每天都很无聊",
+	  "note": "h"
     },
     {
       "offset": "1152f",
@@ -2567,7 +2888,8 @@
       "len": 88,
       "orig_text": "\n　　学校は楽しいし、\n　　友達や後輩とのつきあいも\n　　うまくいっている\n　　だけど・・・",
       "translated_text": "\n    School is fun,\n    and I get along well\n    with my friends and\n    kouhai.\n    But...",
-      "note": ""
+	  	  "translated_text_zh": "\n　学校很有趣\n　和朋友以及后辈也相处得很好\n　只是・・・\n　只是觉得・・・",
+      "note": "h"
     },
     {
       "offset": "115e6",
@@ -2575,6 +2897,7 @@
       "len": 27,
       "orig_text": "\n\n\n　本当にこれでいいのか？",
       "translated_text": "\n\n\n  Is this really okay?",
+	  	  "translated_text_zh": "这样真的可以吗？",
       "note": ""
     },
     {
@@ -2583,7 +2906,9 @@
       "len": 141,
       "orig_text": "　このまま大学に入って、\n　就職をして、結婚をして・・・\n　みんなと同じように\n　生きていけば、それなりに\n　幸せになれるのだろう\n　だけど・・・",
       "translated_text": "  Go to college, get a\n  job, get married...\n  If I live like everyone\n  else, I guess I could\n  find some kind of\n  happiness. But...",
-      "note": ""
+	    "translated_text_zh": "　像这样进入大学、\n　然后工作、结婚・・・\n　就像大家一样\n　一样地生活下去\n　这样就能够得到快乐吧\n　应该吧・・・・・・",
+	  
+      "note": "h"
     },
     {
       "offset": "11798",
@@ -2591,7 +2916,9 @@
       "len": 25,
       "orig_text": "\n　それじゃ、なんかイヤだ",
       "translated_text": "\n  I don't like that.",
-      "note": ""
+	   "translated_text_zh": "\n　这种事、我才不要・・・",
+	  
+      "note": "h"
     },
     {
       "offset": "117d3",
@@ -2599,6 +2926,7 @@
       "len": 47,
       "orig_text": "　それが本当に幸せだって\n　　言えるんだろうか？",
       "translated_text": "  Can I really call\n    that happiness?",
+	  	  "translated_text_zh": "　真的能称之为\n　　真正幸福吗",
       "note": ""
     },
     {
@@ -2607,7 +2935,8 @@
       "len": 98,
       "orig_text": "\n　　決められた道を進んでいく\n　　だけじゃ、その横にある\n　　大切なものに気づくことは\n　　できない",
       "translated_text": "\n    If I just keep going\n    down the path laid out\n    for me, I won't be able\n    to notice the important\n    things that might be\n    right next to it.",
-      "note": ""
+	  	  "translated_text_zh": "\n　只是在被决定的道路上\n　专注于前方、一昧前进\n　连身旁重要的东西\n　也注意不到",
+      "note": "h"
     },
     {
       "offset": "11922",
@@ -2615,6 +2944,7 @@
       "len": 70,
       "orig_text": "\n\n　　けれども、そんなものが\n　　あるという保証だって\n　　ないのだろう",
       "translated_text": "\n\n    But there's no\n    guarantee that such a\n    thing even exists.",
+	  	  "translated_text_zh": "\n\n　但是、又有谁能保证\n　这样的东西\n　真的存在于我身旁呢",
       "note": ""
     },
     {
@@ -2622,7 +2952,8 @@
       "translated": true,
       "len": 60,
       "orig_text": "\n　　可能性にかけてみることも、\n　　あきらめることもできず、",
-      "translated_text": "\n    Unable to take a\n    chance or give up,",
+      "translated_text": "\n  I couldn't gamble on the\n  possibility, or even give up\n  on myself.",
+	  "translated_text_zh": "\n　没法去赌那一丝的可能性\n　甚至放弃本身也做不到",
       "note": ""
     },
     {
@@ -2631,6 +2962,7 @@
       "len": 20,
       "orig_text": "　　俺はただこうして",
       "translated_text": "    I just keep",
+	  "translated_text_zh": "　就像这样",
       "note": ""
     },
     {
@@ -2639,6 +2971,7 @@
       "len": 20,
       "orig_text": "　　僕はただこうして",
       "translated_text": "    I just keep",
+	  	"translated_text_zh": "　就像这样",
       "note": ""
     },
     {
@@ -2647,6 +2980,7 @@
       "len": 20,
       "orig_text": "　　迷いつづけている",
       "translated_text": "    wandering.",
+	  	  "translated_text_zh": "　　一直迷惘着",
       "note": ""
     },
     {
@@ -2655,7 +2989,8 @@
       "len": 53,
       "orig_text": "　　俺がここに存在する意味\n　　俺がここに存在する価値",
       "translated_text": "    The meaning of my\n    existence here.\n    The value of my\n    existence here.",
-      "note": ""
+	  "translated_text_zh": "　我在这里存在的意义\n　我在这里存在的价值",
+      "note": "h"
     },
     {
       "offset": "11bc7",
@@ -2663,6 +2998,7 @@
       "len": 53,
       "orig_text": "　　僕がここに存在する意味\n　　僕がここに存在する価値",
       "translated_text": "    The meaning of my\n    existence here.\n    The value of my\n    existence here.",
+	    "translated_text_zh": "　　我在这里存在的意义\n　　我在这里存在的价值",
       "note": ""
     },
     {
@@ -2671,6 +3007,7 @@
       "len": 41,
       "orig_text": "\n\n　　　　それを知りたい\n　　　　今すぐに",
       "translated_text": "\n\n        I want to know.\n        Right now.",
+	  "translated_text_zh": "\n\n　　　我想知道\n　　　我现在就想知道",
       "note": ""
     },
     {
@@ -2679,6 +3016,7 @@
       "len": 25,
       "orig_text": "\n　　無茶苦茶だよな・・・",
       "translated_text": "\n    This is crazy...",
+	  "translated_text_zh": "\n　太荒谬了・・・",
       "note": ""
     },
     {
@@ -2687,6 +3025,7 @@
       "len": 57,
       "orig_text": "情けないな・・・考えるだけで\n　確かめようともしないくせに",
       "translated_text": "Pathetic... I just keep\nthinking without trying to\nfind out.",
+	  "translated_text_zh": "真是可悲啊\n　只是思考却不去找寻",
       "note": ""
     },
     {
@@ -2695,7 +3034,8 @@
       "len": 108,
       "orig_text": "\n　そうつぶやいて、苦笑する\n　そんなことが簡単にわかれば、\n　誰だって自分の生き方に\n　迷ったりしないのだから",
       "translated_text": "\n  I muttered and gave a\nwry smile.\nIf it were that easy to\nunderstand, no one would\never be lost in their\nown life.",
-      "note": ""
+	    "translated_text_zh": "\n　就这样吐着槽、苦笑着\n 　这种事情简简单单就能明白的话\n　就没有人会为自己的生活方式\n　感到迷惑了",
+      "note": "h"
     },
     {
       "offset": "11eff",
@@ -2703,6 +3043,7 @@
       "len": 159,
       "orig_text": "　後輩と別れたあたしは\n　まっすぐ家には帰らなかった\n　小高い丘の上にある公園\n　ここで考えごとをするように\n　なったのは、高校に入って\n　しばらく経ってからだった",
       "translated_text": "  After parting ways with\n  my kouhai, I didn't\n  head straight home.\n  A park on top of a\n  small hill...\n  I started coming here\n  to think after a while\n  of entering high school.",
+	  "translated_text_zh": "  和后辈分别后、我没有直接回家\n  而是去了小山顶上的一个公园\n  进入高中不久之后\n  我就养成了在那里思考事情的\n  习惯",
       "note": ""
     },
     {
@@ -2710,7 +3051,8 @@
       "translated": true,
       "len": 23,
       "orig_text": "\n\n\n　　　いつからだっけ",
-      "translated_text": "\n\n\n      Since when?",
+      "translated_text": "\n\n\n     Since when?",
+	  "translated_text_zh": "\n\n\n　　　从什么时候开始的呢？",
       "note": ""
     },
     {
@@ -2719,6 +3061,7 @@
       "len": 94,
       "orig_text": "\n　あたしはなんとなくもの\n　たりない気持ちを感じていた\n　決して毎日がつまらない\n　わけじゃない",
       "translated_text": "\n  I've been feeling\nvaguely unsatisfied.\nIt's not that I find\nmy everyday life boring.",
+	  	  "translated_text_zh": "\n    我总是觉得\n　　心里有不满足\n　　倒也不是说\n　　每天都很无聊",
       "note": ""
     },
     {
@@ -2727,6 +3070,7 @@
       "len": 88,
       "orig_text": "\n　　学校は楽しいし、\n　　友達や後輩とのつきあいも\n　　うまくいっている\n　　だけど・・・",
       "translated_text": "\n    School is fun,\n    and I get along well\n    with my friends and\n    kouhai.\n    But...",
+	  	  "translated_text_zh": "\n    学校很有趣\n　　和朋友以及后辈也相处得很好\n　　只是・・・\n　　只是觉得・・・",
       "note": ""
     },
     {
@@ -2735,6 +3079,7 @@
       "len": 29,
       "orig_text": "\n\n\n　本当にこれでいいのかな？",
       "translated_text": "\n\n\n  Is this really okay?",
+	  	  "translated_text_zh": "这样真的可以吗？",
       "note": ""
     },
     {
@@ -2743,6 +3088,7 @@
       "len": 141,
       "orig_text": "　このまま大学に入って、\n　就職をして、結婚をして・・・\n　みんなと同じように\n　生きていけば、それなりに\n　幸せになれるのだろう\n　だけど・・・",
       "translated_text": "  Go to college, get a\n  job, get married...\n  If I live like everyone\n  else, I guess I could\n  find some kind of\n  happiness. But...",
+	    "translated_text_zh": "　像这样进入大学、\n　然后工作、结婚・・・\n　就像大家一样\n　一样地生活下去\n　这样就能够得到快乐吧\n　吧・・・・・・",
       "note": ""
     },
     {
@@ -2751,6 +3097,7 @@
       "len": 49,
       "orig_text": "\n\n　　それ以上のしあわせは\n　　絶対に手に入らない",
       "translated_text": "\n\n    I'll never be able to\n    find anything more\n    than that.",
+	   "translated_text_zh": "\n\n　　但是、在此之上的快乐\n　　也将永远与我无缘",
       "note": ""
     },
     {
@@ -2759,6 +3106,7 @@
       "len": 98,
       "orig_text": "\n　　決められた道を進んでいく\n　　だけじゃ、その横にある\n　　大切なものに気づくことは\n　　できない",
       "translated_text": "\n    If I just keep going\n    down the path laid out\n    for me, I won't be able\n    to notice the important\n    things that might be\n    right next to it.",
+	  	  "translated_text_zh": "\n　　只是在被决定的道路上\n　　专注于前方、一昧前进\n　　连身旁重要的东西\n　　也注意不到",
       "note": ""
     },
     {
@@ -2767,6 +3115,7 @@
       "len": 70,
       "orig_text": "\n\n　　けれども、そんなものが\n　　あるという保証だって\n　　ありはしない",
       "translated_text": "\n\n    But there's no\n    guarantee that such a\n    thing even exists.",
+	  	  "translated_text_zh": "\n\n　　但是、又有谁能保证\n　　这样的东西\n　　真的存在于我身旁呢",
       "note": ""
     },
     {
@@ -2774,7 +3123,8 @@
       "translated": true,
       "len": 106,
       "orig_text": "\n　　可能性にかけてみることも、\n　　あきらめることもできず、\n　　あたしはただこうして\n　　迷いつづけている",
-      "translated_text": "\n    Unable to take a\n    chance or give up,\n    I just keep\n    wandering.",
+     "translated_text": "\n  I couldn't gamble on the\n  possibility, or even give up\n  on myself. \n  I've been lost like this.",
+	  "translated_text_zh": "\n　　没法去赌那一丝的可能性\n　　甚至放弃本身也做不到\n　　就这样一直迷惘着",
       "note": ""
     },
     {
@@ -2783,6 +3133,7 @@
       "len": 57,
       "orig_text": "\n\n　あたしにしかできないことって\n　どっかにないのかなぁ？",
       "translated_text": "\n\n  Isn't there anything\n  out there that only I\n  can do?",
+	  "translated_text_zh": "\n\n　有什么事是我能做的\n　只有我能做的吗？",
       "note": ""
     },
     {
@@ -2791,6 +3142,7 @@
       "len": 155,
       "orig_text": "　後輩と別れた私は\n　まっすぐ家には帰らなかった\n　小高い丘の上にある公園\n　ここで考えごとをするように\n　なったのは、高校に入って\n　しばらく経ってからだった",
       "translated_text": "  After parting ways with\n  my kouhai, I didn't\n  head straight home.\n  A park on top of a\n  small hill...\n  I started coming here\n  to think after a while\n  of entering high school.",
+	  "translated_text_zh": "  和后辈分别后、我没有直接回家\n  而是去了小山顶上的一个公园\n  进入高中不久之后\n  我就养成了在那里思考事情的\n  习惯",
       "note": ""
     },
     {
@@ -2799,6 +3151,7 @@
       "len": 23,
       "orig_text": "\n\n\n　　　いつからだろう",
       "translated_text": "\n\n\n      Since when?",
+	  	"translated_text_zh": "\n\n\n　　　从什么时候开始的呢？",
       "note": ""
     },
     {
@@ -2806,7 +3159,8 @@
       "translated": true,
       "len": 98,
       "orig_text": "\n　　私はなんとなくものたりない\n　　気持ちを感じていた\n　　決して毎日がつまらない\n　　わけじゃない",
-      "translated_text": "\n    I've been feeling\nvaguely unsatisfied.\nIt's not that I find\nmy everyday life boring.",
+      "translated_text": "\n  I've been feeling\nvaguely unsatisfied.\nIt's not that I find\nmy everyday life boring.",
+	  "translated_text_zh": "\n    我总是觉得\n　　心里有不满足\n　　倒也不是说\n　　每天都很无聊",
       "note": ""
     },
     {
@@ -2815,6 +3169,7 @@
       "len": 88,
       "orig_text": "\n　　学校は楽しいし、\n　　友達や後輩とのつきあいも\n　　うまくいっている\n　　だけど・・・",
       "translated_text": "\n    School is fun,\n    and I get along well\n    with my friends and\n    kouhai.\n    But...",
+	  "translated_text_zh": "\n    学校很有趣\n　　和朋友以及后辈也相处得很好\n　　只是・・・\n　　只是觉得・・・",
       "note": ""
     },
     {
@@ -2823,6 +3178,7 @@
       "len": 26,
       "orig_text": "本当にこれでいいのかしら？",
       "translated_text": "Is this really okay?",
+	  "translated_text_zh": "这样真的可以吗？",
       "note": ""
     },
     {
@@ -2830,7 +3186,8 @@
       "translated": true,
       "len": 141,
       "orig_text": "　このまま大学に入って、\n　就職をして、結婚をして・・・\n　みんなと同じように\n　生きていけば、それなりに\n　幸せになれるのだろう\n　だけど・・・",
-      "translated_text": "  Go to college, get a\n  job, get married...\n  If I live like everyone\n  else, I guess I could\n  find some kind of\n  happiness. But...",
+      "translated_text": "  Go to college, get a\n  job and get married...\n  If I live like everyone\n  else, I guess I could\n  find some kind of\n  happiness. But...",
+	  "translated_text_zh": "　像这样进入大学、\n　然后工作、结婚・・・\n　就像大家一样\n　一样地生活下去\n　这样就能够得到快乐吧\n　吧・・・・・・",
       "note": ""
     },
     {
@@ -2839,6 +3196,7 @@
       "len": 49,
       "orig_text": "\n\n　　それ以上のしあわせは\n　　絶対に手に入らない",
       "translated_text": "\n\n    I'll never be able to\n    find anything more\n    than that.",
+	  "translated_text_zh": "\n\n　　但是、在此之上的快乐\n　　也将永远与我无缘",
       "note": ""
     },
     {
@@ -2847,6 +3205,7 @@
       "len": 98,
       "orig_text": "\n　　決められた道を進んでいく\n　　だけじゃ、その横にある\n　　大切なものに気づくことは\n　　できない",
       "translated_text": "\n    If I just keep going\n    down the path laid out\n    for me, I won't be able\n    to notice the important\n    things that might be\n    right next to it.",
+	  "translated_text_zh": "\n　　只是在被决定的道路上\n　　专注于前方、一昧前进\n　　连身旁重要的东西\n　　也注意不到",
       "note": ""
     },
     {
@@ -2855,6 +3214,7 @@
       "len": 70,
       "orig_text": "\n\n　　けれども、そんなものが\n　　あるという保証だって\n　　ありはしない",
       "translated_text": "\n\n    But there's no\n    guarantee that such a\n    thing even exists.",
+	  "translated_text_zh": "\n\n　　但是、又有谁能保证\n　　这样的东西\n　　真的存在于我身旁呢",
       "note": ""
     },
     {
@@ -2862,7 +3222,8 @@
       "translated": true,
       "len": 102,
       "orig_text": "\n　　可能性にかけてみることも、\n　　あきらめることもできず、\n　　私はただこうして\n　　迷いつづけている",
-      "translated_text": "\n    Unable to take a\n    chance or give up,\n    I just keep\n    wandering.",
+      "translated_text": "\n  I couldn't gamble on the\n  possibility, or even give up\n  on myself. \n  I've been lost like this.",
+	  "translated_text_zh": "\n　　没法去赌那一丝的可能性\n　　甚至放弃本身也做不到\n　　就这样一直迷惘着",
       "note": ""
     },
     {
@@ -2871,6 +3232,7 @@
       "len": 74,
       "orig_text": "\n\n　　　子供っぽいのかしら\n　　　夢みたいなことばかり\n　　　考えてて・・・",
       "translated_text": "\n\n      Am I being childish?\n      Always thinking\n      about these dreamy\n      things...",
+	  "translated_text_zh": "\n\n　　　这样的我是不是太幼稚了\n　　　尽是些做梦一样的想法\n　　　・・・・・・",
       "note": ""
     },
     {
@@ -2879,7 +3241,8 @@
       "len": 12,
       "orig_text": "助けて・・・",
       "translated_text": "Help me...",
-      "note": ""
+	  "translated_text_zh": "帮帮我・・・",
+      "note": "h"
     },
     {
       "offset": "131d7",
@@ -2887,7 +3250,8 @@
       "len": 4,
       "orig_text": "え？",
       "translated_text": "Huh?",
-      "note": ""
+	  "translated_text_zh": "欸！？",
+      "note": "h"
     },
     {
       "offset": "133cb",
@@ -2895,7 +3259,8 @@
       "len": 18,
       "orig_text": "誰か、助けて・・・",
       "translated_text": "Someone, help me...",
-      "note": ""
+	  "translated_text_zh": "谁来、帮帮我・・・",
+      "note": "h"
     },
     {
       "offset": "1343c",
@@ -2903,7 +3268,8 @@
       "len": 35,
       "orig_text": "頭の中で、誰かの声が\n聞こえる・・・",
       "translated_text": "I hear a voice...\ninside my head...",
-      "note": ""
+	  "translated_text_zh": "脑袋里\n是谁的声音？",
+      "note": "h"
     },
     {
       "offset": "134f0",
@@ -2911,7 +3277,8 @@
       "len": 20,
       "orig_text": "なんだよ、この声！？",
       "translated_text": "What is this voice!?",
-      "note": ""
+	  "translated_text_zh": "这声音\n到底是怎么回事？",
+      "note": "h"
     },
     {
       "offset": "13526",
@@ -2919,6 +3286,7 @@
       "len": 14,
       "orig_text": "幻聴か・・・？",
       "translated_text": "Is it an auditory\nhallucination...?",
+	  "translated_text_zh": "是幻听吗・・・？",
       "note": ""
     },
     {
@@ -2927,7 +3295,8 @@
       "len": 71,
       "orig_text": "このままだと・・・\n壊れてしまう・・・\n何もかも・・・\n消えてしまう・・・",
       "translated_text": "If this continues...\nI'll break...\nEverything...\nwill disappear...",
-      "note": ""
+	  "translated_text_zh": "这样的话・・・\n会被破坏掉的・・・\n所有的一切・・・\n都会不复存在・・・",
+      "note": "h"
     },
     {
       "offset": "13826",
@@ -2935,7 +3304,8 @@
       "len": 23,
       "orig_text": "おい、\nあんたは誰だ！？",
       "translated_text": "Hey,\nwho are you!?",
-      "note": ""
+	  "translated_text_zh": "喂、\n到底是谁！？",
+      "note": "h"
     },
     {
       "offset": "1385f",
@@ -2943,6 +3313,7 @@
       "len": 18,
       "orig_text": "おい、君は誰だ！？",
       "translated_text": "Hey, who are you!?",
+	  "translated_text_zh": "喂、\n你到底是谁啊！？",
       "note": ""
     },
     {
@@ -2951,6 +3322,7 @@
       "len": 16,
       "orig_text": "助けてくれ・・・",
       "translated_text": "Please, help me...",
+	  "translated_text_zh": "请帮帮我・・・",
       "note": ""
     },
     {
@@ -2959,6 +3331,7 @@
       "len": 16,
       "orig_text": "助けてくれ・・・",
       "translated_text": "Please, help me...",
+	  "translated_text_zh": "请帮帮我・・・",
       "note": ""
     },
     {
@@ -2967,7 +3340,8 @@
       "len": 12,
       "orig_text": "助けて・・・",
       "translated_text": "Help me...",
-      "note": ""
+	  "translated_text_zh": "帮帮我・・・",
+      "note": "h"
     },
     {
       "offset": "13a51",
@@ -2975,6 +3349,7 @@
       "len": 12,
       "orig_text": "助けて・・・",
       "translated_text": "Help me...",
+	  "translated_text_zh": "帮帮我・・・",
       "note": ""
     },
     {
@@ -2983,7 +3358,8 @@
       "len": 25,
       "orig_text": "くそっ、\n頭がいてぇ・・・",
       "translated_text": "Damn it,\nmy head hurts...",
-      "note": ""
+	  "translated_text_zh": "呃啊、\n脑袋好痛・・・",
+      "note": "h"
     },
     {
       "offset": "13c6b",
@@ -2991,7 +3367,8 @@
       "len": 20,
       "orig_text": "どうなってんだっ！？",
       "translated_text": "What's going on!?",
-      "note": ""
+	  "translated_text_zh": "到底是什么！？",
+      "note": "h"
     },
     {
       "offset": "13ca1",
@@ -2999,6 +3376,7 @@
       "len": 20,
       "orig_text": "ううっ、頭が痛む・・",
       "translated_text": "Ugh, my head hurts...",
+	  "translated_text_zh": "呜啊、\n脑袋好痛・・・",
       "note": ""
     },
     {
@@ -3007,6 +3385,7 @@
       "len": 20,
       "orig_text": "何が起こってるんだ？",
       "translated_text": "What's happening?",
+	   "translated_text_zh": "发生了什么事？",
       "note": ""
     },
     {
@@ -3015,7 +3394,8 @@
       "len": 42,
       "orig_text": "運命をとめて・・\nこの世界を\n助けてくれ！！",
       "translated_text": "Stop destiny..\nSave this world,\nplease!!",
-      "note": ""
+	  	"translated_text_zh": "阻止这份命运・・\n来拯救这个世界吧！！",
+      "note": "h"
     },
     {
       "offset": "13dda",
@@ -3023,6 +3403,7 @@
       "len": 42,
       "orig_text": "運命をとめて・・\nこの世界を\n助けてくれ！！",
       "translated_text": "Stop destiny..\nSave this world,\nplease!!",
+	  	  "translated_text_zh": "阻止这份命运・・\n来拯救这个世界吧！！",
       "note": ""
     },
     {
@@ -3031,6 +3412,7 @@
       "len": 39,
       "orig_text": "運命をとめて・・・\nこの世界を助けて！！",
       "translated_text": "Stop destiny...\nSave this world!!",
+	  	  "translated_text_zh": "阻止这份命运・・\n来拯救这个世界吧！！",
       "note": ""
     },
     {
@@ -3039,6 +3421,7 @@
       "len": 39,
       "orig_text": "運命をとめて・・・\nこの世界を助けて！！",
       "translated_text": "Stop destiny...\nSave this world!!",
+	  	  "translated_text_zh": "阻止这份命运・・\n来拯救这个世界吧！！",
       "note": ""
     },
     {
@@ -3047,7 +3430,8 @@
       "len": 20,
       "orig_text": "うっ、うわああっ！？",
       "translated_text": "Ugh, whaaa!?",
-      "note": ""
+	  	  "translated_text_zh": "呜哇！？",
+      "note": "h"
     },
     {
       "offset": "141d7",
@@ -3055,6 +3439,7 @@
       "len": 12,
       "orig_text": "助けて・・・",
       "translated_text": "Help me...",
+	  "translated_text_zh": "帮帮我・・・",
       "note": ""
     },
     {
@@ -3063,6 +3448,7 @@
       "len": 4,
       "orig_text": "え？",
       "translated_text": "Huh?",
+	    "translated_text_zh": "欸？",
       "note": ""
     },
     {
@@ -3071,6 +3457,7 @@
       "len": 18,
       "orig_text": "誰か、助けて・・・",
       "translated_text": "Someone, help me...",
+	  "translated_text_zh": "谁来、帮帮我・・・",
       "note": ""
     },
     {
@@ -3079,6 +3466,7 @@
       "len": 35,
       "orig_text": "頭の中で、誰かの声が\n聞こえる・・・",
       "translated_text": "I hear a voice...\ninside my head...",
+	  "translated_text_zh": "脑袋里\n是谁的声音・・・",
       "note": ""
     },
     {
@@ -3087,6 +3475,7 @@
       "len": 71,
       "orig_text": "このままだと・・・\n壊れてしまう・・・\n何もかも・・・\n消えてしまう・・・",
       "translated_text": "If this continues...\nI'll break...\nEverything...\nwill disappear...",
+	  "translated_text_zh": "这样的话・・・\n会被破坏掉的・・・\n所有的一切・・・\n都会不复存在・・・",
       "note": ""
     },
     {
@@ -3095,6 +3484,7 @@
       "len": 16,
       "orig_text": "ねえ、誰なの！？",
       "translated_text": "Hey, who is it!?",
+	  "translated_text_zh": "请问、你到底是谁！？",
       "note": ""
     },
     {
@@ -3103,6 +3493,7 @@
       "len": 16,
       "orig_text": "助けてくれ・・・",
       "translated_text": "Please, help me...",
+	  "translated_text_zh": "请帮帮我・・・",
       "note": ""
     },
     {
@@ -3111,6 +3502,7 @@
       "len": 16,
       "orig_text": "助けてくれ・・・",
       "translated_text": "Please, help me...",
+	  "translated_text_zh": "请帮帮我・・・",
       "note": ""
     },
     {
@@ -3119,6 +3511,7 @@
       "len": 12,
       "orig_text": "助けて・・・",
       "translated_text": "Help me...",
+	  "translated_text_zh": "帮帮我・・・",
       "note": ""
     },
     {
@@ -3127,6 +3520,7 @@
       "len": 12,
       "orig_text": "助けて・・・",
       "translated_text": "Help me...",
+	  "translated_text_zh": "帮帮我・・・",
       "note": ""
     },
     {
@@ -3135,6 +3529,7 @@
       "len": 20,
       "orig_text": "どうすればいいの！？",
       "translated_text": "What should I do!?",
+	  "translated_text_zh": "到底怎么办才好呢！？",
       "note": ""
     },
     {
@@ -3143,14 +3538,17 @@
       "len": 42,
       "orig_text": "運命をとめて・・\nこの世界を\n助けてくれ！！",
       "translated_text": "Stop destiny..\nSave this world,\nplease!!",
+	  "translated_text_zh": "阻止这份命运・・\n来拯救这个世界吧！！",
       "note": ""
+
     },
     {
       "offset": "14c20",
       "translated": true,
       "len": 42,
       "orig_text": "運命をとめて・・\nこの世界を\n助けてくれ！！",
-      "translated_text": "Stop destiny..\nSave this world,\nplease!!",
+      "translated_text": "Stop the fate..\nSave this world,\nplease!!",
+	  "translated_text_zh": "阻止这份命运・・\n来拯救这个世界吧！！",
       "note": ""
     },
     {
@@ -3158,7 +3556,8 @@
       "translated": true,
       "len": 39,
       "orig_text": "運命をとめて・・・\nこの世界を助けて！！",
-      "translated_text": "Stop destiny...\nSave this world!!",
+      "translated_text": "Stop the fate..\nSave this world,\nplease!!",
+	  "translated_text_zh": "阻止这份命运・・\n来拯救这个世界吧！！",
       "note": ""
     },
     {
@@ -3166,7 +3565,8 @@
       "translated": true,
       "len": 39,
       "orig_text": "運命をとめて・・・\nこの世界を助けて！！",
-      "translated_text": "Stop destiny...\nSave this world!!",
+      "translated_text": "Stop the fate..\nSave this world!!",
+	  "translated_text_zh": "阻止这份命运・・\n来拯救这个世界吧！！",
       "note": ""
     },
     {
@@ -3175,6 +3575,7 @@
       "len": 14,
       "orig_text": "きゃああっ！？",
       "translated_text": "Kyaaaah!?",
+	  "translated_text_zh": "呀啊啊啊啊！？",
       "note": ""
     },
     {
@@ -3183,6 +3584,7 @@
       "len": 26,
       "orig_text": "サモナイト石を手に入れた！",
       "translated_text": "You got a Summonite Stone!",
+	  "translated_text_zh": "获得了召唤石！",
       "note": ""
     },
     {
@@ -3191,15 +3593,17 @@
       "len": 12,
       "orig_text": "うーん・・・",
       "translated_text": "Hmm...",
-      "note": ""
+	  "translated_text_zh": "呃・・・",
+      "note": "h"
     },
     {
       "offset": "1538e",
       "translated": true,
       "len": 16,
       "orig_text": "今のはいったい？",
-      "translated_text": "What was that?",
-      "note": ""
+      "translated_text": "What the hell was it?",
+	  "translated_text_zh": "刚刚到底是？",
+      "note": "h"
     },
     {
       "offset": "1550f",
@@ -3207,7 +3611,8 @@
       "len": 23,
       "orig_text": "げっ！\nなんだこりゃ！？",
       "translated_text": "Gah!\nWhat is this!?",
-      "note": ""
+	  "translated_text_zh": "欸啊！\n这究竟是什么！？",
+      "note": "h"
     },
     {
       "offset": "15585",
@@ -3215,7 +3620,8 @@
       "len": 56,
       "orig_text": "なにかの穴の底みたい\nだけど・・・なんで、\nこんなとこに？",
       "translated_text": "It looks like the bottom\nof some kind of hole...\nBut why am I here?",
-      "note": ""
+	  "translated_text_zh": "看起来像是什么洞穴的\n底部、啊！\n这是什么！？",
+      "note": "h"
     },
     {
       "offset": "15600",
@@ -3223,7 +3629,8 @@
       "len": 62,
       "orig_text": "どうしよう？\n　とにかくここから出よう\n　これは夢にちがいない！",
       "translated_text": "What should I do?\n  Get out of here\n  This must be a dream!",
-      "note": ""
+	  "translated_text_zh": "该怎么办呢？\n　总之先从这出去\n　一定是我在做梦",
+      "note": "h"
     },
     {
       "offset": "156aa",
@@ -3231,6 +3638,7 @@
       "len": 27,
       "orig_text": "・・・！？\nなんだここは！？",
       "translated_text": "...!?\nWhere is this!?",
+	  "translated_text_zh": "・・・！？\n这是什么地方！？",
       "note": ""
     },
     {
@@ -3239,6 +3647,7 @@
       "len": 54,
       "orig_text": "なにかの穴の底みたい\nだけど・・・どうして\n僕はここに？",
       "translated_text": "It looks like the bottom\nof some kind of hole...\nBut how did I get here?",
+	  "translated_text_zh": "看起来像是什么洞穴的底\n部・・・\n为什么我会在这里？",
       "note": ""
     },
     {
@@ -3247,6 +3656,7 @@
       "len": 71,
       "orig_text": "うーん、きっとこれは\n夢なんだな\nだからほら、こうして\nほほをつねれば・・",
       "translated_text": "Hmm, this must be\na dream.\nSo, if I pinch my cheek\nlike this...",
+	  "translated_text_zh": "嗯、这一定是个梦\n所以、\n像这样捏捏自己的脸的话",
       "note": ""
     },
     {
@@ -3255,6 +3665,7 @@
       "len": 31,
       "orig_text": "いてっ！！\n・・・夢じゃねえ！？",
       "translated_text": "Ouch!!\n...This isn't a dream!?",
+	  "translated_text_zh": "好痛！！\n・・・欸！不是梦！",
       "note": ""
     },
     {
@@ -3263,7 +3674,8 @@
       "len": 65,
       "orig_text": "ここにいてもしかたが\nないよなぁ\nとりあえずは、上まで\n登ってみるか",
       "translated_text": "There's no point in\nstaying here.\nI guess I'll try\nclimbing up.",
-      "note": ""
+	  "translated_text_zh": "呆着这里不是个办法\n总之、先想办法上去",
+      "note": "h"
     },
     {
       "offset": "15a74",
@@ -3271,7 +3683,8 @@
       "len": 17,
       "orig_text": "ん？\nなんだこりゃ",
       "translated_text": "Hm?\nWhat's this?",
-      "note": ""
+	  "translated_text_zh": "嗯？\n这是什么？",
+      "note": "h"
     },
     {
       "offset": "15aac",
@@ -3279,7 +3692,8 @@
       "len": 71,
       "orig_text": "キレイな石だな\nなんか、いろんな\n色のがあちこちに飛び\nちってるけど・・・",
       "translated_text": "What a pretty stone.\nThere are all sorts of\ncolors scattered\naround...",
-      "note": ""
+	  "translated_text_zh": "好漂亮的石头\n五颜六色的\n散落一地・・・",
+      "note": "h"
     },
     {
       "offset": "15b15",
@@ -3287,6 +3701,7 @@
       "len": 39,
       "orig_text": "・・・ともかく、上に\n登ることが先決だな",
       "translated_text": "...Anyway, climbing up\nis my priority.",
+	  "translated_text_zh": "・・・总之\n得先爬出去",
       "note": ""
     },
     {
@@ -3295,6 +3710,7 @@
       "len": 29,
       "orig_text": "あれ・・・\nこれはなんだろう？",
       "translated_text": "Huh...\nWhat is this?",
+	  "translated_text_zh": "嗯？・・・\n这是什么？",
       "note": ""
     },
     {
@@ -3303,6 +3719,7 @@
       "len": 39,
       "orig_text": "ずいぶんとキレイな\n石がちらばってる・・",
       "translated_text": "There are a lot of\nbeautiful stones\nscattered around...",
+	  "translated_text_zh": "好多漂亮的石头啊\n散落得到处都是",
       "note": ""
     },
     {
@@ -3311,7 +3728,8 @@
       "len": 58,
       "orig_text": "どうしよう？\n　なんだろう、この石？\n　そんな場合じゃないぞ",
       "translated_text": "What should I do?\n  What are these stones?\n  This is no time for that.",
-      "note": ""
+	   "translated_text_zh": "怎么办呢？\n　这是什么石头呢\n　现在不是捡石头的时候",
+      "note": "h"
     },
     {
       "offset": "15d58",
@@ -3319,7 +3737,8 @@
       "len": 73,
       "orig_text": "宝石みたいな気もする\nけど、それにしちゃあ\n無造作に捨ててあるの\nが変だよな",
       "translated_text": "They kind of look like\ngems, but it's strange\nthat they're just\nscattered around like this.",
-      "note": ""
+	  "translated_text_zh": "看起来是宝石\n但是就这样散落一地\n好奇怪",
+      "note": "h"
     },
     {
       "offset": "15dc8",
@@ -3327,7 +3746,8 @@
       "len": 18,
       "orig_text": "・・・まぁ、いいや",
       "translated_text": "...Well, whatever.",
-      "note": ""
+	  "translated_text_zh": "・・・算了",
+      "note": "h"
     },
     {
       "offset": "15e01",
@@ -3335,7 +3755,8 @@
       "len": 59,
       "orig_text": "せっかくだから\n拾っておこう\n何かの役にたつかも\nしれないしな",
       "translated_text": "I'll pick them up since\nI'm here.\nThey might come in handy\nsomeday.",
-      "note": ""
+	  "translated_text_zh": "难得遇到\n全部捡起来吧\n说不定会派上用场",
+      "note": "h"
     },
     {
       "offset": "15e5e",
@@ -3343,6 +3764,7 @@
       "len": 67,
       "orig_text": "宝石のような気もする\nけど、だったら無造作\nに捨ててあるはずがな\nいな",
       "translated_text": "They kind of look like\ngems, but if they were,\nthey wouldn't be\nscattered around like this.",
+	    "translated_text_zh": "看起来宝石\n但是就这样散落一地\n好奇怪",
       "note": ""
     },
     {
@@ -3351,6 +3773,7 @@
       "len": 18,
       "orig_text": "・・・まぁ、いいか",
       "translated_text": "...Well, whatever.",
+	  "translated_text_zh": "・・・算了",
       "note": ""
     },
     {
@@ -3359,6 +3782,7 @@
       "len": 55,
       "orig_text": "せっかくだから拾って\nおこう\n何かの役にたつかもし\nれない",
       "translated_text": "I'll pick them up since\nI'm here.\nThey might come in handy\nsomeday.",
+	  "translated_text_zh": "难得在这\n捡起来吧\n或许以后能够有用处",
       "note": ""
     },
     {
@@ -3367,6 +3791,7 @@
       "len": 63,
       "orig_text": "おっと、見とれている\n場合じゃない\nまずはここから\n出ないと・・・",
       "translated_text": "Whoops, I don't have\ntime to admire them.\nFirst, I need to get\nout of here...",
+	   "translated_text_zh": "我可没时间欣赏\n首先我得从这出去",
       "note": ""
     },
     {
@@ -3375,6 +3800,7 @@
       "len": 62,
       "orig_text": "とりあえずポケットに\nしまっておいて、まず\nはとっとと上に登ろう",
       "translated_text": "I'll put them in my\npocket for now. First,\nI need to hurry up and\nclimb up.",
+	   "translated_text_zh": "先放在口袋里吧\n首先我尽快得从这出去",
       "note": ""
     },
     {
@@ -3383,6 +3809,7 @@
       "len": 50,
       "orig_text": "考えるのは後にしよう\nまずはここから出ない\nと・・・",
       "translated_text": "I'll think about it later.\nFirst, I need to get\nout of here...",
+	     "translated_text_zh": "以后在想吧\n首先我尽快得从这出去",
       "note": ""
     },
     {
@@ -3391,6 +3818,7 @@
       "len": 62,
       "orig_text": "とりあえずポケットに\nしまっておいて、まず\nはこの穴の外へ出よう",
       "translated_text": "I'll put them in my\npocket for now. First,\nI need to get out of\nthis hole.",
+	  "translated_text_zh": "先放在口袋里吧\n首先我尽快得从这个洞出去",
       "note": ""
     },
     {
@@ -3399,7 +3827,8 @@
       "len": 32,
       "orig_text": "ん？\nあそこにも何か落ちて\nいるぞ",
       "translated_text": "Hm?\nThere's something else\nfallen over there.",
-      "note": ""
+	  "translated_text_zh": "嗯？\n有什么东西掉在那里",
+	        "note": "h"
     },
     {
       "offset": "1628c",
@@ -3407,7 +3836,8 @@
       "len": 52,
       "orig_text": "途中でひん曲がってる\nけど、これってもしか\nして・・・",
       "translated_text": "It's bent in the middle,\nbut could this be...\n",
-      "note": ""
+	  "translated_text_zh": "中间是弯曲的\n这该不会是・・・",
+      "note": "h"
     },
     {
       "offset": "162e7",
@@ -3415,7 +3845,8 @@
       "len": 18,
       "orig_text": "剣、じゃないのか？",
       "translated_text": "A sword, isn't it?",
-      "note": ""
+	    "translated_text_zh": "剑？",
+      "note": "h"
     },
     {
       "offset": "16320",
@@ -3423,7 +3854,8 @@
       "len": 41,
       "orig_text": "なんで、こんなとこに\n剣が刺さってんだ！？",
       "translated_text": "Why is there a sword\nstuck here!?",
-      "note": ""
+	    "translated_text_zh": "为什么这里会插着把剑\n呢？",
+      "note": "h"
     },
     {
       "offset": "16370",
@@ -3431,7 +3863,8 @@
       "len": 48,
       "orig_text": "この上に・・・\nいったい何があるって\nいうんだ！？",
       "translated_text": "What could possibly\nbe up there!?",
-      "note": ""
+	  "translated_text_zh": "这上面究竟有什么？",
+      "note": "h"
     },
     {
       "offset": "16408",
@@ -3439,6 +3872,7 @@
       "len": 40,
       "orig_text": "ん？\nあそこにも何か\n刺さっているようだが",
       "translated_text": "Hm?\nIt looks like there's\nsomething else stuck\nover there.",
+	  "translated_text_zh": "嗯？\n好像有什么东西插在\n这里？",
       "note": ""
     },
     {
@@ -3447,6 +3881,7 @@
       "len": 29,
       "orig_text": "これは・・・\n剣じゃないか！？",
       "translated_text": "This is...\nA sword, isn't it!?",
+	    "translated_text_zh": "这是把・・・\n剑！？",
       "note": ""
     },
     {
@@ -3455,14 +3890,16 @@
       "len": 39,
       "orig_text": "どうして、こんな物が\nこんな場所に・・・",
       "translated_text": "Why is something like\nthis in a place like\nthis...?",
+	   "translated_text_zh": "为什么这里会有这种东西？",
       "note": ""
     },
     {
       "offset": "164e9",
       "translated": true,
       "len": 60,
-      "orig_text": "いや、それ以前にどう\nすればこんな金属の塊\nがひしゃげるんだ？",
+      "orig_text": "いや、それ以前にどうすればこんな金属の塊\nがひしゃげるんだ？",
       "translated_text": "No, before that, how\ncould a hunk of metal\nlike this get crushed?",
+	   "translated_text_zh": "不、在此之前\n这样一大块金属\n怎么会裂开呢？",
       "note": ""
     },
     {
@@ -3471,6 +3908,7 @@
       "len": 37,
       "orig_text": "普通じゃないことだけ\nはたしかだ・・・",
       "translated_text": "One thing's for sure,\nthis is not normal...",
+	   "translated_text_zh": "太不正常了・・・",
       "note": ""
     },
     {
@@ -3479,7 +3917,8 @@
       "len": 4,
       "orig_text": "！？",
       "translated_text": "!?",
-      "note": ""
+	   "translated_text_zh": "！？",
+      "note": "h"
     },
     {
       "offset": "16761",
@@ -3487,7 +3926,8 @@
       "len": 56,
       "orig_text": "・・・なんなんだよ\nまるで爆弾が爆発した\nみたいじゃないか",
       "translated_text": "...What the hell?\nIt looks like a bomb\nwent off.",
-      "note": ""
+	    "translated_text_zh": "怎么了・・・\n好像炸弹爆炸了一样",
+      "note": "h"
     },
     {
       "offset": "167c0",
@@ -3495,7 +3935,8 @@
       "len": 27,
       "orig_text": "この人たち、\n大丈夫なのか？",
       "translated_text": "Are these people\ngoing to be okay?",
-      "note": ""
+	   "translated_text_zh": "这些人\n还好吗？",
+      "note": "h"
     },
     {
       "offset": "1682c",
@@ -3503,7 +3944,8 @@
       "len": 27,
       "orig_text": "もしもし！\n返事できますか？",
       "translated_text": "Hello!\nCan you hear me?",
-      "note": ""
+	    "translated_text_zh": "喂喂喂！\n能听到我吗？",
+      "note": "h"
     },
     {
       "offset": "168d0",
@@ -3511,7 +3953,8 @@
       "len": 12,
       "orig_text": "・・・・・・",
       "translated_text": "...",
-      "note": ""
+   "translated_text_zh": "・・・・・・",
+      "note": "h"
     },
     {
       "offset": "1693b",
@@ -3519,7 +3962,8 @@
       "len": 20,
       "orig_text": "死んじまってる・・・",
       "translated_text": "They're dead...",
-      "note": ""
+	    "translated_text_zh": "死了？",
+      "note": "h"
     },
     {
       "offset": "16976",
@@ -3527,7 +3971,8 @@
       "len": 31,
       "orig_text": "みんな、死んじまって\nるよ・・・",
       "translated_text": "They're all\ndead...",
-      "note": ""
+	    "translated_text_zh": "大家都・・・\n死了・・・？",
+      "note": "h"
     },
     {
       "offset": "16a1e",
@@ -3535,7 +3980,8 @@
       "len": 18,
       "orig_text": "なんなんだよッ！？",
       "translated_text": "What the hell!?",
-      "note": ""
+	   "translated_text_zh": "什么啊！？",
+      "note": "h"
     },
     {
       "offset": "16a57",
@@ -3543,7 +3989,8 @@
       "len": 10,
       "orig_text": "うっ・・・",
       "translated_text": "Ugh...",
-      "note": ""
+	  "translated_text_zh": "呜啊・・・",
+      "note": "h"
     },
     {
       "offset": "16ac0",
@@ -3551,7 +3998,8 @@
       "len": 20,
       "orig_text": "うわあぁぁ〜〜っ！！",
       "translated_text": "Uwaaaaahhh!!",
-      "note": ""
+	  "translated_text_zh": "呜哇〜〜！！",
+      "note": "h"
     },
     {
       "offset": "16af6",
@@ -3559,6 +4007,7 @@
       "len": 41,
       "orig_text": "この人たち、みんな死\nんでしまってる・・・",
       "translated_text": "These people... they're\nall dead...",
+	  "translated_text_zh": "这些人\n都死了・・・",
       "note": ""
     },
     {
@@ -3567,6 +4016,7 @@
       "len": 36,
       "orig_text": "いったい、\n何が起きたって\nいうんだ？",
       "translated_text": "What in the world\nhappened?",
+	  "translated_text_zh": "到底是\n怎么回事啊",
       "note": ""
     },
     {
@@ -3575,6 +4025,7 @@
       "len": 12,
       "orig_text": "・・・・・・",
       "translated_text": "...",
+	    "translated_text_zh": "・・・・・・",
       "note": ""
     },
     {
@@ -3583,6 +4034,7 @@
       "len": 18,
       "orig_text": "僕のせい、なのか？",
       "translated_text": "Is it... my fault?",
+	    "translated_text_zh": "这是因为我吗？",
       "note": ""
     },
     {
@@ -3591,6 +4043,7 @@
       "len": 12,
       "orig_text": "・・・・・・",
       "translated_text": "...",
+	  "translated_text_zh": "・・・・・・",
       "note": ""
     },
     {
@@ -3599,6 +4052,7 @@
       "len": 37,
       "orig_text": "とにかく、急いでここ\nから立ち去ろう！",
       "translated_text": "Anyway, I need to\nget out of here, fast!",
+	    "translated_text_zh": "总之\n得马上从这里出去",
       "note": ""
     },
     {
@@ -3607,6 +4061,7 @@
       "len": 12,
       "orig_text": "うーん・・・",
       "translated_text": "Hmm...",
+	  "translated_text_zh": "呃・・・",
       "note": ""
     },
     {
@@ -3615,6 +4070,7 @@
       "len": 20,
       "orig_text": "今のはいったい・・・",
       "translated_text": "What was that...",
+	  "translated_text_zh": "刚刚是什么・・・",
       "note": ""
     },
     {
@@ -3623,6 +4079,7 @@
       "len": 27,
       "orig_text": "えっ！？\nここはどこなの！？",
       "translated_text": "Eh!?\nWhere is this!?",
+	  "translated_text_zh": "欸！？\n这里是什么地方！？",
       "note": ""
     },
     {
@@ -3631,6 +4088,7 @@
       "len": 62,
       "orig_text": "なにかの穴の底みたい\nだけど・・・なんで、\nこんなとこに・・・？",
       "translated_text": "It looks like the bottom\nof some kind of hole...\nBut why am I... here?",
+	  "translated_text_zh": "看起来像是什么洞穴的底\n部・・・\n为什么我会在这里？",
       "note": ""
     },
     {
@@ -3639,6 +4097,7 @@
       "len": 62,
       "orig_text": "どうしよう？\n　とにかくここから出よう\n　これはそう、夢なのよ！",
       "translated_text": "What should I do?\n  Get out of here\n  That's right, this is a dream!",
+	  "translated_text_zh": "该怎么办呢？\n　总之先从这出去\n　这一定是个梦",
       "note": ""
     },
     {
@@ -3647,6 +4106,7 @@
       "len": 71,
       "orig_text": "うーん、きっとこれは\n夢なんだわ\nだからほら、こうして\nほほをつねれば・・",
       "translated_text": "Hmm, this must be\na dream.\nSo, if I pinch my cheek\nlike this...",
+	  "translated_text_zh": "嗯、这一定是个梦\n所以、\n像这样捏捏自己的脸的话",
       "note": ""
     },
     {
@@ -3655,6 +4115,7 @@
       "len": 31,
       "orig_text": "いたいっ！\n・・・夢じゃない！？",
       "translated_text": "Ouch!\n...This isn't a dream!?",
+	  "translated_text_zh": "啊好痛！！\n・・・欸！这不是梦！",
       "note": ""
     },
     {
@@ -3663,6 +4124,7 @@
       "len": 57,
       "orig_text": "ここにいても\nしかたがないわ\nまずは穴の上まで\n登ってみよう",
       "translated_text": "There's no point in\nstaying here. First, I'll try\nclimbing up to the top\nof this hole.",
+	  "translated_text_zh": "一直呆着这里可不行\n我要想办法到洞穴上面去",
       "note": ""
     },
     {
@@ -3671,6 +4133,7 @@
       "len": 21,
       "orig_text": "ん？\nなんだろう、これ",
       "translated_text": "Hm?\nWhat is this?",
+	  "translated_text_zh": "嗯？\n这是什么",
       "note": ""
     },
     {
@@ -3678,7 +4141,8 @@
       "translated": true,
       "len": 73,
       "orig_text": "すごくキレイな石\nなんか、いろんな色の\nがあちこちに飛びちっ\nているみたいね",
-      "translated_text": "What a beautiful stone.\nThere are all sorts of\ncolors scattered around,\nit seems.",
+      "translated_text": "Beautiful stones.\nThey are in all sorts of\ncolors and scattered\naround,",
+	  "translated_text_zh": "好漂亮的石头啊\n五颜六色的\n散落一地・・・",
       "note": ""
     },
     {
@@ -3686,7 +4150,8 @@
       "translated": true,
       "len": 58,
       "orig_text": "どうしよう？\n　全部拾っておこうかな\n　そんな場合じゃないわ",
-      "translated_text": "What should I do?\n  Should I pick them all up?\n  This is no time for that.",
+      "translated_text": "What should I do?\n  Pick them all up?\n  This is no time for that.",
+	  "translated_text_zh": "该怎么办？\n　全部捡起来\n  不是捡石头的时候",
       "note": ""
     },
     {
@@ -3694,7 +4159,8 @@
       "translated": true,
       "len": 58,
       "orig_text": "宝石かもしれないし、\nとりあえず何種類ずつ\nかは拾っていこう",
-      "translated_text": "It could be a gem, so\nI'll pick up at least\none of each kind.",
+      "translated_text": "They could be gems, so\nI'll pick up at least\none of each kind.",
+	  "translated_text_zh": "可能是宝石吧\n无论如何、\n每种石头都捡几个吧",
       "note": ""
     },
     {
@@ -3703,6 +4169,7 @@
       "len": 31,
       "orig_text": "何かの役にたつかも\nしれないしね",
       "translated_text": "They might come in\nhandy someday.",
+	  "translated_text_zh": "也许以后会有用吧\n谁知道呢",
       "note": ""
     },
     {
@@ -3711,6 +4178,7 @@
       "len": 56,
       "orig_text": "ううん、そんな\n場合じゃないわ・・・\nまずはここを出ないと",
       "translated_text": "No, this is no time\nfor that...\nFirst, I need to get\nout of here.",
+	  "translated_text_zh": "不\n现在可不是捡石头的时候\n得先从这里脱身",
       "note": ""
     },
     {
@@ -3719,6 +4187,7 @@
       "len": 54,
       "orig_text": "とりあえず、目につい\nたものだけ拾っておく\nことにしよう",
       "translated_text": "For now, I'll just\npick up the ones that\ncatch my eye.",
+	  "translated_text_zh": "现在、\n先捡眼前看到的吧",
       "note": ""
     },
     {
@@ -3727,6 +4196,7 @@
       "len": 4,
       "orig_text": "！？",
       "translated_text": "!?",
+	  "translated_text_zh": "！？",
       "note": ""
     },
     {
@@ -3735,6 +4205,7 @@
       "len": 42,
       "orig_text": "・・・なによ\nなんでみんな\n倒れてるのよ！？",
       "translated_text": "...What?\nWhy is everyone\ncollapsed!?",
+	    "translated_text_zh": "・・・怎么了\n大家怎么都倒下了",
       "note": ""
     },
     {
@@ -3743,6 +4214,7 @@
       "len": 25,
       "orig_text": "ねえ、\n誰か返事をしてよ？",
       "translated_text": "Hey,\nanswer me!",
+	  "translated_text_zh": "现在、\n先捡眼前看到的吧",
       "note": ""
     },
     {
@@ -3751,6 +4223,8 @@
       "len": 12,
       "orig_text": "ねえってば！",
       "translated_text": "Hey, I said!",
+	    "translated_text_zh": "来吧",
+	  
       "note": ""
     },
     {
@@ -3759,6 +4233,7 @@
       "len": 18,
       "orig_text": "・・・ウソでしょ？",
       "translated_text": "...You're kidding, right?",
+	  "translated_text_zh": "开玩笑吧？",
       "note": ""
     },
     {
@@ -3766,7 +4241,9 @@
       "translated": true,
       "len": 35,
       "orig_text": "こんなのって、\n無責任じゃない・・・",
-      "translated_text": "This is...\nirresponsible...",
+      "translated_text": "This is not \nirresponsible...",
+	  "translated_text_zh": "这不是不负责任・・・",
+	  
       "note": ""
     },
     {
@@ -3775,6 +4252,7 @@
       "len": 18,
       "orig_text": "誰か説明してよ！？",
       "translated_text": "Someone explain this\nto me!?",
+	  "translated_text_zh": "谁来跟我解释一下！？",
       "note": ""
     },
     {
@@ -3782,7 +4260,8 @@
       "translated": true,
       "len": 14,
       "orig_text": "・・・やだよぅ",
-      "translated_text": "...I don't want this.",
+      "translated_text": "No!",
+	  "translated_text_zh": "不！",
       "note": ""
     },
     {
@@ -3790,7 +4269,8 @@
       "translated": true,
       "len": 20,
       "orig_text": "こんなのやだようっ！",
-      "translated_text": "I don't want this!",
+      "translated_text": "No!",
+	  "translated_text_zh": "不要啊！",
       "note": ""
     },
     {
@@ -3799,6 +4279,7 @@
       "len": 10,
       "orig_text": "・・・！？",
       "translated_text": "...!?",
+	  "translated_text_zh": "・・・！？",
       "note": ""
     },
     {
@@ -3807,6 +4288,7 @@
       "len": 12,
       "orig_text": "あのっ・・・",
       "translated_text": "Um...",
+	  "translated_text_zh": "那是・・・",
       "note": ""
     },
     {
@@ -3815,6 +4297,7 @@
       "len": 31,
       "orig_text": "・・・・・・\n死んで・・・るの？",
       "translated_text": "......\nAre they... dead?",
+	  "translated_text_zh": "・・・・・・\n死了？",
       "note": ""
     },
     {
@@ -3823,6 +4306,7 @@
       "len": 12,
       "orig_text": "ひどい・・・",
       "translated_text": "This is awful...",
+	  "translated_text_zh": "好残忍・・・",
       "note": ""
     },
     {
@@ -3831,6 +4315,7 @@
       "len": 39,
       "orig_text": "どうして、こんなこと\nになってしまったの",
       "translated_text": "How did it come to\nthis?",
+	  "translated_text_zh": "为什么\n会这样呢",
       "note": ""
     },
     {
@@ -3839,6 +4324,7 @@
       "len": 6,
       "orig_text": "・・・",
       "translated_text": "...",
+	  "translated_text_zh": "・・・",
       "note": ""
     },
     {
@@ -3847,6 +4333,7 @@
       "len": 14,
       "orig_text": "私のせいなの？",
       "translated_text": "Is this my fault?",
+	  "translated_text_zh": "是因为我吗？",
       "note": ""
     },
     {
@@ -3855,6 +4342,7 @@
       "len": 14,
       "orig_text": "・・・イヤっ！",
       "translated_text": "...No!",
+	  "translated_text_zh": "・・・不！",
       "note": ""
     },
     {
@@ -3863,6 +4351,7 @@
       "len": 16,
       "orig_text": "イヤあぁぁっ！！",
       "translated_text": "Noooo!!",
+	  "translated_text_zh": "不应该这样！！！",
       "note": ""
     }
   ]

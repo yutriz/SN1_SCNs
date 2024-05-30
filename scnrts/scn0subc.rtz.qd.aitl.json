@@ -1,0 +1,2426 @@
+{
+  "md5": "c46e1f6518f88b6353d450745bdef22e",
+  "blocks": [
+    {
+      "offset": "3172",
+      "translated": true,
+      "len": 54,
+      "orig_text": "あんたたちってさ\nホントに次から次へと\nやらかすよねぇ？",
+      "translated_text": "You guys...\nYou really do cause\ntrouble one after another,\ndon't you?",
+      "translated_text_zh": "你们这些家伙...\n真是接二连三地\n惹麻烦啊？",
+      "note": ""
+    },
+    {
+      "offset": "3234",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ふ、不可抗力だ・・・",
+      "translated_text": "I-It was unavoidable...",
+      "translated_text_zh": "不、不可抗力...",
+      "note": ""
+    },
+    {
+      "offset": "327c",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ふ、不可抗力だ・・・",
+      "translated_text": "I-It was unavoidable...",
+      "translated_text_zh": "不、不可抗力...",
+      "note": ""
+    },
+    {
+      "offset": "32c4",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ふ、不可抗力だよ！",
+      "translated_text": "I-It was unavoidable!",
+      "translated_text_zh": "不、不可抗力！",
+      "note": ""
+    },
+    {
+      "offset": "330a",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・不可抗力です",
+      "translated_text": "...It was unavoidable.",
+      "translated_text_zh": "...不可抗力。",
+      "note": ""
+    },
+    {
+      "offset": "33ca",
+      "translated": true,
+      "len": 65,
+      "orig_text": "悪いのはそこの\n間抜けなレビットよ！\nエルカのせいじゃ\nないわっ！！",
+      "translated_text": "It's that idiot\nLevit over there who's\nto blame! It's not\nElka's fault!!",
+      "translated_text_zh": "都是那边那个\n笨蛋莱维特的\n错！不是\n艾露卡的错！！",
+      "note": ""
+    },
+    {
+      "offset": "34b0",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ごめんなさいですの",
+      "translated_text": "I'm sorry.",
+      "translated_text_zh": "对不起。",
+      "note": ""
+    },
+    {
+      "offset": "3567",
+      "translated": true,
+      "len": 57,
+      "orig_text": "それにしても、\nなんだって連中の\n屋敷に入ろうと\nしたんだ？",
+      "translated_text": "Anyway,\nwhy were you trying\nto get into their\nmansion?",
+      "translated_text_zh": "话说回来，\n你们为什么要\n闯进他们的\n宅邸？",
+      "note": ""
+    },
+    {
+      "offset": "35ff",
+      "translated": true,
+      "len": 33,
+      "orig_text": "あんたたちには関係\nないでしょっ！",
+      "translated_text": "It's none of your\nbusiness!",
+      "translated_text_zh": "关你们什么事！",
+      "note": ""
+    },
+    {
+      "offset": "36c5",
+      "translated": true,
+      "len": 48,
+      "orig_text": "助けてもらっといて、\nその言いぐさは\nなんだよ！？",
+      "translated_text": "After we helped you,\nthat's how you\ntalk to us!?",
+      "translated_text_zh": "我们帮了你，\n你就这样跟\n我们说话！？",
+      "note": ""
+    },
+    {
+      "offset": "3754",
+      "translated": true,
+      "len": 29,
+      "orig_text": "フンッ！\n勝手に助けたんでしょ",
+      "translated_text": "Hmph!\nYou helped us\nwithout being asked.",
+      "translated_text_zh": "哼！\n你们是多管闲事\n吧。",
+      "note": ""
+    },
+    {
+      "offset": "37fa",
+      "translated": true,
+      "len": 14,
+      "orig_text": "んだとぉ・・・",
+      "translated_text": "You little...",
+      "translated_text_zh": "你说什么...",
+      "note": ""
+    },
+    {
+      "offset": "38e5",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ガキ同士で、\nなに熱くなってんだよ",
+      "translated_text": "Why are you kids\ngetting so worked up?",
+      "translated_text_zh": "你们这些小鬼\n激动什么？",
+      "note": ""
+    },
+    {
+      "offset": "392d",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そんなことより",
+      "translated_text": "More importantly,",
+      "translated_text_zh": "比起那个，",
+      "note": ""
+    },
+    {
+      "offset": "3957",
+      "translated": true,
+      "len": 21,
+      "orig_text": "\nこいつをどうする気だ",
+      "translated_text": "\nwhat are you going\nto do with her?",
+      "translated_text_zh": "\n你打算怎么\n处理她？",
+      "note": ""
+    },
+    {
+      "offset": "39af",
+      "translated": true,
+      "len": 12,
+      "orig_text": "どうしよう？",
+      "translated_text": "What should I do?",
+      "translated_text_zh": "我该怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "3a01",
+      "translated": true,
+      "len": 41,
+      "orig_text": "　ほっとけないだろ\n　エルカはどうしたい？",
+      "translated_text": "  We can't just leave\n  her alone.\n  What do you want to do,\n  Elka?",
+      "translated_text_zh": "  不能放着她\n  不管吧。\n  艾露卡，你\n  想怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "3a5e",
+      "translated": true,
+      "len": 39,
+      "orig_text": "　ほっとけないよ\n　エルカはどうしたい？",
+      "translated_text": "  We can't just leave\n  her alone.\n  What do you want to do,\n  Elka?",
+      "translated_text_zh": "  不能放着她\n  不管吧。\n  艾露卡，你\n  想怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "3ab9",
+      "translated": true,
+      "len": 43,
+      "orig_text": "　ほっとけないじゃん\n　エルカはどうしたい？",
+      "translated_text": "  We can't just leave\n  her alone.\n  What do you want to do,\n  Elka?",
+      "translated_text_zh": "  不能放着她\n  不管吧。\n  艾露卡，你\n  想怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "3b18",
+      "translated": true,
+      "len": 43,
+      "orig_text": "　ほっとけないんです\n　エルカはどうしたい？",
+      "translated_text": "  We can't just leave\n  her alone.\n  What do you want to do,\n  Elka?",
+      "translated_text_zh": "  不能放着她\n  不管吧。\n  艾露卡，你\n  想怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "3c2a",
+      "translated": true,
+      "len": 48,
+      "orig_text": "ほっとけないだろ\nこいつ、はぐれ召喚獣\nみたいだし",
+      "translated_text": "We can't just leave\nher alone. She looks\nlike a Stray Summon Beast.",
+      "translated_text_zh": "不能放着她\n不管吧。她看\n起来像是迷途\n召唤兽。",
+      "note": ""
+    },
+    {
+      "offset": "3c8e",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ほっとけないよ\nこの子、はぐれ召喚獣\nみたいだし",
+      "translated_text": "We can't just leave\nher alone. She looks\nlike a Stray Summon Beast.",
+      "translated_text_zh": "不能放着她\n不管吧。她看\n起来像是迷途\n召唤兽。",
+      "note": ""
+    },
+    {
+      "offset": "3cf0",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ほっとけないじゃん\nこの子、はぐれ召喚獣\nみたいだし",
+      "translated_text": "We can't just leave\nher alone. She looks\nlike a Stray Summon Beast.",
+      "translated_text_zh": "不能放着她\n不管吧。她看\n起来像是迷途\n召唤兽。",
+      "note": ""
+    },
+    {
+      "offset": "3d56",
+      "translated": true,
+      "len": 58,
+      "orig_text": "ほっとけないんです\nこの子、はぐれ召喚獣\nみたいですし・・・",
+      "translated_text": "We can't just leave\nher alone. She looks\nlike a Stray Summon\nBeast...",
+      "translated_text_zh": "不能放着她\n不管吧。她看\n起来像是迷途\n召唤兽...",
+      "note": ""
+    },
+    {
+      "offset": "3df8",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ま、そうするだろうと\nは思ってたがな",
+      "translated_text": "Well, I figured you'd\ndo that.",
+      "translated_text_zh": "嗯，我猜你会\n这样做的。",
+      "note": ""
+    },
+    {
+      "offset": "3edc",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ちょっと、勝手に決め\nないでよっ！",
+      "translated_text": "Hey, don't decide\nthat on your own!",
+      "translated_text_zh": "喂，别擅自\n做决定！",
+      "note": ""
+    },
+    {
+      "offset": "3f24",
+      "translated": true,
+      "len": 39,
+      "orig_text": "エルカはエルカよっ\nはぐれなんかじゃない",
+      "translated_text": "Elka is Elka!\nI'm not a stray!",
+      "translated_text_zh": "艾露卡就是艾露卡！\n我才不是迷途！",
+      "note": ""
+    },
+    {
+      "offset": "3f72",
+      "translated": true,
+      "len": 41,
+      "orig_text": "原住民の世話になんか\nならないんだから！！",
+      "translated_text": "I don't need to be\ntaken care of by natives!!",
+      "translated_text_zh": "我才不需要原住民\n照顾！！",
+      "note": ""
+    },
+    {
+      "offset": "405c",
+      "translated": true,
+      "len": 16,
+      "orig_text": "エルカさんっ！？",
+      "translated_text": "Elka-san!?",
+      "translated_text_zh": "艾露卡小姐！？",
+      "note": ""
+    },
+    {
+      "offset": "4138",
+      "translated": true,
+      "len": 20,
+      "orig_text": "エルカはどうしたい？",
+      "translated_text": "What do you want\nto do, Elka?",
+      "translated_text_zh": "艾露卡，你\n想怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "4180",
+      "translated": true,
+      "len": 20,
+      "orig_text": "エルカはどうしたい？",
+      "translated_text": "What do you want\nto do, Elka?",
+      "translated_text_zh": "艾露卡，你\n想怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "41c8",
+      "translated": true,
+      "len": 20,
+      "orig_text": "エルカはどうしたい？",
+      "translated_text": "What do you want\nto do, Elka?",
+      "translated_text_zh": "艾露卡，你\n想怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "4210",
+      "translated": true,
+      "len": 33,
+      "orig_text": "エルカさんは\nどうしたいんですか？",
+      "translated_text": "What do you want\nto do, Elka-san?",
+      "translated_text_zh": "艾露卡小姐，\n你想怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "42fb",
+      "translated": true,
+      "len": 29,
+      "orig_text": "どうするもこうするも\nないわよ",
+      "translated_text": "There's nothing\nI can do.",
+      "translated_text_zh": "我无能为力。",
+      "note": ""
+    },
+    {
+      "offset": "433f",
+      "translated": true,
+      "len": 69,
+      "orig_text": "エルカはあの屋敷に\n用があるんだから\nこんなところで\n遊んでられないの！",
+      "translated_text": "I have business at\nthat mansion!\nI don't have time\nto play around here!",
+      "translated_text_zh": "我还有事要\n去那座宅邸！\n没时间在这里\n闲逛！",
+      "note": ""
+    },
+    {
+      "offset": "43ab",
+      "translated": true,
+      "len": 14,
+      "orig_text": "さよならっ！！",
+      "translated_text": "Goodbye!!",
+      "translated_text_zh": "再见！！",
+      "note": ""
+    },
+    {
+      "offset": "447a",
+      "translated": true,
+      "len": 16,
+      "orig_text": "エルカさんっ！？",
+      "translated_text": "Elka-san!?",
+      "translated_text_zh": "艾露卡小姐！？",
+      "note": ""
+    },
+    {
+      "offset": "468a",
+      "translated": true,
+      "len": 18,
+      "orig_text": "待てってば、エルカ",
+      "translated_text": "Wait, Elka!",
+      "translated_text_zh": "等等，艾露卡！",
+      "note": ""
+    },
+    {
+      "offset": "46d0",
+      "translated": true,
+      "len": 16,
+      "orig_text": "待つんだ、エルカ",
+      "translated_text": "Wait, Elka.",
+      "translated_text_zh": "等等，艾露卡。",
+      "note": ""
+    },
+    {
+      "offset": "4714",
+      "translated": true,
+      "len": 16,
+      "orig_text": "待ってよ、エルカ",
+      "translated_text": "Wait, Elka.",
+      "translated_text_zh": "等等，艾露卡。",
+      "note": ""
+    },
+    {
+      "offset": "4758",
+      "translated": true,
+      "len": 29,
+      "orig_text": "待ってください！\nエルカさん！",
+      "translated_text": "Please wait!\nElka-san!",
+      "translated_text_zh": "请等等！\n艾露卡小姐！",
+      "note": ""
+    },
+    {
+      "offset": "47dd",
+      "translated": true,
+      "len": 31,
+      "orig_text": "放しなさいよっ！\n放してえっ！！",
+      "translated_text": "Let me go!\nLet go!!",
+      "translated_text_zh": "放开我！\n放手！！",
+      "note": ""
+    },
+    {
+      "offset": "4888",
+      "translated": true,
+      "len": 69,
+      "orig_text": "あれだけ騒いだんだ\n今から戻るのは、\n捕まりにいくみたいな\nもんだぞ！？",
+      "translated_text": "After all the commotion\nyou caused, going back\nnow is like turning\nyourself in!?",
+      "translated_text_zh": "你闹了那么大\n的动静，现在\n回去不就等于\n自投罗网！？",
+      "note": ""
+    },
+    {
+      "offset": "48f4",
+      "translated": true,
+      "len": 12,
+      "orig_text": "頭を冷やせよ",
+      "translated_text": "Calm down.",
+      "translated_text_zh": "冷静点。",
+      "note": ""
+    },
+    {
+      "offset": "4934",
+      "translated": true,
+      "len": 69,
+      "orig_text": "あれだけ騒いだんだ\n今から戻るのは、\n捕まりにいくみたいな\nもんだぞ！？",
+      "translated_text": "After all the commotion\nyou caused, going back\nnow is like turning\nyourself in!?",
+      "translated_text_zh": "你闹了那么大\n的动静，现在\n回去不就等于\n自投罗网！？",
+      "note": ""
+    },
+    {
+      "offset": "49a0",
+      "translated": true,
+      "len": 14,
+      "orig_text": "頭を冷やすんだ",
+      "translated_text": "Calm down.",
+      "translated_text_zh": "冷静点。",
+      "note": ""
+    },
+    {
+      "offset": "49e2",
+      "translated": true,
+      "len": 73,
+      "orig_text": "あれだけ騒いだんだよ\n今から戻るのは、捕ま\nりにいくみたいなもん\nじゃない！",
+      "translated_text": "After all the commotion\nyou caused, going back\nnow is like turning\nyourself in!",
+      "translated_text_zh": "你闹了那么大\n的动静，现在回去\n不就等于自投罗网\n吗！",
+      "note": ""
+    },
+    {
+      "offset": "4a52",
+      "translated": true,
+      "len": 18,
+      "orig_text": "落ちついてってば！",
+      "translated_text": "Calm down!",
+      "translated_text_zh": "冷静点！",
+      "note": ""
+    },
+    {
+      "offset": "4a98",
+      "translated": true,
+      "len": 69,
+      "orig_text": "あれだけ騒いだんです\n今から戻るのは、\n捕まりにいくような\nものですよ！",
+      "translated_text": "After all the commotion\nyou caused, going back\nnow is like turning\nyourself in!",
+      "translated_text_zh": "你闹了那么大\n的动静，现在\n回去不就等于\n自投罗网吗！",
+      "note": ""
+    },
+    {
+      "offset": "4b04",
+      "translated": true,
+      "len": 20,
+      "orig_text": "頭を冷やしてください",
+      "translated_text": "Please calm down.",
+      "translated_text_zh": "请冷静一下。",
+      "note": ""
+    },
+    {
+      "offset": "4b80",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "4c31",
+      "translated": true,
+      "len": 46,
+      "orig_text": "エルカさん\nマスターは、とっても\n優しい人ですの",
+      "translated_text": "Elka-san,\nMaster is a very\nkind person.",
+      "translated_text_zh": "艾露卡小姐，\n主人是个非常\n善良的人。",
+      "note": ""
+    },
+    {
+      "offset": "4c86",
+      "translated": true,
+      "len": 48,
+      "orig_text": "わけを話せば、\nきっと力になって\nくれるはずですの",
+      "translated_text": "If you explain\nyour situation, he'll\nsurely help you.",
+      "translated_text_zh": "如果你说明\n情况，他一定\n会帮你的。",
+      "note": ""
+    },
+    {
+      "offset": "4d69",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・知りたいのよ",
+      "translated_text": "...I want to know.",
+      "translated_text_zh": "...我想知道。",
+      "note": ""
+    },
+    {
+      "offset": "4dcc",
+      "translated": true,
+      "len": 54,
+      "orig_text": "メイトルパに・・・\nエルカのいた世界に\n帰る方法をっ！！",
+      "translated_text": "How to return to\nMaetropa... to\nElka's world!!",
+      "translated_text_zh": "回迈特罗帕...\n回艾露卡的\n世界的方法！！",
+      "note": ""
+    },
+    {
+      "offset": "4fe8",
+      "translated": true,
+      "len": 79,
+      "orig_text": "知らなかったんだな\n召喚獣を元の世界へ帰\nせるのが、呼んだ人間\nだけってこと・・・",
+      "translated_text": "You didn't know...\nthat only the person\nwho summoned a Summon\nBeast can send it back...",
+      "translated_text_zh": "你不知道...\n只有召唤召唤兽\n的人才能把它\n送回去...",
+      "note": ""
+    },
+    {
+      "offset": "506b",
+      "translated": true,
+      "len": 77,
+      "orig_text": "知らなかったんだな\n召喚獣を元の世界へ帰\nせるのが、呼んだ人間\nだけだってことを",
+      "translated_text": "You didn't know...\nthat only the person\nwho summoned a Summon\nBeast can send it back.",
+      "translated_text_zh": "你不知道...\n只有召唤召唤兽\n的人才能把它\n送回去。",
+      "note": ""
+    },
+    {
+      "offset": "50ec",
+      "translated": true,
+      "len": 77,
+      "orig_text": "知らなかったんだ\n召喚獣を元の世界へ帰\nせるのが、呼んだ人間\nだけってこと・・・",
+      "translated_text": "You didn't know...\nthat only the person\nwho summoned a Summon\nBeast can send it back...",
+      "translated_text_zh": "你不知道...\n只有召唤召唤兽\n的人才能把它\n送回去...",
+      "note": ""
+    },
+    {
+      "offset": "516d",
+      "translated": true,
+      "len": 81,
+      "orig_text": "知らなかったんですね\n召喚獣を元の世界へ帰\nせるのが、呼んだ人間\nだけってこと・・・",
+      "translated_text": "You didn't know...\nthat only the person\nwho summoned a Summon\nBeast can send it back...",
+      "translated_text_zh": "你不知道...\n只有召唤召唤兽\n的人才能把它\n送回去...",
+      "note": ""
+    },
+    {
+      "offset": "526c",
+      "translated": true,
+      "len": 63,
+      "orig_text": "で、早とちりして\nそいつをこてんぱんに\nして逃げてきたって\nわけか",
+      "translated_text": "So, you jumped to\nconclusions, beat him\nup, and ran away,\nhuh?",
+      "translated_text_zh": "所以你就误会了，\n把他打了一顿，\n然后逃走了，\n是吗？",
+      "note": ""
+    },
+    {
+      "offset": "537d",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ああ、もう一年以上も\n前の話らしい",
+      "translated_text": "Yeah, it seems like\nit happened over\na year ago.",
+      "translated_text_zh": "嗯，好像已经\n是 1 年多以前\n的事了。",
+      "note": ""
+    },
+    {
+      "offset": "5450",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ああ、もう一年以上も\n前の話らしい",
+      "translated_text": "Yeah, it seems like\nit happened over\na year ago.",
+      "translated_text_zh": "嗯，好像已经\n是 1 年多以前\n的事了。",
+      "note": ""
+    },
+    {
+      "offset": "5523",
+      "translated": true,
+      "len": 35,
+      "orig_text": "うん、もう一年以上も\n前の話だってさ",
+      "translated_text": "Yeah, she said it\nhappened over\na year ago.",
+      "translated_text_zh": "嗯，她说已经\n是 1 年多以前\n的事了。",
+      "note": ""
+    },
+    {
+      "offset": "55f8",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ええ、もう一年以上も\n前の話だそうです",
+      "translated_text": "Yes, it seems like\nit happened over\na year ago.",
+      "translated_text_zh": "是的，好像已经\n是 1 年多以前\n的事了。",
+      "note": ""
+    },
+    {
+      "offset": "56cb",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それじゃ、その召喚師\nを捜すのも難しいなあ",
+      "translated_text": "Then it'll be\ndifficult to find\nthat Summoner.",
+      "translated_text_zh": "那要找到那个\n召唤师就难了。",
+      "note": ""
+    },
+    {
+      "offset": "5799",
+      "translated": true,
+      "len": 56,
+      "orig_text": "仮に見つかったとして\nも、自分に刃向かった\n相手なんだしな",
+      "translated_text": "Even if we found him,\nshe defied him.\nYou know.",
+      "translated_text_zh": "就算找到了，\n她可是反抗过\n他的人啊。",
+      "note": ""
+    },
+    {
+      "offset": "58ae",
+      "translated": true,
+      "len": 14,
+      "orig_text": "で、あいつは？",
+      "translated_text": "So, where is she?",
+      "translated_text_zh": "那，她呢？",
+      "note": ""
+    },
+    {
+      "offset": "5948",
+      "translated": true,
+      "len": 58,
+      "orig_text": "部屋で休ませてるよ\nモナティが、ガウムと\n一緒につきそってる",
+      "translated_text": "She's resting in a room.\nMonaty is there\nwith Gaume.",
+      "translated_text_zh": "她在房间里休息。\n莫纳提和加乌姆\n在陪着她。",
+      "note": ""
+    },
+    {
+      "offset": "59b6",
+      "translated": true,
+      "len": 58,
+      "orig_text": "部屋で休ませてるよ\nモナティが、ガウムと\n一緒につきそってる",
+      "translated_text": "She's resting in a room.\nMonaty is there\nwith Gaume.",
+      "translated_text_zh": "她在房间里休息。\n莫纳提和加乌姆\n在陪着她。",
+      "note": ""
+    },
+    {
+      "offset": "5a24",
+      "translated": true,
+      "len": 73,
+      "orig_text": "部屋で休ませてる\nモナティが、ガウムと\n一緒につきそって\nくれてるから・・・",
+      "translated_text": "She's resting in a room.\nMonaty and Gaume\nare with her...",
+      "translated_text_zh": "她在房间里休息。\n莫纳提和加乌姆\n在陪着她...",
+      "note": ""
+    },
+    {
+      "offset": "5aa1",
+      "translated": true,
+      "len": 56,
+      "orig_text": "部屋で休ませてます\nモナティが、ガウムと\n一緒にいますから",
+      "translated_text": "She's resting in a room.\nMonaty and Gaume\nare with her.",
+      "translated_text_zh": "她在房间里休息。\n莫纳提和加乌姆\n在陪着她。",
+      "note": ""
+    },
+    {
+      "offset": "5b87",
+      "translated": true,
+      "len": 14,
+      "orig_text": "大丈夫かしら？",
+      "translated_text": "Is she okay?",
+      "translated_text_zh": "她没事吧？",
+      "note": ""
+    },
+    {
+      "offset": "5c4b",
+      "translated": true,
+      "len": 42,
+      "orig_text": "そうだな・・・\nちょっと、様子を\n見てくるよ",
+      "translated_text": "I guess so...\nI'll go check on\nher.",
+      "translated_text_zh": "是啊...\n我去看看\n她吧。",
+      "note": ""
+    },
+    {
+      "offset": "5ca9",
+      "translated": true,
+      "len": 42,
+      "orig_text": "そうだな・・・\nちょっと、様子を\n見てくるよ",
+      "translated_text": "I guess so...\nI'll go check on\nher.",
+      "translated_text_zh": "是啊...\n我去看看\n她吧。",
+      "note": ""
+    },
+    {
+      "offset": "5d07",
+      "translated": true,
+      "len": 33,
+      "orig_text": "う〜ん・・・\nちょっと、心配だな〜",
+      "translated_text": "Hmm...\nI'm a little worried.",
+      "translated_text_zh": "嗯...\n有点担心啊。",
+      "note": ""
+    },
+    {
+      "offset": "5d4f",
+      "translated": true,
+      "len": 20,
+      "orig_text": "様子見て来ます・・・",
+      "translated_text": "I'll go check on her...",
+      "translated_text_zh": "我去看看她...",
+      "note": ""
+    },
+    {
+      "offset": "5d97",
+      "translated": true,
+      "len": 50,
+      "orig_text": "そうですね・・・\nちょっと、様子を見て\nきます・・・",
+      "translated_text": "I guess so...\nI'll go check on\nher...",
+      "translated_text_zh": "是啊...\n我去看看\n她吧...",
+      "note": ""
+    },
+    {
+      "offset": "5fa7",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ウソよ・・・\n帰る方法がないなんて",
+      "translated_text": "That's a lie...\nThere's no way to\ngo back.",
+      "translated_text_zh": "骗人的吧...\n怎么可能没\n办法回去。",
+      "note": ""
+    },
+    {
+      "offset": "6027",
+      "translated": true,
+      "len": 23,
+      "orig_text": "でもでもっ\n本当なんです",
+      "translated_text": "B-But\nit's true!",
+      "translated_text_zh": "可、可是\n是真的！",
+      "note": ""
+    },
+    {
+      "offset": "609d",
+      "translated": true,
+      "len": 71,
+      "orig_text": "イヤよっ！\nエルカは認めないっ！\nこんな世界になんか、\nいたくないのよ！！",
+      "translated_text": "No!\nElka won't accept it!\nI don't want to be\nin this world!!",
+      "translated_text_zh": "不要！\n艾露卡不承认！\n我不想待在\n这个世界！！",
+      "note": ""
+    },
+    {
+      "offset": "6143",
+      "translated": true,
+      "len": 31,
+      "orig_text": "エルカさんっ\n落ち着くですのっ！",
+      "translated_text": "Elka-san!\nCalm down!",
+      "translated_text_zh": "艾露卡小姐！\n冷静点！",
+      "note": ""
+    },
+    {
+      "offset": "6207",
+      "translated": true,
+      "len": 10,
+      "orig_text": "きゅーっ！",
+      "translated_text": "Squee!",
+      "translated_text_zh": "啾！",
+      "note": ""
+    },
+    {
+      "offset": "631b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "やめるんだ、エルカ！",
+      "translated_text": "Stop it, Elka!",
+      "translated_text_zh": "住手，艾露卡！",
+      "note": ""
+    },
+    {
+      "offset": "6363",
+      "translated": true,
+      "len": 20,
+      "orig_text": "やめるんだ、エルカ！",
+      "translated_text": "Stop it, Elka!",
+      "translated_text_zh": "住手，艾露卡！",
+      "note": ""
+    },
+    {
+      "offset": "63ab",
+      "translated": true,
+      "len": 20,
+      "orig_text": "エルカ、やめなさい！",
+      "translated_text": "Elka, stop it!",
+      "translated_text_zh": "艾露卡，住手！",
+      "note": ""
+    },
+    {
+      "offset": "63f3",
+      "translated": true,
+      "len": 29,
+      "orig_text": "エルカさん！\nやめてください！",
+      "translated_text": "Elka-san!\nPlease stop!",
+      "translated_text_zh": "艾露卡小姐！\n请住手！",
+      "note": ""
+    },
+    {
+      "offset": "6478",
+      "translated": true,
+      "len": 16,
+      "orig_text": "マスターっ・・・",
+      "translated_text": "Master...",
+      "translated_text_zh": "主人...",
+      "note": ""
+    },
+    {
+      "offset": "652d",
+      "translated": true,
+      "len": 31,
+      "orig_text": "どいてよっ！\nエルカは帰るのっ！",
+      "translated_text": "Move!\nElka's going home!",
+      "translated_text_zh": "让开！\n艾露卡要回家！",
+      "note": ""
+    },
+    {
+      "offset": "6573",
+      "translated": true,
+      "len": 16,
+      "orig_text": "どけえぇ〜っ！！",
+      "translated_text": "Get out of my way!!",
+      "translated_text_zh": "滚开！！",
+      "note": ""
+    },
+    {
+      "offset": "67a5",
+      "translated": true,
+      "len": 14,
+      "orig_text": "うわぁぁっ！？",
+      "translated_text": "Waaaah!?",
+      "translated_text_zh": "哇啊啊！？",
+      "note": ""
+    },
+    {
+      "offset": "67e7",
+      "translated": true,
+      "len": 14,
+      "orig_text": "うわぁぁっ！？",
+      "translated_text": "Waaaah!?",
+      "translated_text_zh": "哇啊啊！？",
+      "note": ""
+    },
+    {
+      "offset": "6829",
+      "translated": true,
+      "len": 14,
+      "orig_text": "うわぁぁっ！？",
+      "translated_text": "Waaaah!?",
+      "translated_text_zh": "哇啊啊！？",
+      "note": ""
+    },
+    {
+      "offset": "686b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "きゃぁぁっ！？",
+      "translated_text": "Kyaaaah!?",
+      "translated_text_zh": "呀啊啊！？",
+      "note": ""
+    },
+    {
+      "offset": "6a86",
+      "translated": true,
+      "len": 12,
+      "orig_text": "しっかりしろ",
+      "translated_text": "Get a hold of\nyourself.",
+      "translated_text_zh": "振作起来。",
+      "note": ""
+    },
+    {
+      "offset": "6b0f",
+      "translated": true,
+      "len": 16,
+      "orig_text": "あ、あれ・・・？",
+      "translated_text": "W-What...?",
+      "translated_text_zh": "啊，那...？",
+      "note": ""
+    },
+    {
+      "offset": "6bc4",
+      "translated": true,
+      "len": 50,
+      "orig_text": "うにゅううっ\n身体がビリビリしてる\nですのぉ〜・・・",
+      "translated_text": "Ughhh...\nMy body feels all\ntingly...",
+      "translated_text_zh": "唔扭扭...\n身体麻麻的...",
+      "note": ""
+    },
+    {
+      "offset": "6ce4",
+      "translated": true,
+      "len": 21,
+      "orig_text": "【魔眼】に\nやられたか",
+      "translated_text": "You were hit by\nthe [Evil Eye].",
+      "translated_text_zh": "被【魔眼】\n击中了。",
+      "note": ""
+    },
+    {
+      "offset": "6da0",
+      "translated": true,
+      "len": 6,
+      "orig_text": "魔眼？",
+      "translated_text": "Evil Eye?",
+      "translated_text_zh": "魔眼？",
+      "note": ""
+    },
+    {
+      "offset": "6dda",
+      "translated": true,
+      "len": 6,
+      "orig_text": "魔眼？",
+      "translated_text": "Evil Eye?",
+      "translated_text_zh": "魔眼？",
+      "note": ""
+    },
+    {
+      "offset": "6e14",
+      "translated": true,
+      "len": 12,
+      "orig_text": "魔眼ですか？",
+      "translated_text": "The Evil Eye?",
+      "translated_text_zh": "魔眼？",
+      "note": ""
+    },
+    {
+      "offset": "6e88",
+      "translated": true,
+      "len": 48,
+      "orig_text": "にらみつけた相手の\n身体をおかしくして\nしまう光だ",
+      "translated_text": "It's a light that\ndisrupts the body\nof whoever it glares at.",
+      "translated_text_zh": "是能让人\n身体麻痹的\n光芒。",
+      "note": ""
+    },
+    {
+      "offset": "6f6a",
+      "translated": true,
+      "len": 25,
+      "orig_text": "【魔眼】に\nやられたんだな",
+      "translated_text": "You were hit\nby the [Evil Eye].",
+      "translated_text_zh": "被【魔眼】\n击中了。",
+      "note": ""
+    },
+    {
+      "offset": "700f",
+      "translated": true,
+      "len": 6,
+      "orig_text": "魔眼？",
+      "translated_text": "Evil Eye?",
+      "translated_text_zh": "魔眼？",
+      "note": ""
+    },
+    {
+      "offset": "7064",
+      "translated": true,
+      "len": 6,
+      "orig_text": "魔眼？",
+      "translated_text": "Evil Eye?",
+      "translated_text_zh": "魔眼？",
+      "note": ""
+    },
+    {
+      "offset": "709e",
+      "translated": true,
+      "len": 12,
+      "orig_text": "魔眼ですか？",
+      "translated_text": "The Evil Eye?",
+      "translated_text_zh": "魔眼？",
+      "note": ""
+    },
+    {
+      "offset": "7112",
+      "translated": true,
+      "len": 54,
+      "orig_text": "にらみつけた相手の\n身体をおかしくして\nしまう光のことだ",
+      "translated_text": "It's a light that\ndisrupts the body of\nwhoever it glares at.",
+      "translated_text_zh": "是能让人身体麻痹\n的光芒。",
+      "note": ""
+    },
+    {
+      "offset": "71fa",
+      "translated": true,
+      "len": 23,
+      "orig_text": "【魔眼】に\nやられたのね",
+      "translated_text": "You were hit by\nthe [Evil Eye].",
+      "translated_text_zh": "被【魔眼】\n击中了。",
+      "note": ""
+    },
+    {
+      "offset": "729d",
+      "translated": true,
+      "len": 6,
+      "orig_text": "魔眼？",
+      "translated_text": "Evil Eye?",
+      "translated_text_zh": "魔眼？",
+      "note": ""
+    },
+    {
+      "offset": "72d7",
+      "translated": true,
+      "len": 6,
+      "orig_text": "魔眼？",
+      "translated_text": "Evil Eye?",
+      "translated_text_zh": "魔眼？",
+      "note": ""
+    },
+    {
+      "offset": "732c",
+      "translated": true,
+      "len": 12,
+      "orig_text": "魔眼ですか？",
+      "translated_text": "The Evil Eye?",
+      "translated_text_zh": "魔眼？",
+      "note": ""
+    },
+    {
+      "offset": "73a0",
+      "translated": true,
+      "len": 54,
+      "orig_text": "にらみつけた相手の\n身体をおかしくして\nしまう光のことよ",
+      "translated_text": "It's a light that\ndisrupts the body of\nwhoever it glares at.",
+      "translated_text_zh": "是能让人身体麻痹\n的光芒。",
+      "note": ""
+    },
+    {
+      "offset": "7488",
+      "translated": true,
+      "len": 27,
+      "orig_text": "【魔眼】に\nやられたんですね",
+      "translated_text": "You were hit by\nthe [Evil Eye].",
+      "translated_text_zh": "被【魔眼】\n击中了。",
+      "note": ""
+    },
+    {
+      "offset": "7502",
+      "translated": true,
+      "len": 6,
+      "orig_text": "魔眼？",
+      "translated_text": "Evil Eye?",
+      "translated_text_zh": "魔眼？",
+      "note": ""
+    },
+    {
+      "offset": "7567",
+      "translated": true,
+      "len": 56,
+      "orig_text": "にらみつけた相手の\n身体をおかしくして\nしまう光のことです",
+      "translated_text": "It's a light that\ndisrupts the body of\nwhoever it glares at.",
+      "translated_text_zh": "是能让人身体麻痹\n的光芒。",
+      "note": ""
+    },
+    {
+      "offset": "765e",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それよりも、エルカを\n早く連れ戻さないと！",
+      "translated_text": "More importantly, we\nneed to get Elka back!",
+      "translated_text_zh": "比起那个，得\n赶快把艾露卡\n带回来！",
+      "note": ""
+    },
+    {
+      "offset": "76bb",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それよりも、エルカを\n早く連れ戻さないと！",
+      "translated_text": "More importantly, we\nneed to get Elka back!",
+      "translated_text_zh": "比起那个，得\n赶快把艾露卡\n带回来！",
+      "note": ""
+    },
+    {
+      "offset": "7718",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それよりも、エルカを\n早く連れ戻さないと！",
+      "translated_text": "More importantly, we\nneed to get Elka back!",
+      "translated_text_zh": "比起那个，得\n赶快把艾露卡\n带回来！",
+      "note": ""
+    },
+    {
+      "offset": "7775",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それより、エルカさん\n早く連れ戻さないと！",
+      "translated_text": "More importantly, we\nneed to get Elka-san\nback!",
+      "translated_text_zh": "比起那个，得\n赶快把艾露卡小姐\n带回来！",
+      "note": ""
+    },
+    {
+      "offset": "784c",
+      "translated": true,
+      "len": 54,
+      "orig_text": "こんな目にあわされて\nお前、まだそんなこと\n言ってんのか",
+      "translated_text": "After all this,\nyou're still saying\nthat?",
+      "translated_text_zh": "你都这样了，\n还说那种话？",
+      "note": ""
+    },
+    {
+      "offset": "78a9",
+      "translated": true,
+      "len": 67,
+      "orig_text": "ほっといてくれって\n言ってんだぜ\nそうしてやればいい\nじゃねえかよ！？",
+      "translated_text": "She said to leave her\nalone.\nSo we should just\ndo that, right!?",
+      "translated_text_zh": "她说让我们\n别管她。\n那就别管她\n不就好了！？",
+      "note": ""
+    },
+    {
+      "offset": "7978",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ほっとけないよ！",
+      "translated_text": "I can't leave\nher alone!",
+      "translated_text_zh": "我不能放着她\n不管！",
+      "note": ""
+    },
+    {
+      "offset": "79af",
+      "translated": true,
+      "len": 56,
+      "orig_text": "あの子は今まで、自分\nだけの力で生きてきた\nのかもしれない",
+      "translated_text": "She might have been\nliving on her own\nall this time.",
+      "translated_text_zh": "她可能一直\n都是一个人\n生活。",
+      "note": ""
+    },
+    {
+      "offset": "7a0e",
+      "translated": true,
+      "len": 58,
+      "orig_text": "だけどそれは、エルカ\nが好きでそうしてきた\nんじゃない・・・",
+      "translated_text": "But it's not like\nElka wanted to live\nlike that...",
+      "translated_text_zh": "但她并不是\n喜欢那样生活...\n",
+      "note": ""
+    },
+    {
+      "offset": "7a6f",
+      "translated": true,
+      "len": 27,
+      "orig_text": "そうするしか\nなかったんだ！",
+      "translated_text": "She had no other\nchoice!",
+      "translated_text_zh": "她别无选择！",
+      "note": ""
+    },
+    {
+      "offset": "7abe",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ほっとけないよ！",
+      "translated_text": "I can't leave\nher alone!",
+      "translated_text_zh": "我不能放着她\n不管！",
+      "note": ""
+    },
+    {
+      "offset": "7af5",
+      "translated": true,
+      "len": 56,
+      "orig_text": "あの子は今まで、自分\nだけの力で生きてきた\nのかもしれない",
+      "translated_text": "She might have been\nliving on her own\nall this time.",
+      "translated_text_zh": "她可能一直\n都是一个人\n生活。",
+      "note": ""
+    },
+    {
+      "offset": "7b54",
+      "translated": true,
+      "len": 58,
+      "orig_text": "だけどそれは、エルカ\nが好きでそうしてきた\nんじゃない・・・",
+      "translated_text": "But it's not like\nElka wanted to live\nlike that...",
+      "translated_text_zh": "但她并不是\n喜欢那样生活...\n",
+      "note": ""
+    },
+    {
+      "offset": "7bb5",
+      "translated": true,
+      "len": 27,
+      "orig_text": "そうするしかなかった\nんだ！",
+      "translated_text": "She had no other\nchoice!",
+      "translated_text_zh": "她别无选择！",
+      "note": ""
+    },
+    {
+      "offset": "7c04",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ほっとけないでしょ！",
+      "translated_text": "We can't leave\nher alone!",
+      "translated_text_zh": "我们不能放着她\n不管！",
+      "note": ""
+    },
+    {
+      "offset": "7c3f",
+      "translated": true,
+      "len": 56,
+      "orig_text": "あの子は今まで、自分\nだけの力で生きてきた\nのかもしれない",
+      "translated_text": "She might have been\nliving on her own\nall this time.",
+      "translated_text_zh": "她可能一直\n都是一个人\n生活。",
+      "note": ""
+    },
+    {
+      "offset": "7c9e",
+      "translated": true,
+      "len": 58,
+      "orig_text": "だけどそれは、エルカ\nが好きでそうしてきた\nんじゃない・・・",
+      "translated_text": "But it's not like\nElka wanted to live\nlike that...",
+      "translated_text_zh": "但她并不是\n喜欢那样生活...\n",
+      "note": ""
+    },
+    {
+      "offset": "7cff",
+      "translated": true,
+      "len": 29,
+      "orig_text": "そうするしか\nなかったんだよ！",
+      "translated_text": "She had no other\nchoice!",
+      "translated_text_zh": "她别无选择！",
+      "note": ""
+    },
+    {
+      "offset": "7d50",
+      "translated": true,
+      "len": 18,
+      "orig_text": "放っておけません！",
+      "translated_text": "I can't leave her alone!",
+      "translated_text_zh": "我不能放着她不管！",
+      "note": ""
+    },
+    {
+      "offset": "7d89",
+      "translated": true,
+      "len": 58,
+      "orig_text": "あの子は今まで、自分\nだけの力で生きてきた\nのかもしれません",
+      "translated_text": "She might have been\nliving on her own\nall this time.",
+      "translated_text_zh": "她可能一直\n都是一个人\n生活。",
+      "note": ""
+    },
+    {
+      "offset": "7dea",
+      "translated": true,
+      "len": 60,
+      "orig_text": "でも・・・エルカさん\nが好きでそうしてきた\nんじゃないはずです",
+      "translated_text": "But... It's not like\nElka-san wanted to live\nlike that.",
+      "translated_text_zh": "但是... 艾露卡小姐\n并不是喜欢那样\n生活。",
+      "note": ""
+    },
+    {
+      "offset": "7e4d",
+      "translated": true,
+      "len": 31,
+      "orig_text": "そうするしかなかった\nんですよ！",
+      "translated_text": "She had no other\nchoice!",
+      "translated_text_zh": "她别无选择！",
+      "note": ""
+    },
+    {
+      "offset": "7efe",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "7f96",
+      "translated": true,
+      "len": 79,
+      "orig_text": "俺はエルカを助けたい\nガゼルたちが俺を助け\nてくれたように、彼女\nを助けたいんだ！",
+      "translated_text": "I want to help Elka.\nJust like Gazel and the\nothers helped me, I want\nto help her!",
+      "translated_text_zh": "我想帮助艾露卡。\n就像加泽尔他们\n帮助我一样，我\n也想帮助她！",
+      "note": ""
+    },
+    {
+      "offset": "8019",
+      "translated": true,
+      "len": 79,
+      "orig_text": "僕はエルカを助けたい\nガゼルたちが俺を助け\nてくれたように、彼女\nを助けたいんだ！",
+      "translated_text": "I want to help Elka.\nJust like Gazel and the\nothers helped me, I want\nto help her!",
+      "translated_text_zh": "我想帮助艾露卡。\n就像加泽尔他们\n帮助我一样，我\n也想帮助她！",
+      "note": ""
+    },
+    {
+      "offset": "809c",
+      "translated": true,
+      "len": 71,
+      "orig_text": "あたし、みんながあた\nしを助けてくれたよう\nに・・・エルカを\n助けたいの！",
+      "translated_text": "I want to help Elka...\njust like everyone\nhelped me!",
+      "translated_text_zh": "我，就像大家\n帮助我一样...\n想帮助艾露卡！",
+      "note": ""
+    },
+    {
+      "offset": "8117",
+      "translated": true,
+      "len": 67,
+      "orig_text": "わたし・・・\nみなさんがわたしを\n助けてくれたように\n彼女を助けたい！",
+      "translated_text": "I...\nJust like you all\nhelped me, I want\nto help her!",
+      "translated_text_zh": "我...\n就像大家帮助\n我一样，我\n也想帮助她！",
+      "note": ""
+    },
+    {
+      "offset": "8208",
+      "translated": true,
+      "len": 14,
+      "orig_text": "マスター・・・",
+      "translated_text": "Master...",
+      "translated_text_zh": "主人...",
+      "note": ""
+    },
+    {
+      "offset": "829f",
+      "translated": true,
+      "len": 14,
+      "orig_text": "きゃああっ！！",
+      "translated_text": "Kyaaaah!!",
+      "translated_text_zh": "呀啊啊！！",
+      "note": ""
+    },
+    {
+      "offset": "848f",
+      "translated": true,
+      "len": 35,
+      "orig_text": "放しなさいよっ！\n放してえぇ〜っ！！",
+      "translated_text": "Let me go!\nLet go!!",
+      "translated_text_zh": "放开我！\n放手！！",
+      "note": ""
+    },
+    {
+      "offset": "8511",
+      "translated": true,
+      "len": 40,
+      "orig_text": "ぎゃあぎゃあ\n騒ぐんじゃねえよ、\nコラ！！",
+      "translated_text": "Quit your\nyapping, brat!!",
+      "translated_text_zh": "别吵吵闹闹\n的，小鬼！！",
+      "note": ""
+    },
+    {
+      "offset": "85de",
+      "translated": true,
+      "len": 58,
+      "orig_text": "乗り込む前にわざわざ\n出てきてくれるとは、\n間抜けなはぐれだ",
+      "translated_text": "What a foolish stray,\ncoming out here before\nwe even barged in.",
+      "translated_text_zh": "真是愚蠢的迷途，\n还没等我们闯进去\n就自己出来了。",
+      "note": ""
+    },
+    {
+      "offset": "8722",
+      "translated": true,
+      "len": 12,
+      "orig_text": "エルカっ！？",
+      "translated_text": "Elka!?",
+      "translated_text_zh": "艾露卡！？",
+      "note": ""
+    },
+    {
+      "offset": "8762",
+      "translated": true,
+      "len": 12,
+      "orig_text": "エルカっ！？",
+      "translated_text": "Elka!?",
+      "translated_text_zh": "艾露卡！？",
+      "note": ""
+    },
+    {
+      "offset": "87a2",
+      "translated": true,
+      "len": 12,
+      "orig_text": "エルカっ！？",
+      "translated_text": "Elka!?",
+      "translated_text_zh": "艾露卡！？",
+      "note": ""
+    },
+    {
+      "offset": "87e2",
+      "translated": true,
+      "len": 12,
+      "orig_text": "エルカさん！",
+      "translated_text": "Elka-san!",
+      "translated_text_zh": "艾露卡小姐！",
+      "note": ""
+    },
+    {
+      "offset": "8856",
+      "translated": true,
+      "len": 63,
+      "orig_text": "ほう、彼女はエルカと\n言うんですか\nなかなか華麗なお名前\nですねえ",
+      "translated_text": "Oh, so her name is\nElka?\nWhat a splendid name.",
+      "translated_text_zh": "哦，她叫\n艾露卡吗？\n真是个华丽\n的名字啊。",
+      "note": ""
+    },
+    {
+      "offset": "893a",
+      "translated": true,
+      "len": 39,
+      "orig_text": "バカ三兄弟が揃って、\n何しにきやがった！",
+      "translated_text": "What are you three\nidiots doing here!?",
+      "translated_text_zh": "你们三个笨蛋\n来干什么！",
+      "note": ""
+    },
+    {
+      "offset": "8a06",
+      "translated": true,
+      "len": 39,
+      "orig_text": "聞かなきゃわかんねえ\nのか・・・あァん？",
+      "translated_text": "You need me to tell\nyou...? Huh?",
+      "translated_text_zh": "不问你就不知道\n吗... 啊？",
+      "note": ""
+    },
+    {
+      "offset": "8aee",
+      "translated": true,
+      "len": 73,
+      "orig_text": "重ね重ねの貴方たちの\n無礼、まとめてお返し\nして差し上げようと\n思いましてね",
+      "translated_text": "I've come to repay\nyou all for your\nrepeated rudeness.",
+      "translated_text_zh": "我是来报答\n你们一再的\n无礼的。",
+      "note": ""
+    },
+    {
+      "offset": "8bc3",
+      "translated": true,
+      "len": 16,
+      "orig_text": "勝手なことをっ！",
+      "translated_text": "Don't be absurd!",
+      "translated_text_zh": "别胡说八道！",
+      "note": ""
+    },
+    {
+      "offset": "8c07",
+      "translated": true,
+      "len": 16,
+      "orig_text": "勝手なことをっ！",
+      "translated_text": "Don't be absurd!",
+      "translated_text_zh": "别胡说八道！",
+      "note": ""
+    },
+    {
+      "offset": "8c4b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "勝手なことばっかり！",
+      "translated_text": "You're being\nabsurd!",
+      "translated_text_zh": "你们真是\n胡说八道！",
+      "note": ""
+    },
+    {
+      "offset": "8c93",
+      "translated": true,
+      "len": 37,
+      "orig_text": "勝手なことばかり\n言わないでください！",
+      "translated_text": "Don't you dare say\nsuch absurd things!",
+      "translated_text_zh": "请不要再说\n这种胡话了！",
+      "note": ""
+    },
+    {
+      "offset": "8d66",
+      "translated": true,
+      "len": 73,
+      "orig_text": "ほほう、いいのかね\n私たちを攻撃すれば、\nこのはぐれも無事には\nすまないぞ？",
+      "translated_text": "Oh? Are you sure\nabout this?\nIf you attack us, this\nstray won't be safe.",
+      "translated_text_zh": "哦？你确定\n要这样做？\n如果你攻击我们，\n这个迷途可就\n遭殃了。",
+      "note": ""
+    },
+    {
+      "offset": "8e3b",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ぐっ・・・",
+      "translated_text": "Gah...",
+      "translated_text_zh": "唔...",
+      "note": ""
+    },
+    {
+      "offset": "8e79",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ぐっ・・・",
+      "translated_text": "Gah...",
+      "translated_text_zh": "唔...",
+      "note": ""
+    },
+    {
+      "offset": "8eb7",
+      "translated": true,
+      "len": 10,
+      "orig_text": "うっ・・・",
+      "translated_text": "Ugh...",
+      "translated_text_zh": "呜...",
+      "note": ""
+    },
+    {
+      "offset": "8ef5",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "8f8d",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ふははははっ！\n私たちに逆らった罪を\nたっぷりと・・・",
+      "translated_text": "Muhahahaha!\nYou will pay dearly\nfor defying us...",
+      "translated_text_zh": "哈哈哈哈！\n你们胆敢反抗\n我们...",
+      "note": ""
+    },
+    {
+      "offset": "9066",
+      "translated": true,
+      "len": 10,
+      "orig_text": "きゅーっ！",
+      "translated_text": "Squee!",
+      "translated_text_zh": "啾！",
+      "note": ""
+    },
+    {
+      "offset": "92f1",
+      "translated": true,
+      "len": 14,
+      "orig_text": "のわあぁっ！？",
+      "translated_text": "Nwaaaah!?",
+      "translated_text_zh": "哇啊啊！？",
+      "note": ""
+    },
+    {
+      "offset": "93dc",
+      "translated": true,
+      "len": 27,
+      "orig_text": "エルカさんっ\nこっちですのっ",
+      "translated_text": "Elka-san,\nover here!",
+      "translated_text_zh": "艾露卡小姐，\n这边！",
+      "note": ""
+    },
+    {
+      "offset": "94b8",
+      "translated": true,
+      "len": 37,
+      "orig_text": "お、おのれぇ・・・\n不意打ちとは卑怯な",
+      "translated_text": "D-Damn you...\nA sneak attack is\ncowardly!",
+      "translated_text_zh": "可、可恶...\n偷袭算什么本事！",
+      "note": ""
+    },
+    {
+      "offset": "9582",
+      "translated": true,
+      "len": 37,
+      "orig_text": "人質とっといて、\n何を言ってやがんだよ",
+      "translated_text": "You took a hostage,\nand you have the nerve\nto say that?",
+      "translated_text_zh": "你都挟持人质了，\n还好意思说这种话？",
+      "note": ""
+    },
+    {
+      "offset": "9606",
+      "translated": true,
+      "len": 33,
+      "orig_text": "きぃぃ〜っ！\n憎い、憎い、憎いっ！",
+      "translated_text": "Grrrr!\nI hate you, I hate\nyou, I hate you!",
+      "translated_text_zh": "可恶！\n可恶，可恶，可恶！",
+      "note": ""
+    },
+    {
+      "offset": "96cc",
+      "translated": true,
+      "len": 16,
+      "orig_text": "落ち着けよ、兄貴",
+      "translated_text": "Calm down, bro.",
+      "translated_text_zh": "冷静点，大哥。",
+      "note": ""
+    },
+    {
+      "offset": "9781",
+      "translated": true,
+      "len": 54,
+      "orig_text": "人質などいなくても、\n華麗なる私たちの勝利\nは動きません",
+      "translated_text": "Even without a hostage,\nour glorious victory\nis assured.",
+      "translated_text_zh": "就算没有\n人质，我们\n的华丽胜利\n也势在必得。",
+      "note": ""
+    },
+    {
+      "offset": "985c",
+      "translated": true,
+      "len": 23,
+      "orig_text": "ハッ\nそいつはどうかな？",
+      "translated_text": "Ha!\nIs that so?",
+      "translated_text_zh": "哈！\n是吗？",
+      "note": ""
+    },
+    {
+      "offset": "9918",
+      "translated": true,
+      "len": 14,
+      "orig_text": "んだとォ・・・",
+      "translated_text": "You...\n",
+      "translated_text_zh": "你说什么...",
+      "note": ""
+    },
+    {
+      "offset": "99cb",
+      "translated": true,
+      "len": 33,
+      "orig_text": "思い知りなさい\n私たち兄弟の力を！",
+      "translated_text": "Witness the power\nof us brothers!",
+      "translated_text_zh": "见识一下\n我们兄弟的力量！",
+      "note": ""
+    },
+    {
+      "offset": "9a91",
+      "translated": true,
+      "len": 20,
+      "orig_text": "くたばれえぇぇっ！！",
+      "translated_text": "Dieeeee!!",
+      "translated_text_zh": "去死吧！！",
+      "note": ""
+    },
+    {
+      "offset": "9ee5",
+      "translated": true,
+      "len": 31,
+      "orig_text": "この落とし前、\nきっとつけるぞ！",
+      "translated_text": "I'll make you pay\nfor this!",
+      "translated_text_zh": "我一定会\n报仇的！",
+      "note": ""
+    },
+    {
+      "offset": "9fa9",
+      "translated": true,
+      "len": 41,
+      "orig_text": "華麗なる復讐を次こそ\n見せてさしあげます！",
+      "translated_text": "I'll show you a\nglorious revenge next\ntime!",
+      "translated_text_zh": "下次我会让你\n见识到什么叫做\n华丽的复仇！",
+      "note": ""
+    },
+    {
+      "offset": "a077",
+      "translated": true,
+      "len": 14,
+      "orig_text": "きぃぃ〜っ！！",
+      "translated_text": "Grrrr!!",
+      "translated_text_zh": "可恶！！",
+      "note": ""
+    },
+    {
+      "offset": "a1af",
+      "translated": true,
+      "len": 33,
+      "orig_text": "どうしてエルカのこと\n助けたのよ？",
+      "translated_text": "Why did you help\nElka?",
+      "translated_text_zh": "你为什么要\n帮艾露卡？",
+      "note": ""
+    },
+    {
+      "offset": "a1f7",
+      "translated": true,
+      "len": 37,
+      "orig_text": "助けてくれなんて\n言ってないのに・・・",
+      "translated_text": "I didn't ask you\nto help me...",
+      "translated_text_zh": "我可没求你\n帮忙...",
+      "note": ""
+    },
+    {
+      "offset": "a25f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "どうしよう？",
+      "translated_text": "What should I say?",
+      "translated_text_zh": "我该说什么？",
+      "note": ""
+    },
+    {
+      "offset": "a2b1",
+      "translated": true,
+      "len": 41,
+      "orig_text": "　気にしなくていいよ\n　自覚はあるんだな？",
+      "translated_text": "  Don't worry about it.\n  You know you were\n  helped, right?",
+      "translated_text_zh": "  别在意。\n  你知道自己被\n  救了吧？",
+      "note": ""
+    },
+    {
+      "offset": "a30e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "　気にするな\n　自覚はあるんだな？",
+      "translated_text": "  Don't worry.\n  You know you were\n  helped, right?",
+      "translated_text_zh": "  别在意。\n  你知道自己被\n  救了吧？",
+      "note": ""
+    },
+    {
+      "offset": "a363",
+      "translated": true,
+      "len": 39,
+      "orig_text": "　気にしなくていいよ\n　自覚はあるんだ？",
+      "translated_text": "  Don't worry about it.\n  You know you were\n  helped, right?",
+      "translated_text_zh": "  别在意。\n  你知道自己被\n  救了吧？",
+      "note": ""
+    },
+    {
+      "offset": "a3be",
+      "translated": true,
+      "len": 35,
+      "orig_text": "　気にしないで\n　自覚してるんですね",
+      "translated_text": "  Don't worry.\n  You know you were\n  helped, right?",
+      "translated_text_zh": "  别在意。\n  你知道自己被\n  救了吧？",
+      "note": ""
+    },
+    {
+      "offset": "a4c8",
+      "translated": true,
+      "len": 48,
+      "orig_text": "気にしなくていいよ\n恩に着せるつもりじゃ\nないから",
+      "translated_text": "Don't worry about it.\nI'm not going to hold\nit over your head.",
+      "translated_text_zh": "别在意。\n我不会拿这件事\n来要挟你。",
+      "note": ""
+    },
+    {
+      "offset": "a52c",
+      "translated": true,
+      "len": 42,
+      "orig_text": "気にするな\n恩に着せるつもり\nなんてないから",
+      "translated_text": "Don't worry.\nI'm not going to hold\nit over your head.",
+      "translated_text_zh": "别在意。\n我不会拿这件事\n来要挟你。",
+      "note": ""
+    },
+    {
+      "offset": "a58a",
+      "translated": true,
+      "len": 48,
+      "orig_text": "気にしなくていいよ\n恩に着せるつもりじゃ\nないから",
+      "translated_text": "Don't worry about it.\nI'm not going to hold\nit over your head.",
+      "translated_text_zh": "别在意。\n我不会拿这件事\n来要挟你。",
+      "note": ""
+    },
+    {
+      "offset": "a5ee",
+      "translated": true,
+      "len": 54,
+      "orig_text": "気にしないでください\n恩に着せるつもりは\nありませんから",
+      "translated_text": "Please don't worry.\nI have no intention of\nholding it over your head.",
+      "translated_text_zh": "请别在意。\n我并没有想\n要挟你。",
+      "note": ""
+    },
+    {
+      "offset": "a6b6",
+      "translated": true,
+      "len": 14,
+      "orig_text": "当たり前よっ！",
+      "translated_text": "Of course!",
+      "translated_text_zh": "那当然！",
+      "note": ""
+    },
+    {
+      "offset": "a766",
+      "translated": true,
+      "len": 33,
+      "orig_text": "助けられたって自覚は\nあるんだな？",
+      "translated_text": "You're aware that you\nwere saved, right?",
+      "translated_text_zh": "你明白自己被\n救了吧？",
+      "note": ""
+    },
+    {
+      "offset": "a7bb",
+      "translated": true,
+      "len": 33,
+      "orig_text": "助けられたって自覚は\nあるんだな？",
+      "translated_text": "You're aware that you\nwere saved, right?",
+      "translated_text_zh": "你明白自己被\n救了吧？",
+      "note": ""
+    },
+    {
+      "offset": "a810",
+      "translated": true,
+      "len": 36,
+      "orig_text": "へぇ\n助けられたって自覚は\nあるんだ？",
+      "translated_text": "Hee.\nYou're aware that you\nwere saved, right?",
+      "translated_text_zh": "嘿。\n你明白自己被\n救了吧？",
+      "note": ""
+    },
+    {
+      "offset": "a868",
+      "translated": true,
+      "len": 35,
+      "orig_text": "助けられた自覚は\nあるんですね・・・",
+      "translated_text": "You're aware that you\nwere saved...",
+      "translated_text_zh": "你明白自己被\n救了吧...",
+      "note": ""
+    },
+    {
+      "offset": "a91d",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・フンッ！",
+      "translated_text": "...Hmph!",
+      "translated_text_zh": "...哼！",
+      "note": ""
+    },
+    {
+      "offset": "a9cd",
+      "translated": true,
+      "len": 60,
+      "orig_text": "信じるかどうかは別と\nして、さっき俺が説明\nしたことは本当だよ",
+      "translated_text": "Whether you believe it\nor not, what I explained\nearlier is true.",
+      "translated_text_zh": "信不信由你，\n我之前解释的\n都是真的。",
+      "note": ""
+    },
+    {
+      "offset": "aa30",
+      "translated": true,
+      "len": 60,
+      "orig_text": "呼び出された召喚獣が\n自分の力で元の世界に\n帰ることはできない",
+      "translated_text": "A summoned Summon\nBeast can't return to\nits original world\non its own.",
+      "translated_text_zh": "被召唤的召唤兽\n无法依靠自己的\n力量回到原来的世界。",
+      "note": ""
+    },
+    {
+      "offset": "aaa0",
+      "translated": true,
+      "len": 60,
+      "orig_text": "信じるかどうかは別と\nして、さっき僕が説明\nしたことは事実だよ",
+      "translated_text": "Whether you believe it\nor not, what I explained\nearlier is true.",
+      "translated_text_zh": "信不信由你，\n我之前解释的\n都是真的。",
+      "note": ""
+    },
+    {
+      "offset": "ab03",
+      "translated": true,
+      "len": 60,
+      "orig_text": "呼び出された召喚獣が\n自分の力で元の世界に\n帰ることはできない",
+      "translated_text": "A summoned Summon\nBeast can't return to\nits original world\non its own.",
+      "translated_text_zh": "被召唤的召唤兽\n无法依靠自己的\n力量回到原来的世界。",
+      "note": ""
+    },
+    {
+      "offset": "ab73",
+      "translated": true,
+      "len": 54,
+      "orig_text": "信じるかどうかは別と\nして、さっき説明\nしたことはホント",
+      "translated_text": "Whether you believe it\nor not, what I explained\nearlier is true.",
+      "translated_text_zh": "信不信由你，\n我之前解释的\n都是真的。",
+      "note": ""
+    },
+    {
+      "offset": "abd0",
+      "translated": true,
+      "len": 62,
+      "orig_text": "呼び出された召喚獣が\n自分の力で元の世界に\n帰ることはできないの",
+      "translated_text": "A summoned Summon\nBeast can't return to\nits original world\non its own.",
+      "translated_text_zh": "被召唤的召唤兽\n无法依靠自己的\n力量回到原来的世界。",
+      "note": ""
+    },
+    {
+      "offset": "ac42",
+      "translated": true,
+      "len": 71,
+      "orig_text": "信じるかどうかは別と\nして、わたしが説明し\nたことに嘘は\nありません・・・",
+      "translated_text": "Whether you believe it\nor not, I'm not lying\nabout what I explained.",
+      "translated_text_zh": "信不信由你，\n我之前解释的\n并没有撒谎...",
+      "note": ""
+    },
+    {
+      "offset": "acb0",
+      "translated": true,
+      "len": 73,
+      "orig_text": "呼び出された召喚獣が\n自分の力で元の世界に\n帰ることはできない\nんです・・・",
+      "translated_text": "A summoned Summon\nBeast can't return to\nits original world\non its own...",
+      "translated_text_zh": "被召唤的召唤兽\n无法依靠自己的\n力量回到原来的\n世界...",
+      "note": ""
+    },
+    {
+      "offset": "ad61",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "ae12",
+      "translated": true,
+      "len": 41,
+      "orig_text": "マスターは嘘をついて\nないです、エルカさん",
+      "translated_text": "Master isn't lying,\nElka-san.",
+      "translated_text_zh": "主人没有撒谎，\n艾露卡小姐。",
+      "note": ""
+    },
+    {
+      "offset": "ae62",
+      "translated": true,
+      "len": 54,
+      "orig_text": "だって・・・\nマスターもエルカさん\nと同じなんですから！",
+      "translated_text": "Because...\nMaster is the same\nas Elka-san!",
+      "translated_text_zh": "因为...\n主人和艾露卡小姐\n一样！",
+      "note": ""
+    },
+    {
+      "offset": "aef7",
+      "translated": true,
+      "len": 10,
+      "orig_text": "え・・・？",
+      "translated_text": "Huh...?",
+      "translated_text_zh": "咦...？",
+      "note": ""
+    },
+    {
+      "offset": "b11b",
+      "translated": true,
+      "len": 58,
+      "orig_text": "レビットから聞いたわ\nあんた、ここの原住民\nじゃなかったのね",
+      "translated_text": "I heard from Levit.\nYou're not a native\nof this place.",
+      "translated_text_zh": "我听莱维特说了。\n你不是这里\n的原住民。",
+      "note": ""
+    },
+    {
+      "offset": "b20b",
+      "translated": true,
+      "len": 8,
+      "orig_text": "まあ、ね",
+      "translated_text": "Well, yeah.",
+      "translated_text_zh": "是啊。",
+      "note": ""
+    },
+    {
+      "offset": "b247",
+      "translated": true,
+      "len": 8,
+      "orig_text": "まあ、ね",
+      "translated_text": "Well, yeah.",
+      "translated_text_zh": "是啊。",
+      "note": ""
+    },
+    {
+      "offset": "b283",
+      "translated": true,
+      "len": 14,
+      "orig_text": "え、はは・・・",
+      "translated_text": "Eh, haha...",
+      "translated_text_zh": "咦，哈哈...",
+      "note": ""
+    },
+    {
+      "offset": "b2c5",
+      "translated": true,
+      "len": 4,
+      "orig_text": "はい",
+      "translated_text": "Yes.",
+      "translated_text_zh": "是的。",
+      "note": ""
+    },
+    {
+      "offset": "b35b",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ねえ・・・\nあんたはどうして平気\nでいられるの？",
+      "translated_text": "Hey...\nHow can you be\nso calm?",
+      "translated_text_zh": "喂...\n你怎么能\n这么平静？",
+      "note": ""
+    },
+    {
+      "offset": "b43f",
+      "translated": true,
+      "len": 58,
+      "orig_text": "平気なんかじゃないよ\n俺だって、元の世界に\n帰れたらって思う",
+      "translated_text": "I'm not calm.\nI wish I could go\nback to my world too.",
+      "translated_text_zh": "我才不平静。\n我也希望\n能回到原来的世界。",
+      "note": ""
+    },
+    {
+      "offset": "b4a0",
+      "translated": true,
+      "len": 58,
+      "orig_text": "でも、だからって現実\nを拒否しちゃうわけに\nはいかないだろ？",
+      "translated_text": "But I can't just\nreject reality because\nof that, can I?",
+      "translated_text_zh": "可是，不能\n因为这样就\n逃避现实吧？",
+      "note": ""
+    },
+    {
+      "offset": "b50e",
+      "translated": true,
+      "len": 58,
+      "orig_text": "平気なんかじゃないさ\n僕だって、元の世界に\n帰れたらって思う",
+      "translated_text": "I'm not calm.\nI wish I could go\nback to my world too.",
+      "translated_text_zh": "我才不平静。\n我也希望\n能回到原来的世界。",
+      "note": ""
+    },
+    {
+      "offset": "b56f",
+      "translated": true,
+      "len": 60,
+      "orig_text": "でも、だからって現実\nを拒否してしまうわけ\nにはいかないからな",
+      "translated_text": "But I can't just\nreject reality because\nof that.",
+      "translated_text_zh": "可是，不能\n因为这样就\n逃避现实。",
+      "note": ""
+    },
+    {
+      "offset": "b5df",
+      "translated": true,
+      "len": 48,
+      "orig_text": "平気なんかじゃないよ\n元の世界に\n帰れたらって思う",
+      "translated_text": "I'm not calm.\nI wish I could go\nback to my world.",
+      "translated_text_zh": "我才不平静。\n我也希望\n能回到原来的世界。",
+      "note": ""
+    },
+    {
+      "offset": "b636",
+      "translated": true,
+      "len": 18,
+      "orig_text": "実際、夢にも見るよ",
+      "translated_text": "I dream about it.",
+      "translated_text_zh": "我经常梦到。",
+      "note": ""
+    },
+    {
+      "offset": "b66f",
+      "translated": true,
+      "len": 60,
+      "orig_text": "でも、だからって現実\nを拒否しちゃうわけに\nはいかないでしょ？",
+      "translated_text": "But I can't just\nreject reality because\nof that, right?",
+      "translated_text_zh": "可是，不能\n因为这样就\n逃避现实吧？",
+      "note": ""
+    },
+    {
+      "offset": "b6df",
+      "translated": true,
+      "len": 56,
+      "orig_text": "平気じゃありませんよ\nわたしも、元の世界に\n戻りたいんです",
+      "translated_text": "I'm not calm either.\nI want to go back to\nmy world too.",
+      "translated_text_zh": "我才不平静。\n我也想回到\n原来的世界。",
+      "note": ""
+    },
+    {
+      "offset": "b73e",
+      "translated": true,
+      "len": 60,
+      "orig_text": "でも、現実は現実と\nして、生きていかない\nと、いけないですよね",
+      "translated_text": "But we have to accept\nreality and live\non, right?",
+      "translated_text_zh": "但是，我们\n必须接受现实，\n继续活下去，对吧？",
+      "note": ""
+    },
+    {
+      "offset": "b7e2",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "b874",
+      "translated": true,
+      "len": 56,
+      "orig_text": "俺は運が良かったんだ\nここの人たちに助けて\nもらえたからね",
+      "translated_text": "I was lucky.\nI was helped by the\npeople here.",
+      "translated_text_zh": "我运气好。\n被这里的人\n帮助了。",
+      "note": ""
+    },
+    {
+      "offset": "b8d3",
+      "translated": true,
+      "len": 48,
+      "orig_text": "一人だったら、きっと\n生きていけなかったと\n思うよ",
+      "translated_text": "If I were alone, I\nprobably wouldn't have\nsurvived.",
+      "translated_text_zh": "如果只有我\n一个人，我可能\n活不下去。",
+      "note": ""
+    },
+    {
+      "offset": "b937",
+      "translated": true,
+      "len": 54,
+      "orig_text": "僕は運が良かったんだ\nここの人たちに助けて\nもらえたから",
+      "translated_text": "I was lucky.\nI was helped by\nthe people here.",
+      "translated_text_zh": "我运气好。\n被这里的人\n帮助了。",
+      "note": ""
+    },
+    {
+      "offset": "b994",
+      "translated": true,
+      "len": 52,
+      "orig_text": "一人だったら、きっと\n生きていけなかったと\n思ってるよ",
+      "translated_text": "If I were alone, I\nprobably wouldn't have\nsurvived.",
+      "translated_text_zh": "如果只有我\n一个人，我可能\n活不下去。",
+      "note": ""
+    },
+    {
+      "offset": "b9fc",
+      "translated": true,
+      "len": 60,
+      "orig_text": "あたしは運良かったよ\nここの人たちに助けて\nもらえたから・・・",
+      "translated_text": "I was lucky.\nI was helped by the\npeople here...",
+      "translated_text_zh": "我运气好。\n被这里的人\n帮助了...",
+      "note": ""
+    },
+    {
+      "offset": "ba5f",
+      "translated": true,
+      "len": 54,
+      "orig_text": "一人だったら、きっと\n今頃、生きてないん\nじゃないかな？",
+      "translated_text": "If I were alone, I\nprobably wouldn't\nbe alive now.",
+      "translated_text_zh": "如果只有我\n一个人，我可能\n已经不在了。",
+      "note": ""
+    },
+    {
+      "offset": "bac9",
+      "translated": true,
+      "len": 56,
+      "orig_text": "わたしは、ここの人\n達に出会えたから\n運が良かったんですね",
+      "translated_text": "I was lucky because\nI met the people\nhere.",
+      "translated_text_zh": "我运气好，\n因为我遇到了\n这里的人。",
+      "note": ""
+    },
+    {
+      "offset": "bb28",
+      "translated": true,
+      "len": 52,
+      "orig_text": "一人だったら、きっと\n生きていけなかったと\n思うんです",
+      "translated_text": "If I were alone, I\nprobably wouldn't have\nsurvived.",
+      "translated_text_zh": "如果只有我\n一个人，我可能\n活不下去。",
+      "note": ""
+    },
+    {
+      "offset": "bbc4",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "bc5c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "なあ、エルカ？",
+      "translated_text": "Hey, Elka?",
+      "translated_text_zh": "喂，艾露卡？",
+      "note": ""
+    },
+    {
+      "offset": "bc9e",
+      "translated": true,
+      "len": 14,
+      "orig_text": "なあ、エルカ？",
+      "translated_text": "Hey, Elka?",
+      "translated_text_zh": "喂，艾露卡？",
+      "note": ""
+    },
+    {
+      "offset": "bce0",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ねぇ、エルカ？",
+      "translated_text": "Hey, Elka?",
+      "translated_text_zh": "喂，艾露卡？",
+      "note": ""
+    },
+    {
+      "offset": "bd22",
+      "translated": true,
+      "len": 16,
+      "orig_text": "エルカさん・・・",
+      "translated_text": "Elka-san...",
+      "translated_text_zh": "艾露卡小姐...",
+      "note": ""
+    },
+    {
+      "offset": "bd7e",
+      "translated": true,
+      "len": 12,
+      "orig_text": "どうしよう？",
+      "translated_text": "What should I do?",
+      "translated_text_zh": "我该怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "bdd0",
+      "translated": true,
+      "len": 41,
+      "orig_text": "　帰る方法を一緒に探そう\n　休んでいけよ？",
+      "translated_text": "  Let's find a way\n  to go back together.\n  Why don't you rest\n  here?",
+      "translated_text_zh": "  我们一起想办法\n  让你回去吧。\n  在这里休息\n  一下吧？",
+      "note": ""
+    },
+    {
+      "offset": "be2d",
+      "translated": true,
+      "len": 45,
+      "orig_text": "　帰る方法を一緒に探そう\n　休んでいかないか？",
+      "translated_text": "  Let's find a way\n  for you to go back\n  together.\n  Why don't you rest here?",
+      "translated_text_zh": "  我们一起想办法\n  让你回去吧。\n  在这里休息一下？",
+      "note": ""
+    },
+    {
+      "offset": "be8e",
+      "translated": true,
+      "len": 43,
+      "orig_text": "　帰る方法を一緒に探そうよ\n　休んでいけば？",
+      "translated_text": "  Let's find a way for\n  you to go back together.\n  Why don't you rest here?",
+      "translated_text_zh": "  我们一起想办法\n  让你回去吧。\n  在这里休息一下？",
+      "note": ""
+    },
+    {
+      "offset": "beed",
+      "translated": true,
+      "len": 45,
+      "orig_text": "　帰る方法を一緒に探そう\n　休んでいきましょう",
+      "translated_text": "  Let's find a way\n  for you to go back\n  together.\n  Let's rest here.",
+      "translated_text_zh": "  我们一起想办法\n  让你回去吧。\n  在这里休息一下吧。",
+      "note": ""
+    },
+    {
+      "offset": "c001",
+      "translated": true,
+      "len": 39,
+      "orig_text": "一緒に探さないか？\n元の世界へ戻る方法を",
+      "translated_text": "Why don't we look\nfor it together?\nA way to return to your\nworld.",
+      "translated_text_zh": "我们一起找\n找看吧？\n回到你原来\n世界的方法。",
+      "note": ""
+    },
+    {
+      "offset": "c05c",
+      "translated": true,
+      "len": 39,
+      "orig_text": "一緒に探さないか？\n元の世界へ戻る方法を",
+      "translated_text": "Why don't we look\nfor it together?\nA way to return to your\nworld.",
+      "translated_text_zh": "我们一起找\n找看吧？\n回到你原来\n世界的方法。",
+      "note": ""
+    },
+    {
+      "offset": "c0b7",
+      "translated": true,
+      "len": 35,
+      "orig_text": "一緒に探そうよ\n元の世界へ戻る方法を",
+      "translated_text": "Let's look for it\ntogether.\nA way to return\nto your world.",
+      "translated_text_zh": "我们一起找\n找看吧。\n回到你原来\n世界的方法。",
+      "note": ""
+    },
+    {
+      "offset": "c10e",
+      "translated": true,
+      "len": 41,
+      "orig_text": "一緒に探しませんか？\n元の世界へ戻る方法を",
+      "translated_text": "Why don't we look\nfor it together?\nA way to return\nto your world?",
+      "translated_text_zh": "我们一起找\n找看吧？\n回到你原来\n世界的方法？",
+      "note": ""
+    },
+    {
+      "offset": "c19f",
+      "translated": true,
+      "len": 4,
+      "orig_text": "え？",
+      "translated_text": "Huh?",
+      "translated_text_zh": "咦？",
+      "note": ""
+    },
+    {
+      "offset": "c22f",
+      "translated": true,
+      "len": 50,
+      "orig_text": "一人より二人のほうが\nきっと早く見つかると\n思うんだ",
+      "translated_text": "I think we'll find it\nfaster if we search\ntogether.",
+      "translated_text_zh": "我想，两个人\n一起找肯定比\n一个人快。",
+      "note": ""
+    },
+    {
+      "offset": "c295",
+      "translated": true,
+      "len": 50,
+      "orig_text": "一人より二人のほうが\nきっと早く見つかると\n思うんだ",
+      "translated_text": "I think we'll find it\nfaster if we search\ntogether.",
+      "translated_text_zh": "我想，两个人\n一起找肯定比\n一个人快。",
+      "note": ""
+    },
+    {
+      "offset": "c2fb",
+      "translated": true,
+      "len": 58,
+      "orig_text": "一人より二人のほうが\nきっと早く見つかると\n思うんだ、あたし",
+      "translated_text": "I think we'll find it\nfaster if we search\ntogether.",
+      "translated_text_zh": "我想，两个人\n一起找肯定比\n一个人快。",
+      "note": ""
+    },
+    {
+      "offset": "c369",
+      "translated": true,
+      "len": 52,
+      "orig_text": "一人より二人のほうが\nきっと早く見つかると\n思うんです",
+      "translated_text": "I think we'll find it\nfaster if we search\ntogether.",
+      "translated_text_zh": "我想，两个人\n一起找肯定比\n一个人快。",
+      "note": ""
+    },
+    {
+      "offset": "c448",
+      "translated": true,
+      "len": 23,
+      "orig_text": "休んでいけよ？\nここでさ",
+      "translated_text": "Why don't you\nrest here?",
+      "translated_text_zh": "在这里休息\n一下吧？",
+      "note": ""
+    },
+    {
+      "offset": "c493",
+      "translated": true,
+      "len": 25,
+      "orig_text": "休んでいかないか？\nここで",
+      "translated_text": "Why don't you rest\nhere?",
+      "translated_text_zh": "在这里休息一下？",
+      "note": ""
+    },
+    {
+      "offset": "c4e0",
+      "translated": true,
+      "len": 23,
+      "orig_text": "休んでいけば？\nここでさ",
+      "translated_text": "Why don't you\nrest here?",
+      "translated_text_zh": "在这里休息\n一下吧？",
+      "note": ""
+    },
+    {
+      "offset": "c52b",
+      "translated": true,
+      "len": 31,
+      "orig_text": "休んでいきましょう\nここで・・・",
+      "translated_text": "Let's rest here...",
+      "translated_text_zh": "在这里休息一下吧...",
+      "note": ""
+    },
+    {
+      "offset": "c5b2",
+      "translated": true,
+      "len": 4,
+      "orig_text": "え？",
+      "translated_text": "Huh?",
+      "translated_text_zh": "咦？",
+      "note": ""
+    },
+    {
+      "offset": "c642",
+      "translated": true,
+      "len": 79,
+      "orig_text": "君は今までずっと一人\nでがんばってきたんだ\nすこしぐらい、息抜き\nしてもいいだろ？",
+      "translated_text": "You've been working hard\nall by yourself until now.\nIt's okay to take a\nbreak, right?",
+      "translated_text_zh": "你一直以来都\n是一个人努力\n着。稍微休息\n一下也没关系吧？",
+      "note": ""
+    },
+    {
+      "offset": "c6c5",
+      "translated": true,
+      "len": 81,
+      "orig_text": "君は今までずっと一人\nでがんばってきたんだ\nすこしぐらい、息抜き\nしてもいいはずだよ",
+      "translated_text": "You've been working hard\nall by yourself until now.\nIt's okay to take a\nbreak.",
+      "translated_text_zh": "你一直以来都\n是一个人努力\n着。稍微休息\n一下也没关系吧。",
+      "note": ""
+    },
+    {
+      "offset": "c74a",
+      "translated": true,
+      "len": 75,
+      "orig_text": "今までずっと一人\nでがんばってきたんだ\nからさ、すこしぐらい\n息抜きしようよ？",
+      "translated_text": "You've been working\nhard all by yourself\nuntil now, so why don't\nyou take a break?",
+      "translated_text_zh": "你一直以来都\n是一个人努力\n着，所以稍微\n休息一下吧？",
+      "note": ""
+    },
+    {
+      "offset": "c7c9",
+      "translated": true,
+      "len": 48,
+      "orig_text": "エルカさんはひとりで\nがんばってきたんです\n・・・",
+      "translated_text": "Elka-san has been\nworking hard all\nby herself...",
+      "translated_text_zh": "艾露卡小姐一直\n都是一个人努力\n着...",
+      "note": ""
+    },
+    {
+      "offset": "c820",
+      "translated": true,
+      "len": 33,
+      "orig_text": "少し、息抜きしても\nいいですよね？",
+      "translated_text": "It's okay to take\na break, right?",
+      "translated_text_zh": "稍微休息一下\n也没关系吧？",
+      "note": ""
+    },
+    {
+      "offset": "c8bf",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・そうね",
+      "translated_text": "...You're right.",
+      "translated_text_zh": "...你说得对。",
+      "note": ""
+    },
+    {
+      "offset": "c91c",
+      "translated": true,
+      "len": 56,
+      "orig_text": "そこまで言うんなら、\nもうちょっとだけ\nここにいてあげるわ",
+      "translated_text": "If you insist,\nI'll stay here\na little longer.",
+      "translated_text_zh": "既然你都这么说了，\n我就再待一会儿吧。",
+      "note": ""
+    },
+    {
+      "offset": "c9a5",
+      "translated": true,
+      "len": 58,
+      "orig_text": "言っておくけど！\nあんたが熱心に誘った\nせいですからねっ！！",
+      "translated_text": "Just so you know!\nIt's your fault for\ninsisting so much!!",
+      "translated_text_zh": "说好了！\n都是因为你\n热情邀请！！",
+      "note": ""
+    },
+    {
+      "offset": "ca95",
+      "translated": true,
+      "len": 33,
+      "orig_text": "わかってるって\nははは、よろしくな",
+      "translated_text": "I know, I know.\nHahaha, nice to meet\nyou.",
+      "translated_text_zh": "我知道，我知道。\n哈哈哈，请多指教。",
+      "note": ""
+    },
+    {
+      "offset": "caea",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ああ、わかってるよ",
+      "translated_text": "Yeah, I know.",
+      "translated_text_zh": "嗯，我知道。",
+      "note": ""
+    },
+    {
+      "offset": "cb30",
+      "translated": true,
+      "len": 39,
+      "orig_text": "わかってるってば！\nじゃあ、よろしくね！",
+      "translated_text": "I said I know!\nWell then, nice to meet\nyou!",
+      "translated_text_zh": "我说我知道了！\n那么，请多指教！",
+      "note": ""
+    },
+    {
+      "offset": "cb8b",
+      "translated": true,
+      "len": 25,
+      "orig_text": "はい\nよろしくお願いします",
+      "translated_text": "Yes.\nNice to meet you.",
+      "translated_text_zh": "好的。\n请多指教。",
+      "note": ""
+    },
+    {
+      "offset": "cc0c",
+      "translated": true,
+      "len": 8,
+      "orig_text": "フンッ！",
+      "translated_text": "Hmph!",
+      "translated_text_zh": "哼！",
+      "note": ""
+    }
+  ]
+}

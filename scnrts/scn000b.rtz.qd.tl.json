@@ -7,7 +7,7 @@
       "len": 16,
       "orig_text": "はあ、はあ・・・",
       "translated_text": "Pant... Pant...",
-      "translated_text_zh": "呼... 呼...",
+      "translated_text_zh": "呼・・・呼・・・",
       "note": ""
     },
     {
@@ -16,7 +16,7 @@
       "len": 37,
       "orig_text": "なんだったんだ、\nあのひどいありさまは",
       "translated_text": "What was that,\nthat horrible sight?",
-      "translated_text_zh": "那是什么，\n那可怕的景象？",
+      "translated_text_zh": "那是什么\n那可怕的景象？",
       "note": ""
     },
     {
@@ -25,7 +25,7 @@
       "len": 31,
       "orig_text": "それに、いったい\nここはどこだ？",
       "translated_text": "And where in the world\nis this place?",
-      "translated_text_zh": "还有，这到底\n是哪里？",
+      "translated_text_zh": "还有、\n这到底是哪里？",
       "note": ""
     },
     {
@@ -34,7 +34,7 @@
       "len": 35,
       "orig_text": "どこかの街には違いな\nいんだろうけど",
       "translated_text": "It's definitely some\nkind of town...",
-      "translated_text_zh": "这肯定是什么\n城镇...",
+      "translated_text_zh": "这肯定是什么\n城镇・・・",
       "note": ""
     },
     {
@@ -43,7 +43,7 @@
       "len": 77,
       "orig_text": "とにかく必死で走って\nきたから、どうやって\nここまで来たのかすら\nおぼえてないぞ",
       "translated_text": "I ran here like my life\ndepended on it, I don't\neven remember how I\ngot here.",
-      "translated_text_zh": "我拼命地跑\n了过来，连怎么\n到这里的都不\n记得了。",
+      "translated_text_zh": "拼命地跑了过来\n连怎么到这里的\n都不记得了",
       "note": ""
     },
     {
@@ -52,7 +52,7 @@
       "len": 54,
       "orig_text": "ちょっとはおちついて\n考えをまとめないと、\nまずいよなあ",
       "translated_text": "I need to calm down\nand get my thoughts\ntogether...",
-      "translated_text_zh": "我得冷静下来\n整理一下思绪...",
+      "translated_text_zh": "我得冷静下来\n整理一下思绪・・・",
       "note": ""
     },
     {
@@ -61,7 +61,7 @@
       "len": 39,
       "orig_text": "とりあえず、ここまで\n来れば大丈夫だろう",
       "translated_text": "I should be safe for\nnow, I guess.",
-      "translated_text_zh": "暂时应该安全\n了吧，我想。",
+      "translated_text_zh": "暂时应该安全\n了吧、我想",
       "note": ""
     },
     {
@@ -70,7 +70,7 @@
       "len": 35,
       "orig_text": "しかし、いったいここ\nはどこなんだ？",
       "translated_text": "But where in the world\nis this place?",
-      "translated_text_zh": "可是，这到底\n是哪里？",
+      "translated_text_zh": "可是、\n这到底是哪里？",
       "note": ""
     },
     {
@@ -79,7 +79,7 @@
       "len": 41,
       "orig_text": "どこかの街には違いな\nいんだろうけど・・・",
       "translated_text": "It's definitely some\nkind of town...",
-      "translated_text_zh": "这肯定是什么\n城镇...",
+      "translated_text_zh": "这肯定是什么\n城镇・・・",
       "note": ""
     },
     {
@@ -88,7 +88,7 @@
       "len": 75,
       "orig_text": "必死に走ってきたのは\nいいけど、どうやって\nここに来たのかもよく\nわからないし",
       "translated_text": "It's good that I ran\nfor my life, but I\ndon't even know how\nI got here...",
-      "translated_text_zh": "拼命地跑过来\n是没错，但我连\n怎么到这里的\n都不知道...",
+      "translated_text_zh": "拼命跑过来是没错\n但我连怎么到这里的\n都不知道...",
       "note": ""
     },
     {
@@ -97,7 +97,7 @@
       "len": 39,
       "orig_text": "ちょっとはおちついて\n考えをまとめないと",
       "translated_text": "I need to calm down\nand get my thoughts\ntogether...",
-      "translated_text_zh": "我得冷静下来\n整理一下思绪...",
+      "translated_text_zh": "我得冷静下来\n整理一下思绪",
       "note": ""
     },
     {
@@ -106,7 +106,7 @@
       "len": 85,
       "orig_text": "どうしよう？\n　今までのことをふりかえる\n　さっきの光景を思い出す\n　あたりの様子を見る",
       "translated_text": "What should I do?\n  Think about what happened\n  Remember what I just saw\n  Look around",
-      "translated_text_zh": "我该怎么办？\n  回想一下至今\n  为止发生的事\n  回忆起刚才的景象\n  观察周围的情况",
+      "translated_text_zh": "该怎么办？\n　回想之前发生的事\n　想想起刚才的景象\n　观察周围的情况",
       "note": ""
     },
     {
@@ -115,7 +115,7 @@
       "len": 60,
       "orig_text": "どうしよう？\n　今までのことをふりかえる\n　あたりの様子を見る",
       "translated_text": "What should I do?\n  Think about what happened\n  Look around",
-      "translated_text_zh": "我该怎么办？\n  回想一下至今\n  为止发生的事\n  观察周围的情况",
+      "translated_text_zh": "该怎么办？\n　回想之前发生的事\n　观察周围的情况",
       "note": ""
     },
     {
@@ -124,7 +124,7 @@
       "len": 56,
       "orig_text": "そもそも、何が原因で\nこんなことになっち\nまったんだろう？",
       "translated_text": "In the first place,\nwhat caused this to\nhappen?",
-      "translated_text_zh": "首先，究竟是\n什么原因导致\n变成这样的？",
+      "translated_text_zh": "首先\n变成这样子\n究竟是什么原因导致的？",
       "note": ""
     },
     {
@@ -133,7 +133,7 @@
       "len": 54,
       "orig_text": "・・・やっぱり、あの\n【不思議な声】のせい\nなんだろうな",
       "translated_text": "...It must be\nbecause of that\n[mysterious voice]...",
-      "translated_text_zh": "...一定是\n因为那个\n【神秘的声音】...",
+      "translated_text_zh": "・・・一定是\n因为那个\n【神秘的声音】",
       "note": ""
     },
     {
@@ -142,7 +142,7 @@
       "len": 58,
       "orig_text": "そもそも、何が原因で\nこんなことになってし\nまったんだろう？",
       "translated_text": "In the first place,\nwhat caused this to\nhappen?",
-      "translated_text_zh": "首先，究竟是\n什么原因导致\n变成这样的？",
+      "translated_text_zh": "首先\n变成这样子\n究竟是什么原因导致的？",
       "note": ""
     },
     {
@@ -151,7 +151,7 @@
       "len": 54,
       "orig_text": "・・・やっぱり、あの\n【不思議な声】のせい\nなんだろうか",
       "translated_text": "...It must be\nbecause of that\n[mysterious voice]...",
-      "translated_text_zh": "...一定是\n因为那个\n【神秘的声音】...",
+      "translated_text_zh": "・・・一定是\n因为那个\n【神秘的声音】",
       "note": ""
     },
     {
@@ -160,7 +160,7 @@
       "len": 73,
       "orig_text": "目の前が急にまぶしく\nなったかと思ったら、\n身体がすうっと\n軽くなって・・・",
       "translated_text": "Suddenly, everything\nwent bright,\nand then my body felt\nlight...",
-      "translated_text_zh": "眼前突然变得\n一片光明，\n然后身体就轻\n飘飘地...",
+      "translated_text_zh": "眼前突然变得\n一片光明\n然后身体\n就轻飘的・・・",
       "note": ""
     },
     {
@@ -169,7 +169,7 @@
       "len": 48,
       "orig_text": "・・・ダメだ\nここから先はどうして\nも思いだせない",
       "translated_text": "...It's no use.\nI can't remember\nanything after that.",
-      "translated_text_zh": "...不行。\n之后的事怎么\n也想不起来。",
+      "translated_text_zh": "・・・不行\n之后的事怎么\n也想不起来",
       "note": ""
     },
     {
@@ -178,7 +178,7 @@
       "len": 20,
       "orig_text": "しかし、あの声・・・",
       "translated_text": "But that voice...",
-      "translated_text_zh": "但是，那个声音...",
+      "translated_text_zh": "但是、那个声音・・・",
       "note": ""
     },
     {
@@ -187,7 +187,7 @@
       "len": 52,
       "orig_text": "「助けて」って言って\nたけど、誰の声\nだったんだろう？",
       "translated_text": "It said, \"Help me\",\nbut whose voice\nwas it?",
-      "translated_text_zh": "它说“救救我”，\n但那是谁的\n声音呢？",
+      "translated_text_zh": "它说「救救我」\n但那是谁的声音呢？",
       "note": ""
     },
     {
@@ -196,7 +196,7 @@
       "len": 69,
       "orig_text": "あの声が誰のもの\nだったのかわかりゃ\nもしかして元の世界に\n帰れるかもな",
       "translated_text": "If I could figure out\nwhose voice that was,\nmaybe I could go back\nto my world.",
-      "translated_text_zh": "如果能弄清\n那个声音是谁\n的，说不定就\n能回到原来的\n世界了。",
+      "translated_text_zh": "如果能弄清\n那个声音是谁的\n说不定就能\n回到原来的世界了",
       "note": ""
     },
     {
@@ -205,7 +205,7 @@
       "len": 69,
       "orig_text": "あの声が誰のもの\nだったのかわかれば\n元の世界に帰れるの\nかもしれないな",
       "translated_text": "If I could figure out\nwhose voice that was,\nmaybe I could go back\nto my world.",
-      "translated_text_zh": "如果能弄清\n那个声音是谁\n的，说不定就\n能回到原来的\n世界了。",
+      "translated_text_zh": "如果能弄清\n那个声音是谁的\n说不定就能\n回到原来的世界了",
       "note": ""
     },
     {
@@ -214,7 +214,7 @@
       "len": 65,
       "orig_text": "悩んでたって\nしかたがない\nとりあえず誰かここの\n人と話をしてみるか",
       "translated_text": "There's no point in\nworrying.\nI'll try talking to\nsomeone here.",
-      "translated_text_zh": "烦恼也没用。\n先试着跟这里\n的什么人说说话\n吧。",
+      "translated_text_zh": "烦恼也没用\n先试着跟这里\n的人说说话吧",
       "note": ""
     },
     {
@@ -223,7 +223,7 @@
       "len": 81,
       "orig_text": "なにがどうなってるの\nか、もうすこし状況を\n知っとかなくちゃ先の\nことも決められない",
       "translated_text": "I need to know a little\nmore about what's\ngoing on before I can\ndecide what to do.",
-      "translated_text_zh": "我得再了解一\n下情况才能决\n定以后怎么办。",
+      "translated_text_zh": "我得再了解一下情况\n才能决定以后怎么办",
       "note": ""
     },
     {
@@ -232,7 +232,7 @@
       "len": 37,
       "orig_text": "とりあえず、誰かここ\nの人に話を聞こう",
       "translated_text": "For now, I'll try\ntalking to someone here.",
-      "translated_text_zh": "先试着问问\n这里的人吧。",
+      "translated_text_zh": "先试着问问\n这里的人吧",
       "note": ""
     },
     {
@@ -241,7 +241,7 @@
       "len": 52,
       "orig_text": "これからどうするのか\n決めるにも、情報不足\nだし・・・",
       "translated_text": "I don't have enough\ninformation to decide\nwhat to do...",
-      "translated_text_zh": "现在信息不足，\n还无法决定\n接下来怎么办...",
+      "translated_text_zh": "现在信息不足\n还无法决定接下来\n该怎么办・・・",
       "note": ""
     },
     {
@@ -250,7 +250,7 @@
       "len": 37,
       "orig_text": "誰か、話を聞けそうな\n人はいないかな？",
       "translated_text": "Is there anyone\nI can talk to?",
-      "translated_text_zh": "有没有什么人\n可以跟我说话\n的呢？",
+      "translated_text_zh": "有没有什么人\n可以跟我说话的呢？",
       "note": ""
     },
     {
@@ -259,7 +259,7 @@
       "len": 41,
       "orig_text": "誰か、話を聞けそうな\n人はいないだろうか？",
       "translated_text": "Is there anyone\nI can talk to?",
-      "translated_text_zh": "有没有什么人\n可以跟我说话\n的呢？",
+      "translated_text_zh": "有没有什么人\n可以跟我说话的呢？",
       "note": ""
     },
     {
@@ -268,7 +268,7 @@
       "len": 41,
       "orig_text": "どうしてあんなに人が\n死んでたんだ・・・？",
       "translated_text": "Why were there so\nmany dead people...?",
-      "translated_text_zh": "为什么会有\n那么多人死掉...？",
+      "translated_text_zh": "为什么会有\n那么多人死掉・・・？",
       "note": ""
     },
     {
@@ -277,7 +277,7 @@
       "len": 77,
       "orig_text": "何かが爆発したみたい\nだったけど、それなら\nどうして俺だけ平気\nだったんだろう？",
       "translated_text": "It looked like something\nexploded, but then why\nwas I the only one\nwho's okay?",
-      "translated_text_zh": "好像有什么东西\n爆炸了，可是\n为什么只有我\n没事呢？",
+      "translated_text_zh": "好像有什么东西爆炸了\n可是为什么\n只有我没事呢？",
       "note": ""
     },
     {
@@ -286,7 +286,7 @@
       "len": 50,
       "orig_text": "あんまり思い出したく\nないよな\nああいう光景は・・・",
       "translated_text": "I don't really want to\nremember that...\nThat kind of scene...",
-      "translated_text_zh": "那种场面...\n真不想回忆\n起来...",
+      "translated_text_zh": "那种场面・・・\n真不想回忆起来・・・",
       "note": ""
     },
     {
@@ -295,7 +295,7 @@
       "len": 60,
       "orig_text": "建物のつくりを見ても\nここが俺のいた世界と\n違うのは確実だよな",
       "translated_text": "Judging by the way the\nbuildings are built,\nthis is definitely a\ndifferent world from mine.",
-      "translated_text_zh": "从建筑物的构造\n来看，这里肯定\n和我的世界不同。",
+      "translated_text_zh": "从建筑物的构造来看\n这里肯定\n和我的世界不同",
       "note": ""
     },
     {
@@ -304,7 +304,7 @@
       "len": 58,
       "orig_text": "建物のつくりを見ても\nここが僕のいた世界と\n違うのは確実だな",
       "translated_text": "Judging by the way the\nbuildings are built,\nthis is definitely a\ndifferent world from mine.",
-      "translated_text_zh": "从建筑物的构造\n来看，这里肯定\n和我的世界不同。",
+      "translated_text_zh": "从建筑物的构造来看\n这里肯定\n和我的世界不同",
       "note": ""
     },
     {
@@ -313,7 +313,7 @@
       "len": 12,
       "orig_text": "しかし・・・",
       "translated_text": "However...",
-      "translated_text_zh": "然而...",
+      "translated_text_zh": "但是・・・",
       "note": ""
     },
     {
@@ -322,7 +322,7 @@
       "len": 77,
       "orig_text": "なんていうか、あまり\nいい雰囲気じゃないな\nうす暗いし、ゴミとか\n散らかってるし",
       "translated_text": "How should I put it...\nit doesn't have a very\ngood atmosphere. It's\ndim, trash everywhere.",
-      "translated_text_zh": "怎么说呢...\n气氛不太好。\n光线昏暗，到处都是垃圾。",
+      "translated_text_zh": "怎么说呢・・・\n气氛不太好\n光线昏暗\n到处都是垃圾",
       "note": ""
     },
     {
@@ -331,7 +331,7 @@
       "len": 65,
       "orig_text": "なんというか、あまり\nいい雰囲気ではないな\nまるで、スラムみたい\nだ",
       "translated_text": "How should I put it...\nit doesn't have a very\ngood atmosphere.\nIt's like a slum.",
-      "translated_text_zh": "怎么说呢...\n气氛不太好。\n就像贫民窟一样。",
+      "translated_text_zh": "怎么说呢・・・\n气氛不太好\n就像贫民窟一样",
       "note": ""
     },
     {
@@ -349,7 +349,7 @@
       "len": 33,
       "orig_text": "・・・なんだかイヤな\n予感がするぞ",
       "translated_text": "...I have a bad\nfeeling about this.",
-      "translated_text_zh": "...总觉得有\n种不祥的预感。",
+      "translated_text_zh": "・・・\n总觉得有种不祥的预感",
       "note": ""
     },
     {
@@ -358,7 +358,7 @@
       "len": 33,
       "orig_text": "・・・なんだかイヤな\n予感がするな",
       "translated_text": "...I have a bad\nfeeling about this.",
-      "translated_text_zh": "...总觉得有\n种不祥的预感。",
+      "translated_text_zh": "・・・总觉得\n有种不祥的预感",
       "note": ""
     },
     {
@@ -367,7 +367,7 @@
       "len": 10,
       "orig_text": "・・・！！",
       "translated_text": "...!!",
-      "translated_text_zh": "...！！",
+      "translated_text_zh": "・・・！！",
       "note": ""
     },
     {
@@ -385,7 +385,7 @@
       "len": 16,
       "orig_text": "はあ、はあ・・・",
       "translated_text": "Pant... Pant...",
-      "translated_text_zh": "呼... 呼...",
+      "translated_text_zh": "呼・・・呼・・・",
       "note": ""
     },
     {
@@ -394,7 +394,7 @@
       "len": 39,
       "orig_text": "とりあえず、ここまで\n来れば大丈夫かな？",
       "translated_text": "I should be safe for\nnow, I guess?",
-      "translated_text_zh": "暂时应该安全\n了吧？",
+      "translated_text_zh": "暂时应该安全了吧？",
       "note": ""
     },
     {
@@ -403,7 +403,7 @@
       "len": 37,
       "orig_text": "でも、いったいここは\nどこなんだろう？",
       "translated_text": "But where in the world\nis this place?",
-      "translated_text_zh": "可是，这到底\n是哪里呢？",
+      "translated_text_zh": "可是\n这到底是哪里呢？",
       "note": ""
     },
     {
@@ -412,7 +412,7 @@
       "len": 79,
       "orig_text": "必死に走ってきたのは\nいいけど、どうやって\nここまで来たのかも、\nよくわからないし",
       "translated_text": "It's good that I ran\nfor my life, but I\ndon't even know how\nI got here...",
-      "translated_text_zh": "拼命地跑过来\n是没错，但我连\n怎么到这里的\n都不知道...",
+      "translated_text_zh": "拼命地跑过来是没错\n但我是到这里的\n都不知道・・・",
       "note": ""
     },
     {
@@ -421,7 +421,7 @@
       "len": 39,
       "orig_text": "ちょっとはおちついて\n考えをまとめないと",
       "translated_text": "I need to calm down\nand get my thoughts\ntogether...",
-      "translated_text_zh": "我得冷静下来\n整理一下思绪...",
+      "translated_text_zh": "我得冷静下来\n整理一下思绪・・・",
       "note": ""
     },
     {
@@ -430,7 +430,7 @@
       "len": 85,
       "orig_text": "どうしよう？\n　今までのことをふりかえる\n　さっきの光景を思い出す\n　あたりの様子を見る",
       "translated_text": "What should I do?\n  Think about what\n  happened\n  Remember what I just saw\n  Look around",
-      "translated_text_zh": "我该怎么办？\n  回想一下至今\n  为止发生的事\n  回忆起刚才的\n  景象\n  观察周围的情况",
+      "translated_text_zh": "该怎么办？\n　回想至今发生的事\n　想想起刚才的景象\n　观察周围的情况",
       "note": ""
     },
     {
@@ -439,7 +439,7 @@
       "len": 58,
       "orig_text": "そもそも、何が原因で\nこんなことになって\nしまったのかしら？",
       "translated_text": "In the first place,\nwhat caused this to\nhappen?",
-      "translated_text_zh": "首先，究竟是\n什么原因导致\n变成这样的呢？",
+      "translated_text_zh": "首先\n为什么会\n变成这样的呢？",
       "note": ""
     },
     {
@@ -448,7 +448,7 @@
       "len": 50,
       "orig_text": "・・・やっぱり、あの\n【不思議な声】のせい\nなのかな",
       "translated_text": "...It must be\nbecause of that\n[mysterious voice]...",
-      "translated_text_zh": "...一定是\n因为那个\n【神秘的声音】...",
+       "translated_text_zh": "・・・一定是\n因为那个\n【神秘的声音】",
       "note": ""
     },
     {
@@ -457,7 +457,7 @@
       "len": 69,
       "orig_text": "目の前がまぶしくなっ\nたと思ったら、からだ\nがすうっと軽くなって\n・・・",
       "translated_text": "Suddenly, everything\nwent bright,\nand then my body felt\nlight...",
-      "translated_text_zh": "眼前突然变得\n一片光明，\n然后身体就轻\n飘飘地...",
+        "translated_text_zh": "眼前突然变得\n一片光明\n然后身体\n就轻飘的・・・",
       "note": ""
     },
     {
@@ -466,7 +466,7 @@
       "len": 48,
       "orig_text": "・・・ダメ\nここから先はどうして\nも思いだせないよ",
       "translated_text": "...It's no use.\nI can't remember\nanything after that.",
-      "translated_text_zh": "...不行。\n之后的事怎么\n也想不起来。",
+      "translated_text_zh": "・・・不行\n之后的事\n怎么也想不起来",
       "note": ""
     },
     {
@@ -475,7 +475,7 @@
       "len": 54,
       "orig_text": "「助けて」って言って\nいたけど、誰の声だっ\nたんだろう？",
       "translated_text": "It said, \"Help me\",\nbut whose voice\nwas it?",
-      "translated_text_zh": "它说“救救我”，\n但那是谁的\n声音呢？",
+      "translated_text_zh": "他说「救救我」\n但那是谁的声音呢？",
       "note": ""
     },
     {
@@ -484,7 +484,7 @@
       "len": 75,
       "orig_text": "あの声が誰のもの\nだったのかわかれば、\nもしかして元の世界に\n帰れるかも・・・",
       "translated_text": "If I could figure out\nwhose voice that was,\nmaybe I could go back\nto my world...",
-      "translated_text_zh": "如果能弄清\n那个声音是谁\n的，说不定就\n能回到原来的\n世界...",
+      "translated_text_zh": "如果能弄清\n那个声音是谁的\n说不定就能\n回到原来的世界...",
       "note": ""
     },
     {
@@ -493,7 +493,7 @@
       "len": 67,
       "orig_text": "うん、きっとそうよ！\n悩んでたって他に\nアテがあるわけじゃ\nないんだし",
       "translated_text": "Yes, that must be it!\nThere's no point in\nworrying, I have\nnothing else to go on.",
-      "translated_text_zh": "嗯，一定是这样！\n就算烦恼也没\n别的办法，\n毕竟...",
+      "translated_text_zh": "嗯、一定是这样！\n就算烦恼也没别的办法、\n毕竟・・・",
       "note": ""
     },
     {
@@ -502,7 +502,7 @@
       "len": 79,
       "orig_text": "だけど、それならどう\nして、私を呼んだ人は\nあの場所にいなかった\nんだろう・・・？",
       "translated_text": "But then why wasn't\nthe person who called\nme there...?",
-      "translated_text_zh": "可是，如果是\n那样的话，为什\n么叫我的人不\n在那里呢...？",
+      "translated_text_zh": "可是、如果是那样的话\n为什么叫我的人\n不在那里呢・・・？",
       "note": ""
     },
     {
@@ -511,7 +511,7 @@
       "len": 31,
       "orig_text": "まずは、誰かに話を\n聞いてみよう",
       "translated_text": "First, I'll try\ntalking to someone.",
-      "translated_text_zh": "先问问别人\n吧。",
+      "translated_text_zh": "先去问问别人吧",
       "note": ""
     },
     {
@@ -520,7 +520,7 @@
       "len": 33,
       "orig_text": "どうしてあんなひどい\nことに・・・",
       "translated_text": "How did it end up\nlike that...",
-      "translated_text_zh": "怎么会变成\n那样...",
+      "translated_text_zh": "怎么会\n变成那样・・・",
       "note": ""
     },
     {
@@ -529,7 +529,7 @@
       "len": 75,
       "orig_text": "・・・ひょっとしたら\nあたしも、あんなふう\nになっちゃってたのか\nもしれないな",
       "translated_text": "...Maybe I would have\nended up like them\nif...",
-      "translated_text_zh": "...说不定我也\n会变成那样...",
+      "translated_text_zh": "・・・说不定我也会\n变成那样・・・",
       "note": ""
     },
     {
@@ -538,7 +538,7 @@
       "len": 37,
       "orig_text": "命が助かっただけでも\nめっけもんだよね",
       "translated_text": "I'm lucky to be\nalive.",
-      "translated_text_zh": "能保住性命\n就不错了。",
+      "translated_text_zh": "能保住性命就不错了",
       "note": ""
     },
     {
@@ -547,7 +547,7 @@
       "len": 60,
       "orig_text": "でもこの世界では、\nあんなことがあたりま\nえなのかもしれないわ",
       "translated_text": "But maybe that kind of\nthing is normal\nin this world.",
-      "translated_text_zh": "可是，在这个\n世界里，那种事\n或许是家常便饭\n吧。",
+      "translated_text_zh": "可是在这个世界里\n那种事\n或许是家常便饭吧",
       "note": ""
     },
     {
@@ -556,7 +556,7 @@
       "len": 16,
       "orig_text": "どうしよう・・・",
       "translated_text": "What should I do...",
-      "translated_text_zh": "怎么办...",
+      "translated_text_zh": "怎么办・・・",
       "note": ""
     },
     {
@@ -565,7 +565,7 @@
       "len": 37,
       "orig_text": "あまり深く考えすぎる\nのはよそう・・・",
       "translated_text": "I shouldn't think\nabout it too much...",
-      "translated_text_zh": "还是别想太多\n了...",
+      "translated_text_zh": "还是别想太多了\n・・・",
       "note": ""
     },
     {
@@ -574,7 +574,7 @@
       "len": 56,
       "orig_text": "ここは街なのかな\n見たことのないつくり\nの建物ばかりだけど",
       "translated_text": "Is this a town?\nThe buildings are\nall unfamiliar...",
-      "translated_text_zh": "这里是城市吗？\n建筑物都是我\n从未见过的...",
+      "translated_text_zh": "这里是城市吗？\n连建筑物都是我从未\n见过的・・・",
       "note": ""
     },
     {
@@ -583,7 +583,7 @@
       "len": 79,
       "orig_text": "・・・なんていうか、\nあまりいい雰囲気じゃ\nないな。うす暗くて\nゴミも散らかってる",
       "translated_text": "...How should I put it?\nIt doesn't have a very\ngood atmosphere. It's\ndim, trash everywhere.",
-      "translated_text_zh": "...怎么说呢，\n气氛不太好。\n光线昏暗，到处\n都是垃圾。",
+      "translated_text_zh": "・・・怎么说呢\n气氛不太好\n光线昏暗\n到处都是垃圾",
       "note": ""
     },
     {
@@ -592,7 +592,7 @@
       "len": 48,
       "orig_text": "スラムかな？\n新聞で見た写真とかに\nよく似てるしね",
       "translated_text": "A slum, maybe?\nIt looks like the\npictures I've seen\nin newspapers.",
-      "translated_text_zh": "是贫民窟吗？\n很像我在报纸\n上看到的照片。",
+      "translated_text_zh": "这里是贫民窟吗？\n很像我在报纸上\n看到的照片",
       "note": ""
     },
     {
@@ -601,7 +601,7 @@
       "len": 52,
       "orig_text": "スラム、なのかな？\n新聞で見た写真とかに\nよく似てるわ",
       "translated_text": "A slum, maybe?\nIt looks like the\npictures I've seen\nin newspapers.",
-      "translated_text_zh": "是贫民窟吗？\n很像我在报纸\n上看到的照片。",
+      "translated_text_zh": "这里是贫民窟吗？\n很像我在报纸上\n看到的照片",
       "note": ""
     },
     {
@@ -619,7 +619,7 @@
       "len": 33,
       "orig_text": "・・・なんだかイヤな\n予感がするわ",
       "translated_text": "...I have a bad\nfeeling about this.",
-      "translated_text_zh": "...总觉得有\n种不祥的预感。",
+      "translated_text_zh": "・・・总觉得\n有种不祥的预感",
       "note": ""
     },
     {
@@ -628,7 +628,7 @@
       "len": 10,
       "orig_text": "・・・！！",
       "translated_text": "...!!",
-      "translated_text_zh": "...！！",
+      "translated_text_zh": "・・・！！",
       "note": ""
     },
     {
@@ -646,7 +646,7 @@
       "len": 41,
       "orig_text": "へえ、いいカンしてる\nじゃねえか、あんた？",
       "translated_text": "Hee, you have good\ninstincts, don't you?",
-      "translated_text_zh": "嘿，你感觉\n挺敏锐的嘛？",
+      "translated_text_zh": "嘿\n你的感觉挺敏锐的嘛？",
       "note": ""
     },
     {
@@ -655,7 +655,7 @@
       "len": 71,
       "orig_text": "ついでにワシらの目的\nもわかってくれると、\n手間がはぶけて\nいいんだがなあ",
       "translated_text": "If you could also\nunderstand our purpose,\nthat would save us\na lot of trouble.",
-      "translated_text_zh": "如果你也能\n理解我们的目的，\n那就省事\n多了。",
+      "translated_text_zh": "如果你也能\n理解我们的目的\n那就省事多了",
       "note": ""
     },
     {
@@ -664,7 +664,7 @@
       "len": 14,
       "orig_text": "これって・・・",
       "translated_text": "This is...",
-      "translated_text_zh": "这是...",
+      "translated_text_zh": "这是・・・",
       "note": ""
     },
     {
@@ -673,7 +673,7 @@
       "len": 12,
       "orig_text": "これは・・・",
       "translated_text": "This is...",
-      "translated_text_zh": "这是...",
+      "translated_text_zh": "这是・・・",
       "note": ""
     },
     {
@@ -682,7 +682,7 @@
       "len": 6,
       "orig_text": "・・・",
       "translated_text": "...",
-      "translated_text_zh": "...",
+      "translated_text_zh": "・・・",
       "note": ""
     },
     {
@@ -691,7 +691,7 @@
       "len": 6,
       "orig_text": "・・・",
       "translated_text": "...",
-      "translated_text_zh": "...",
+      "translated_text_zh": "・・・",
       "note": ""
     },
     {
@@ -700,7 +700,7 @@
       "len": 61,
       "orig_text": "あり金全部、\n俺たちに渡すんだ\nそうすりゃあ命だけは\n助けてやる",
       "translated_text": "Hand over all your\nmoney.\nDo that and we'll\nspare your life.",
-      "translated_text_zh": "把你所有的钱\n都交出来。\n这样我们就\n饶你一命。",
+      "translated_text_zh": "把你所有的钱都交出来\n这样我们就饶你一命",
       "note": ""
     },
     {
@@ -709,7 +709,7 @@
       "len": 31,
       "orig_text": "やっぱ、そういう\n目的なわけかよ",
       "translated_text": "So that's what you\nwere after.",
-      "translated_text_zh": "果然是\n为了这个啊。",
+      "translated_text_zh": "果然是为了这个啊",
       "note": ""
     },
     {
@@ -718,7 +718,7 @@
       "len": 27,
       "orig_text": "なるほど\nそういうことなのか",
       "translated_text": "I see.\nSo that's how it is.",
-      "translated_text_zh": "原来如此。\n是这样啊。",
+      "translated_text_zh": "原来如此\n是这样啊",
       "note": ""
     },
     {
@@ -727,7 +727,7 @@
       "len": 16,
       "orig_text": "どうしよう・・・",
       "translated_text": "What should I do...",
-      "translated_text_zh": "怎么办...",
+      "translated_text_zh": "怎么办・・・",
       "note": ""
     },
     {
@@ -736,7 +736,7 @@
       "len": 16,
       "orig_text": "どうしよう・・・",
       "translated_text": "What should I do...",
-      "translated_text_zh": "怎么办...",
+      "translated_text_zh": "怎么办・・・",
       "note": ""
     },
     {
@@ -745,7 +745,7 @@
       "len": 48,
       "orig_text": "どうしよう？\n　お金をわたす\n　さっきの石をわたす",
       "translated_text": "What should I do?\n  Give them my money\n  Give them the stones",
-      "translated_text_zh": "我该怎么办？\n  把钱给他们\n  把石头给他们",
+      "translated_text_zh": "该怎么办？\n  把钱给他们\n  把石头给他们",
       "note": ""
     },
     {
@@ -754,7 +754,7 @@
       "len": 39,
       "orig_text": "ここはおとなしく相手\nの言うことを聞くか",
       "translated_text": "I'll just quietly do\nwhat they say.",
-      "translated_text_zh": "还是乖乖听\n他们的话吧。",
+      "translated_text_zh": "还是乖乖听他们的话吧",
       "note": ""
     },
     {
@@ -763,7 +763,7 @@
       "len": 39,
       "orig_text": "ここはおとなしく相手\nの言うことを聞こう",
       "translated_text": "I'll just quietly do\nwhat they say.",
-      "translated_text_zh": "还是乖乖听\n他们的话吧。",
+      "translated_text_zh": "还是乖乖听他们的话吧",
       "note": ""
     },
     {
@@ -772,7 +772,7 @@
       "len": 33,
       "orig_text": "ここはおとなしく\n言うことを聞こう",
       "translated_text": "I'll just quietly do\nwhat they say.",
-      "translated_text_zh": "还是乖乖听\n他们的话吧。",
+      "translated_text_zh": "还是乖乖听他们的话吧",
       "note": ""
     },
     {
@@ -781,7 +781,7 @@
       "len": 33,
       "orig_text": "ここはおとなしく\n言うことを聞こう",
       "translated_text": "I'll just quietly do\nwhat they say.",
-      "translated_text_zh": "还是乖乖听\n他们的话吧。",
+      "translated_text_zh": "还是乖乖听他们的话吧",
       "note": ""
     },
     {
@@ -790,7 +790,7 @@
       "len": 81,
       "orig_text": "・・・なんだこりゃ？\nおい、俺たちは紙きれ\nや鉄クズをよこせなん\nて言ってねえぞ！！",
       "translated_text": "...What is this?\nHey, we didn't say hand\nover scraps of paper\nand metal scraps!!",
-      "translated_text_zh": "...这是什么？\n喂，我们可没说\n要你交什么破纸\n和破铜烂铁！！",
+      "translated_text_zh": "・・・这是什么？\n喂、我们可没说\n要你交什么破纸\n和破铜烂铁！！",
       "note": ""
     },
     {
@@ -799,7 +799,7 @@
       "len": 73,
       "orig_text": "って言われてもなぁ\n悪いけど、この世界の\nお金なんて俺は\n持ってないし・・・",
       "translated_text": "Even if you say that...\nSorry, but I don't have\nany money from this\nworld...",
-      "translated_text_zh": "就算你这么说...\n抱歉，但我没\n有这个世界\n的钱...",
+      "translated_text_zh": "就算你这么说・・・\n抱歉・・・\n但我没有这个世界的钱",
       "note": ""
     },
     {
@@ -808,16 +808,16 @@
       "len": 73,
       "orig_text": "悪いが、僕はこの世界\nのお金を持っていない\n僕の世界では、それが\nお金なんだ",
       "translated_text": "Sorry, but I don't have\nany money from this\nworld. In my world,\nthat's money.",
-      "translated_text_zh": "抱歉，我没\n有这个世界\n的钱。在我的\n世界里，那才\n是钱。",
+      "translated_text_zh": "抱歉、\n我没有这个世界的钱\n在我的世界里\n这才是钱",
       "note": ""
     },
     {
       "offset": "7517",
       "translated": true,
       "len": 60,
-      "orig_text": "そんなこと言ったって\nこの世界のお金なんか\n持ってないし・・・",
+      "orig_text": "そんなこと言ったって\nこの世界のお金なんか持ってないし・・・",
       "translated_text": "Even if you say that,\nI don't have any money\nfrom this world...",
-      "translated_text_zh": "就算你这么说，\n我也没有这个\n世界的钱...",
+      "translated_text_zh": "就算你这么说\n我也没有这个世界的钱\n・・・",
       "note": ""
     },
     {
@@ -826,7 +826,7 @@
       "len": 60,
       "orig_text": "そんなこと言ったって\nこの世界のお金なんか\n持ってないし・・・",
       "translated_text": "Even if you say that,\nI don't have any money\nfrom this world...",
-      "translated_text_zh": "就算你这么说，\n我也没有这个\n世界的钱...",
+      "translated_text_zh": "就算你这么说\n我也没有这个世界的钱\n・・・",
       "note": ""
     },
     {
@@ -835,7 +835,7 @@
       "len": 41,
       "orig_text": "なにをわけのわからん\nことを言ってるんだ？",
       "translated_text": "What are you\ntalking about?",
-      "translated_text_zh": "你在说什么\n莫名其妙的话？",
+      "translated_text_zh": "你在\n说什么莫名其妙的话？",
       "note": ""
     },
     {
@@ -844,7 +844,7 @@
       "len": 77,
       "orig_text": "どうも俺たちのことを\nなめてるらしいな\nおい、かまわねえから\nちょっと遊んでやれ",
       "translated_text": "You seem to be\nunderestimating us.\nHey, don't hold back,\nplay with him a little.",
-      "translated_text_zh": "你好像\n小看我们了。\n喂，别客气，\n陪他玩玩。",
+      "translated_text_zh": "你好像小看我们了\n喂、别客气了\n去陪她玩玩",
       "note": ""
     },
     {
@@ -853,7 +853,7 @@
       "len": 54,
       "orig_text": "ちょ、ちょっと！\nかよわい女の子に暴力\nをふるうワケ！？",
       "translated_text": "H-Hey!\nYou're going to use\nviolence on a weak\ngirl!?",
-      "translated_text_zh": "喂，喂！\n你们要对柔弱\n的女孩施暴！？",
+      "translated_text_zh": "喂、喂！！\n你们要对我这样\n柔弱的女孩施暴！？",
       "note": ""
     },
     {
@@ -862,7 +862,7 @@
       "len": 39,
       "orig_text": "そっちがその気なら、\nあたしだって・・・",
       "translated_text": "If that's how you're\ngoing to be, then I...",
-      "translated_text_zh": "如果你们要\n这样，那我也...",
+      "translated_text_zh": "如果你们要这样\n那我也・・・",
       "note": ""
     },
     {
@@ -871,7 +871,7 @@
       "len": 10,
       "orig_text": "・・・！？",
       "translated_text": "...!?",
-      "translated_text_zh": "...！？",
+      "translated_text_zh": "・・・！？",
       "note": ""
     },
     {
@@ -880,7 +880,7 @@
       "len": 52,
       "orig_text": "ペ、ペーパーナイフ\nだって立派な刃物\nなんだからねっ！",
       "translated_text": "A p-paper knife\nis still a blade,\nyou know!",
-      "translated_text_zh": "开、开信刀\n也是刀啊！",
+      "translated_text_zh": "裁、裁纸刀\n也是刀啊！！",
       "note": ""
     },
     {
@@ -898,7 +898,7 @@
       "len": 27,
       "orig_text": "ち・・・\n近づかないでっ！！",
       "translated_text": "S-Stay\naway!!",
-      "translated_text_zh": "别... 别过来！！",
+      "translated_text_zh": "别・・・\n别过来！！",
       "note": ""
     },
     {
@@ -907,7 +907,7 @@
       "len": 10,
       "orig_text": "・・・！？",
       "translated_text": "...!?",
-      "translated_text_zh": "...！？",
+      "translated_text_zh": "・・・！？",
       "note": ""
     },
     {
@@ -916,7 +916,7 @@
       "len": 61,
       "orig_text": "ペ、ペーパーナイフ\nだって、\n切られたら痛いし\n血が出ますよっ！",
       "translated_text": "Even a p-paper knife\nwill hurt and\nmake you bleed if\nyou get cut!",
-      "translated_text_zh": "开、开信刀\n也是会割伤人、\n会流血的哦！",
+      "translated_text_zh": "裁、裁纸刀\n也是会割伤人、\n会流血的哦！",
       "note": ""
     },
     {
@@ -925,7 +925,7 @@
       "len": 31,
       "orig_text": "わ、私・・・\n本気ですからっ！！",
       "translated_text": "I-I'm...\nserious!!",
-      "translated_text_zh": "我、我...\n是认真的！！",
+      "translated_text_zh": "我、我・・・\n是认真的哦！！",
       "note": ""
     },
     {
@@ -934,7 +934,7 @@
       "len": 62,
       "orig_text": "そう言われても、この\n世界のお金なんて、俺\nは持ってないし・・・",
       "translated_text": "Even if you say that,\nI don't have any money\nfrom this world...",
-      "translated_text_zh": "就算你这么说，\n我也没有这个\n世界的钱...",
+      "translated_text_zh": "就算你这么说、\n我也没有\n这个世界的钱・・・",
       "note": ""
     },
     {
@@ -943,7 +943,7 @@
       "len": 33,
       "orig_text": "とりあえず、さっきの\n石でも渡すか",
       "translated_text": "I guess I'll give\nthem the stones I found.",
-      "translated_text_zh": "先把刚才找到\n的石头给他们吧。",
+      "translated_text_zh": "先把刚才找到的石头\n给他们吧",
       "note": ""
     },
     {
@@ -952,7 +952,7 @@
       "len": 62,
       "orig_text": "そう言われても、この\n世界のお金なんて、僕\nは持ってないし・・・",
       "translated_text": "Even if you say that,\nI don't have any money\nfrom this world...",
-      "translated_text_zh": "就算你这么说，\n我也没有这个\n世界的钱...",
+	  "translated_text_zh": "就算你这么说、\n我也没有\n这个世界的钱・・・",
       "note": ""
     },
     {
@@ -961,7 +961,7 @@
       "len": 39,
       "orig_text": "とりあえず、さっきの\n石でも渡してみるか",
       "translated_text": "I guess I'll try\ngiving them the stones\nI found.",
-      "translated_text_zh": "先试试把刚才\n找到的石头\n给他们吧。",
+      "translated_text_zh": "先试试\n把刚才找到的石头\n给他们吧",
       "note": ""
     },
     {
@@ -970,7 +970,7 @@
       "len": 29,
       "orig_text": "そうだ！\nさっきの石をわたそう",
       "translated_text": "That's it!\nI'll give them the stones.",
-      "translated_text_zh": "对了！\n就把刚才的\n石头给他们吧。",
+      "translated_text_zh": "对了！\n把刚才的石头给他们吧",
       "note": ""
     },
     {
@@ -979,7 +979,7 @@
       "len": 29,
       "orig_text": "そうだ！\nさっきの石をわたそう",
       "translated_text": "That's it!\nI'll give them the stones.",
-      "translated_text_zh": "对了！\n就把刚才的\n石头给他们吧。",
+      "translated_text_zh": "对了！\n把刚才的石头给他们吧",
       "note": ""
     },
     {
@@ -988,7 +988,7 @@
       "len": 18,
       "orig_text": "おい、そいつは！？",
       "translated_text": "Hey, what's that!?",
-      "translated_text_zh": "喂，那是什么！？",
+      "translated_text_zh": "喂、那是什么！？",
       "note": ""
     },
     {
@@ -1033,7 +1033,7 @@
       "len": 44,
       "orig_text": "お前さん・・・\nもしかして【召喚師】\nなのか？",
       "translated_text": "You...\nCould you be a\n[Summoner]?",
-      "translated_text_zh": "你...\n莫非是\n【召唤师】？",
+      "translated_text_zh": "你・・・\n莫非是【召唤师】？",
       "note": ""
     },
     {
@@ -1096,7 +1096,7 @@
       "len": 20,
       "orig_text": "・・・化け物だって？",
       "translated_text": "...Monsters?",
-      "translated_text_zh": "...怪物？",
+      "translated_text_zh": "・・・怪物？",
       "note": ""
     },
     {
@@ -1105,7 +1105,7 @@
       "len": 14,
       "orig_text": "・・・化け物？",
       "translated_text": "...Monsters?",
-      "translated_text_zh": "...怪物？",
+      "translated_text_zh": "・・・怪物？",
       "note": ""
     },
     {
@@ -1114,7 +1114,7 @@
       "len": 18,
       "orig_text": "・・・化け・・物？",
       "translated_text": "...Mon... sters?",
-      "translated_text_zh": "...怪... 物？",
+      "translated_text_zh": "・・・怪・・・物？",
       "note": ""
     },
     {
@@ -1123,7 +1123,7 @@
       "len": 58,
       "orig_text": "お前さん、運が悪いぜ\nこいつは召喚師っての\nが大嫌いなんだよ",
       "translated_text": "You're out of luck,\npal. This guy here\nhates Summoners.",
-      "translated_text_zh": "你运气真差。\n这家伙最讨厌\n召唤师了。",
+      "translated_text_zh": "你运气真差\n这家伙最讨厌召唤师了",
       "note": ""
     },
     {
@@ -1132,7 +1132,7 @@
       "len": 37,
       "orig_text": "ち、ちょっと待てよ！\nそりゃ誤解・・・",
       "translated_text": "W-Wait a minute!\nThat's a misunderstanding...",
-      "translated_text_zh": "等、等一下！\n那是误会...",
+      "translated_text_zh": "等、等一下！\n那是误会・・・",
       "note": ""
     },
     {
@@ -1141,7 +1141,7 @@
       "len": 31,
       "orig_text": "待ってくれ！\n何のことだか・・・",
       "translated_text": "Wait!\nI don't know what\nyou're talking about...",
-      "translated_text_zh": "等等我！\n我不知道你在\n说什么...",
+      "translated_text_zh": "等等！\n我不知道你在说什么\n・・・",
       "note": ""
     },
     {
@@ -1150,7 +1150,7 @@
       "len": 31,
       "orig_text": "ま、待ってよ！\nそれは誤解・・・",
       "translated_text": "W-Wait!\nThat's a misunderstanding...",
-      "translated_text_zh": "等、等等！\n那是误会...",
+      "translated_text_zh": "等、等等！\n这是误会・・・",
       "note": ""
     },
     {
@@ -1159,7 +1159,7 @@
       "len": 27,
       "orig_text": "待って！\n何のことだか・・・",
       "translated_text": "Wait!\nI don't know what\nyou're talking about...",
-      "translated_text_zh": "等等！\n我不知道你在\n说什么...",
+      "translated_text_zh": "等等！\n我不知道你在说什么\n・・・",
       "note": ""
     },
     {
@@ -1168,7 +1168,7 @@
       "len": 54,
       "orig_text": "うるせぇ！！\n日頃のうらみ、たっぷ\nり返させてもらうぜ！",
       "translated_text": "Shut up!!\nI'm gonna make you pay\nfor everything!",
-      "translated_text_zh": "吵死了！！\n我要好好报复\n你们！",
+      "translated_text_zh": "吵死了！！\n我要让你们偿还一切！",
       "note": ""
     },
     {
@@ -1177,7 +1177,7 @@
       "len": 10,
       "orig_text": "・・・！？",
       "translated_text": "...!?",
-      "translated_text_zh": "...！？",
+      "translated_text_zh": "・・・！？",
       "note": ""
     },
     {
@@ -1186,7 +1186,7 @@
       "len": 52,
       "orig_text": "ペ、ペーパーナイフ\nだって立派な刃物\nなんだからねっ！",
       "translated_text": "A p-paper knife\nis still a blade,\nyou know!",
-      "translated_text_zh": "开、开信刀\n也是刀啊！",
+      "translated_text_zh": "裁、裁纸刀\n也是刀哦！",
       "note": ""
     },
     {
@@ -1204,16 +1204,16 @@
       "len": 27,
       "orig_text": "ち・・・\n近づかないでっ！！",
       "translated_text": "S-Stay\naway!!",
-      "translated_text_zh": "别... 别过来！！",
+      "translated_text_zh": "别・・・别过来！！",
       "note": ""
     },
     {
-      "offset": "8dac",
+      "offset": "8daa",
       "translated": true,
       "len": 10,
       "orig_text": "・・・！？",
       "translated_text": "...!?",
-      "translated_text_zh": "...！？",
+      "translated_text_zh": "・・・！？",
       "note": ""
     },
     {
@@ -1222,7 +1222,7 @@
       "len": 61,
       "orig_text": "ペ、ペーパーナイフ\nだって、\n切られたら痛いし\n血が出ますよっ！",
       "translated_text": "Even a p-paper knife\nwill hurt and\nmake you bleed if\nyou get cut!",
-      "translated_text_zh": "开、开信刀\n也是会割伤人、\n会流血的哦！",
+      "translated_text_zh": "裁、裁纸刀\n也是会割伤人、\n会流血的哦！",
       "note": ""
     },
     {
@@ -1231,7 +1231,7 @@
       "len": 31,
       "orig_text": "わ、私・・・\n本気ですからっ！！",
       "translated_text": "I-I'm...\nserious!!",
-      "translated_text_zh": "我、我...\n是认真的！！",
+      "translated_text_zh": "我、我・・・\n是认真的！！",
       "note": ""
     },
     {
@@ -1240,7 +1240,7 @@
       "len": 60,
       "orig_text": "なんだよ、こいつら\n悪ぶってるわりには、\nそんなに強くないぞ？",
       "translated_text": "What the heck, these\nguys aren't as tough as\nthey act, are they?",
-      "translated_text_zh": "怎么回事，\n这些家伙装腔\n作势的，其实\n也不怎么强嘛？",
+      "translated_text_zh": "怎么回事\n这些家伙装腔作势的\n其实也不怎么厉害嘛？",
       "note": ""
     },
     {
@@ -1249,7 +1249,7 @@
       "len": 58,
       "orig_text": "なんだよ、こいつら\n悪ぶってるわりには、\nそんなに強くない？",
       "translated_text": "What the heck, these\nguys aren't as tough as\nthey act, are they?",
-      "translated_text_zh": "怎么回事，\n这些家伙装腔\n作势的，其实\n也不怎么强？",
+      "translated_text_zh": "怎么回事\n这些家伙装腔作势的\n其实也不怎么厉害嘛？",
       "note": ""
     },
     {
@@ -1258,7 +1258,7 @@
       "len": 60,
       "orig_text": "この人たち・・・口で\nは悪ぶってるけれど、\nぜんぜん強くない？",
       "translated_text": "These people...\nthey talk tough,\nbut they're not strong\nat all?",
-      "translated_text_zh": "这些人...\n嘴上很厉害，\n但其实一点\n也不强？",
+      "translated_text_zh": "这些人・・・\n嘴上很厉害、\n但其实一点也不强？",
       "note": ""
     },
     {
@@ -1267,7 +1267,7 @@
       "len": 60,
       "orig_text": "この人たち・・・口で\nは悪ぶってるけれど、\nぜんぜん強くない？",
       "translated_text": "These people...\nthey talk tough,\nbut they're not strong\nat all?",
-      "translated_text_zh": "这些人...\n嘴上很厉害，\n但其实一点\n也不强？",
+	  "translated_text_zh": "这些人・・・\n嘴上很厉害、\n但其实一点也不强？",
       "note": ""
     },
     {
@@ -1276,7 +1276,7 @@
       "len": 40,
       "orig_text": "くそっ！\nどいつもこいつも、\nだらしがねえ",
       "translated_text": "Damn it!\nYou're all\nuseless!",
-      "translated_text_zh": "可恶！\n你们这帮\n废物！",
+      "translated_text_zh": "可恶！\n你们这帮废物！",
       "note": ""
     },
     {
@@ -1285,7 +1285,7 @@
       "len": 31,
       "orig_text": "さがってな\n俺がカタをつける！！",
       "translated_text": "Step back,\nI'll finish this!!",
-      "translated_text_zh": "退后，\n我来解决！！",
+      "translated_text_zh": "退后\n我来解决！！",
       "note": ""
     },
     {
@@ -1312,7 +1312,7 @@
       "len": 20,
       "orig_text": "な、ナイフ・・・！？",
       "translated_text": "A-A knife...!?",
-      "translated_text_zh": "刀、刀...！？",
+      "translated_text_zh": "刀、刀・・・！？",
       "note": ""
     },
     {
@@ -1321,7 +1321,7 @@
       "len": 20,
       "orig_text": "な、ナイフ・・・！？",
       "translated_text": "A-A knife...!?",
-      "translated_text_zh": "刀、刀...！？",
+      "translated_text_zh": "刀、刀・・・！？",
       "note": ""
     },
     {
@@ -1330,7 +1330,7 @@
       "len": 33,
       "orig_text": "おいおい、ガゼル\n殺すのはマズイぞ",
       "translated_text": "Hey hey, Gazel.\nDon't kill him!",
-      "translated_text_zh": "喂喂，加泽尔。\n别杀了他！",
+      "translated_text_zh": "喂喂、加泽尔\n别杀他！",
       "note": ""
     },
     {
@@ -1339,7 +1339,7 @@
       "len": 56,
       "orig_text": "そこまではしねえよ\n・・・半殺しぐらいで\nまけておいてやる",
       "translated_text": "I won't go that far.\n...I'll let him off\nwith a beating.",
-      "translated_text_zh": "我不会那么做\n的...\n就把他打个\n半死吧。",
+      "translated_text_zh": "我不会那么做的\n・・・就打个半死吧",
       "note": ""
     },
     {
@@ -1348,7 +1348,7 @@
       "len": 20,
       "orig_text": "こいつ、本気だ・・・",
       "translated_text": "He's... serious...",
-      "translated_text_zh": "他... 是认真的...",
+      "translated_text_zh": "他・・・是认真的・・・",
       "note": ""
     },
     {
@@ -1366,7 +1366,7 @@
       "len": 58,
       "orig_text": "理由もわかんねえまま\nこんな目にあわされて\nたまるかぁっ！！",
       "translated_text": "I won't stand for this\nwithout knowing the\nreason!!",
-      "translated_text_zh": "不明不白地\n被这样对待，\n我可不干！！",
+      "translated_text_zh": "不明不白地\n被这样对待\n我可不干！！",
       "note": ""
     },
     {
@@ -1375,7 +1375,7 @@
       "len": 20,
       "orig_text": "本気で言ってる・・・",
       "translated_text": "She's... serious...",
-      "translated_text_zh": "她... 是认真的...",
+      "translated_text_zh": "她・・・是认真的・・・",
       "note": ""
     },
     {
@@ -1393,7 +1393,7 @@
       "len": 58,
       "orig_text": "理由もわからないまま\nこんな目にあわされて\nたまるかぁっ！！",
       "translated_text": "I won't stand for this\nwithout knowing the\nreason!!",
-      "translated_text_zh": "不明不白地\n被这样对待，\n我可不干！！",
+       "translated_text_zh": "不明不白地\n被这样对待\n我可不干！！",
       "note": ""
     },
     {
@@ -1411,7 +1411,7 @@
       "len": 10,
       "orig_text": "・・・いっ",
       "translated_text": "...Y-",
-      "translated_text_zh": "...呀",
+      "translated_text_zh": "・・・呀",
       "note": ""
     },
     {
@@ -1438,7 +1438,7 @@
       "len": 10,
       "orig_text": "・・・いっ",
       "translated_text": "...Y-",
-      "translated_text_zh": "...呀",
+      "translated_text_zh": "・・・呀",
       "note": ""
     },
     {
@@ -1483,7 +1483,7 @@
       "len": 16,
       "orig_text": "い、今のは・・・",
       "translated_text": "D-Did I just...?",
-      "translated_text_zh": "刚、刚才那是...",
+      "translated_text_zh": "刚、刚才那是・・・",
       "note": ""
     },
     {
@@ -1492,7 +1492,7 @@
       "len": 18,
       "orig_text": "俺が、やったのか？",
       "translated_text": "Did I... do that?",
-      "translated_text_zh": "是我... 干的吗？",
+      "translated_text_zh": "是我・・・干的吗？",
       "note": ""
     },
     {
@@ -1501,7 +1501,7 @@
       "len": 18,
       "orig_text": "僕が、やったのか？",
       "translated_text": "Did I... do that?",
-      "translated_text_zh": "是我... 干的吗？",
+      "translated_text_zh": "是我・・・干的吗？",
       "note": ""
     },
     {
@@ -1510,7 +1510,7 @@
       "len": 20,
       "orig_text": "あたしが、やったの？",
       "translated_text": "Did I... do that?",
-      "translated_text_zh": "是我... 干的吗？",
+      "translated_text_zh": "是我・・・干的吗？",
       "note": ""
     },
     {
@@ -1519,7 +1519,7 @@
       "len": 16,
       "orig_text": "私が、やったの？",
       "translated_text": "Did I... do that?",
-      "translated_text_zh": "是我... 干的吗？",
+      "translated_text_zh": "是我・・・干的吗？",
       "note": ""
     },
     {
@@ -1528,7 +1528,7 @@
       "len": 54,
       "orig_text": "てめぇ・・・\nよくもやってくれたな\n絶対にゆるさねえ！！",
       "translated_text": "You...\nHow dare you do that to\nme! I'll never forgive you!!",
-      "translated_text_zh": "你...\n竟敢对我下手！\n我绝不饶你！！",
+      "translated_text_zh": "你・・・\n竟敢对我下手！\n我绝不饶你！！",
       "note": ""
     },
     {
@@ -1537,7 +1537,7 @@
       "len": 8,
       "orig_text": "・・・！",
       "translated_text": "...!",
-      "translated_text_zh": "...！",
+      "translated_text_zh": "・・・！",
       "note": ""
     },
     {
@@ -1546,7 +1546,7 @@
       "len": 8,
       "orig_text": "・・・！",
       "translated_text": "...!",
-      "translated_text_zh": "...！",
+      "translated_text_zh": "・・・！",
       "note": ""
     },
     {
@@ -1555,7 +1555,7 @@
       "len": 14,
       "orig_text": "・・・きゃっ！",
       "translated_text": "...Eek!",
-      "translated_text_zh": "...呀！",
+      "translated_text_zh": "・・・呀！",
       "note": ""
     },
     {
@@ -1564,7 +1564,7 @@
       "len": 14,
       "orig_text": "・・・きゃっ！",
       "translated_text": "...Eek!",
-      "translated_text_zh": "...呀！",
+      "translated_text_zh": "・・・呀！",
       "note": ""
     },
     {
@@ -1573,7 +1573,7 @@
       "len": 18,
       "orig_text": "そこまでだ、ガゼル",
       "translated_text": "That's enough, Gazel.",
-      "translated_text_zh": "住手，加泽尔。",
+      "translated_text_zh": "住手、加泽尔",
       "note": ""
     },
     {
@@ -1582,7 +1582,7 @@
       "len": 16,
       "orig_text": "レ、レイド・・・",
       "translated_text": "R-Raid...",
-      "translated_text_zh": "雷、雷伊德...",
+      "translated_text_zh": "雷、雷伊德・・・",
       "note": ""
     },
     {
@@ -1591,7 +1591,7 @@
       "len": 56,
       "orig_text": "なんでだよ！？\nこいつのせいでエドス\nはやられたんだぞ！！",
       "translated_text": "Why!?\nBecause of this kid,\nEdos got taken out!!",
-      "translated_text_zh": "为什么！？\n都是因为这家伙，\n艾德斯才被打倒的！！",
+      "translated_text_zh": "为什么！？\n都是因为这家伙\n艾德斯才被打倒的！！",
       "note": ""
     },
     {
@@ -1600,7 +1600,7 @@
       "len": 57,
       "orig_text": "こっちが先に\n手を出したんだ\n身を守ろうとした\n彼は悪くない",
       "translated_text": "We were the ones\nwho attacked first.\nHe was just\ndefending himself.",
-      "translated_text_zh": "是我们先\n动手的。\n他只是在\n保护自己。",
+      "translated_text_zh": "是我们先动手的\n他只是在保护自己",
       "note": ""
     },
     {
@@ -1609,7 +1609,7 @@
       "len": 59,
       "orig_text": "こっちが先に\n手を出したんだ\n身を守ろうとした\n彼女は悪くない",
       "translated_text": "We were the ones\nwho attacked first.\nShe was just\ndefending herself.",
-      "translated_text_zh": "是我们先\n动手的。\n她只是在\n保护自己。",
+      "translated_text_zh": "是我们先动手的\n她只是在保护自己",
       "note": ""
     },
     {
@@ -1618,7 +1618,7 @@
       "len": 31,
       "orig_text": "ぐっ・・・\nずっと、見てたのかよ",
       "translated_text": "Gah...\nWere you watching\nthe whole time?",
-      "translated_text_zh": "唔...\n你一直在\n看着吗？",
+      "translated_text_zh": "唔・・・\n你一直在看着吗？",
       "note": ""
     },
     {
@@ -1627,7 +1627,7 @@
       "len": 8,
       "orig_text": "まあ、な",
       "translated_text": "Well, yeah.",
-      "translated_text_zh": "是啊。",
+      "translated_text_zh": "是啊",
       "note": ""
     },
     {
@@ -1636,7 +1636,7 @@
       "len": 54,
       "orig_text": "それにエドスだったら\n気絶してるだけだ\nちゃんと息もある",
       "translated_text": "Besides, if it's Edos,\nhe's just unconscious.\nHe's still breathing.",
-      "translated_text_zh": "而且如果是艾德斯\n的话，他只是\n昏过去了。\n还有呼吸。",
+      "translated_text_zh": "而且艾德斯的话\n他只是昏过去了\n还有呼吸",
       "note": ""
     },
     {
@@ -1645,7 +1645,7 @@
       "len": 16,
       "orig_text": "・・・わかったよ",
       "translated_text": "...Alright.",
-      "translated_text_zh": "...我知道了。",
+      "translated_text_zh": "・・・我知道了",
       "note": ""
     },
     {
@@ -1654,7 +1654,7 @@
       "len": 56,
       "orig_text": "とんだ言いがかりをつ\nけてすまなかった\nゆるしてくれないか",
       "translated_text": "I'm sorry for making\nfalse accusations.\nWill you forgive me?",
-      "translated_text_zh": "我错怪你了，\n很抱歉。\n能原谅我吗？",
+      "translated_text_zh": "我错怪你了\n很抱歉\n你能原谅我吗？",
       "note": ""
     },
     {
@@ -1663,7 +1663,7 @@
       "len": 15,
       "orig_text": "えっ？\nあ、はあ",
       "translated_text": "Huh?\nO-Oh.",
-      "translated_text_zh": "咦？\n啊，哦。",
+      "translated_text_zh": "咦？\n啊哦",
       "note": ""
     },
     {
@@ -1672,7 +1672,7 @@
       "len": 16,
       "orig_text": "いえ、こちらこそ",
       "translated_text": "No, I'm the one who\nshould apologize.",
-      "translated_text_zh": "不，我才应该\n道歉。",
+      "translated_text_zh": "不、我才应该道歉",
       "note": ""
     },
     {
@@ -1681,7 +1681,7 @@
       "len": 15,
       "orig_text": "えっ？\nあ、はい",
       "translated_text": "Huh?\nO-Okay.",
-      "translated_text_zh": "咦？\n啊，好的。",
+      "translated_text_zh": "咦？\n啊、好",
       "note": ""
     },
     {
@@ -1690,7 +1690,7 @@
       "len": 15,
       "orig_text": "えっ？\nあ、はい",
       "translated_text": "Huh?\nO-Okay.",
-      "translated_text_zh": "咦？\n啊，好的。",
+      "translated_text_zh": "咦？\n啊、好",
       "note": ""
     },
     {
@@ -1699,7 +1699,7 @@
       "len": 56,
       "orig_text": "ところで・・・\n見かけない顔だが、君\nはどこから来たんだ？",
       "translated_text": "By the way...\nYou're a new face. Where\ndid you come from?",
-      "translated_text_zh": "话说...\n你面生得很，\n从哪里来的？",
+      "translated_text_zh": "话说・・・\n我从来没见过你\n你是从哪里来的？",
       "note": ""
     },
     {
@@ -1708,7 +1708,7 @@
       "len": 40,
       "orig_text": "どうしよう？\n　素直に答える\n　黙っている",
       "translated_text": "What should I do?\n  Answer honestly\n  Keep quiet",
-      "translated_text_zh": "我该怎么办？\n  如实回答\n  保持沉默",
+      "translated_text_zh": "该怎么办？\n　如实回答\n　保持沉默",
       "note": ""
     },
     {
@@ -1717,7 +1717,7 @@
       "len": 33,
       "orig_text": "じつは・・・\n俺もわかんないんです",
       "translated_text": "Actually...\nI don't know either.",
-      "translated_text_zh": "其实...\n我也不知道。",
+      "translated_text_zh": "其实・・・\n我也不知道",
       "note": ""
     },
     {
@@ -1726,7 +1726,7 @@
       "len": 31,
       "orig_text": "じつは・・・\n僕にもわかりません",
       "translated_text": "Actually...\nI don't know either.",
-      "translated_text_zh": "其实...\n我也不知道。",
+      "translated_text_zh": "其实・・・\n我也不知道",
       "note": ""
     },
     {
@@ -1735,7 +1735,7 @@
       "len": 29,
       "orig_text": "じつは・・・\nわかんないんです",
       "translated_text": "Actually...\nI don't know.",
-      "translated_text_zh": "其实...\n我也不知道。",
+      "translated_text_zh": "其实・・・\n我也不知道",
       "note": ""
     },
     {
@@ -1744,7 +1744,7 @@
       "len": 29,
       "orig_text": "じつは・・・\nわかんないんです",
       "translated_text": "Actually...\nI don't know.",
-      "translated_text_zh": "其实...\n我也不知道。",
+      "translated_text_zh": "其实・・・\n我也不知道",
       "note": ""
     },
     {
@@ -1762,7 +1762,7 @@
       "len": 50,
       "orig_text": "すくなくとも、\nこことは違う世界\nだとは思うんですが",
       "translated_text": "At the very least,\nI think it's a different\nworld from here.",
-      "translated_text_zh": "至少，\n我认为这里\n和我的世界\n不同。",
+      "translated_text_zh": "至少\n我认为\n这里和我的世界不同",
       "note": ""
     },
     {
@@ -1771,7 +1771,7 @@
       "len": 50,
       "orig_text": "すくなくとも、\nこことは違う世界\nだとは思うんですが",
       "translated_text": "At the very least,\nI think it's a different\nworld from here.",
-      "translated_text_zh": "至少，\n我认为这里\n和我的世界\n不同。",
+      "translated_text_zh": "至少\n我认为\n这里和我的世界不同",
       "note": ""
     },
     {
@@ -1780,7 +1780,7 @@
       "len": 52,
       "orig_text": "すくなくとも、\nこことは違う世界\nだとは思うんですけど",
       "translated_text": "At the very least,\nI think it's a different\nworld from here.",
-      "translated_text_zh": "至少，\n我认为这里\n和我的世界\n不同。",
+      "translated_text_zh": "至少\n我认为\n这里和我的世界不同",
       "note": ""
     },
     {
@@ -1789,7 +1789,7 @@
       "len": 52,
       "orig_text": "すくなくとも、\nこことは違う世界\nだとは思うんですけど",
       "translated_text": "At the very least,\nI think it's a different\nworld from here.",
-      "translated_text_zh": "至少，\n我认为这里\n和我的世界\n不同。",
+	  "translated_text_zh": "至少\n我认为\n这里和我的世界不同",
       "note": ""
     },
     {
@@ -1798,7 +1798,7 @@
       "len": 16,
       "orig_text": "・・・なるほどな",
       "translated_text": "...I see.",
-      "translated_text_zh": "...原来如此。",
+      "translated_text_zh": "・・・原来是这样",
       "note": ""
     },
     {
@@ -1816,7 +1816,7 @@
       "len": 75,
       "orig_text": "ついてきなさい\n君の知りたいことは、\n少しぐらいなら説明し\nてあげられると思う",
       "translated_text": "Come with me.\nI think I can explain\nsome of the things\nyou want to know.",
-      "translated_text_zh": "跟我来。\n你想知道的事，\n我可以稍微\n解释一下。",
+      "translated_text_zh": "跟我来\n关于你想知道的事\n我可以稍微解释一下",
       "note": ""
     },
     {
@@ -1825,7 +1825,7 @@
       "len": 6,
       "orig_text": "・・・",
       "translated_text": "...",
-      "translated_text_zh": "...",
+      "translated_text_zh": "・・・",
       "note": ""
     },
     {
@@ -1834,7 +1834,7 @@
       "len": 33,
       "orig_text": "おい、なんとか\n言ったらどうだ！？",
       "translated_text": "Hey, say something!",
-      "translated_text_zh": "喂，说句话啊！？",
+      "translated_text_zh": "喂\n说句话啊！？",
       "note": ""
     },
     {
@@ -1843,7 +1843,7 @@
       "len": 29,
       "orig_text": "ガゼル、少しだまって\nいるんだ",
       "translated_text": "Gazel, be quiet\nfor a bit.",
-      "translated_text_zh": "加泽尔，安静\n一会儿。",
+      "translated_text_zh": "加泽尔\n安静一会儿",
       "note": ""
     },
     {
@@ -1852,7 +1852,7 @@
       "len": 75,
       "orig_text": "どうやら、いろいろと\n事情があるようだな\nもしよかったら、\n話してくれないか？",
       "translated_text": "It seems you have a\nlot going on.If you\ndon't mind, could you\ntell me about it?",
-      "translated_text_zh": "看来你有很多\n难处。\n如果可以的话，\n能跟我说说吗？",
+      "translated_text_zh": "看来你有很多难处\n如果可以的话\n能跟我说说吗？",
       "note": ""
     },
     {
@@ -1861,7 +1861,7 @@
       "len": 39,
       "orig_text": "ひょっとすると、力に\nなれるかもしれない",
       "translated_text": "I might be able to\nhelp you.",
-      "translated_text_zh": "说不定我能\n帮上忙。",
+      "translated_text_zh": "说不定我能帮上忙",
       "note": ""
     },
     {
@@ -1870,7 +1870,7 @@
       "len": 73,
       "orig_text": "ここが私たちがねぐら\nに借りている場所だ\nもとは孤児院だったん\nだがな・・・",
       "translated_text": "This is the place we're\nborrowing as our\nshelter. It used to be\nan orphanage...",
-      "translated_text_zh": "这里是我们借\n来当住所的地方，\n原本是孤儿院...",
+      "translated_text_zh": "这里是我们借来的\n当住所的地方\n原本是孤儿院・・・",
       "note": ""
     },
     {
@@ -1879,7 +1879,7 @@
       "len": 69,
       "orig_text": "潰れてほったらかしに\nなっていたのを、まあ\n無断で使っているって\nわけだ",
       "translated_text": "It was abandoned after\nit went bankrupt, so we're\nbasically squatting\nhere.",
-      "translated_text_zh": "倒闭后就被\n荒废了，所以\n我们就擅自\n住在这里。",
+      "translated_text_zh": "倒闭后就被荒废了\n所以\n我们擅自住了进来",
       "note": ""
     },
     {
@@ -1888,7 +1888,7 @@
       "len": 60,
       "orig_text": "しょうがねえだろう\n院長たちがとっ捕まっ\nて行方不明なんだから",
       "translated_text": "What else can we do?\nThe orphanage directors\nwere captured and\ndisappeared.",
-      "translated_text_zh": "没办法啊，\n院长他们被抓\n走了，下落不\n明。",
+      "translated_text_zh": "没办法啊\n院长他们被抓走了\n下落不明",
       "note": ""
     },
     {
@@ -1906,7 +1906,7 @@
       "len": 25,
       "orig_text": "ケッ\nお前にゃ関係ねえよ！",
       "translated_text": "Tch.\nIt's none of your\nbusiness!",
-      "translated_text_zh": "切，\n关你什么事！",
+      "translated_text_zh": "切\n关你什么事！",
       "note": ""
     },
     {
@@ -1915,7 +1915,7 @@
       "len": 25,
       "orig_text": "まあ、\nとにかく座ってくれ",
       "translated_text": "Well,\nhave a seat.",
-      "translated_text_zh": "好了，\n先坐下吧。",
+      "translated_text_zh": "好了\n先坐下吧",
       "note": ""
     },
     {
@@ -1924,7 +1924,7 @@
       "len": 8,
       "orig_text": "は、はい",
       "translated_text": "Y-Yes.",
-      "translated_text_zh": "是、是。",
+      "translated_text_zh": "是、是",
       "note": ""
     },
     {
@@ -1933,7 +1933,7 @@
       "len": 20,
       "orig_text": "返せよ、オイラんだぞ",
       "translated_text": "Give it back, it's mine!",
-      "translated_text_zh": "还给我，那是我的！",
+      "translated_text_zh": "还给我、那是我的！",
       "note": ""
     },
     {
@@ -1951,7 +1951,7 @@
       "len": 18,
       "orig_text": "ま、まってぇ・・・",
       "translated_text": "W-Wait...",
-      "translated_text_zh": "等、等等...",
+      "translated_text_zh": "等、等等・・・",
       "note": ""
     },
     {
@@ -1960,7 +1960,7 @@
       "len": 58,
       "orig_text": "なんで、こんな小さい\n子たちがこんなとこに\nいるんだ・・・？",
       "translated_text": "Why are such young\nchildren here in a place\nlike this...?",
-      "translated_text_zh": "为什么这么小的\n孩子会在这种地方...？",
+      "translated_text_zh": "为什么这么小的孩子\n会在这种地方・・・？",
       "note": ""
     },
     {
@@ -1969,7 +1969,7 @@
       "len": 58,
       "orig_text": "なんで、こんな小さい\n子たちがこんなとこに\nいるんだ・・・？",
       "translated_text": "Why are such young\nchildren here in a place\nlike this...?",
-      "translated_text_zh": "为什么这么小的\n孩子会在这种地方...？",
+       "translated_text_zh": "为什么这么小的孩子\n会在这种地方・・・？",
       "note": ""
     },
     {
@@ -1978,7 +1978,7 @@
       "len": 52,
       "orig_text": "こんな小さい子たちが\nこんなところに\nどうして・・・？",
       "translated_text": "What are such young\nchildren doing in a\nplace like this...?",
-      "translated_text_zh": "为什么这么小的\n孩子会在这种地方...？",
+     "translated_text_zh": "为什么这么小的孩子\n会在这种地方・・・？",
       "note": ""
     },
     {
@@ -1987,7 +1987,7 @@
       "len": 52,
       "orig_text": "こんな小さい子たちが\nこんなところに\nどうして・・・？",
       "translated_text": "What are such young\nchildren doing in a\nplace like this...?",
-      "translated_text_zh": "为什么这么小的\n孩子会在这种地方...？",
+      "translated_text_zh": "为什么这么小的孩子\n会在这种地方・・・？",
       "note": ""
     },
     {
@@ -1996,7 +1996,7 @@
       "len": 39,
       "orig_text": "おい、チビどもっ！\nあっちへいってろ！！",
       "translated_text": "Hey, you brats!\nGet over there!!",
-      "translated_text_zh": "喂，小鬼们！\n到那边去！！",
+      "translated_text_zh": "喂、小鬼们！\n那边去！！",
       "note": ""
     },
     {
@@ -2005,7 +2005,7 @@
       "len": 12,
       "orig_text": "・・・ううっ",
       "translated_text": "...Sniff.",
-      "translated_text_zh": "...呜呜",
+      "translated_text_zh": "・・・呜呜",
       "note": ""
     },
     {
@@ -2023,7 +2023,7 @@
       "len": 38,
       "orig_text": "わわっ\nこら、泣くな\n泣くんじゃねえっ！",
       "translated_text": "Wah wah!\nHey, don't cry!\nDon't cry!",
-      "translated_text_zh": "哇哇\n喂，别哭！\n别哭了！",
+      "translated_text_zh": "哇哇\n喂、别哭\n别哭了！",
       "note": ""
     },
     {
@@ -2041,7 +2041,7 @@
       "len": 18,
       "orig_text": "どうしたの、ラミ？",
       "translated_text": "What's wrong, Rami?",
-      "translated_text_zh": "怎么了，拉米？",
+      "translated_text_zh": "怎么了、拉米？",
       "note": ""
     },
     {
@@ -2050,7 +2050,7 @@
       "len": 20,
       "orig_text": "ひっく、ひっく・・・",
       "translated_text": "Hic... Hic...",
-      "translated_text_zh": "嗝... 嗝...",
+      "translated_text_zh": "嗝・・・嗝・・・",
       "note": ""
     },
     {
@@ -2059,7 +2059,7 @@
       "len": 44,
       "orig_text": "ガゼルっ！\nまたあんたが\n泣かしたんでしょ！？",
       "translated_text": "Gazel!\nYou made her cry\nagain, didn't you!?",
-      "translated_text_zh": "加泽尔！\n又是你把\n她弄哭的吧！？",
+      "translated_text_zh": "加泽尔！\n你又把她弄哭了吧！？",
       "note": ""
     },
     {
@@ -2068,7 +2068,7 @@
       "len": 75,
       "orig_text": "な、なんでそうなるん\nだよ・・・オレはただ\nこいつらがうるさかっ\nたから・・・",
       "translated_text": "W-Why are you\nblaming me...? I just\ntold them to be quiet\nbecause they were noisy...",
-      "translated_text_zh": "为、为什么怪我...\n我只是让她们\n安静点，因为\n太吵了...",
+      "translated_text_zh": "为、为什么怪我・・・\n我只是让她们安静点\n她们太吵了・・・",
       "note": ""
     },
     {
@@ -2077,7 +2077,7 @@
       "len": 46,
       "orig_text": "ふーん\n生意気にも口ごたえ\nなんかしちゃうんだ？",
       "translated_text": "Hmm.\nSo you're being\ndisrespectful?",
-      "translated_text_zh": "哼，\n你还敢顶嘴？",
+      "translated_text_zh": "哼\n你还敢顶嘴？",
       "note": ""
     },
     {
@@ -2086,7 +2086,7 @@
       "len": 48,
       "orig_text": "それはつまり、今晩の\nゴハンはいらないって\nことね",
       "translated_text": "That means you don't\nwant dinner tonight,\nright?",
-      "translated_text_zh": "那就是说，\n你今晚不\n想吃饭了？",
+      "translated_text_zh": "那就是说\n你今晚不想吃饭了？",
       "note": ""
     },
     {
@@ -2104,7 +2104,7 @@
       "len": 20,
       "orig_text": "「ごめんなさい」は？",
       "translated_text": "Say \"I'm sorry.\"",
-      "translated_text_zh": "说“对不起”。",
+      "translated_text_zh": "说「对不起」",
       "note": ""
     },
     {
@@ -2113,7 +2113,7 @@
       "len": 16,
       "orig_text": "・・・ちくしょー",
       "translated_text": "...Damn it.",
-      "translated_text_zh": "...可恶。",
+      "translated_text_zh": "・・・可恶",
       "note": ""
     },
     {
@@ -2122,7 +2122,7 @@
       "len": 20,
       "orig_text": "「ごめんなさい」は？",
       "translated_text": "Say \"I'm sorry.\"",
-      "translated_text_zh": "说“对不起”。",
+      "translated_text_zh": "说「对不起」",
       "note": ""
     },
     {
@@ -2131,7 +2131,7 @@
       "len": 18,
       "orig_text": "・・・ごめんなさい",
       "translated_text": "...I'm sorry.",
-      "translated_text_zh": "...对不起。",
+      "translated_text_zh": "・・・对不起",
       "note": ""
     },
     {
@@ -2140,7 +2140,7 @@
       "len": 8,
       "orig_text": "よろしい",
       "translated_text": "Good.",
-      "translated_text_zh": "很好。",
+      "translated_text_zh": "很好",
       "note": ""
     },
     {
@@ -2149,7 +2149,7 @@
       "len": 50,
       "orig_text": "あー、リプレ\nとりこみ中のところ、\nもうしわけないが",
       "translated_text": "Ah, Reple.\nSorry to interrupt\nyou while you're busy,",
-      "translated_text_zh": "啊，莉普蕾。\n抱歉打扰你\n了，",
+      "translated_text_zh": "啊、莉普蕾\n抱歉打扰你了",
       "note": ""
     },
     {
@@ -2158,7 +2158,7 @@
       "len": 58,
       "orig_text": "ここにお客さんがいる\nことに、そろそろ\n気づいてほしいんだが",
       "translated_text": "but I'd like you to\nnotice that we have\na guest.",
-      "translated_text_zh": "不过我希望你\n能注意到我们\n有客人了。",
+      "translated_text_zh": "不过\n我希望你能注意到\n这有个客人",
       "note": ""
     },
     {
@@ -2167,7 +2167,7 @@
       "len": 16,
       "orig_text": "ど、どうも・・・",
       "translated_text": "H-Hello...",
-      "translated_text_zh": "你、你好...",
+      "translated_text_zh": "你、你好・・・",
       "note": ""
     },
     {
@@ -2176,7 +2176,7 @@
       "len": 16,
       "orig_text": "・・・こんにちは",
       "translated_text": "...Hello.",
-      "translated_text_zh": "...你好。",
+      "translated_text_zh": "・・・你好",
       "note": ""
     },
     {
@@ -2185,7 +2185,7 @@
       "len": 16,
       "orig_text": "ど、どうも・・・",
       "translated_text": "H-Hello...",
-      "translated_text_zh": "你、你好...",
+      "translated_text_zh": "你、你好・・・",
       "note": ""
     },
     {
@@ -2194,7 +2194,7 @@
       "len": 16,
       "orig_text": "・・・こんにちは",
       "translated_text": "...Hello.",
-      "translated_text_zh": "...你好。",
+      "translated_text_zh": "・・・你好",
       "note": ""
     },
     {
@@ -2203,7 +2203,7 @@
       "len": 44,
       "orig_text": "え？\n・・・って、きゃあ！\nごめんなさいっ！！",
       "translated_text": "Huh?\n...Eek!\nI'm sorry!!",
-      "translated_text_zh": "咦？\n...呀！\n对不起！！",
+      "translated_text_zh": "咦？\n・・・呀！\n对不起！！",
       "note": ""
     },
     {
@@ -2212,7 +2212,7 @@
       "len": 69,
       "orig_text": "みっともないところを\nお見せしちゃって\nすぐにお茶をいれて\nきますから！",
       "translated_text": "I'm sorry you had to\nsee me like that.\nI'll make some tea\nright away!",
-      "translated_text_zh": "真不好意思让你\n看到我那样。\n我这就去泡茶！",
+      "translated_text_zh": "真不好意思\n让你看到我那样\n我这就去泡茶！",
       "note": ""
     },
     {
@@ -2221,7 +2221,7 @@
       "len": 27,
       "orig_text": "ほら、あんたも\n手伝うのよっ",
       "translated_text": "Hey, you help out too!",
-      "translated_text_zh": "喂，你也来帮忙！",
+      "translated_text_zh": "喂、你也来帮忙！",
       "note": ""
     },
     {
@@ -2239,7 +2239,7 @@
       "len": 18,
       "orig_text": "いいから来るのっ！",
       "translated_text": "Just come on!",
-      "translated_text_zh": "别说了，快来！",
+      "translated_text_zh": "别说了、快来！",
       "note": ""
     },
     {
@@ -2248,7 +2248,7 @@
       "len": 81,
       "orig_text": "気を悪くしないでくれ\nないか。なにしろお客\nが来るなんてことは、\nめったにないんでね",
       "translated_text": "Please don't take it\nthe wrong way. We don't\nget visitors very often,\nyou see.",
-      "translated_text_zh": "请别介意。\n我们这里很少\n有客人来，\n所以...",
+      "translated_text_zh": "请别介意\n我们这里很少有客人来\n所以・・・",
       "note": ""
     },
     {
@@ -2257,7 +2257,7 @@
       "len": 46,
       "orig_text": "さて\n君はまず、ここがどこ\nだか知りたいだろう？",
       "translated_text": "Now then,\nyou probably want to\nknow where you are, right?",
-      "translated_text_zh": "那么，\n你首先想知道\n这里是哪里吧？",
+      "translated_text_zh": "那么\n你肯定想知道\n这里是哪里吧？",
       "note": ""
     },
     {
@@ -2266,7 +2266,7 @@
       "len": 4,
       "orig_text": "ええ",
       "translated_text": "Yes.",
-      "translated_text_zh": "是的。",
+      "translated_text_zh": "是的",
       "note": ""
     },
     {
@@ -2275,7 +2275,7 @@
       "len": 20,
       "orig_text": "ええ、教えてください",
       "translated_text": "Yes, please tell me.",
-      "translated_text_zh": "是的，请告诉我。",
+      "translated_text_zh": "是的、请告诉我",
       "note": ""
     },
     {
@@ -2284,7 +2284,7 @@
       "len": 4,
       "orig_text": "はい",
       "translated_text": "Yes.",
-      "translated_text_zh": "是的。",
+      "translated_text_zh": "是的",
       "note": ""
     },
     {
@@ -2293,7 +2293,7 @@
       "len": 4,
       "orig_text": "はい",
       "translated_text": "Yes.",
-      "translated_text_zh": "是的。",
+      "translated_text_zh": "是的",
       "note": ""
     },
     {
@@ -2302,7 +2302,7 @@
       "len": 54,
       "orig_text": "【リィンバウム】\nこの世界はそういう\n名前で呼ばれている",
       "translated_text": "[Lyndbaum]\nThat's what this world\nis called.",
-      "translated_text_zh": "【林巴姆】\n这个世界就叫\n这个名字。",
+      "translated_text_zh": "【利因巴姆】\n我们这样称呼这个世界",
       "note": ""
     },
     {
@@ -2311,7 +2311,7 @@
       "len": 69,
       "orig_text": "そしてここは、リィン\nバウムの中央北にある\n【サイジェント】\nという街だ",
       "translated_text": "And this is the town\nof [Saijent], located in the\nnorth-central region\nof Lyndbaum.",
-      "translated_text_zh": "而这里是位于\n林巴姆中北部\n的城镇\n【塞吉安特】。",
+      "translated_text_zh": "而这里是位于\n利因巴姆中北部的\n城镇【塞吉安特】",
       "note": ""
     },
     {
@@ -2329,7 +2329,7 @@
       "len": 12,
       "orig_text": "・・・いいえ",
       "translated_text": "...No.",
-      "translated_text_zh": "...没有。",
+      "translated_text_zh": "・・・没有",
       "note": ""
     },
     {
@@ -2338,7 +2338,7 @@
       "len": 14,
       "orig_text": "そう、だろうな",
       "translated_text": "Right, I figured.",
-      "translated_text_zh": "是啊，我想也是。",
+      "translated_text_zh": "是啊、我想也是",
       "note": ""
     },
     {
@@ -2347,7 +2347,7 @@
       "len": 52,
       "orig_text": "おいレイド\nどうもワシには、話が\nよくわからんのだが？",
       "translated_text": "Hey, Raid.\nI don't really\nunderstand what's going\non.",
-      "translated_text_zh": "喂，雷伊德。\n我完全搞不\n懂是怎么回事？",
+      "translated_text_zh": "喂、雷伊德\n我完全搞不懂\n这是怎么回事",
       "note": ""
     },
     {
@@ -2356,7 +2356,7 @@
       "len": 33,
       "orig_text": "ああ、すまない\nきちんと説明しよう",
       "translated_text": "Ah, sorry.\nLet me explain.",
-      "translated_text_zh": "啊，抱歉。\n我来解释一下。",
+      "translated_text_zh": "啊、抱歉\n我来解释一下",
       "note": ""
     },
     {
@@ -2364,8 +2364,8 @@
       "translated": true,
       "len": 56,
       "orig_text": "君はたぶん、別の世界\nから【召喚術】で呼び\nよせられたんだ",
-      "translated_text": "You were probably\nsummoned here from\nanother world using\n[Summoning Arts].",
-      "translated_text_zh": "你大概是被\n【召唤术】从\n别的世界召唤\n过来的。",
+      "translated_text": "You were probably\nsummoned here from\nanother world using\n[Summon Technique].",
+      "translated_text_zh": "你大概是\n被【召唤术】\n从别的世界召唤过来的",
       "note": ""
     },
     {
@@ -2374,7 +2374,7 @@
       "len": 14,
       "orig_text": "召喚術・・・？",
       "translated_text": "Summoning Arts...?",
-      "translated_text_zh": "召唤术...？",
+      "translated_text_zh": "召唤术・・・？",
       "note": ""
     },
     {
@@ -2383,7 +2383,7 @@
       "len": 81,
       "orig_text": "君がいた世界ではどう\nなのかは知らないが、\nリィンバウムにはそう\nいう魔法があるんだ",
       "translated_text": "I don't know if it\nexists in your world,\nbut there's a type of\nmagic like that in Lyndbaum.",
-      "translated_text_zh": "我不知道你\n的世界里有没有，\n但在林巴姆，\n有这种魔法。",
+      "translated_text_zh": "我不知道你的世界里\n有没有召唤术\n但在林巴姆\n有这种魔法",
       "note": ""
     },
     {
@@ -2392,7 +2392,7 @@
       "len": 60,
       "orig_text": "【召喚師】と呼ばれて\nいる人間だけが、それ\nを使うことができる",
       "translated_text": "Only people called\n[Summoners] can\nuse it.",
-      "translated_text_zh": "只有被称为\n【召唤师】的人\n才能使用。",
+      "translated_text_zh": "只有被称为【召唤师】的人\n才能使用的",
       "note": ""
     },
     {
@@ -2401,7 +2401,7 @@
       "len": 37,
       "orig_text": "怪しげな格好をしてる\nえらそうな連中さ",
       "translated_text": "Those arrogant folks\nin strange clothes.",
-      "translated_text_zh": "那些穿着奇装异服\n的傲慢家伙。",
+      "translated_text_zh": "那些穿着奇装异服\n的傲慢家伙",
       "note": ""
     },
     {
@@ -2410,7 +2410,7 @@
       "len": 60,
       "orig_text": "この世界に来た時、\n君の近くにそういった\n人はいなかったのか？",
       "translated_text": "When you came to this\nworld, weren't there any\npeople like that nearby?",
-      "translated_text_zh": "你来这个世界\n的时候，附近\n没有那样的人吗？",
+      "translated_text_zh": "你来这个世界的时候\n附近没有那样的人吗？",
       "note": ""
     },
     {
@@ -2419,7 +2419,7 @@
       "len": 12,
       "orig_text": "じつは・・・",
       "translated_text": "Actually...",
-      "translated_text_zh": "其实...",
+      "translated_text_zh": "其实・・・",
       "note": ""
     },
     {
@@ -2428,7 +2428,7 @@
       "len": 44,
       "orig_text": "そいつはひどい\nひとり残らず死んでた\nとはなあ",
       "translated_text": "That's terrible.\nThey were all dead,\nhuh.",
-      "translated_text_zh": "那太可怕了。\n他们都死了，\n是吗。",
+      "translated_text_zh": "很可怕\n他们都死了\n是这样吧",
       "note": ""
     },
     {
@@ -2437,7 +2437,7 @@
       "len": 58,
       "orig_text": "そこにいた者たちが、\nきっと君を呼ぼうと\nした召喚師だろうな",
       "translated_text": "The people who were\nthere were probably the\nSummoners who tried to\nsummon you.",
-      "translated_text_zh": "在那里的人，\n应该就是试图\n召唤你的召唤师\n吧。",
+      "translated_text_zh": "在那里的人\n应该就是试图\n召唤你的召唤师吧",
       "note": ""
     },
     {
@@ -2446,7 +2446,7 @@
       "len": 71,
       "orig_text": "おそらく儀式の途中で\nなにか起きて、\nそんなことになって\nしまったんだろう",
       "translated_text": "Something must have\nhappened during the\nritual, and that's\nhow it ended up like that.",
-      "translated_text_zh": "大概是在仪式\n中途发生了什么，\n所以才会变成\n那样吧。",
+      "translated_text_zh": "大概是在仪式的中途\n发生了什么\n所以才会变成那样吧",
       "note": ""
     },
     {
@@ -2455,7 +2455,7 @@
       "len": 58,
       "orig_text": "あの人たちが死んでし\nまったのは、俺のせい\nなんでしょうか？",
       "translated_text": "Is it my fault those\npeople died?",
-      "translated_text_zh": "那些人死掉\n了，是我的\n错吗？",
+      "translated_text_zh": "那些人死掉了\n是因为我吗？",
       "note": ""
     },
     {
@@ -2464,7 +2464,7 @@
       "len": 58,
       "orig_text": "あの人たちが死んでし\nまったのは、僕のせい\nなんでしょうか？",
       "translated_text": "Is it my fault those\npeople died?",
-      "translated_text_zh": "那些人死掉\n了，是我的\n错吗？",
+       "translated_text_zh": "那些人死掉了\n是因为我吗？",
       "note": ""
     },
     {
@@ -2473,7 +2473,7 @@
       "len": 62,
       "orig_text": "あの人たちが死んでし\nまったのは、あたしの\nせいなんでしょうか？",
       "translated_text": "Is it my fault those\npeople died?",
-      "translated_text_zh": "那些人死掉\n了，是我的\n错吗？",
+      "translated_text_zh": "那些人都死掉了\n都是・・・因为我吗？",
       "note": ""
     },
     {
@@ -2482,7 +2482,7 @@
       "len": 58,
       "orig_text": "あの人たちが死んでし\nまったのは、私のせい\nなんでしょうか？",
       "translated_text": "Is it my fault those\npeople died?",
-      "translated_text_zh": "那些人死掉\n了，是我的\n错吗？",
+      "translated_text_zh": "那些人都死掉了\n都是・・・因为我吗？",
       "note": ""
     },
     {
@@ -2491,7 +2491,7 @@
       "len": 39,
       "orig_text": "いや、それはちょっと\n考えすぎだと思うぞ",
       "translated_text": "No, I think you're\nthinking too much about\nit.",
-      "translated_text_zh": "不，我觉得你想\n太多了。",
+      "translated_text_zh": "不\n我觉得你想太多了",
       "note": ""
     },
     {
@@ -2500,7 +2500,7 @@
       "len": 71,
       "orig_text": "お前さんが目をさまし\nた時には、そいつらは\nもう死んじまってたん\nだろう？",
       "translated_text": "They were already\ndead when you woke\nup, right?",
-      "translated_text_zh": "你醒来的时候，\n他们已经死掉\n了吧？",
+      "translated_text_zh": "你醒来的时候\n他们早就死掉了吧？\n",
       "note": ""
     },
     {
@@ -2509,7 +2509,7 @@
       "len": 16,
       "orig_text": "そうだけど・・・",
       "translated_text": "That's true, but...",
-      "translated_text_zh": "是这样没错，但是...",
+      "translated_text_zh": "是这样的、但是・・・",
       "note": ""
     },
     {
@@ -2517,8 +2517,8 @@
       "translated": true,
       "len": 16,
       "orig_text": "そうですが・・・",
-      "translated_text": "That's true, but...",
-      "translated_text_zh": "是这样没错，但是...",
+      "translated_text": "That's true,but...",
+      "translated_text_zh": "是这样的、但是・・・",
       "note": ""
     },
     {
@@ -2527,7 +2527,7 @@
       "len": 10,
       "orig_text": "でも・・・",
       "translated_text": "But...",
-      "translated_text_zh": "可是...",
+      "translated_text_zh": "但是・・・",
       "note": ""
     },
     {
@@ -2536,7 +2536,7 @@
       "len": 16,
       "orig_text": "はい、でも・・・",
       "translated_text": "Yes, but...",
-      "translated_text_zh": "是的，可是...",
+      "translated_text_zh": "是的、可是・・・",
       "note": ""
     },
     {
@@ -2545,7 +2545,7 @@
       "len": 59,
       "orig_text": "エドスの言うとおりだ\nと私も思う\nあまり気にしない\nほうがいい",
       "translated_text": "I agree with Edos.\nYou shouldn't worry\nabout it too much.",
-      "translated_text_zh": "我也觉得艾德斯\n说得对。\n你还是别太\n在意了。",
+      "translated_text_zh": "艾德斯说得对\n别太在意",
       "note": ""
     },
     {
@@ -2554,7 +2554,7 @@
       "len": 77,
       "orig_text": "今夜はここに泊まって\nいくといい。これから\nどうするかは、休んで\nから考えなさい",
       "translated_text": "You can stay here\ntonight. Think about what\nyou're going to do after\nyou've rested.",
-      "translated_text_zh": "你今晚就住\n在这里吧。\n以后怎么办，\n休息好了再考虑。",
+      "translated_text_zh": "你今晚就住在这里吧\n至于以后怎么办\n休息好了再考虑吧",
       "note": ""
     },
     {
@@ -2563,7 +2563,7 @@
       "len": 10,
       "orig_text": "・・・はい",
       "translated_text": "...Okay.",
-      "translated_text_zh": "...好的。",
+      "translated_text_zh": "・・・好的",
       "note": ""
     },
     {
@@ -2572,7 +2572,7 @@
       "len": 16,
       "orig_text": "・・・すいません",
       "translated_text": "...Excuse me.",
-      "translated_text_zh": "...打扰了。",
+      "translated_text_zh": "・・・打扰了",
       "note": ""
     },
     {
@@ -2581,7 +2581,7 @@
       "len": 10,
       "orig_text": "・・・はい",
       "translated_text": "...Okay.",
-      "translated_text_zh": "...好的。",
+      "translated_text_zh": "・・・好的",
       "note": ""
     },
     {
@@ -2590,7 +2590,7 @@
       "len": 16,
       "orig_text": "・・・すいません",
       "translated_text": "...Excuse me.",
-      "translated_text_zh": "...打扰了。",
+      "translated_text_zh": "・・・打扰了",
       "note": ""
     },
     {
@@ -2598,8 +2598,8 @@
       "translated": true,
       "len": 123,
       "orig_text": "　どうやら俺は召喚術って魔法で\n　この世界に呼び出されたらしい\n　こういうのはマンガの世界の話\n　だと思っていたんだけど・・・",
-      "translated_text": "  It seems like I was\n  summoned to this world\n  by a magic called Summoning Arts.\n  I thought stuff like this\n  only happened in manga...",
-      "translated_text_zh": "  看来我是被\n  一种叫做召唤术\n  的魔法召唤到\n  这个世界来的。\n  我还以为这种事\n  只会在漫画里...",
+      "translated_text": "  It seems like I was\n  summoned to this world\n  by a magic called Summon Technique.\n  I thought stuff like this\n  only happened in manga...",
+      "translated_text_zh": "　看来我是被一种\n　叫做召唤术的魔法\n　召唤到这个世界来的\n　我还以为这种事\n  只存在于漫画里・・・",
       "note": ""
     },
     {
@@ -2607,8 +2607,8 @@
       "translated": true,
       "len": 117,
       "orig_text": "　どうやら僕は召喚術って魔法で\n　この世界に呼ばれたらしい\n　こういうのは物語の世界の話\n　だと思っていたんだけど・・・",
-      "translated_text": "  It seems like I was\n  summoned to this world\n  by a magic called\n  Summoning Arts.\n  I thought stuff like this\n  only happened in stories...",
-      "translated_text_zh": "  看来我是被\n  一种叫做召唤术\n  的魔法召唤到\n  这个世界来的。\n  我还以为这种事\n  只会在故事里...",
+      "translated_text": "  It seems like I was\n  summoned to this world\n  by a magic called\n  Summon Technique.\n  I thought stuff like this\n  only happened in stories...",
+      "translated_text_zh": "　看来我是被一种\n　叫做召唤术的魔法\n　召唤到这个世界来的\n　我还以为这种事\n  只存在于故事里・・・",
       "note": ""
     },
     {
@@ -2617,7 +2617,7 @@
       "len": 79,
       "orig_text": "\n　　だけど、現実は現実なんだ\n　　これからどうすれば\n　　いいのかを考えながら、",
       "translated_text": "\n    But reality is reality.\n    Thinking about what I\n    should do now,",
-      "translated_text_zh": "\n    但现实就是现实。\n    思考着我现在\n    该怎么办，",
+      "translated_text_zh": "\n　　但现实就是现实\n　　思考着我现在\n　　该怎么办",
       "note": ""
     },
     {
@@ -2626,7 +2626,7 @@
       "len": 24,
       "orig_text": "　　俺はリィンバウムでの",
       "translated_text": "    I welcomed my",
-      "translated_text_zh": "    我迎来了在",
+      "translated_text_zh": "　　我迎来了在",
       "note": ""
     },
     {
@@ -2635,7 +2635,7 @@
       "len": 24,
       "orig_text": "　　僕はリィンバウムでの",
       "translated_text": "    I welcomed my",
-      "translated_text_zh": "    我迎来了在",
+      "translated_text_zh": "　　我迎来了在",
       "note": ""
     },
     {
@@ -2643,8 +2643,8 @@
       "translated": true,
       "len": 30,
       "orig_text": "　　最初の朝を迎えたんだ・・・",
-      "translated_text": "    first morning in\n    Lyndbaum...",
-      "translated_text_zh": "    林巴姆的\n    第一个早晨...",
+      "translated_text": "    first morning in Lyndbaum...",
+      "translated_text_zh": "　　利因巴姆的第一个早晨・・・",
       "note": ""
     },
     {
@@ -2652,9 +2652,9 @@
       "translated": true,
       "len": 120,
       "orig_text": "\n　あたしは召喚術って魔法で\n　この世界に呼び出されたみたい\n　こういうのはマンガの世界の話\n　だと思っていたんだけど・・・",
-      "translated_text": "\n  It seems like I was\n  summoned to this world\n  by a magic called\n  Summoning Arts.\n  I thought stuff like this\n  only happened in manga...",
-      "translated_text_zh": "\n  看来我是被\n  一种叫做召唤术\n  的魔法召唤到\n  这个世界来的。\n  我还以为这种事\n  只会在漫画里...",
-      "note": ""
+      "translated_text": "\n  It seems like I was\n  summoned to this world\n  by a magic called Summon Technique.\n  I thought stuff like this\n  only happened in manga...",
+      "translated_text_zh": "\n　看来我是被一种\n　叫做召唤术的魔法\n　召唤到这个世界来的\n　我还以为这种事\n  只存在于漫画里・・・",
+	   "note": ""
     },
     {
       "offset": "fbf4",
@@ -2662,7 +2662,7 @@
       "len": 135,
       "orig_text": "\n　　だけど、現実は現実なんだ\n　　これからどうすれば\n　　いいのかを考えながら、\n　　あたしはリィンバウムでの\n　　最初の朝を迎えた・・・",
       "translated_text": "\n    But reality is reality.\n    Thinking about what I\n    should do now,\n    I welcomed my first\n    morning in Lyndbaum...",
-      "translated_text_zh": "\n    但现实就是现实。\n    思考着我现在\n    该怎么办，\n    我迎来了在\n    林巴姆的\n    第一个早晨...",
+      "translated_text_zh": "\n　　但现实就是现实\n　　思考着我现在该怎么办\n　　我迎来了在利因巴姆的\n    第一个早晨・・・",
       "note": ""
     },
     {
@@ -2670,8 +2670,8 @@
       "translated": true,
       "len": 114,
       "orig_text": "\n　私は召喚術って魔法で\n　この世界に呼び出されたみたい\n　こういうのは物語の世界の話\n　だと思っていたんだけど・・・",
-      "translated_text": "\n  It seems like I was\n  summoned to this world\n  by a magic called\n  Summoning Arts.\n  I thought stuff like this\n  only happened in stories...",
-      "translated_text_zh": "\n  看来我是被\n  一种叫做召唤术\n  的魔法召唤到\n  这个世界来的。\n  我还以为这种事\n  只会在故事里...",
+      "translated_text": "\n  It seems like I was\n  summoned to this world\n  by a magic called Summon Technique.\n  I thought stuff like this\n  only happened in manga...",
+      "translated_text_zh": "\n　看来我是被一种\n　叫做召唤术的魔法\n　召唤到这个世界来的\n　我还以为这种事\n  只存在于故事里・・・",
       "note": ""
     },
     {
@@ -2680,7 +2680,7 @@
       "len": 125,
       "orig_text": "\n　　だけど、現実は現実\n　　これからどうすれば\n　　いいのかを考えながら、\n　　私はリィンバウムでの\n　　最初の朝を迎えた・・・",
       "translated_text": "\n    But reality is reality.\n    Thinking about what I\n    should do now,\n    I welcomed my first\n    morning in Lyndbaum...",
-      "translated_text_zh": "\n    但现实就是现实。\n    思考着我现在\n    该怎么办，\n    我迎来了在\n    林巴姆的\n    第一个早晨...",
+      "translated_text_zh": "\n　　但现实就是现实\n　　思考着我现在该怎么办\n　　我迎来了在利因巴姆的\n    第一个早晨・・・",
       "note": ""
     }
   ]

@@ -1,0 +1,1679 @@
+{
+  "md5": "517d6c42d158b7a1079c5fae753b2595",
+  "blocks": [
+    {
+      "offset": "2f7e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "３人とも、どこへ\n行ったんだろう？",
+      "translated_text": "Where did those three\ngo?",
+      "translated_text_zh": "那三个人，\n到哪里去了？",
+      "note": ""
+    },
+    {
+      "offset": "2fd3",
+      "translated": true,
+      "len": 33,
+      "orig_text": "３人とも、どこへ\n行ったんだろう？",
+      "translated_text": "Where did those three\ngo?",
+      "translated_text_zh": "那三个人，\n到哪里去了？",
+      "note": ""
+    },
+    {
+      "offset": "3028",
+      "translated": true,
+      "len": 31,
+      "orig_text": "３人とも、どこへ\n行ったのかな？",
+      "translated_text": "Where did those three\ngo?",
+      "translated_text_zh": "那三个人，\n到哪里去了？",
+      "note": ""
+    },
+    {
+      "offset": "307b",
+      "translated": true,
+      "len": 35,
+      "orig_text": "３人とも、どこへ\n行ったんでしょう？",
+      "translated_text": "Where could those\nthree have gone?",
+      "translated_text_zh": "那三个人，\n到哪里去了呢？",
+      "note": ""
+    },
+    {
+      "offset": "3106",
+      "translated": true,
+      "len": 60,
+      "orig_text": "川原とか、あの子たち\nのいそうな場所は全部\n回ったつもりだけど",
+      "translated_text": "I thought I checked all\nthe places they might\nbe, like the riverbank.",
+      "translated_text_zh": "河滩什么的，\n我觉得我已经\n把孩子们可能\n去的地方都\n找遍了。",
+      "note": ""
+    },
+    {
+      "offset": "31ce",
+      "translated": true,
+      "len": 35,
+      "orig_text": "街の外とかに出たって\nことはないよな",
+      "translated_text": "They couldn't have\ngone outside the town,\nright?",
+      "translated_text_zh": "他们应该不会\n跑到城外去\n吧？",
+      "note": ""
+    },
+    {
+      "offset": "3225",
+      "translated": true,
+      "len": 35,
+      "orig_text": "街の外とかに出たって\nことはないよね",
+      "translated_text": "They couldn't have\ngone outside the town,\nright?",
+      "translated_text_zh": "他们应该不会\n跑到城外去\n吧？",
+      "note": ""
+    },
+    {
+      "offset": "327c",
+      "translated": true,
+      "len": 35,
+      "orig_text": "街の外に出ているって\nことはないよね",
+      "translated_text": "They couldn't have\ngone outside the town,\nright?",
+      "translated_text_zh": "他们应该不会\n跑到城外去\n吧？",
+      "note": ""
+    },
+    {
+      "offset": "32d3",
+      "translated": true,
+      "len": 39,
+      "orig_text": "街の外に出ているって\nことはありませんか",
+      "translated_text": "They couldn't have\ngone outside the town,\nright?",
+      "translated_text_zh": "他们应该不会\n跑到城外去\n吧？",
+      "note": ""
+    },
+    {
+      "offset": "3362",
+      "translated": true,
+      "len": 18,
+      "orig_text": "それはないと思うわ",
+      "translated_text": "I don't think so.",
+      "translated_text_zh": "我觉得不会。",
+      "note": ""
+    },
+    {
+      "offset": "339b",
+      "translated": true,
+      "len": 69,
+      "orig_text": "ほら、前にフィズが\n貴方たちについてって\n捕まったことがあった\nでしょ？",
+      "translated_text": "Remember that time\nFizz followed you\nguys and got caught?",
+      "translated_text_zh": "之前菲兹跟着\n你们然后被抓\n的事，你记得\n吧？",
+      "note": ""
+    },
+    {
+      "offset": "3407",
+      "translated": true,
+      "len": 37,
+      "orig_text": "あの時にきつく言い\n聞かせたから・・・",
+      "translated_text": "I gave them a good\nscolding then...",
+      "translated_text_zh": "我当时狠狠地\n训斥了他们...",
+      "note": ""
+    },
+    {
+      "offset": "34b8",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そういや、そんなこと\nもあったよな",
+      "translated_text": "Yeah, there was\nsomething like that.",
+      "translated_text_zh": "是啊，好像\n是有过这种事。",
+      "note": ""
+    },
+    {
+      "offset": "350d",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ああ、そんなことも\nあったな・・・",
+      "translated_text": "Yeah, there was\nsomething like that...",
+      "translated_text_zh": "啊，好像\n是有过这种事...",
+      "note": ""
+    },
+    {
+      "offset": "3562",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ああ、そんなことも\nあったっけ・・・",
+      "translated_text": "Yeah, there was\nsomething like that...",
+      "translated_text_zh": "啊，好像\n是有过这种事...",
+      "note": ""
+    },
+    {
+      "offset": "35b9",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ああ、そうでしたね",
+      "translated_text": "Ah, that's right.",
+      "translated_text_zh": "啊，是啊。",
+      "note": ""
+    },
+    {
+      "offset": "365d",
+      "translated": true,
+      "len": 37,
+      "orig_text": "まさか、またバノッサ\nに捕まって・・・",
+      "translated_text": "Don't tell me they\ngot caught by\nBanossa again...",
+      "translated_text_zh": "难道他们又被\n巴诺萨给\n抓住了...",
+      "note": ""
+    },
+    {
+      "offset": "3738",
+      "translated": true,
+      "len": 50,
+      "orig_text": "だとしたら、とっくに\n俺に何か仕掛けている\nはずだよ",
+      "translated_text": "If that's the case,\nhe would have already\ntried something.",
+      "translated_text_zh": "如果是那样，\n他早就应该\n有所行动了。",
+      "note": ""
+    },
+    {
+      "offset": "3791",
+      "translated": true,
+      "len": 41,
+      "orig_text": "まだ街の全部を探した\nわけじゃないんだしさ",
+      "translated_text": "We haven't searched\nthe whole town yet.",
+      "translated_text_zh": "我们还没把\n整个城镇都\n找遍呢。",
+      "note": ""
+    },
+    {
+      "offset": "37ee",
+      "translated": true,
+      "len": 48,
+      "orig_text": "だとしたら、とっくに\n僕に何か仕掛けている\nはずだ",
+      "translated_text": "If that's the case,\nhe would have already\ntried something.",
+      "translated_text_zh": "如果是那样，\n他早就应该\n有所行动了。",
+      "note": ""
+    },
+    {
+      "offset": "3845",
+      "translated": true,
+      "len": 48,
+      "orig_text": "まだ街の全部を探した\nわけじゃないんだ\n大丈夫だよ",
+      "translated_text": "We haven't searched\nthe whole town yet.\nIt'll be fine.",
+      "translated_text_zh": "我们还没把\n整个城镇都\n找遍呢。\n别担心。",
+      "note": ""
+    },
+    {
+      "offset": "38a9",
+      "translated": true,
+      "len": 54,
+      "orig_text": "だとしたら、とっくに\nあたしにちょっかいを\nかけてるって",
+      "translated_text": "If that's the case,\nhe would have already\ntried something with me.",
+      "translated_text_zh": "如果是那样，\n他早就应该\n对我下手了。",
+      "note": ""
+    },
+    {
+      "offset": "3906",
+      "translated": true,
+      "len": 46,
+      "orig_text": "まだ街の全部を探した\nわけじゃないし\n大丈夫だよ",
+      "translated_text": "We haven't searched\nthe whole town yet.\nIt'll be fine.",
+      "translated_text_zh": "我们还没把\n整个城镇都\n找遍呢。\n别担心。",
+      "note": ""
+    },
+    {
+      "offset": "3968",
+      "translated": true,
+      "len": 37,
+      "orig_text": "だとしたら、何か反応\nがあるはずですよ",
+      "translated_text": "If that were the case,\nthere would have been\nsome reaction.",
+      "translated_text_zh": "如果是那样，\n应该会有什么\n反应的。",
+      "note": ""
+    },
+    {
+      "offset": "39b4",
+      "translated": true,
+      "len": 52,
+      "orig_text": "まだ街の全部を探した\nわけじゃありません\n大丈夫ですよ",
+      "translated_text": "We haven't searched\nthe whole town yet.\nIt'll be fine.",
+      "translated_text_zh": "我们还没把\n整个城镇都\n找遍呢。\n别担心。",
+      "note": ""
+    },
+    {
+      "offset": "3a7c",
+      "translated": true,
+      "len": 10,
+      "orig_text": "うん・・・",
+      "translated_text": "Yeah...",
+      "translated_text_zh": "嗯...",
+      "note": ""
+    },
+    {
+      "offset": "3b10",
+      "translated": true,
+      "len": 58,
+      "orig_text": "考え方を変えよう\nあの子たちが行きそう\nにない場所を探すんだ",
+      "translated_text": "Let's change our thinking.\nWe need to look for\nplaces they wouldn't go.",
+      "translated_text_zh": "换个思路吧。\n我们要找那些\n孩子们不可能\n去的地方。",
+      "note": ""
+    },
+    {
+      "offset": "3b7e",
+      "translated": true,
+      "len": 58,
+      "orig_text": "考え方を変えよう\nあの子たちが行きそう\nにない場所を探すんだ",
+      "translated_text": "Let's change our thinking.\nWe need to look for\nplaces they wouldn't\ngo.",
+      "translated_text_zh": "换个思路吧。\n我们要找那些\n孩子们不可能\n去的地方。",
+      "note": ""
+    },
+    {
+      "offset": "3bec",
+      "translated": true,
+      "len": 62,
+      "orig_text": "考え方を変えてみよ？\nあの子たちが行きそう\nにない場所を探すとか",
+      "translated_text": "Let's change our\nthinking.\nLike looking for\nplaces they wouldn't go.",
+      "translated_text_zh": "换个思路吧？\n比如找找\n孩子们不可能\n去的地方。",
+      "note": ""
+    },
+    {
+      "offset": "3c5e",
+      "translated": true,
+      "len": 65,
+      "orig_text": "考え方を変えましょう\nあの子たちが\n行きそうにない場所を\n探すんです",
+      "translated_text": "Let's change our\nthinking.\nWe need to look for\nplaces they wouldn't\ngo.",
+      "translated_text_zh": "换个思路吧。\n我们要找那些\n孩子们不可能\n去的地方。",
+      "note": ""
+    },
+    {
+      "offset": "3e0b",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ごめんね\nこんな大変な時なのに\n貴方に迷惑かけて",
+      "translated_text": "I'm sorry.\nI'm causing you\ntrouble at a time\nlike this.",
+      "translated_text_zh": "对不起，\n在这种时候\n还给你添麻烦。",
+      "note": ""
+    },
+    {
+      "offset": "3e60",
+      "translated": true,
+      "len": 73,
+      "orig_text": "私がしっかり子供たち\nを見ていれば、こんな\nことにはならなかった\nのに・・・",
+      "translated_text": "If I had been watching\nthe children properly,\nthis wouldn't have\nhappened...",
+      "translated_text_zh": "如果我能好好\n看着孩子们，\n就不会发生\n这种事了...",
+      "note": ""
+    },
+    {
+      "offset": "3eec",
+      "translated": true,
+      "len": 12,
+      "orig_text": "どうしよう？",
+      "translated_text": "What should I do?",
+      "translated_text_zh": "我该怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "3f3e",
+      "translated": true,
+      "len": 43,
+      "orig_text": "　迷惑なんて言うなよ\n　リプレのせいじゃない",
+      "translated_text": "  Don't say it's a\n  trouble.\n  It's not Reple's fault.",
+      "translated_text_zh": "  别说是麻烦。\n  这不是莉普蕾的错。",
+      "note": ""
+    },
+    {
+      "offset": "3f9d",
+      "translated": true,
+      "len": 45,
+      "orig_text": "　迷惑なんかじゃないさ\n　リプレのせいじゃない",
+      "translated_text": "  It's not a trouble\n  at all.\n  It's not Reple's fault.",
+      "translated_text_zh": "  一点也不麻烦。\n  这不是莉普蕾的错。",
+      "note": ""
+    },
+    {
+      "offset": "3ffe",
+      "translated": true,
+      "len": 45,
+      "orig_text": "　迷惑なんかじゃないよ\n　リプレのせいじゃない",
+      "translated_text": "  It's not a trouble\n  at all.\n  It's not Reple's fault.",
+      "translated_text_zh": "  一点也不麻烦。\n  这不是莉普蕾的错。",
+      "note": ""
+    },
+    {
+      "offset": "405f",
+      "translated": true,
+      "len": 37,
+      "orig_text": "　迷惑じゃないですよ\n　それは違います",
+      "translated_text": "  It's not a trouble.\n  That's not true.",
+      "translated_text_zh": "  这不是麻烦。\n  不是那样的。",
+      "note": ""
+    },
+    {
+      "offset": "416b",
+      "translated": true,
+      "len": 18,
+      "orig_text": "迷惑なんて言うなよ",
+      "translated_text": "Don't say it's a\ntrouble.",
+      "translated_text_zh": "别说是麻烦。",
+      "note": ""
+    },
+    {
+      "offset": "41b1",
+      "translated": true,
+      "len": 20,
+      "orig_text": "迷惑なんかじゃないさ",
+      "translated_text": "It's not a trouble\nat all.",
+      "translated_text_zh": "一点也不麻烦。",
+      "note": ""
+    },
+    {
+      "offset": "41f9",
+      "translated": true,
+      "len": 20,
+      "orig_text": "迷惑なんかじゃないよ",
+      "translated_text": "It's not a trouble\nat all.",
+      "translated_text_zh": "一点也不麻烦。",
+      "note": ""
+    },
+    {
+      "offset": "4241",
+      "translated": true,
+      "len": 18,
+      "orig_text": "迷惑じゃないですよ",
+      "translated_text": "It's not a trouble.",
+      "translated_text_zh": "这不是麻烦。",
+      "note": ""
+    },
+    {
+      "offset": "42bb",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "4353",
+      "translated": true,
+      "len": 62,
+      "orig_text": "ずっといろいろなこと\n続きで、忘れちまって\nるかもしれないけどさ",
+      "translated_text": "You might have forgotten\nbecause of everything\nthat's been happening,",
+      "translated_text_zh": "你可能因为\n一直发生各种各样\n的事，忘记了...",
+      "note": ""
+    },
+    {
+      "offset": "43b8",
+      "translated": true,
+      "len": 54,
+      "orig_text": "こういう時のために、\n俺たちは一緒に暮らし\nてるんだぜ？",
+      "translated_text": "but this is what we\nlive together for,\nright?",
+      "translated_text_zh": "但我们就是为了\n这种时候，才\n住在一起的吧？",
+      "note": ""
+    },
+    {
+      "offset": "4422",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ずっといろいろなこと\n続きで、忘れてしまっ\nたかもしれないけど",
+      "translated_text": "You might have forgotten\nbecause of everything\nthat's been happening,",
+      "translated_text_zh": "你可能因为\n一直发生各种各样\n的事，忘记了...",
+      "note": ""
+    },
+    {
+      "offset": "4485",
+      "translated": true,
+      "len": 56,
+      "orig_text": "こういう時のために、\n僕たちは一緒に暮らし\nてるんだろう？",
+      "translated_text": "but this is what we\nlive together for,\nright?",
+      "translated_text_zh": "但我们就是为了\n这种时候，才\n住在一起的吧？",
+      "note": ""
+    },
+    {
+      "offset": "44f1",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ずっといろいろなこと\n続きで、忘れちゃって\nたかもしれないけど",
+      "translated_text": "You might have forgotten\nbecause of everything\nthat's been happening,",
+      "translated_text_zh": "你可能因为\n一直发生各种各样\n的事，忘记了...",
+      "note": ""
+    },
+    {
+      "offset": "4554",
+      "translated": true,
+      "len": 62,
+      "orig_text": "こういう時のために、\nあたしたち、みんなで\n暮らしてるんでしょ？",
+      "translated_text": "but this is what we\nall live together for,\nright?",
+      "translated_text_zh": "但我们就是为了\n这种时候，才\n住在一起的吧？",
+      "note": ""
+    },
+    {
+      "offset": "45c6",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ずっといろいろなこと\n続きで、忘れてしまっ\nたかもしれないけど",
+      "translated_text": "You might have forgotten\nbecause of everything\nthat's been happening,",
+      "translated_text_zh": "你可能因为\n一直发生各种各样\n的事，忘记了...",
+      "note": ""
+    },
+    {
+      "offset": "4629",
+      "translated": true,
+      "len": 58,
+      "orig_text": "こういう時のために、\n私たちは一緒に暮らし\nてるんでしょう？",
+      "translated_text": "but this is what we\nlive together for,\nright?",
+      "translated_text_zh": "但我们就是为了\n这种时候，才\n住在一起的吧？",
+      "note": ""
+    },
+    {
+      "offset": "46f5",
+      "translated": true,
+      "len": 18,
+      "orig_text": "そう、だよね・・・",
+      "translated_text": "Right...",
+      "translated_text_zh": "是... 啊...",
+      "note": ""
+    },
+    {
+      "offset": "47bd",
+      "translated": true,
+      "len": 39,
+      "orig_text": "もっと気軽に、頼って\nくれればいいんだよ",
+      "translated_text": "You can rely on us\nmore freely.",
+      "translated_text_zh": "你可以更\n放心地依靠我们。",
+      "note": ""
+    },
+    {
+      "offset": "4818",
+      "translated": true,
+      "len": 39,
+      "orig_text": "もっと気軽に、頼って\nくれればいいんだよ",
+      "translated_text": "You can rely on us\nmore freely.",
+      "translated_text_zh": "你可以更\n放心地依靠我们。",
+      "note": ""
+    },
+    {
+      "offset": "4873",
+      "translated": true,
+      "len": 37,
+      "orig_text": "もっと気軽に、頼って\nくれればいいのよ",
+      "translated_text": "You can rely on us\nmore freely.",
+      "translated_text_zh": "你可以更\n放心地依靠我们。",
+      "note": ""
+    },
+    {
+      "offset": "48cc",
+      "translated": true,
+      "len": 50,
+      "orig_text": "困った時には、\nいつだって頼って\nくれていいんですよ",
+      "translated_text": "You can always rely\non us whenever you're\nin trouble.",
+      "translated_text_zh": "遇到困难时，\n随时都可以\n依靠我们。",
+      "note": ""
+    },
+    {
+      "offset": "4966",
+      "translated": true,
+      "len": 10,
+      "orig_text": "うん・・・",
+      "translated_text": "Yeah...",
+      "translated_text_zh": "嗯...",
+      "note": ""
+    },
+    {
+      "offset": "4a3c",
+      "translated": true,
+      "len": 48,
+      "orig_text": "リプレのせいじゃない\n俺たちだって、責任は\nあるよ",
+      "translated_text": "It's not Reple's fault.\nWe're responsible too.",
+      "translated_text_zh": "这不是莉普蕾的错。\n我们也有责任。",
+      "note": ""
+    },
+    {
+      "offset": "4aa0",
+      "translated": true,
+      "len": 50,
+      "orig_text": "リプレのせいじゃない\n僕たちだって、責任は\nあるんだ",
+      "translated_text": "It's not Reple's fault.\nWe're responsible too.",
+      "translated_text_zh": "这不是莉普蕾的错。\n我们也有责任。",
+      "note": ""
+    },
+    {
+      "offset": "4b06",
+      "translated": true,
+      "len": 54,
+      "orig_text": "リプレのせいじゃない\nあたしたちにだって、\n責任はあるよ",
+      "translated_text": "It's not Reple's fault.\nWe're responsible too.",
+      "translated_text_zh": "这不是莉普蕾的错。\n我们也有责任。",
+      "note": ""
+    },
+    {
+      "offset": "4b70",
+      "translated": true,
+      "len": 46,
+      "orig_text": "それは違います\n私たちにも、責任は\nあるはずです",
+      "translated_text": "That's not true.\nWe're responsible\ntoo.",
+      "translated_text_zh": "不是那样的。\n我们也有责任。",
+      "note": ""
+    },
+    {
+      "offset": "4c06",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "4c9e",
+      "translated": true,
+      "len": 71,
+      "orig_text": "ずっと思ってたんだ\n俺たちは君の優しさに\n甘えすぎていたんじゃ\nないかって",
+      "translated_text": "I've been thinking\nthat we've been taking\nadvantage of your\nkindness.",
+      "translated_text_zh": "我一直觉得\n我们是不是太\n依赖你的善良\n了。",
+      "note": ""
+    },
+    {
+      "offset": "4d0c",
+      "translated": true,
+      "len": 62,
+      "orig_text": "戦いにかまけてばかり\nで、子供たちのことを\n君だけに押しつけてさ",
+      "translated_text": "We've been so focused\non fighting that we've\nleft the children\nentirely to you.",
+      "translated_text_zh": "我们只顾着\n战斗，把照顾\n孩子的事全\n推给了你。",
+      "note": ""
+    },
+    {
+      "offset": "4d7e",
+      "translated": true,
+      "len": 73,
+      "orig_text": "ずっと思ってたんだ\n僕たちは君の優しさに\n甘えすぎているんじゃ\nないのかって",
+      "translated_text": "I've been thinking\nthat we've been taking\nadvantage of your\nkindness.",
+      "translated_text_zh": "我一直觉得\n我们是不是太\n依赖你的善良\n了。",
+      "note": ""
+    },
+    {
+      "offset": "4dee",
+      "translated": true,
+      "len": 60,
+      "orig_text": "戦いにかまけてばかり\nで、子供たちのことを\n君だけに押しつけて",
+      "translated_text": "We've been so focused\non fighting that we've\nleft the children\nentirely to you.",
+      "translated_text_zh": "我们只顾着\n战斗，把照顾\n孩子的事全\n推给了你。",
+      "note": ""
+    },
+    {
+      "offset": "4e5e",
+      "translated": true,
+      "len": 73,
+      "orig_text": "ずっと思ってた\nあたしたち、あなたの\n優しさに甘えすぎてる\nんじゃないかって",
+      "translated_text": "I've been thinking\nthat we've been taking\nadvantage of your\nkindness.",
+      "translated_text_zh": "我一直觉得\n我们是不是太\n依赖你的善良\n了。",
+      "note": ""
+    },
+    {
+      "offset": "4ece",
+      "translated": true,
+      "len": 62,
+      "orig_text": "戦いにかまけてばかり\nで、子供たちのことは\nあなたに任せっきりで",
+      "translated_text": "We've been so focused\non fighting that we've\nleft the children\nentirely to you.",
+      "translated_text_zh": "我们只顾着\n战斗，把照顾\n孩子的事全\n推给了你。",
+      "note": ""
+    },
+    {
+      "offset": "4f40",
+      "translated": true,
+      "len": 73,
+      "orig_text": "ずっと思ってました\n私たちはリプレさんに\n甘えすぎているんじゃ\nないのかって",
+      "translated_text": "I've been thinking\nthat we've been taking\nadvantage of Reple-san's\nkindness.",
+      "translated_text_zh": "我一直觉得\n我们是不是太\n依赖莉普蕾小姐\n的善良了。",
+      "note": ""
+    },
+    {
+      "offset": "4fb0",
+      "translated": true,
+      "len": 73,
+      "orig_text": "戦いにかまけてばかり\nで、子供たちの世話を\n貴方一人に任せてしま\nって・・・",
+      "translated_text": "We've been so focused\non fighting that we've\nleft the care of the\nchildren entirely to you...",
+      "translated_text_zh": "我们只顾着\n战斗，把照顾\n孩子的事全\n推给了你...",
+      "note": ""
+    },
+    {
+      "offset": "508b",
+      "translated": true,
+      "len": 31,
+      "orig_text": "そんなこと、\n気にしなくていいよ",
+      "translated_text": "Don't worry\nabout that.",
+      "translated_text_zh": "那种事，\n不用在意。",
+      "note": ""
+    },
+    {
+      "offset": "5160",
+      "translated": true,
+      "len": 31,
+      "orig_text": "ほら、そうやって君は\n優しいから",
+      "translated_text": "See, you're just\ntoo kind.",
+      "translated_text_zh": "你看，你就是\n太善良了。",
+      "note": ""
+    },
+    {
+      "offset": "51b3",
+      "translated": true,
+      "len": 31,
+      "orig_text": "ほら、そうやって君は\n優しいから",
+      "translated_text": "See, you're just\ntoo kind.",
+      "translated_text_zh": "你看，你就是\n太善良了。",
+      "note": ""
+    },
+    {
+      "offset": "5206",
+      "translated": true,
+      "len": 73,
+      "orig_text": "ほら、リプレはそうや\nって優しいから、つい\nあたしたちは甘えちゃ\nうんだよ？",
+      "translated_text": "See, Reple is just\nso kind, so we end up\ntaking advantage\nof her, right?",
+      "translated_text_zh": "你看，莉普蕾就是\n太善良了，所以\n我们才会依赖\n她，对吧？",
+      "note": ""
+    },
+    {
+      "offset": "5283",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ほら、そうやって貴方\nは優しいから",
+      "translated_text": "See, you're just\ntoo kind.",
+      "translated_text_zh": "你看，你就是\n太善良了。",
+      "note": ""
+    },
+    {
+      "offset": "5336",
+      "translated": true,
+      "len": 8,
+      "orig_text": "あ・・・",
+      "translated_text": "Ah...",
+      "translated_text_zh": "啊...",
+      "note": ""
+    },
+    {
+      "offset": "53f4",
+      "translated": true,
+      "len": 41,
+      "orig_text": "こんな時ぐらいしか、\n俺は役に立たないけど",
+      "translated_text": "I'm only useful at\ntimes like this,",
+      "translated_text_zh": "我只有在这种时候，\n才能派上用场，",
+      "note": ""
+    },
+    {
+      "offset": "5444",
+      "translated": true,
+      "len": 41,
+      "orig_text": "せめて、これぐらいの\n手助けはさせてくれよ",
+      "translated_text": "but at least let me\nhelp out with this much.",
+      "translated_text_zh": "但至少让我\n帮帮忙吧。",
+      "note": ""
+    },
+    {
+      "offset": "54a1",
+      "translated": true,
+      "len": 41,
+      "orig_text": "こんな時ぐらいしか、\n僕は役に立たないけど",
+      "translated_text": "I'm only useful at\ntimes like this,",
+      "translated_text_zh": "我只有在这种时候，\n才能派上用场，",
+      "note": ""
+    },
+    {
+      "offset": "54f1",
+      "translated": true,
+      "len": 39,
+      "orig_text": "せめて、これぐらいの\n手助けはさせてくれ",
+      "translated_text": "but at least let me\nhelp out with this much.",
+      "translated_text_zh": "但至少让我\n帮帮忙吧。",
+      "note": ""
+    },
+    {
+      "offset": "554c",
+      "translated": true,
+      "len": 41,
+      "orig_text": "でもね、それだけじゃ\nやっぱりダメだと思う",
+      "translated_text": "But I don't think\nthat's enough.",
+      "translated_text_zh": "但是，我觉得\n这样还不够。",
+      "note": ""
+    },
+    {
+      "offset": "559c",
+      "translated": true,
+      "len": 52,
+      "orig_text": "あたしたちも、もっと\n子供たちのことを考え\nなくちゃね",
+      "translated_text": "We need to think more\nabout the children too.",
+      "translated_text_zh": "我们也要\n多想想孩子们的事。",
+      "note": ""
+    },
+    {
+      "offset": "5604",
+      "translated": true,
+      "len": 56,
+      "orig_text": "だけど、私たちはそれ\nに甘えているだけでは\nダメなんですよ",
+      "translated_text": "But we can't just keep\nrelying on you.",
+      "translated_text_zh": "但是，我们不能\n一直依赖你。",
+      "note": ""
+    },
+    {
+      "offset": "5663",
+      "translated": true,
+      "len": 58,
+      "orig_text": "もっと子供たちのこと\nも考えるようにしない\nといけないんです",
+      "translated_text": "We need to start thinking\nmore about the children\ntoo.",
+      "translated_text_zh": "我们也要开始\n多想想孩子们\n的事。",
+      "note": ""
+    },
+    {
+      "offset": "5729",
+      "translated": true,
+      "len": 10,
+      "orig_text": "うん・・・",
+      "translated_text": "Yeah...",
+      "translated_text_zh": "嗯...",
+      "note": ""
+    },
+    {
+      "offset": "58fd",
+      "translated": true,
+      "len": 12,
+      "orig_text": "きゅーっ！！",
+      "translated_text": "Squee!!",
+      "translated_text_zh": "啾！！",
+      "note": ""
+    },
+    {
+      "offset": "59ca",
+      "translated": true,
+      "len": 31,
+      "orig_text": "今の・・・\nガウムの声じゃない？",
+      "translated_text": "Was that...\nGaume's voice?",
+      "translated_text_zh": "刚才的...\n是加乌姆的\n声音吧？",
+      "note": ""
+    },
+    {
+      "offset": "5a9c",
+      "translated": true,
+      "len": 31,
+      "orig_text": "あっち行けよっ！\n行けったら！！",
+      "translated_text": "Go away!\nI said go!!",
+      "translated_text_zh": "滚开！\n叫你滚！！",
+      "note": ""
+    },
+    {
+      "offset": "5b1a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "きゃああ〜っ！",
+      "translated_text": "Kyaaaah!",
+      "translated_text_zh": "呀啊啊！",
+      "note": ""
+    },
+    {
+      "offset": "5c16",
+      "translated": true,
+      "len": 16,
+      "orig_text": "屋敷の庭からだ！",
+      "translated_text": "It's from the\nmansion's garden!",
+      "translated_text_zh": "是从宅邸的\n庭院传来的！",
+      "note": ""
+    },
+    {
+      "offset": "5c5a",
+      "translated": true,
+      "len": 16,
+      "orig_text": "屋敷の庭からだ！",
+      "translated_text": "It's from the\nmansion's garden!",
+      "translated_text_zh": "是从宅邸的\n庭院传来的！",
+      "note": ""
+    },
+    {
+      "offset": "5c9e",
+      "translated": true,
+      "len": 16,
+      "orig_text": "屋敷の庭からだ！",
+      "translated_text": "It's from the\nmansion's garden!",
+      "translated_text_zh": "是从宅邸的\n庭院传来的！",
+      "note": ""
+    },
+    {
+      "offset": "5ce2",
+      "translated": true,
+      "len": 18,
+      "orig_text": "屋敷の庭からです！",
+      "translated_text": "It's from the\nmansion's garden!",
+      "translated_text_zh": "是从宅邸的\n庭院传来的！",
+      "note": ""
+    },
+    {
+      "offset": "5eb6",
+      "translated": true,
+      "len": 54,
+      "orig_text": "このクソガキども\n勝手に人様の屋敷に\n入ったうえに・・・",
+      "translated_text": "You little brats!\nYou trespassed into\nsomeone's mansion\nand...",
+      "translated_text_zh": "你们这些小鬼！\n居然擅自闯入\n别人的宅邸，\n还...",
+      "note": ""
+    },
+    {
+      "offset": "5f13",
+      "translated": true,
+      "len": 33,
+      "orig_text": "この美しい花園を荒ら\nしやがって！",
+      "translated_text": "You ruined this\nbeautiful flower garden!",
+      "translated_text_zh": "还糟蹋了\n这美丽的花园！",
+      "note": ""
+    },
+    {
+      "offset": "5fd9",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ひっ・・・",
+      "translated_text": "Gulp...",
+      "translated_text_zh": "呃...",
+      "note": ""
+    },
+    {
+      "offset": "6088",
+      "translated": true,
+      "len": 71,
+      "orig_text": "な、なんだよ・・・\nこんなにあるんだから\n分けてくれたっていい\nじゃんか！",
+      "translated_text": "W-What...\nYou have so many,\nyou could have just\ngiven us some!",
+      "translated_text_zh": "什、什么...\n你种了这么多，\n分我们一点\n又不会怎样！",
+      "note": ""
+    },
+    {
+      "offset": "6174",
+      "translated": true,
+      "len": 63,
+      "orig_text": "そーよっ！\n金持ちのくせに、ケチ\nくさいこと言わないで\nよねっ！！",
+      "translated_text": "That's right!\nDon't be so stingy,\nrich guy!!",
+      "translated_text_zh": "没错！\n有钱人就别\n那么小气了！！",
+      "note": ""
+    },
+    {
+      "offset": "6212",
+      "translated": true,
+      "len": 31,
+      "orig_text": "反省もせずに、\n居直りやがるかよ",
+      "translated_text": "You're not even\nreflecting, you're just\ntalking back.",
+      "translated_text_zh": "不知悔改，\n还敢顶嘴。",
+      "note": ""
+    },
+    {
+      "offset": "6258",
+      "translated": true,
+      "len": 60,
+      "orig_text": "そういう態度のガキは\nちっとばかしコワイ目\nにあってもらうぜ！",
+      "translated_text": "Kids with that\nattitude need to be\ntaught a lesson!",
+      "translated_text_zh": "态度这么差的\n小鬼，得好好\n教训一下！",
+      "note": ""
+    },
+    {
+      "offset": "6355",
+      "translated": true,
+      "len": 14,
+      "orig_text": "待ちなさいっ！",
+      "translated_text": "Wait!",
+      "translated_text_zh": "等等！",
+      "note": ""
+    },
+    {
+      "offset": "6408",
+      "translated": true,
+      "len": 16,
+      "orig_text": "リプレママ・・・",
+      "translated_text": "Reple-mama...",
+      "translated_text_zh": "莉普蕾妈妈...",
+      "note": ""
+    },
+    {
+      "offset": "6477",
+      "translated": true,
+      "len": 56,
+      "orig_text": "うちの子供たちに手を\nだしたら、私が承知し\nないからっ！！",
+      "translated_text": "If you lay a hand\non my children,\nI won't forgive you!!",
+      "translated_text_zh": "你要是敢动\n我的孩子们，\n我绝不饶你！！",
+      "note": ""
+    },
+    {
+      "offset": "6554",
+      "translated": true,
+      "len": 47,
+      "orig_text": "あァん？\nそうか、お前が\n保護者って\nわけか・・・",
+      "translated_text": "Oh?\nSo you're their\nguardian,\nhuh?",
+      "translated_text_zh": "哦？\n原来你\n是监护人啊...",
+      "note": ""
+    },
+    {
+      "offset": "65aa",
+      "translated": true,
+      "len": 62,
+      "orig_text": "言っとくが、悪いのは\nひとんちの花を盗もう\nとしたこいつらだぜ？",
+      "translated_text": "I'm telling you, it's\nthese guys who are to\nblame for trying to\nsteal my flowers.",
+      "translated_text_zh": "我告诉你，\n错的是这些\n想偷别人家\n花的家伙。",
+      "note": ""
+    },
+    {
+      "offset": "6671",
+      "translated": true,
+      "len": 8,
+      "orig_text": "えっ！？",
+      "translated_text": "Huh!?",
+      "translated_text_zh": "咦！？",
+      "note": ""
+    },
+    {
+      "offset": "6783",
+      "translated": true,
+      "len": 12,
+      "orig_text": "本当なのか？",
+      "translated_text": "Is it true?",
+      "translated_text_zh": "真的吗？",
+      "note": ""
+    },
+    {
+      "offset": "67c3",
+      "translated": true,
+      "len": 12,
+      "orig_text": "本当なのか？",
+      "translated_text": "Is it true?",
+      "translated_text_zh": "真的吗？",
+      "note": ""
+    },
+    {
+      "offset": "6803",
+      "translated": true,
+      "len": 18,
+      "orig_text": "それ、ホントなの？",
+      "translated_text": "Is that true?",
+      "translated_text_zh": "那是真的吗？",
+      "note": ""
+    },
+    {
+      "offset": "6849",
+      "translated": true,
+      "len": 12,
+      "orig_text": "本当ですか？",
+      "translated_text": "Is it true?",
+      "translated_text_zh": "真的吗？",
+      "note": ""
+    },
+    {
+      "offset": "68bd",
+      "translated": true,
+      "len": 14,
+      "orig_text": "う、うん・・・",
+      "translated_text": "Y-Yeah...",
+      "translated_text_zh": "嗯、嗯...",
+      "note": ""
+    },
+    {
+      "offset": "69a8",
+      "translated": true,
+      "len": 29,
+      "orig_text": "どうしてそんなこと\nしたの！？",
+      "translated_text": "Why did you\ndo that!?",
+      "translated_text_zh": "你们为什么要\n那样做！？",
+      "note": ""
+    },
+    {
+      "offset": "6a24",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "6b02",
+      "translated": true,
+      "len": 39,
+      "orig_text": "落ち着けよ、リプレ\n叱るのは後でいいから",
+      "translated_text": "Calm down, Reple.\nWe can scold them\nlater.",
+      "translated_text_zh": "冷静点，莉普蕾。\n训斥他们的事\n以后再说。",
+      "note": ""
+    },
+    {
+      "offset": "6bea",
+      "translated": true,
+      "len": 71,
+      "orig_text": "子供たちには俺たちが\nよく言って聞かせるか\nら、今回は許してくれ\nないか？",
+      "translated_text": "We'll talk to the kids\nand make sure it doesn't\nhappen again, so could you\nforgive them this time?",
+      "translated_text_zh": "我们会好好跟\n孩子们说，让他们\n下次别再犯了，\n这次就原谅他们吧？",
+      "note": ""
+    },
+    {
+      "offset": "6c65",
+      "translated": true,
+      "len": 37,
+      "orig_text": "落ち着くんだ、リプレ\n叱るのは後でいい",
+      "translated_text": "Calm down, Reple.\nWe can scold them\nlater.",
+      "translated_text_zh": "冷静点，莉普蕾。\n训斥他们的事\n以后再说。",
+      "note": ""
+    },
+    {
+      "offset": "6d4b",
+      "translated": true,
+      "len": 73,
+      "orig_text": "子供たちには僕たちが\nよく言って聞かせるか\nら、今回は許してもら\nえないか？",
+      "translated_text": "We'll talk to the kids\nand make sure it doesn't\nhappen again, so could you\nforgive them this time?",
+      "translated_text_zh": "我们会好好跟\n孩子们说，让他们\n下次别再犯了，\n这次就原谅他们吧？",
+      "note": ""
+    },
+    {
+      "offset": "6dc8",
+      "translated": true,
+      "len": 41,
+      "orig_text": "落ち着いてよ、リプレ\n叱るのは後でいいから",
+      "translated_text": "Calm down, Reple.\nWe can scold them\nlater.",
+      "translated_text_zh": "冷静点，莉普蕾。\n训斥他们的事\n以后再说。",
+      "note": ""
+    },
+    {
+      "offset": "6eb2",
+      "translated": true,
+      "len": 69,
+      "orig_text": "子供たちにはあたしが\nよく言って聞かせるか\nらさ、許してくれない\nかな？",
+      "translated_text": "I'll talk to the kids\nand make sure it doesn't\nhappen again, so could\nyou forgive them this time?",
+      "translated_text_zh": "我会好好跟\n孩子们说，让他们\n下次别再犯了，\n这次就原谅他们吧？",
+      "note": ""
+    },
+    {
+      "offset": "6f2b",
+      "translated": true,
+      "len": 29,
+      "orig_text": "落ち着いてください\nリプレさん",
+      "translated_text": "Please calm down,\nReple-san.",
+      "translated_text_zh": "请冷静一下，\n莉普蕾小姐。",
+      "note": ""
+    },
+    {
+      "offset": "7009",
+      "translated": true,
+      "len": 73,
+      "orig_text": "子供たちには私たちが\nよく言って聞かせます\nから、許してはもらえ\nませんか？",
+      "translated_text": "We'll talk to the kids\nand make sure it doesn't\nhappen again, so could you\nforgive them this time?",
+      "translated_text_zh": "我们会好好跟\n孩子们说，让他们\n下次别再犯了，\n这次就原谅他们吧？",
+      "note": ""
+    },
+    {
+      "offset": "70ba",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いいや、許すわけには\nいかねえ・・・",
+      "translated_text": "No, I can't\nforgive them...",
+      "translated_text_zh": "不，我不能\n原谅他们...",
+      "note": ""
+    },
+    {
+      "offset": "7104",
+      "translated": true,
+      "len": 60,
+      "orig_text": "この花園の花は、俺が\n愛情をたっぷりこめて\n育てたものなんだ！",
+      "translated_text": "I raised the flowers\nin this garden with\nall my love!",
+      "translated_text_zh": "这花园里的花，\n都是我倾注\n了全部的爱\n培育出来的！",
+      "note": ""
+    },
+    {
+      "offset": "71e5",
+      "translated": true,
+      "len": 4,
+      "orig_text": "え？",
+      "translated_text": "Huh?",
+      "translated_text_zh": "咦？",
+      "note": ""
+    },
+    {
+      "offset": "72bb",
+      "translated": true,
+      "len": 37,
+      "orig_text": "キムランが・・・\n愛情をこめて・・・？",
+      "translated_text": "Kimlan...\nWith love...?",
+      "translated_text_zh": "基姆兰...\n倾注了爱...？",
+      "note": ""
+    },
+    {
+      "offset": "7314",
+      "translated": true,
+      "len": 37,
+      "orig_text": "キムランが・・・\n愛情をこめて・・・？",
+      "translated_text": "Kimlan...\nWith love...?",
+      "translated_text_zh": "基姆兰...\n倾注了爱...？",
+      "note": ""
+    },
+    {
+      "offset": "736d",
+      "translated": true,
+      "len": 37,
+      "orig_text": "キムランが・・・\n愛情をこめて・・・？",
+      "translated_text": "Kimlan...\nWith love...?",
+      "translated_text_zh": "基姆兰...\n倾注了爱...？",
+      "note": ""
+    },
+    {
+      "offset": "73c6",
+      "translated": true,
+      "len": 41,
+      "orig_text": "キムランさんが・・・\n愛情をこめて・・・？",
+      "translated_text": "Kimlan-san...\nWith love...?",
+      "translated_text_zh": "基姆兰先生...\n倾注了爱...？",
+      "note": ""
+    },
+    {
+      "offset": "7481",
+      "translated": true,
+      "len": 8,
+      "orig_text": "あッ！？",
+      "translated_text": "Ah!?",
+      "translated_text_zh": "啊！？",
+      "note": ""
+    },
+    {
+      "offset": "753f",
+      "translated": true,
+      "len": 25,
+      "orig_text": "ぷっ・・・\nくくくっ・・・",
+      "translated_text": "Pfft...\nKukuku...",
+      "translated_text_zh": "噗...\n库库库...",
+      "note": ""
+    },
+    {
+      "offset": "758c",
+      "translated": true,
+      "len": 25,
+      "orig_text": "ぷっ・・・\nくくくっ・・・",
+      "translated_text": "Pfft...\nKukuku...",
+      "translated_text_zh": "噗...\n库库库...",
+      "note": ""
+    },
+    {
+      "offset": "75d9",
+      "translated": true,
+      "len": 25,
+      "orig_text": "ぷっ・・・\nくくくっ・・・",
+      "translated_text": "Pfft...\nKukuku...",
+      "translated_text_zh": "噗...\n库库库...",
+      "note": ""
+    },
+    {
+      "offset": "7626",
+      "translated": true,
+      "len": 25,
+      "orig_text": "ぶっ・・・\nくくくっ・・・",
+      "translated_text": "Bwa...\nKukuku...",
+      "translated_text_zh": "噗...\n库库库...",
+      "note": ""
+    },
+    {
+      "offset": "76d1",
+      "translated": true,
+      "len": 20,
+      "orig_text": "わ、笑いやがったなッ",
+      "translated_text": "H-He's laughing!",
+      "translated_text_zh": "他、他居然笑了！",
+      "note": ""
+    },
+    {
+      "offset": "778a",
+      "translated": true,
+      "len": 35,
+      "orig_text": "だ、だって・・・\nあははははははっ！",
+      "translated_text": "B-But...\nAhahahaha!",
+      "translated_text_zh": "因、因为...\n啊哈哈哈哈！",
+      "note": ""
+    },
+    {
+      "offset": "7852",
+      "translated": true,
+      "len": 18,
+      "orig_text": "に、似合わなーい！",
+      "translated_text": "It d-doesn't suit you!",
+      "translated_text_zh": "一、一点也不适合你！",
+      "note": ""
+    },
+    {
+      "offset": "796b",
+      "translated": true,
+      "len": 10,
+      "orig_text": "きゅーっ！",
+      "translated_text": "Squee!",
+      "translated_text_zh": "啾！",
+      "note": ""
+    },
+    {
+      "offset": "79d4",
+      "translated": true,
+      "len": 54,
+      "orig_text": "許さねえ・・・\nこの俺のささやかな\n趣味を笑いやがって！",
+      "translated_text": "I won't forgive you...\nYou dared to laugh\nat my humble hobby!",
+      "translated_text_zh": "我不会原谅你...\n你居然敢嘲笑\n我小小的爱好！",
+      "note": ""
+    },
+    {
+      "offset": "7a31",
+      "translated": true,
+      "len": 41,
+      "orig_text": "お前ら、絶対に生きて\nここから帰さねぇ！！",
+      "translated_text": "You brats will never\nleave here alive!!",
+      "translated_text_zh": "你们这些小鬼，\n休想活着\n离开这里！！",
+      "note": ""
+    },
+    {
+      "offset": "7d3a",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ああっ・・・\n俺の秘密の花園がぁ！",
+      "translated_text": "Aah...\nMy secret flower garden!",
+      "translated_text_zh": "啊...\n我的秘密花园！",
+      "note": ""
+    },
+    {
+      "offset": "7de7",
+      "translated": true,
+      "len": 35,
+      "orig_text": "そりゃ、あれだけ派手\nに暴れたらなあ",
+      "translated_text": "Well, you did\ncause quite a ruckus.",
+      "translated_text_zh": "那也是没办法，\n谁叫你闹得\n那么厉害。",
+      "note": ""
+    },
+    {
+      "offset": "7e3e",
+      "translated": true,
+      "len": 41,
+      "orig_text": "あれだけ派手に暴れた\nら当然だろうに・・・",
+      "translated_text": "It's only natural\nafter causing such\na ruckus...",
+      "translated_text_zh": "你闹得那么厉害，\n会变成这样也\n是理所当然...",
+      "note": ""
+    },
+    {
+      "offset": "7e9b",
+      "translated": true,
+      "len": 37,
+      "orig_text": "あれだけ派手に暴れた\nら当然だよ・・・",
+      "translated_text": "It's only natural\nafter causing such\na ruckus...",
+      "translated_text_zh": "你闹得那么厉害，\n会变成这样也\n是理所当然...",
+      "note": ""
+    },
+    {
+      "offset": "7ef4",
+      "translated": true,
+      "len": 37,
+      "orig_text": "あれだけ派手に暴れた\nんですから・・・",
+      "translated_text": "It's only natural\nafter causing such\na ruckus...",
+      "translated_text_zh": "你闹得那么厉害，\n会变成这样也\n是理所当然...",
+      "note": ""
+    },
+    {
+      "offset": "7f81",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ああぁぁ〜っ！？",
+      "translated_text": "Aaaaaah!?",
+      "translated_text_zh": "啊啊啊！？",
+      "note": ""
+    },
+    {
+      "offset": "801d",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ちょっと気の毒だけど\n逃げるなら、今のうち\nだな・・・",
+      "translated_text": "I feel a little bad,\nbut if you're gonna run,\nnow's the time...",
+      "translated_text_zh": "虽然有点于心不忍，\n但如果要逃跑，\n就趁现在...",
+      "note": ""
+    },
+    {
+      "offset": "8085",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ちょっと気の毒だけど\n逃げるなら、今のうち\nかもしれない",
+      "translated_text": "I feel a little bad,\nbut if you're gonna run,\nnow might be the time.",
+      "translated_text_zh": "虽然有点于心不忍，\n但如果要逃跑，\n就趁现在吧。",
+      "note": ""
+    },
+    {
+      "offset": "80ef",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ちょっと気の毒だけど\n逃げるなら、今のうち\nかな",
+      "translated_text": "I feel a little bad,\nbut if you're gonna run,\nnow's the time.",
+      "translated_text_zh": "虽然有点于心不忍，\n但如果要逃跑，\n就趁现在吧。",
+      "note": ""
+    },
+    {
+      "offset": "8151",
+      "translated": true,
+      "len": 58,
+      "orig_text": "ちょっと気の毒ですが\n逃げるなら、今のうち\nかもしれませんね",
+      "translated_text": "I feel a little bad,\nbut if you're gonna run,\nnow might be the time.",
+      "translated_text_zh": "虽然有点于心不忍，\n但如果要逃跑，\n就趁现在吧。",
+      "note": ""
+    },
+    {
+      "offset": "83ae",
+      "translated": true,
+      "len": 38,
+      "orig_text": "で・・・\nどうしてあんなことを\nしたの？",
+      "translated_text": "So...\nWhy did you\ndo that?",
+      "translated_text_zh": "那...\n你们为什么要\n那样做？",
+      "note": ""
+    },
+    {
+      "offset": "8433",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "849e",
+      "translated": true,
+      "len": 31,
+      "orig_text": "黙ってちゃわからない\nでしょ！？",
+      "translated_text": "I can't understand\nif you don't tell me!?",
+      "translated_text_zh": "你不说我怎么\n知道！？",
+      "note": ""
+    },
+    {
+      "offset": "8562",
+      "translated": true,
+      "len": 29,
+      "orig_text": "どうしても\n花が欲しかったんだ",
+      "translated_text": "I really\nwanted flowers.",
+      "translated_text_zh": "我真的很\n想要花。",
+      "note": ""
+    },
+    {
+      "offset": "8689",
+      "translated": true,
+      "len": 41,
+      "orig_text": "花だったら、川原にも\n咲いてるじゃないか？",
+      "translated_text": "There are flowers\nblooming by the\nriverbank, aren't there?",
+      "translated_text_zh": "河滩上也\n有花啊？",
+      "note": ""
+    },
+    {
+      "offset": "86e6",
+      "translated": true,
+      "len": 37,
+      "orig_text": "花だったら、川原にも\n咲いてるだろう？",
+      "translated_text": "There are flowers\nblooming by the\nriverbank, right?",
+      "translated_text_zh": "河滩上也\n有花吧？",
+      "note": ""
+    },
+    {
+      "offset": "873f",
+      "translated": true,
+      "len": 37,
+      "orig_text": "花だったら、川原にも\n咲いてるでしょ？",
+      "translated_text": "There are flowers\nblooming by the\nriverbank, right?",
+      "translated_text_zh": "河滩上也\n有花吧？",
+      "note": ""
+    },
+    {
+      "offset": "8798",
+      "translated": true,
+      "len": 37,
+      "orig_text": "花だったら、川原にも\n咲いてるでしょ？",
+      "translated_text": "There are flowers\nblooming by the\nriverbank, right?",
+      "translated_text_zh": "河滩上也\n有花吧？",
+      "note": ""
+    },
+    {
+      "offset": "8825",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ダメなの・・・",
+      "translated_text": "That's no good...",
+      "translated_text_zh": "不行...",
+      "note": ""
+    },
+    {
+      "offset": "8910",
+      "translated": true,
+      "len": 71,
+      "orig_text": "あそこにしか咲いてな\nかったんだもん\nあたしたちが欲しかっ\nたカネルの花は",
+      "translated_text": "The Canel flowers\nwe wanted only bloom\nthere.",
+      "translated_text_zh": "我们想要的\n卡内尔花只\n在那里开。",
+      "note": ""
+    },
+    {
+      "offset": "89b6",
+      "translated": true,
+      "len": 35,
+      "orig_text": "そんな理由で、あんな\n無茶して・・・",
+      "translated_text": "For such a reason,\nyou did something\nso reckless...",
+      "translated_text_zh": "就因为这个理由，\n你们就那么\n乱来...",
+      "note": ""
+    },
+    {
+      "offset": "8a03",
+      "translated": true,
+      "len": 46,
+      "orig_text": "や私たち\nがどれだけ心配したか\nわかってるの！？",
+      "translated_text": "Do you know how worried\nand I were!?",
+      "translated_text_zh": "你知道我和\n有多担心吗！？",
+      "note": ""
+    },
+    {
+      "offset": "8ad6",
+      "translated": true,
+      "len": 29,
+      "orig_text": "おい、リプレ\nもう許してやれよ",
+      "translated_text": "Hey, Reple.\nJust forgive them.",
+      "translated_text_zh": "喂，莉普蕾。\n就原谅他们吧。",
+      "note": ""
+    },
+    {
+      "offset": "8b1a",
+      "translated": true,
+      "len": 54,
+      "orig_text": "チビたちがカネルの花\nにこだわったのは、\n俺のせいなんだ",
+      "translated_text": "It's my fault the kids\nwere so fixated on\nCanel flowers.",
+      "translated_text_zh": "孩子们会执着于\n卡内尔花，是\n我的错。",
+      "note": ""
+    },
+    {
+      "offset": "8c22",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ガゼルのせいって\nどういうことなんだ？",
+      "translated_text": "What do you mean,\nit's Gazel's fault?",
+      "translated_text_zh": "你说是加泽尔的错，\n是什么意思？",
+      "note": ""
+    },
+    {
+      "offset": "8c7b",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ガゼルのせいって\nどういうことなんだ？",
+      "translated_text": "What do you mean,\nit's Gazel's fault?",
+      "translated_text_zh": "你说是加泽尔的错，\n是什么意思？",
+      "note": ""
+    },
+    {
+      "offset": "8cd4",
+      "translated": true,
+      "len": 31,
+      "orig_text": "ガゼルのせいって\nどういうこと？",
+      "translated_text": "What do you mean,\nit's Gazel's fault?",
+      "translated_text_zh": "你说是加泽尔的错，\n是什么意思？",
+      "note": ""
+    },
+    {
+      "offset": "8d27",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ガゼルさんのせいって\nどういうことです？",
+      "translated_text": "What do you mean,\nit's Gazel-san's fault?",
+      "translated_text_zh": "你说是加泽尔先生\n的错，是什么意思？",
+      "note": ""
+    },
+    {
+      "offset": "8db6",
+      "translated": true,
+      "len": 48,
+      "orig_text": "なあ、リプレ\n今日がどういう日だか\n忘れてるだろ？",
+      "translated_text": "Hey, Reple.\nHave you forgotten\nwhat day it is?",
+      "translated_text_zh": "喂，莉普蕾。\n你忘了今天\n是什么日子了吧？",
+      "note": ""
+    },
+    {
+      "offset": "8e8b",
+      "translated": true,
+      "len": 6,
+      "orig_text": "えっ？",
+      "translated_text": "Huh?",
+      "translated_text_zh": "咦？",
+      "note": ""
+    },
+    {
+      "offset": "8ef0",
+      "translated": true,
+      "len": 52,
+      "orig_text": "今日はな、お前がここ\nの玄関に捨てられてた\n日なんだぜ",
+      "translated_text": "Today's the day you\nwere abandoned on the\ndoorstep of this place.",
+      "translated_text_zh": "今天，是你被\n遗弃在这家门\n口的日子。",
+      "note": ""
+    },
+    {
+      "offset": "8f83",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "...!!",
+      "translated_text_zh": "...！！",
+      "note": ""
+    },
+    {
+      "offset": "9032",
+      "translated": true,
+      "len": 29,
+      "orig_text": "ガゼルに教えてもらっ\nたんだよ",
+      "translated_text": "Gazel told me.",
+      "translated_text_zh": "是加泽尔告诉我的。",
+      "note": ""
+    },
+    {
+      "offset": "90f4",
+      "translated": true,
+      "len": 39,
+      "orig_text": "きょうが、リプレママ\nのおたんじょうびで",
+      "translated_text": "Today is Reple-mama's\nbirthday,",
+      "translated_text_zh": "今天，是莉普蕾\n妈妈的生日，",
+      "note": ""
+    },
+    {
+      "offset": "91c0",
+      "translated": true,
+      "len": 37,
+      "orig_text": "カネルの花が、ママの\n誕生日の花だって",
+      "translated_text": "and Canel flowers\nare her birthday flowers.",
+      "translated_text_zh": "卡内尔花，是\n妈妈的生日花。",
+      "note": ""
+    },
+    {
+      "offset": "92b7",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったのか",
+      "translated_text": "Is that so?",
+      "translated_text_zh": "原来如此。",
+      "note": ""
+    },
+    {
+      "offset": "92f9",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったのか",
+      "translated_text": "Is that so?",
+      "translated_text_zh": "原来如此。",
+      "note": ""
+    },
+    {
+      "offset": "933b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったんだ",
+      "translated_text": "Is that so?",
+      "translated_text_zh": "原来如此。",
+      "note": ""
+    },
+    {
+      "offset": "937d",
+      "translated": true,
+      "len": 18,
+      "orig_text": "そうだったんですか",
+      "translated_text": "Is that so?",
+      "translated_text_zh": "原来如此。",
+      "note": ""
+    },
+    {
+      "offset": "9475",
+      "translated": true,
+      "len": 60,
+      "orig_text": "まあ、そういうこった\nだから叱るなら、まず\nは俺から叱ってくれ",
+      "translated_text": "Well, that's how\nit is. So if you're\ngonna scold them,\nscold me first.",
+      "translated_text_zh": "就是这样。\n所以如果你要\n训斥他们，就\n先训斥我吧。",
+      "note": ""
+    },
+    {
+      "offset": "953a",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "956d",
+      "translated": true,
+      "len": 16,
+      "orig_text": "叱れないよ・・・",
+      "translated_text": "I can't scold\nyou...",
+      "translated_text_zh": "我 scold 不了...",
+      "note": ""
+    },
+    {
+      "offset": "95ce",
+      "translated": true,
+      "len": 37,
+      "orig_text": "叱れるわけ・・・\nないじゃない・・・？",
+      "translated_text": "There's no way\nI could scold you...?",
+      "translated_text_zh": "我怎么\n可能 scold 你...？",
+      "note": ""
+    },
+    {
+      "offset": "9698",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ごめんなさい",
+      "translated_text": "I'm sorry.",
+      "translated_text_zh": "对不起。",
+      "note": ""
+    },
+    {
+      "offset": "9749",
+      "translated": true,
+      "len": 46,
+      "orig_text": "もうあんなこと、\n絶対にしないって\n約束するから",
+      "translated_text": "I promise I'll\nnever do that\nagain.",
+      "translated_text_zh": "我保证\n再也不那样\n做了。",
+      "note": ""
+    },
+    {
+      "offset": "981c",
+      "translated": true,
+      "len": 29,
+      "orig_text": "だから、なかないで\nリプレママ",
+      "translated_text": "So don't cry,\nReple-mama.",
+      "translated_text_zh": "所以别哭了，\n莉普蕾妈妈。",
+      "note": ""
+    },
+    {
+      "offset": "98c2",
+      "translated": true,
+      "len": 10,
+      "orig_text": "うん・・・",
+      "translated_text": "Yeah...",
+      "translated_text_zh": "嗯...",
+      "note": ""
+    },
+    {
+      "offset": "98f3",
+      "translated": true,
+      "len": 31,
+      "orig_text": "ありがとうね・・・\nみんな・・・",
+      "translated_text": "Thank you...\neveryone...",
+      "translated_text_zh": "谢谢你们...\n大家...",
+      "note": ""
+    }
+  ]
+}

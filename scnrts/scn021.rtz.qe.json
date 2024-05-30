@@ -1,0 +1,725 @@
+{
+  "md5": "df718f1e9df0a9d581d13bcec0d9439a",
+  "blocks": [
+    {
+      "offset": "2a50",
+      "translated": true,
+      "len": 20,
+      "orig_text": "おオおオぉォぉッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2ac3",
+      "translated": true,
+      "len": 33,
+      "orig_text": "もうやめてください\nバノッサさん！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2db9",
+      "translated": true,
+      "len": 12,
+      "orig_text": "うああっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2e4e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "儀式の邪魔は許さんぞ\nカノン・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2e96",
+      "translated": true,
+      "len": 56,
+      "orig_text": "それにもう、バノッサ\nの意識はとっくに魔王\nに食われている",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2ef5",
+      "translated": true,
+      "len": 39,
+      "orig_text": "お前が何を言ったとこ\nろで手遅れなのだ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2fa5",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そんな・・・\nそれじゃあなたは、\nバノッサさんをだまし\nていたんですか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3075",
+      "translated": true,
+      "len": 58,
+      "orig_text": "だましてなどおらん\n約束どおり、この男は\n次の世界の王となる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "30d6",
+      "translated": true,
+      "len": 40,
+      "orig_text": "ワシに操られる\nかいらいの王として\nだがな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "314f",
+      "translated": true,
+      "len": 20,
+      "orig_text": "フハハハハハハハ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3208",
+      "translated": true,
+      "len": 18,
+      "orig_text": "そいつは無理だな！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3279",
+      "translated": true,
+      "len": 8,
+      "orig_text": "むっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "32e0",
+      "translated": true,
+      "len": 48,
+      "orig_text": "その力はもともと俺の\nもんなんだ\n返してもらうぜ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "33ea",
+      "translated": true,
+      "len": 6,
+      "orig_text": "さん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3495",
+      "translated": true,
+      "len": 52,
+      "orig_text": "この邪気・・・\n貴様、出来損ないでは\nなかったのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "359b",
+      "translated": true,
+      "len": 46,
+      "orig_text": "父上・・・\nこの人が、貴方の求め\nていた魔王です",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "35f0",
+      "translated": true,
+      "len": 41,
+      "orig_text": "貴方が今、呼ぼうとし\nているのは彼の抜け殻",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3640",
+      "translated": true,
+      "len": 31,
+      "orig_text": "意志をもたない\nただの力の塊です",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3711",
+      "translated": true,
+      "len": 48,
+      "orig_text": "父上・・・\nこの人が、貴方の求め\nていた魔王ですよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3768",
+      "translated": true,
+      "len": 41,
+      "orig_text": "貴方が今、呼ぼうとし\nているのは彼の抜け殻",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "37b8",
+      "translated": true,
+      "len": 31,
+      "orig_text": "意志をもたない\nただの力の塊です",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3889",
+      "translated": true,
+      "len": 44,
+      "orig_text": "父さま・・・\nこの人が、貴方の求め\nていた魔王",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "38dc",
+      "translated": true,
+      "len": 56,
+      "orig_text": "貴方が今、呼ぼうと\nしているのは・・・\nただの抜け殻・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "393b",
+      "translated": true,
+      "len": 35,
+      "orig_text": "意志をもたない\nただの力の塊です・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3a10",
+      "translated": true,
+      "len": 46,
+      "orig_text": "父上・・・\nこの人が、貴方の求め\nていた魔王です",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3a65",
+      "translated": true,
+      "len": 41,
+      "orig_text": "貴方が今、呼ぼうとし\nているのは彼の抜け殻",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3ab5",
+      "translated": true,
+      "len": 31,
+      "orig_text": "意志をもたない\nただの力の塊です",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3b3c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "戯言を言うな！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3bef",
+      "translated": true,
+      "len": 39,
+      "orig_text": "そう思いたければ勝手\nにそう思うがいいさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3c3d",
+      "translated": true,
+      "len": 62,
+      "orig_text": "だがな、言っておくが\n俺じゃなければ、その\n力は制御できねえんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3ca2",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ほれ、見ろよ\nそいつの身体はもう、\n限界に来てるぜ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3d95",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ぐァあァぁッ！？\nがっ、がアぁァッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3e19",
+      "translated": true,
+      "len": 33,
+      "orig_text": "バノッサの身体が\n歪んでいく・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3edf",
+      "translated": true,
+      "len": 16,
+      "orig_text": "バノッサさん！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3fb0",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ハハハハ・・・\n身の程知らずとはこの\nことだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "403b",
+      "translated": true,
+      "len": 54,
+      "orig_text": "馬鹿な・・・\nそれでは、儀式はまた\n失敗だと言うのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "40d0",
+      "translated": true,
+      "len": 37,
+      "orig_text": "何度やったところで、\n同じことなんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4146",
+      "translated": true,
+      "len": 41,
+      "orig_text": "人間ごときに俺の力が\n支配できるものか！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "41ce",
+      "translated": true,
+      "len": 29,
+      "orig_text": "そんな・・・\nそんなあぁ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "42ac",
+      "translated": true,
+      "len": 20,
+      "orig_text": "グアアアァァァッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4456",
+      "translated": true,
+      "len": 16,
+      "orig_text": "な、なんだっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4518",
+      "translated": true,
+      "len": 12,
+      "orig_text": "うわあぁっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "45d6",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ウソ・・・っ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4696",
+      "translated": true,
+      "len": 18,
+      "orig_text": "いったいこれは！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4756",
+      "translated": true,
+      "len": 50,
+      "orig_text": "へへへ・・・\nどうやら本格的に力の\n暴走が始まったな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4849",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ウオォォォォッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "491c",
+      "translated": true,
+      "len": 39,
+      "orig_text": "さあ、返してもらうぜ\n俺の本当の力を！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4b97",
+      "translated": true,
+      "len": 31,
+      "orig_text": "チッ、手こずらせ\nやがって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4c77",
+      "translated": true,
+      "len": 18,
+      "orig_text": "オオオォォ・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4e46",
+      "translated": true,
+      "len": 60,
+      "orig_text": "お前の持ち主は俺だ！\nさあ、あるべき居場所\nへ戻りやがれッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "503f",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ギャャァァァッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "51fa",
+      "translated": true,
+      "len": 56,
+      "orig_text": "アハハハハハ！\n力さえ戻れば、こんな\n世界に用はねえぜ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5259",
+      "translated": true,
+      "len": 18,
+      "orig_text": "あばよ、人間ども！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5310",
+      "translated": true,
+      "len": 20,
+      "orig_text": "約束が違うぞ、魔王！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "53cc",
+      "translated": true,
+      "len": 23,
+      "orig_text": "の\n身体を返しやがれ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5442",
+      "translated": true,
+      "len": 6,
+      "orig_text": "嫌だね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "551a",
+      "translated": true,
+      "len": 10,
+      "orig_text": "なんだと！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "55d6",
+      "translated": true,
+      "len": 16,
+      "orig_text": "だましたのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5698",
+      "translated": true,
+      "len": 8,
+      "orig_text": "そんな！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5752",
+      "translated": true,
+      "len": 16,
+      "orig_text": "約束が違います！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "581e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "吠えるなよニンゲン",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5881",
+      "translated": true,
+      "len": 48,
+      "orig_text": "まあ、気が向いたら\n返してやらんことも\nないがな！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5956",
+      "translated": true,
+      "len": 20,
+      "orig_text": "アーッハッハッハ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5bfd",
+      "translated": true,
+      "len": 37,
+      "orig_text": "我が悲願が・・・\n新しい世界がぁ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5c73",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ふは、ははは・・・\nひゃははははっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5d24",
+      "translated": true,
+      "len": 10,
+      "orig_text": "父上・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5d62",
+      "translated": true,
+      "len": 10,
+      "orig_text": "父上・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5da0",
+      "translated": true,
+      "len": 10,
+      "orig_text": "父上・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5dde",
+      "translated": true,
+      "len": 10,
+      "orig_text": "父上・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5eb2",
+      "translated": true,
+      "len": 58,
+      "orig_text": "結局、私たちは魔王の\nいいようにもてあそば\nれてしまったのか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5f4b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ちくしょうっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "601a",
+      "translated": true,
+      "len": 10,
+      "orig_text": "う・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6083",
+      "translated": true,
+      "len": 16,
+      "orig_text": "バノッサさん！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6138",
+      "translated": true,
+      "len": 23,
+      "orig_text": "お前、\n大丈夫なのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "61ae",
+      "translated": true,
+      "len": 31,
+      "orig_text": "生きては、いるぜ\nだがよォ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "61f4",
+      "translated": true,
+      "len": 41,
+      "orig_text": "何もかも、あの野郎に\n持っていかれちまった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6244",
+      "translated": true,
+      "len": 37,
+      "orig_text": "憎しみも、恨みも\n空っぽにされちまった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "62c8",
+      "translated": true,
+      "len": 14,
+      "orig_text": "バノッサ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "635f",
+      "translated": true,
+      "len": 29,
+      "orig_text": "戻ってこい！\nはぐれ野郎ッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "63a3",
+      "translated": true,
+      "len": 58,
+      "orig_text": "戻ってこいよ・・・\n俺様はまだ、手前ェに\n用があるんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    }
+  ]
+}

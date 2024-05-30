@@ -1,0 +1,3911 @@
+{
+  "md5": "ae65e9990898aded24545c775b3af29b",
+  "blocks": [
+    {
+      "offset": "2896",
+      "translated": true,
+      "len": 8,
+      "orig_text": "とソルは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "28d5",
+      "translated": true,
+      "len": 11,
+      "orig_text": "と\nキールは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2917",
+      "translated": true,
+      "len": 11,
+      "orig_text": "と\nカシスは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2959",
+      "translated": true,
+      "len": 15,
+      "orig_text": "と\nクラレットは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "298a",
+      "translated": true,
+      "len": 18,
+      "orig_text": "どうしているんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "29fb",
+      "translated": true,
+      "len": 50,
+      "orig_text": "あれからずっと、\n二人で部屋に\n閉じこもったままです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2aee",
+      "translated": true,
+      "len": 29,
+      "orig_text": "しかし、信じられんで\nござるな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2b5f",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ソル殿が\nあのような連中の仲間\nだったとは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2bec",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ソルが隠していた\n秘密というのは、\nこのことだったんだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2c64",
+      "translated": true,
+      "len": 48,
+      "orig_text": "キール殿が\nあのような連中の仲間\nだったとは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2cf3",
+      "translated": true,
+      "len": 56,
+      "orig_text": "キールが隠していた\n秘密というのは、\nこのことだったんだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2d6d",
+      "translated": true,
+      "len": 48,
+      "orig_text": "カシス殿が\nあのような連中の仲間\nだったとは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2dfc",
+      "translated": true,
+      "len": 56,
+      "orig_text": "カシスが隠していた\n秘密というのは、\nこのことだったんだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2e76",
+      "translated": true,
+      "len": 52,
+      "orig_text": "クラレット殿が\nあのような連中の仲間\nだったとは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2f09",
+      "translated": true,
+      "len": 60,
+      "orig_text": "クラレットが隠して\nいた秘密というのは、\nこのことだったんだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2ff3",
+      "translated": true,
+      "len": 44,
+      "orig_text": "くそっ！\nどうして今まで隠して\nたんだよっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "30c4",
+      "translated": true,
+      "len": 56,
+      "orig_text": "仕方ないと思うな\n簡単に言えちゃうよう\nなことじゃないもん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "31d3",
+      "translated": true,
+      "len": 16,
+      "orig_text": "そうですね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3288",
+      "translated": true,
+      "len": 39,
+      "orig_text": "いや、そういう感情の\n問題ではないだろう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3335",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソルは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "333e",
+      "translated": true,
+      "len": 28,
+      "orig_text": "を\n確保することが\n目的だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "339c",
+      "translated": true,
+      "len": 9,
+      "orig_text": "キールは\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "33a8",
+      "translated": true,
+      "len": 28,
+      "orig_text": "を\n確保することが\n目的だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3406",
+      "translated": true,
+      "len": 9,
+      "orig_text": "カシスは\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3412",
+      "translated": true,
+      "len": 28,
+      "orig_text": "を\n確保することが\n目的だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3470",
+      "translated": true,
+      "len": 13,
+      "orig_text": "クラレットは\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3480",
+      "translated": true,
+      "len": 28,
+      "orig_text": "を\n確保することが\n目的だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3502",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソルは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "350b",
+      "translated": true,
+      "len": 28,
+      "orig_text": "を\n確保することが\n目的だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3569",
+      "translated": true,
+      "len": 9,
+      "orig_text": "キールは\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3575",
+      "translated": true,
+      "len": 28,
+      "orig_text": "を\n確保することが\n目的だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "35d3",
+      "translated": true,
+      "len": 9,
+      "orig_text": "カシスは\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "35df",
+      "translated": true,
+      "len": 28,
+      "orig_text": "を\n確保することが\n目的だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "363d",
+      "translated": true,
+      "len": 13,
+      "orig_text": "クラレットは\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "364d",
+      "translated": true,
+      "len": 28,
+      "orig_text": "を\n確保することが\n目的だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3699",
+      "translated": true,
+      "len": 56,
+      "orig_text": "最初から、そのために\n君たちの仲間になった\nだけだったのさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "37a3",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソルが",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "37dd",
+      "translated": true,
+      "len": 8,
+      "orig_text": "キールが",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3819",
+      "translated": true,
+      "len": 8,
+      "orig_text": "カシスが",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3855",
+      "translated": true,
+      "len": 12,
+      "orig_text": "クラレットが",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3883",
+      "translated": true,
+      "len": 41,
+      "orig_text": "最初から俺たちを利用\nしてたってのかよ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "390b",
+      "translated": true,
+      "len": 18,
+      "orig_text": "そうとしか思えない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "397c",
+      "translated": true,
+      "len": 12,
+      "orig_text": "てめえっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3a2d",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ちょっと、ギブソン！\n言い過ぎよ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3af5",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ひどいですのっ！\nギブソンさん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3bea",
+      "translated": true,
+      "len": 27,
+      "orig_text": "しかし、ならどうして\nソルは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3c39",
+      "translated": true,
+      "len": 29,
+      "orig_text": "しかし、ならどうして\nキールは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3c8a",
+      "translated": true,
+      "len": 29,
+      "orig_text": "しかし、ならどうして\nカシスは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3cdb",
+      "translated": true,
+      "len": 33,
+      "orig_text": "しかし、ならどうして\nクラレットは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3d1e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "すぐに目的を果たさな\nかったんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3d69",
+      "translated": true,
+      "len": 42,
+      "orig_text": "を連れて\nいく機会は、何度でも\nあったはずだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3e38",
+      "translated": true,
+      "len": 46,
+      "orig_text": "俺にはわかるぜ\n多分、あいつは迷っち\nまったのさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3f0b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "迷った・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3ff0",
+      "translated": true,
+      "len": 46,
+      "orig_text": "お人好しのあんたたち\nと暮らしちゃった\nせいでね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "40f0",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソルは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "412a",
+      "translated": true,
+      "len": 8,
+      "orig_text": "キールは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4166",
+      "translated": true,
+      "len": 8,
+      "orig_text": "カシスは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "41a2",
+      "translated": true,
+      "len": 12,
+      "orig_text": "クラレットは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "41d0",
+      "translated": true,
+      "len": 54,
+      "orig_text": "多分、最初はギブソン\nの言ったとおりにする\nつもりだった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "422d",
+      "translated": true,
+      "len": 58,
+      "orig_text": "けれども、貴方たちと\n暮らすうちに迷ってし\nまったんでしょう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "428e",
+      "translated": true,
+      "len": 60,
+      "orig_text": "自分がやろうとしてい\nることが、正しいこと\nなのかどうか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "436f",
+      "translated": true,
+      "len": 52,
+      "orig_text": "迷わなくとも、そんな\nことはわかりきってる\nことだ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "43ca",
+      "translated": true,
+      "len": 62,
+      "orig_text": "世界を好き勝手に造り\n変えるなんてことが、\n許されてたまるか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "44df",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ご自分の価値観だけで\n物事を考えては\nいけませんよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "45b6",
+      "translated": true,
+      "len": 69,
+      "orig_text": "連中には連中の考えが\nあるってことさ\n頭から否定しちまうの\nはどうかねえ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4684",
+      "translated": true,
+      "len": 10,
+      "orig_text": "くっ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "474f",
+      "translated": true,
+      "len": 37,
+      "orig_text": "いずれにしろ今、\n一番苦しんでいるのは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "47ba",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソルだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "47f4",
+      "translated": true,
+      "len": 8,
+      "orig_text": "キールだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4830",
+      "translated": true,
+      "len": 8,
+      "orig_text": "カシスだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "486c",
+      "translated": true,
+      "len": 12,
+      "orig_text": "クラレットだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "48a8",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そして、それを救える\nのはあいつだけだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "492c",
+      "translated": true,
+      "len": 52,
+      "orig_text": "待ちましょう\nあの二人が、どのよう\nな結論を出すのかを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4a24",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4c28",
+      "translated": true,
+      "len": 8,
+      "orig_text": "すまない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4c57",
+      "translated": true,
+      "len": 50,
+      "orig_text": "謝ってもすまない\nことくらい、わかって\nいるつもりだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4cb0",
+      "translated": true,
+      "len": 63,
+      "orig_text": "でも、今の俺には\nこうやって\n許しを乞うことしか、\nできない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4d96",
+      "translated": true,
+      "len": 54,
+      "orig_text": "オルドレイクの言った\nことは・・・\n本当のことなんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4e00",
+      "translated": true,
+      "len": 56,
+      "orig_text": "オルドレイクの言った\nことって・・・\n本当・・・なんだね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4e6c",
+      "translated": true,
+      "len": 46,
+      "orig_text": "オルドレイクの言った\nこと・・・\n本当なんですね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4f02",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ああ、ほんとうだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4f39",
+      "translated": true,
+      "len": 52,
+      "orig_text": "俺は彼の息子で\nあの・・・召喚儀式\nの責任者だったのさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4f94",
+      "translated": true,
+      "len": 60,
+      "orig_text": "本当のことを話すよ\n俺が今までお前に隠し\nていたぜんぶだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5021",
+      "translated": true,
+      "len": 62,
+      "orig_text": "俺の父親オルドレイク\nの目的は、新たな世界\nの創造主になることだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5086",
+      "translated": true,
+      "len": 60,
+      "orig_text": "このリィンバウムの\n生き物を全部滅ぼし、\n世界を空白にしてから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "50e9",
+      "translated": true,
+      "len": 77,
+      "orig_text": "自分に必要な生き物を\n改めて召喚し、都合の\nいい世界を生み出そう\nとしているんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5207",
+      "translated": true,
+      "len": 59,
+      "orig_text": "そんな・・・\nそんなことが\n許されるはずがない！\n狂ってる！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5276",
+      "translated": true,
+      "len": 29,
+      "orig_text": "ちょっと！\n狂ってるよ、それ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "52c7",
+      "translated": true,
+      "len": 39,
+      "orig_text": "なんですか・・・それ\n狂ってますよ、絶対",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5356",
+      "translated": true,
+      "len": 40,
+      "orig_text": "かもな・・・\nだけど、あの人は\n真剣なんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "53a5",
+      "translated": true,
+      "len": 41,
+      "orig_text": "真剣に狂っているんだ\nオルドレイクは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5457",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "54c2",
+      "translated": true,
+      "len": 60,
+      "orig_text": "世界を滅ぼすために、\n彼はサプレスの魔王の\n力を使うことにした",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5525",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そのためには、ふたつ\nの物が必要・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "55f1",
+      "translated": true,
+      "len": 39,
+      "orig_text": "サプレスのエルゴと\n魅魔の宝玉のことだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "564c",
+      "translated": true,
+      "len": 46,
+      "orig_text": "それって・・・\nサプレスのエルゴと\n魅魔の宝玉？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "56ae",
+      "translated": true,
+      "len": 50,
+      "orig_text": "それが・・・\nサプレスのエルゴと\n魅魔の宝玉ですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5748",
+      "translated": true,
+      "len": 71,
+      "orig_text": "いや、宝玉はあくまで\nエルゴの代用品だ\n儀式が成功してれば、\n必要なかった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "57b6",
+      "translated": true,
+      "len": 31,
+      "orig_text": "必要だったのは・・・\n俺の肉体だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "57fc",
+      "translated": true,
+      "len": 48,
+      "orig_text": "俺は、魔王を降臨\nさせるための器\nつまりいけにえさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "58fd",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そんな・・・\nそれじゃ君は、自分を\n犠牲にして魔王を呼ぶ\n気だったのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5978",
+      "translated": true,
+      "len": 67,
+      "orig_text": "そんな・・・\nちょっと待って！\n自分を犠牲にして魔王\nを呼ぶ気だっだの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "59ef",
+      "translated": true,
+      "len": 69,
+      "orig_text": "まってください・・・\n自分を犠牲にして、\n魔王を呼ぶ気\nだったんですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5a9c",
+      "translated": true,
+      "len": 35,
+      "orig_text": "そのために俺は\n選ばれて、育てられた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5ae6",
+      "translated": true,
+      "len": 60,
+      "orig_text": "オルドレイクが無差別\nに産ませた、何人もの\n子供たちの中からな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5bf3",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5c31",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5c6f",
+      "translated": true,
+      "len": 8,
+      "orig_text": "え・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5d09",
+      "translated": true,
+      "len": 33,
+      "orig_text": "覚悟はできていた\nそのつもりだった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5d51",
+      "translated": true,
+      "len": 42,
+      "orig_text": "でもさ・・・\n最後の瞬間に、\n迷ってしまった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5da2",
+      "translated": true,
+      "len": 63,
+      "orig_text": "魔王召喚の儀式は\n失敗した\nサプレスのエルゴは\n爆発と共に失われた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5e08",
+      "translated": true,
+      "len": 29,
+      "orig_text": "爆発の後には俺と\nそして・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5ecc",
+      "translated": true,
+      "len": 14,
+      "orig_text": "僕が、いたのか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5f0e",
+      "translated": true,
+      "len": 14,
+      "orig_text": "あたしがいた？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5f50",
+      "translated": true,
+      "len": 14,
+      "orig_text": "わたしが・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5fc6",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ご名答、だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5ff7",
+      "translated": true,
+      "len": 69,
+      "orig_text": "ここから先は前に\n話したとおりだ\n俺はお前の力を確か\nめるために近づいた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6063",
+      "translated": true,
+      "len": 52,
+      "orig_text": "お前のもっている力が\n魔王のものかを\n確かめるためにな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "613e",
+      "translated": true,
+      "len": 14,
+      "orig_text": "結果は・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6173",
+      "translated": true,
+      "len": 62,
+      "orig_text": "オルドレイクが言って\nいたとおり、僕の力は\n魔王のものなのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "61e5",
+      "translated": true,
+      "len": 14,
+      "orig_text": "結果は・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "621a",
+      "translated": true,
+      "len": 67,
+      "orig_text": "やっぱり、あたしは\n魔王なの！？\nオルドレイクの言っ\nてたとおりなの？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6291",
+      "translated": true,
+      "len": 14,
+      "orig_text": "結果は・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "62c6",
+      "translated": true,
+      "len": 50,
+      "orig_text": "わたしは・・・魔王\n魔王なの！？\nなんですか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "638a",
+      "translated": true,
+      "len": 25,
+      "orig_text": "わからないんだよ\n本当にさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "63ca",
+      "translated": true,
+      "len": 56,
+      "orig_text": "ただ、とてつもなく\n強い力だ・・・としか\nわからないんだ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "64d3",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6513",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6553",
+      "translated": true,
+      "len": 16,
+      "orig_text": "そうですか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6675",
+      "translated": true,
+      "len": 22,
+      "orig_text": "\nソル\nちょっといいかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "675c",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ギブソン？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "679a",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ギブソン？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "67d8",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ギブソンさん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "684e",
+      "translated": true,
+      "len": 27,
+      "orig_text": "君たちに残念な\n知らせがある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "695e",
+      "translated": true,
+      "len": 12,
+      "orig_text": "すまなかった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6991",
+      "translated": true,
+      "len": 57,
+      "orig_text": "謝ってすむようなこと\nではないのは\nわかってる\nだけど・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "69f1",
+      "translated": true,
+      "len": 75,
+      "orig_text": "今の僕には、これしか\n言葉が見つからない\n許しを乞うことしか、\nできない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6ac8",
+      "translated": true,
+      "len": 54,
+      "orig_text": "オルドレイクの言った\nことは・・・\n本当のことなんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6b4d",
+      "translated": true,
+      "len": 58,
+      "orig_text": "オルドレイクの言った\nことってさ・・・\n本当のことなんだね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6bbb",
+      "translated": true,
+      "len": 50,
+      "orig_text": "オルドレイクの言った\nことは・・・\n本当なんですね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6c55",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ああ、全て真実だよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6c8e",
+      "translated": true,
+      "len": 50,
+      "orig_text": "僕は彼の息子だ\nそして、あの召喚儀式\nの責任者だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6ce7",
+      "translated": true,
+      "len": 60,
+      "orig_text": "本当のことを話すよ\n僕が今まで君に隠して\nいたこと全てを・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6d4a",
+      "translated": true,
+      "len": 62,
+      "orig_text": "僕の父、オルドレイク\nの目的は、新たな世界\nの創造主になることだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6daf",
+      "translated": true,
+      "len": 60,
+      "orig_text": "このリィンバウムの\n全ての生物を滅ぼし、\n世界を空白にしてから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6e12",
+      "translated": true,
+      "len": 77,
+      "orig_text": "自分に必要な生き物を\n改めて召喚し、都合の\nいい世界を生み出そう\nとしているんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6f15",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そんな・・・\nそんなの、狂ってる！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6f85",
+      "translated": true,
+      "len": 46,
+      "orig_text": "そんな・・・\nそんなの、狂ってるよ\nおかしいよ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6fe7",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そんな・・・\n狂っています・・・！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7070",
+      "translated": true,
+      "len": 46,
+      "orig_text": "そうかもしれない\nだけど、あの人は真剣\nなんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "70c5",
+      "translated": true,
+      "len": 41,
+      "orig_text": "真剣に狂っているんだ\nオルドレイクは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "714d",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "71b8",
+      "translated": true,
+      "len": 60,
+      "orig_text": "世界を滅ぼすために、\n彼はサプレスの魔王の\n力を使うことにした",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "721b",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そのためには、ふたつ\nの物が必要だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "72cc",
+      "translated": true,
+      "len": 33,
+      "orig_text": "サプレスのエルゴと\n魅魔の宝玉か？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "733c",
+      "translated": true,
+      "len": 35,
+      "orig_text": "サプレスのエルゴと\n魅魔の宝玉だね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7393",
+      "translated": true,
+      "len": 37,
+      "orig_text": "サプレスのエルゴと\n魅魔の宝玉ですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7420",
+      "translated": true,
+      "len": 73,
+      "orig_text": "いや、宝玉はあくまで\nエルゴの代用品だよ\n儀式が失敗しなければ\n必要なかった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7490",
+      "translated": true,
+      "len": 33,
+      "orig_text": "必要だったのは・・・\n僕の肉体だよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "74d8",
+      "translated": true,
+      "len": 54,
+      "orig_text": "魔王を降臨させる\nための生けにえとして\n僕は選ばれたんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "75c4",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そんな・・・\nそれじゃ君は、自分を\n犠牲にして魔王を呼ぶ\n気だったのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "765a",
+      "translated": true,
+      "len": 75,
+      "orig_text": "ちょっとまってよ！\nあなた、自分を犠牲に\nして、魔王を呼ぶつも\nりだったの！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "76d9",
+      "translated": true,
+      "len": 65,
+      "orig_text": "そんな・・・\nそれじゃあなたは\n自分が犠牲になって\n魔王を呼ぼうと？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7782",
+      "translated": true,
+      "len": 41,
+      "orig_text": "そのために僕は選ばれ\nて、育てられたんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "77d2",
+      "translated": true,
+      "len": 60,
+      "orig_text": "オルドレイクが無差別\nに産ませた、何人もの\n子供たちの中からね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "78c4",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7902",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7940",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "797e",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7a1c",
+      "translated": true,
+      "len": 33,
+      "orig_text": "覚悟はできていた\nそのつもりだった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7a64",
+      "translated": true,
+      "len": 50,
+      "orig_text": "だけど・・・\n最後の瞬間に、僕は\n迷ってしまったんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7abd",
+      "translated": true,
+      "len": 62,
+      "orig_text": "魔王召喚の儀式は失敗\nし、サプレスのエルゴ\nは爆発と共に失われた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7b22",
+      "translated": true,
+      "len": 39,
+      "orig_text": "爆発の後に残ったのは\n僕と、そして・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7bd5",
+      "translated": true,
+      "len": 16,
+      "orig_text": "俺だったんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7c34",
+      "translated": true,
+      "len": 12,
+      "orig_text": "あたしだね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7c74",
+      "translated": true,
+      "len": 18,
+      "orig_text": "わたしだった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7cee",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ああ、そうさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7d21",
+      "translated": true,
+      "len": 67,
+      "orig_text": "ここから先は前に\n話したとおりだ\n僕は君の力を確かめる\nために近づいた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7d8b",
+      "translated": true,
+      "len": 52,
+      "orig_text": "君のもっている力が、\n魔王のものかを\n確かめるためにね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7e4b",
+      "translated": true,
+      "len": 18,
+      "orig_text": "どうなんだよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7e84",
+      "translated": true,
+      "len": 62,
+      "orig_text": "オルドレイクが言って\nいたとおり、俺の力は\n魔王のものなのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7f11",
+      "translated": true,
+      "len": 18,
+      "orig_text": "で、どうだったの？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7f4a",
+      "translated": true,
+      "len": 60,
+      "orig_text": "オルドレイクの言うと\nおり、あたしの力って\n魔王のものだった？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7fba",
+      "translated": true,
+      "len": 12,
+      "orig_text": "結果は・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7fed",
+      "translated": true,
+      "len": 75,
+      "orig_text": "オルドレイクが言って\nいたとおり、わたしの\n力は・・・魔王なんで\nすか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "80a0",
+      "translated": true,
+      "len": 37,
+      "orig_text": "僕にはわからない\n本当にわからないんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "80ec",
+      "translated": true,
+      "len": 58,
+      "orig_text": "ただ、君の力がとてつ\nもないということしか\nわからないんだ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "81b2",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "820d",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "824d",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうなんですか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "836d",
+      "translated": true,
+      "len": 24,
+      "orig_text": "\nキール\nちょっといいかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "843b",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ギブソン？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8494",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ギブソン？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "84d2",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ギブソンさん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8548",
+      "translated": true,
+      "len": 27,
+      "orig_text": "君たちに残念な\n知らせがある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8658",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ごめん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8685",
+      "translated": true,
+      "len": 52,
+      "orig_text": "謝ってもすまないって\nそんなことわかってる\nでも・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "86e0",
+      "translated": true,
+      "len": 69,
+      "orig_text": "あたし、ごめんって\n言うことしかできない\n許して、なんて\n言えない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "87b1",
+      "translated": true,
+      "len": 54,
+      "orig_text": "オルドレイクの言った\nことは・・・\n本当のことなんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "881b",
+      "translated": true,
+      "len": 54,
+      "orig_text": "オルドレイクの言った\nことは・・・\n本当のことなんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "88a0",
+      "translated": true,
+      "len": 50,
+      "orig_text": "オルドレイクの言った\nことは・・・\n本当なんですね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "893a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "うん、全部真実",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "896f",
+      "translated": true,
+      "len": 56,
+      "orig_text": "あたし、オルドレイク\nの娘で・・・召喚儀式\nの責任者だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "89ce",
+      "translated": true,
+      "len": 67,
+      "orig_text": "しっかり聞いていて\n今まで君に隠してた\nこと・・・\n全部話すから・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8a38",
+      "translated": true,
+      "len": 73,
+      "orig_text": "父さま・・・\nオルドレイクの目的は\nこのリィンバウムの生\nき物を全部滅ぼして",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8aa8",
+      "translated": true,
+      "len": 37,
+      "orig_text": "この世界の新しい\n創造主になることなの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8af4",
+      "translated": true,
+      "len": 81,
+      "orig_text": "全部滅ぼして、自分の\n都合のいい生き物だけ\n召喚すれば・・思う通\nりの世界になるよね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8bfb",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そんな・・・\nそんなの、狂ってる！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8c50",
+      "translated": true,
+      "len": 59,
+      "orig_text": "そんな・・・\nそんなことが\n許されるはずがない！\n狂ってる！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8cda",
+      "translated": true,
+      "len": 31,
+      "orig_text": "狂ってます・・・\nそんなの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8d61",
+      "translated": true,
+      "len": 37,
+      "orig_text": "うん、狂ってるって\nあたしも思う・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8dad",
+      "translated": true,
+      "len": 57,
+      "orig_text": "ただ狂ってるだけ\nじゃない\nオルドレイクは\n真剣に狂ってるの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8e45",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8eb0",
+      "translated": true,
+      "len": 81,
+      "orig_text": "世界を滅ぼすために、\n彼はサプレスの魔王の\n力を使おうって・・・\nそれくらい狂ってた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8f28",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そのために必要だった\n物がふたつ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8fd9",
+      "translated": true,
+      "len": 33,
+      "orig_text": "サプレスのエルゴと\n魅魔の宝玉か？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "902e",
+      "translated": true,
+      "len": 39,
+      "orig_text": "サプレスのエルゴと\n魅魔の宝玉のことだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "90a4",
+      "translated": true,
+      "len": 37,
+      "orig_text": "サプレスのエルゴと\n魅魔の宝玉ですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9131",
+      "translated": true,
+      "len": 71,
+      "orig_text": "違うよ・・・\n宝玉はエルゴの代用品\n儀式が失敗しなければ\nエルゴだけで充分",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "919f",
+      "translated": true,
+      "len": 46,
+      "orig_text": "必要だったのは・・・\nあたし・・・\nあたしの身体",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "91f4",
+      "translated": true,
+      "len": 48,
+      "orig_text": "魔王を降臨させる\nための生けにえなの\nあたし・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "92da",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そんな・・・\nそれじゃ君は、自分を\n犠牲にして魔王を呼ぶ\n気だったのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9355",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そんな・・・\nそれじゃ君は、自分を\n犠牲にして魔王を呼ぶ\n気だったのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "93eb",
+      "translated": true,
+      "len": 67,
+      "orig_text": "そんな・・・\nそれじゃあなたは\n自分を生けにえにして\n魔王を呼ぼうと？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9496",
+      "translated": true,
+      "len": 46,
+      "orig_text": "うん・・・\nそのために選ばれて、\n育てられたんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "94eb",
+      "translated": true,
+      "len": 58,
+      "orig_text": "オルドレイクが無差別\nに産ませた、子供の\n中から選ばれて、ね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "95db",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9619",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9672",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そんなの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9712",
+      "translated": true,
+      "len": 39,
+      "orig_text": "死ぬのは平気だった\nつもりだったんだけど",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9760",
+      "translated": true,
+      "len": 54,
+      "orig_text": "やっぱり・・・\n最後の瞬間、怖いのが\n勝っちゃって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "97bd",
+      "translated": true,
+      "len": 52,
+      "orig_text": "魔王召喚は失敗\nサプレスのエルゴは\n爆発でなくなったの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9818",
+      "translated": true,
+      "len": 54,
+      "orig_text": "みんな死んじゃって\n爆発の後に残ったのは\nあたしと・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "98da",
+      "translated": true,
+      "len": 16,
+      "orig_text": "俺だったんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "991e",
+      "translated": true,
+      "len": 14,
+      "orig_text": "僕が、いたのか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "997b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "わたし・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "99f1",
+      "translated": true,
+      "len": 4,
+      "orig_text": "うん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9a1c",
+      "translated": true,
+      "len": 67,
+      "orig_text": "ここから先は\n前に話したとおり\nあたしは、あなたの力\nをたしかめにきた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9a86",
+      "translated": true,
+      "len": 44,
+      "orig_text": "あなたの力が\n魔王のものかを\n確かめるためにね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9b3e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "どうなんだよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9b77",
+      "translated": true,
+      "len": 62,
+      "orig_text": "オルドレイクが言って\nいたとおり、俺の力は\n魔王のものなのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9be9",
+      "translated": true,
+      "len": 14,
+      "orig_text": "結果は・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9c1e",
+      "translated": true,
+      "len": 62,
+      "orig_text": "オルドレイクが言って\nいたとおり、僕の力は\n魔王のものなのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9cab",
+      "translated": true,
+      "len": 14,
+      "orig_text": "どうでしたか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9ce0",
+      "translated": true,
+      "len": 37,
+      "orig_text": "わたしはやっぱり\n魔王、でしたか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9d6d",
+      "translated": true,
+      "len": 31,
+      "orig_text": "ごめんね・・・\nわからなかったの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9db3",
+      "translated": true,
+      "len": 56,
+      "orig_text": "ただ、あなたの力が\n信じられないくらい\n強いことしか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9ea1",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9ee1",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9f3c",
+      "translated": true,
+      "len": 16,
+      "orig_text": "そうですか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a05e",
+      "translated": true,
+      "len": 24,
+      "orig_text": "\nカシス\nちょっといいかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a12c",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ギブソン？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a16a",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ギブソン？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a1c3",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ギブソンさん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a239",
+      "translated": true,
+      "len": 27,
+      "orig_text": "君たちに残念な\n知らせがある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a349",
+      "translated": true,
+      "len": 16,
+      "orig_text": "すみませんでした",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a380",
+      "translated": true,
+      "len": 67,
+      "orig_text": "謝ってすむようなこと\nではないのはわかって\nいるつもりです\nでも・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a3ea",
+      "translated": true,
+      "len": 77,
+      "orig_text": "今の私には、これしか\n言葉が見つかりません\n許しを乞うことしか、\nできない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a4c3",
+      "translated": true,
+      "len": 54,
+      "orig_text": "オルドレイクの言った\nことは・・・\n本当のことなんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a52d",
+      "translated": true,
+      "len": 54,
+      "orig_text": "オルドレイクの言った\nことは・・・\n本当のことなんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a597",
+      "translated": true,
+      "len": 52,
+      "orig_text": "オルドレイクの言った\nこと・・・\n本当のことなんだね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a64e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "はい、全て真実です",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a687",
+      "translated": true,
+      "len": 46,
+      "orig_text": "私は彼の娘\nそして、あの召喚儀式\nの責任者でした",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a6dc",
+      "translated": true,
+      "len": 61,
+      "orig_text": "本当のことを\nお話します\n私が今まであなたに\n隠していた全てです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a740",
+      "translated": true,
+      "len": 60,
+      "orig_text": "私の父、オルドレイク\nの目的は、新たな世界\nの創造主になること",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a7a3",
+      "translated": true,
+      "len": 60,
+      "orig_text": "このリィンバウムの\n全ての生物を滅ぼし、\n世界を空白にしてから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a806",
+      "translated": true,
+      "len": 75,
+      "orig_text": "自分に必要な生き物を\n改めて召喚し、都合の\nいい世界を生み出そう\nとしています",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a907",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そんな・・・\nそんなの、狂ってる！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a95c",
+      "translated": true,
+      "len": 59,
+      "orig_text": "そんな・・・\nそんなことが\n許されるはずがない！\n狂ってる！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a9cb",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そんな・・・\nそんなの狂ってるよ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "aa6f",
+      "translated": true,
+      "len": 48,
+      "orig_text": "そうかもしれません\nだけど、あの人は\n真剣なんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "aac6",
+      "translated": true,
+      "len": 61,
+      "orig_text": "狂っているとすれば\nオルドレイクは\n真剣に狂って\nいるのでしょう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ab8f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "abcf",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ac0f",
+      "translated": true,
+      "len": 14,
+      "orig_text": "なにそれ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "aca0",
+      "translated": true,
+      "len": 71,
+      "orig_text": "続けます・・・\n世界を滅ぼすために、\n彼はサプレスの魔王の\n力に頼りました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ad0e",
+      "translated": true,
+      "len": 41,
+      "orig_text": "そのために、ふたつの\n物が必要だったのです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "adc3",
+      "translated": true,
+      "len": 33,
+      "orig_text": "サプレスのエルゴと\n魅魔の宝玉か？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ae18",
+      "translated": true,
+      "len": 39,
+      "orig_text": "サプレスのエルゴと\n魅魔の宝玉のことだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ae73",
+      "translated": true,
+      "len": 35,
+      "orig_text": "サプレスのエルゴと\n魅魔の宝玉だね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "af19",
+      "translated": true,
+      "len": 52,
+      "orig_text": "いえ、宝玉はあくまで\nエルゴの代用品と\n考えてください",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "af74",
+      "translated": true,
+      "len": 41,
+      "orig_text": "儀式が失敗しなければ\n必要なかったものです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "afc4",
+      "translated": true,
+      "len": 50,
+      "orig_text": "必要だったのは・・・\n私の・・・\n肉体なんです・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b01d",
+      "translated": true,
+      "len": 60,
+      "orig_text": "魔王を降臨させるため\nの生けにえとして、\n私は選ばれていました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b10f",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そんな・・・\nそれじゃ君は、自分を\n犠牲にして魔王を呼ぶ\n気だったのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b18a",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そんな・・・\nそれじゃ君は、自分を\n犠牲にして魔王を呼ぶ\n気だったのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b205",
+      "translated": true,
+      "len": 69,
+      "orig_text": "そんな・・・\nあなた、じぶんを犠牲\nにして、魔王を呼ぶ\nつもりだったの？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b2cd",
+      "translated": true,
+      "len": 52,
+      "orig_text": "はい、わたしは\nそのために育てられ\nそして選ばれました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b328",
+      "translated": true,
+      "len": 67,
+      "orig_text": "オルドレイクの何人も\nいる子供たちの中から\nそのために\n選ばれたのです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b421",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b45f",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b49d",
+      "translated": true,
+      "len": 10,
+      "orig_text": "うそ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b554",
+      "translated": true,
+      "len": 29,
+      "orig_text": "覚悟はできていた\nつもりでした",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b598",
+      "translated": true,
+      "len": 46,
+      "orig_text": "だけど・・・\n最後の瞬間に\n迷ってしまって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b5ed",
+      "translated": true,
+      "len": 69,
+      "orig_text": "魔王召喚の儀式は失敗\nし、サプレスのエルゴ\nは爆発と共に失われた\nのです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b659",
+      "translated": true,
+      "len": 39,
+      "orig_text": "爆発の後に残ったのは\n私と、そして・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b70c",
+      "translated": true,
+      "len": 16,
+      "orig_text": "俺だったんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b750",
+      "translated": true,
+      "len": 14,
+      "orig_text": "僕が、いたのか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b792",
+      "translated": true,
+      "len": 14,
+      "orig_text": "あたし、がいた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b823",
+      "translated": true,
+      "len": 4,
+      "orig_text": "はい",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b84e",
+      "translated": true,
+      "len": 77,
+      "orig_text": "ここから先は前に話し\nたとおりです。私は\nあなたの力を確かめ\nようと近付きました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b8c2",
+      "translated": true,
+      "len": 52,
+      "orig_text": "あなたのその力が\n魔王のものかを確かめ\nるために、です",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b982",
+      "translated": true,
+      "len": 18,
+      "orig_text": "どうなんだよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b9bb",
+      "translated": true,
+      "len": 62,
+      "orig_text": "オルドレイクが言って\nいたとおり、俺の力は\n魔王のものなのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ba2d",
+      "translated": true,
+      "len": 14,
+      "orig_text": "結果は・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ba62",
+      "translated": true,
+      "len": 62,
+      "orig_text": "オルドレイクが言って\nいたとおり、僕の力は\n魔王のものなのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bad4",
+      "translated": true,
+      "len": 18,
+      "orig_text": "どうだったのかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bb0d",
+      "translated": true,
+      "len": 58,
+      "orig_text": "オルドレイクが言って\nいたとおり、あたしの\n力は魔王の・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bbca",
+      "translated": true,
+      "len": 33,
+      "orig_text": "私にはわからなかった\n本当に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bc12",
+      "translated": true,
+      "len": 67,
+      "orig_text": "ただ、あなたの力が\n強大だということしか\nわからなかったのです\n・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bd0b",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bd4b",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bd8b",
+      "translated": true,
+      "len": 16,
+      "orig_text": "そうなんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bec8",
+      "translated": true,
+      "len": 28,
+      "orig_text": "\nクラレット\nちょっといいかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bf6d",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ギブソン？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bfd6",
+      "translated": true,
+      "len": 27,
+      "orig_text": "君たちに残念な\n知らせがある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c1ef",
+      "translated": true,
+      "len": 18,
+      "orig_text": "彼らが、そうかね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c260",
+      "translated": true,
+      "len": 16,
+      "orig_text": "はい、グラムス様",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c342",
+      "translated": true,
+      "len": 8,
+      "orig_text": "貴方は？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c3ee",
+      "translated": true,
+      "len": 8,
+      "orig_text": "貴方は？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c49a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "あなた、だれ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c54c",
+      "translated": true,
+      "len": 8,
+      "orig_text": "貴方は？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c5bc",
+      "translated": true,
+      "len": 59,
+      "orig_text": "ワシの名は\nグラムス・バーネット\nギブソンの師匠に\nあたる者だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c61e",
+      "translated": true,
+      "len": 52,
+      "orig_text": "【蒼の派閥】の代表と\nして、君たちに会いに\nやって来た",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c679",
+      "translated": true,
+      "len": 18,
+      "orig_text": "率直に用件を言おう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c6b2",
+      "translated": true,
+      "len": 39,
+      "orig_text": "我々は、君たちの身柄\nを拘束させてもらう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c78f",
+      "translated": true,
+      "len": 8,
+      "orig_text": "えっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c7cb",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c803",
+      "translated": true,
+      "len": 8,
+      "orig_text": "えっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c83f",
+      "translated": true,
+      "len": 8,
+      "orig_text": "えっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c8f5",
+      "translated": true,
+      "len": 20,
+      "orig_text": "どういうことだよ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c968",
+      "translated": true,
+      "len": 52,
+      "orig_text": "君たちが何者であるか\nは、ギブソンに報告を\n受けている",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c9c3",
+      "translated": true,
+      "len": 58,
+      "orig_text": "世界を滅ぼそうとする\n男の子供と、魔王の力\nを持った者・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ca24",
+      "translated": true,
+      "len": 27,
+      "orig_text": "見過ごすわけには\nいかんのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cb16",
+      "translated": true,
+      "len": 52,
+      "orig_text": "待ってください！\n彼らはそんなことを\n考えてはいません",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cb6c",
+      "translated": true,
+      "len": 54,
+      "orig_text": "待ってください！\n彼女らはそんなことを\n考えてはいません",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cbc9",
+      "translated": true,
+      "len": 52,
+      "orig_text": "二人はむしろ、\nそれを防ぐために\n戦ってきたんです！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cc5c",
+      "translated": true,
+      "len": 41,
+      "orig_text": "しかし、これから先も\nそうだとは保証できぬ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cce4",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cd93",
+      "translated": true,
+      "len": 62,
+      "orig_text": "蒼の派閥は、魔王復活\nを阻止するための戦い\nを始めようとしている",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cdf8",
+      "translated": true,
+      "len": 71,
+      "orig_text": "負けるわけには\nいかない戦いなんだ\nだからこそ、危険の芽\nは摘む必要がある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cee4",
+      "translated": true,
+      "len": 25,
+      "orig_text": "ギブソン\nお前さんは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cf24",
+      "translated": true,
+      "len": 41,
+      "orig_text": "この二人が、ワシらの\n敵だと言うのかッ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cff2",
+      "translated": true,
+      "len": 27,
+      "orig_text": "見損なったわよ\nギブソン！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d096",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d163",
+      "translated": true,
+      "len": 48,
+      "orig_text": "我々は決して、\n君たちに危害を加える\nつもりはない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d1ba",
+      "translated": true,
+      "len": 52,
+      "orig_text": "この戦いが終わるまで\nおとなしくしてほしい\nだけなのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d24d",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d2b8",
+      "translated": true,
+      "len": 42,
+      "orig_text": "明日の朝、\n我々は君たちを迎えに\nやってくる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d309",
+      "translated": true,
+      "len": 56,
+      "orig_text": "君たちがすすんで\n協力してくれるのを、\nワシは願っているよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d571",
+      "translated": true,
+      "len": 54,
+      "orig_text": "もしも本当に、俺の力\nが魔王のものだったと\nしたら・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d5ce",
+      "translated": true,
+      "len": 41,
+      "orig_text": "おとなしく彼らに捕ま\nるべきなんだろうか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d62b",
+      "translated": true,
+      "len": 54,
+      "orig_text": "もしも本当に、僕の力\nが魔王のものだったと\nしたら・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d688",
+      "translated": true,
+      "len": 41,
+      "orig_text": "おとなしく彼らに捕ま\nるべきなんだろうか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d6e5",
+      "translated": true,
+      "len": 52,
+      "orig_text": "もしあたしの力が\n魔王のものだったなら\nやっぱり・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d740",
+      "translated": true,
+      "len": 41,
+      "orig_text": "おとなしく彼らに捕ま\nるべきなんだろうか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d79d",
+      "translated": true,
+      "len": 52,
+      "orig_text": "もしも本当に、わたし\nに魔王の力があるの\nならば・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d7f8",
+      "translated": true,
+      "len": 54,
+      "orig_text": "おとなしく彼らに捕ま\nるべきなんだろうか？\nわたし・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d8ce",
+      "translated": true,
+      "len": 6,
+      "orig_text": "リプレ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d8ed",
+      "translated": true,
+      "len": 12,
+      "orig_text": "入るよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d9cb",
+      "translated": true,
+      "len": 21,
+      "orig_text": "リプレ\nそれにガゼル？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "da3e",
+      "translated": true,
+      "len": 21,
+      "orig_text": "リプレ\nそれにガゼル？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dab1",
+      "translated": true,
+      "len": 33,
+      "orig_text": "リプレ、ガゼル・・・\nど〜したの？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "db30",
+      "translated": true,
+      "len": 27,
+      "orig_text": "リプレさん\nそれにガゼルさん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dbf9",
+      "translated": true,
+      "len": 44,
+      "orig_text": "お前\nこのままおとなしく、\n連中に捕まる気か？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dc84",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dce9",
+      "translated": true,
+      "len": 12,
+      "orig_text": "逃げちまえよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dd81",
+      "translated": true,
+      "len": 4,
+      "orig_text": "え？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ddb9",
+      "translated": true,
+      "len": 4,
+      "orig_text": "え？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ddf1",
+      "translated": true,
+      "len": 4,
+      "orig_text": "は？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "de29",
+      "translated": true,
+      "len": 4,
+      "orig_text": "え？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "deec",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ソルと、お前で",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "df2e",
+      "translated": true,
+      "len": 16,
+      "orig_text": "キールと、お前で",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "df72",
+      "translated": true,
+      "len": 16,
+      "orig_text": "カシスと、お前で",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dfb6",
+      "translated": true,
+      "len": 20,
+      "orig_text": "クラレットと、お前で",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dfec",
+      "translated": true,
+      "len": 31,
+      "orig_text": "今夜のうちに\nどこかへ逃げるんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e0b0",
+      "translated": true,
+      "len": 60,
+      "orig_text": "貴方たちが悪い人じゃ\nないのは、私たちが\n誰よりもよく知ってる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e113",
+      "translated": true,
+      "len": 29,
+      "orig_text": "捕まる必要なんか\n絶対ないわ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e1e6",
+      "translated": true,
+      "len": 18,
+      "orig_text": "二人ともありがとう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e21f",
+      "translated": true,
+      "len": 20,
+      "orig_text": "だけど、俺は逃げない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e267",
+      "translated": true,
+      "len": 18,
+      "orig_text": "二人ともありがとう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e2a0",
+      "translated": true,
+      "len": 20,
+      "orig_text": "だけど、僕は逃げない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e2e8",
+      "translated": true,
+      "len": 14,
+      "orig_text": "あんがと・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e31d",
+      "translated": true,
+      "len": 16,
+      "orig_text": "でも、逃げないよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e361",
+      "translated": true,
+      "len": 18,
+      "orig_text": "二人ともありがとう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e39a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "でも、逃げない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e43d",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e4f7",
+      "translated": true,
+      "len": 56,
+      "orig_text": "二人が俺を信じてくれ\nたように、俺も自分の\nことを信じてる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e583",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ソルのことを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e5c3",
+      "translated": true,
+      "len": 14,
+      "orig_text": "キールのことを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e605",
+      "translated": true,
+      "len": 14,
+      "orig_text": "カシスのことを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e647",
+      "translated": true,
+      "len": 18,
+      "orig_text": "クラレットのことを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e67b",
+      "translated": true,
+      "len": 12,
+      "orig_text": "信じてるんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e6ae",
+      "translated": true,
+      "len": 56,
+      "orig_text": "だから、逃げない\n逃げないで、ちゃんと\n誤解を解いてみせる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e70d",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そうすることが一番の\n方法だと思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e766",
+      "translated": true,
+      "len": 56,
+      "orig_text": "二人が僕を信じてくれ\nたように、僕も自分の\nことを信じてる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e7f2",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソルの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e847",
+      "translated": true,
+      "len": 8,
+      "orig_text": "カシスの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e883",
+      "translated": true,
+      "len": 12,
+      "orig_text": "クラレットの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e8b1",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ことを信じてるんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e8ea",
+      "translated": true,
+      "len": 56,
+      "orig_text": "だから、逃げない\n逃げないで、ちゃんと\n誤解を解いてみせる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e949",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そうすることが一番の\n方法だと思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e9a2",
+      "translated": true,
+      "len": 75,
+      "orig_text": "ふたりは、あたしを\n信じてくれてるよね？\n・・・だからね、\nあたしは、あたしと",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ea41",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソルの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ea7b",
+      "translated": true,
+      "len": 8,
+      "orig_text": "キールの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ead2",
+      "translated": true,
+      "len": 12,
+      "orig_text": "クラレットの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eb00",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ことを信じてるんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eb39",
+      "translated": true,
+      "len": 56,
+      "orig_text": "だから、逃げない\n逃げないで、ちゃんと\n誤解を解いてみせる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eb98",
+      "translated": true,
+      "len": 33,
+      "orig_text": "それが一番だって\nそう思う、うん！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ebed",
+      "translated": true,
+      "len": 73,
+      "orig_text": "二人がわたしを信じて\nくれたように・・・\nわたしも自分を信じて\nいるの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ec8a",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ソルさんの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ecc8",
+      "translated": true,
+      "len": 12,
+      "orig_text": "キールさんの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ed08",
+      "translated": true,
+      "len": 12,
+      "orig_text": "カシスさんの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ed51",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ことも・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ed84",
+      "translated": true,
+      "len": 60,
+      "orig_text": "だから、逃げません\n逃げないで、ちゃんと\n誤解を解いてみせます",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ede7",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そうすることが一番の\n方法だと思うから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eeba",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そのとおりだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ef89",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ギブソン！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f03a",
+      "translated": true,
+      "len": 54,
+      "orig_text": "君たちの潔白を証明す\nるには、この方法しか\nなかったんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f097",
+      "translated": true,
+      "len": 54,
+      "orig_text": "抵抗さえしなければ、\n君たちの身の安全だけ\nは保証できる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f0f4",
+      "translated": true,
+      "len": 18,
+      "orig_text": "だから、私は・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f192",
+      "translated": true,
+      "len": 21,
+      "orig_text": "わかってるよ\nギブソン",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f1ce",
+      "translated": true,
+      "len": 60,
+      "orig_text": "俺だって、自分のせい\nでみんなを危険に巻き\nこみたくはないんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f231",
+      "translated": true,
+      "len": 37,
+      "orig_text": "貴方が選んだ方法は、\n間違っちゃいない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f28a",
+      "translated": true,
+      "len": 21,
+      "orig_text": "わかってるさ\nギブソン",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f2c6",
+      "translated": true,
+      "len": 60,
+      "orig_text": "僕だって、自分のせい\nでみんなを危険に巻き\nこみたくはなかった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f329",
+      "translated": true,
+      "len": 37,
+      "orig_text": "貴方の決断は、決して\n間違ってはいない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f382",
+      "translated": true,
+      "len": 19,
+      "orig_text": "わかってる\nギブソン",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f3bc",
+      "translated": true,
+      "len": 56,
+      "orig_text": "あたしだって、みんな\nを危険に巻き込みたく\nなんかないもの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f41b",
+      "translated": true,
+      "len": 37,
+      "orig_text": "貴方が選んだ方法は、\n間違ってないよ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f474",
+      "translated": true,
+      "len": 29,
+      "orig_text": "わかっていますよ\nギブソンさん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f4b8",
+      "translated": true,
+      "len": 52,
+      "orig_text": "わたしも・・・\nみんなを危険に巻き\nこみたくないんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f513",
+      "translated": true,
+      "len": 37,
+      "orig_text": "貴方が選んだ方法は、\n間違っていません",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f5a3",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,8420 @@
+{
+  "md5": "8afc9fa60c784b34abf614507c2d1def",
+  "blocks": [
+    {
+      "offset": "321e",
+      "translated": true,
+      "len": 27,
+      "orig_text": "ザマぁ・・・\nみヤがレ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3327",
+      "translated": true,
+      "len": 33,
+      "orig_text": "バノッサ・・・\nお前、まだ意識が？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "337c",
+      "translated": true,
+      "len": 33,
+      "orig_text": "バノッサ・・・\n君は、まだ意識を？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "33d1",
+      "translated": true,
+      "len": 29,
+      "orig_text": "バノッサ・・・\nまだ意識が！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3415",
+      "translated": true,
+      "len": 27,
+      "orig_text": "待ってて！\n今、助けるから！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3464",
+      "translated": true,
+      "len": 50,
+      "orig_text": "バノッサさん・・・\nまだ意識が\n残っているんですね！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "34bd",
+      "translated": true,
+      "len": 29,
+      "orig_text": "待ってて！\n今、助けますから！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "35a4",
+      "translated": true,
+      "len": 56,
+      "orig_text": "クククッ・・・\n余計ナコトは考えるナ\nヨ・・・はぐれ野郎？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3603",
+      "translated": true,
+      "len": 71,
+      "orig_text": "もウスグ、俺様ハ魔王\nニナっちまウ・・・\nもウ、誰にモ止メらレ\nねェ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "370b",
+      "translated": true,
+      "len": 54,
+      "orig_text": "あきらめるな！\nバノッサ、お前はワシ\nが助けてみせる！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3802",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ヘヘヘ・・・ッ\nアリがトよ、エドス",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "384a",
+      "translated": true,
+      "len": 37,
+      "orig_text": "泣くンじゃネェよ？\n俺なンかノタメニさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3930",
+      "translated": true,
+      "len": 16,
+      "orig_text": "バノッサ・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3a01",
+      "translated": true,
+      "len": 52,
+      "orig_text": "はグれ野郎よ・・・\n手前ェに・・・ッ\n頼みガあル・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3a5c",
+      "translated": true,
+      "len": 46,
+      "orig_text": "そノちかラで・・・\n俺ヲ・・・\n殺シテクれッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3ab1",
+      "translated": true,
+      "len": 54,
+      "orig_text": "まダ、俺ガ・・・\n俺でいルうちニ・・・\n頼ム・・・ッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3bd5",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・っ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3c08",
+      "translated": true,
+      "len": 14,
+      "orig_text": "できない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3c3d",
+      "translated": true,
+      "len": 33,
+      "orig_text": "バノッサ、俺には君を\n殺せない！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3c92",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・っ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3cc5",
+      "translated": true,
+      "len": 14,
+      "orig_text": "できない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3cfa",
+      "translated": true,
+      "len": 33,
+      "orig_text": "バノッサ、僕には君を\n殺せない！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3d4f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・っ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3d82",
+      "translated": true,
+      "len": 14,
+      "orig_text": "できない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3db7",
+      "translated": true,
+      "len": 33,
+      "orig_text": "あたしにはバノッサを\n殺せない！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3e0c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "だめです・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3e41",
+      "translated": true,
+      "len": 33,
+      "orig_text": "できません・・・\nそんなこと・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3e89",
+      "translated": true,
+      "len": 58,
+      "orig_text": "バノッサさんを殺す\n・・・そんなこと、\nわたしにはできない！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3f8d",
+      "translated": true,
+      "len": 27,
+      "orig_text": "バカ・・・や・・・\nろ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4076",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ぐウッ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "40a7",
+      "translated": true,
+      "len": 20,
+      "orig_text": "グアアアァァァッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "41cb",
+      "translated": true,
+      "len": 29,
+      "orig_text": "空が・・・\n空が割れていく！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "428d",
+      "translated": true,
+      "len": 16,
+      "orig_text": "バノッサぁぁっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "436f",
+      "translated": true,
+      "len": 20,
+      "orig_text": "バノッサの姿が・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "43b7",
+      "translated": true,
+      "len": 20,
+      "orig_text": "バノッサの姿が・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "43ff",
+      "translated": true,
+      "len": 20,
+      "orig_text": "バノッサの姿が・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4447",
+      "translated": true,
+      "len": 20,
+      "orig_text": "バノッサさんが・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4525",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ウゥゥ・・・ッ\nウオオォォォォッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4609",
+      "translated": true,
+      "len": 35,
+      "orig_text": "こいつが・・・\n魔王だってのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4800",
+      "translated": true,
+      "len": 18,
+      "orig_text": "みんな、危ないっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "490b",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ウオオオオオォォォォ\nォォォォッ！！！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4a82",
+      "translated": true,
+      "len": 14,
+      "orig_text": "うわあぁっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4ac4",
+      "translated": true,
+      "len": 14,
+      "orig_text": "うわあぁっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4b06",
+      "translated": true,
+      "len": 12,
+      "orig_text": "きゃぁっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4b46",
+      "translated": true,
+      "len": 12,
+      "orig_text": "きゃあっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4f60",
+      "translated": true,
+      "len": 33,
+      "orig_text": "これが・・・\n魔王の力なのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4fe0",
+      "translated": true,
+      "len": 31,
+      "orig_text": "吠え声だけで\nまるで、嵐のようだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5033",
+      "translated": true,
+      "len": 33,
+      "orig_text": "これが・・・\n魔王の力なのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "50b3",
+      "translated": true,
+      "len": 31,
+      "orig_text": "吠え声だけで\nまるで、嵐のようだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5106",
+      "translated": true,
+      "len": 25,
+      "orig_text": "これが・・・\n魔王の力！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "517e",
+      "translated": true,
+      "len": 29,
+      "orig_text": "ウソ・・・\n嵐みたいな吠え声！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "51cf",
+      "translated": true,
+      "len": 27,
+      "orig_text": "これが・・・\n魔王の力・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5249",
+      "translated": true,
+      "len": 54,
+      "orig_text": "足がすくむ・・・\nまったく勝てる気が\nしないなんて・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5349",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ウオォォォォォッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "544b",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ちくしょう・・・\n立ち上がることすら、\nできない・・・！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "54e0",
+      "translated": true,
+      "len": 18,
+      "orig_text": "終わるのか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5519",
+      "translated": true,
+      "len": 56,
+      "orig_text": "このまま何もできずに\n世界は終わってしまう\nのか・・・！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5585",
+      "translated": true,
+      "len": 50,
+      "orig_text": "だめだ・・・\n立ち上がることすら、\nできない・・・！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5616",
+      "translated": true,
+      "len": 18,
+      "orig_text": "終わるのか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "564f",
+      "translated": true,
+      "len": 56,
+      "orig_text": "このまま何もできずに\n世界は終わってしまう\nのか・・・！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "56bb",
+      "translated": true,
+      "len": 42,
+      "orig_text": "く・・・\n立ち上がることも\nできないの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5744",
+      "translated": true,
+      "len": 16,
+      "orig_text": "終わるの・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "577b",
+      "translated": true,
+      "len": 55,
+      "orig_text": "このまま何も\nできずに世界は\n終わっちゃうって\nいうの！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "57e6",
+      "translated": true,
+      "len": 42,
+      "orig_text": "うそ・・・\n動くこともできない\nなんて・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "586f",
+      "translated": true,
+      "len": 29,
+      "orig_text": "わたし、これで\n限界なの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "58b3",
+      "translated": true,
+      "len": 50,
+      "orig_text": "このまま何もできずに\n世界は終わってしまう\nの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5a98",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・覚えてるか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5b09",
+      "translated": true,
+      "len": 14,
+      "orig_text": "これは・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5b76",
+      "translated": true,
+      "len": 33,
+      "orig_text": "俺は・・・悲鳴をあげ\nていた・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5bf6",
+      "translated": true,
+      "len": 20,
+      "orig_text": "あの夜に聞いた・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5c55",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ソルさんの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5c81",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソルの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5ca0",
+      "translated": true,
+      "len": 12,
+      "orig_text": "言葉・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5d0b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "助けてくれって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5d78",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5de1",
+      "translated": true,
+      "len": 31,
+      "orig_text": "おまえは・・・\n応えてくれたんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5ea7",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・そうだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5eda",
+      "translated": true,
+      "len": 10,
+      "orig_text": "僕はソルと",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5efd",
+      "translated": true,
+      "len": 18,
+      "orig_text": "約束したんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5f6e",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5fb4",
+      "translated": true,
+      "len": 20,
+      "orig_text": "君を守るんだって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5ffc",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・そうだよ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6033",
+      "translated": true,
+      "len": 12,
+      "orig_text": "あたし・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6058",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ソルと約束したもの！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "60cb",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6111",
+      "translated": true,
+      "len": 20,
+      "orig_text": "守ってみせるって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6159",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・そうでしたね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6192",
+      "translated": true,
+      "len": 38,
+      "orig_text": "わたし・・・\nソルさんと\n約束しました！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6217",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "625d",
+      "translated": true,
+      "len": 16,
+      "orig_text": "守ってみせるって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6529",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・覚えてるか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "659a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "これは・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6607",
+      "translated": true,
+      "len": 39,
+      "orig_text": "僕は・・・悲鳴をあげ\nていたんだよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "668d",
+      "translated": true,
+      "len": 20,
+      "orig_text": "あの夜に聞いた・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "66ec",
+      "translated": true,
+      "len": 12,
+      "orig_text": "キールさんの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "671a",
+      "translated": true,
+      "len": 8,
+      "orig_text": "キールの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "673b",
+      "translated": true,
+      "len": 12,
+      "orig_text": "言葉・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "67a6",
+      "translated": true,
+      "len": 16,
+      "orig_text": "助けてくれ、って",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6815",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "687e",
+      "translated": true,
+      "len": 27,
+      "orig_text": "君は・・・\n応えてくれたんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6925",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・そうだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "695a",
+      "translated": true,
+      "len": 12,
+      "orig_text": "俺はキールと",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "697f",
+      "translated": true,
+      "len": 20,
+      "orig_text": "約束したじゃないか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "69f2",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6a38",
+      "translated": true,
+      "len": 20,
+      "orig_text": "守ってみせるって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6a9b",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・そうだよ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6ad2",
+      "translated": true,
+      "len": 36,
+      "orig_text": "あたし・・・\nキールと\n約束したもの！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6b55",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6b9b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "守ってみせるって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6be3",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・そうでしたね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6c1c",
+      "translated": true,
+      "len": 40,
+      "orig_text": "わたし・・・\nキールさんと\n約束しました！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6ca3",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6ce9",
+      "translated": true,
+      "len": 16,
+      "orig_text": "守ってみせるって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6fb5",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・覚えている？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7026",
+      "translated": true,
+      "len": 14,
+      "orig_text": "これは・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7093",
+      "translated": true,
+      "len": 31,
+      "orig_text": "あたし・・・\n悲鳴をあげていたの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7111",
+      "translated": true,
+      "len": 20,
+      "orig_text": "あの夜に聞いた・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7170",
+      "translated": true,
+      "len": 12,
+      "orig_text": "カシスさんの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "719e",
+      "translated": true,
+      "len": 8,
+      "orig_text": "カシスの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "71bf",
+      "translated": true,
+      "len": 12,
+      "orig_text": "言葉・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "722a",
+      "translated": true,
+      "len": 16,
+      "orig_text": "助けてって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7299",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7302",
+      "translated": true,
+      "len": 35,
+      "orig_text": "あなたは、それに\n応えてくれた・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "73b1",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・そうだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "73e6",
+      "translated": true,
+      "len": 12,
+      "orig_text": "俺はカシスと",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "740b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "約束したじゃないか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "747e",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "74c4",
+      "translated": true,
+      "len": 20,
+      "orig_text": "守ってみせるって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "750c",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・そうだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "753f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "僕はカシスと",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7564",
+      "translated": true,
+      "len": 18,
+      "orig_text": "約束したんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "75d5",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "761b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "君を守るんだって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "767e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・そうでしたね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "76b7",
+      "translated": true,
+      "len": 40,
+      "orig_text": "わたし・・・\nカシスさんと\n約束しました！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "773e",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7784",
+      "translated": true,
+      "len": 16,
+      "orig_text": "守ってみせるって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7a4e",
+      "translated": true,
+      "len": 20,
+      "orig_text": "・・覚えていますか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7ac1",
+      "translated": true,
+      "len": 14,
+      "orig_text": "これは・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7b2e",
+      "translated": true,
+      "len": 39,
+      "orig_text": "私は・・・悲鳴をあげ\nていたんです・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7bb4",
+      "translated": true,
+      "len": 20,
+      "orig_text": "あの夜に聞いた・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7be1",
+      "translated": true,
+      "len": 25,
+      "orig_text": "クラレットの\n言葉・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7c59",
+      "translated": true,
+      "len": 18,
+      "orig_text": "助けてくださいって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7cca",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7d33",
+      "translated": true,
+      "len": 31,
+      "orig_text": "あなたは・・・\n応えてくれました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7dde",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・そうだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7e13",
+      "translated": true,
+      "len": 16,
+      "orig_text": "俺はクラレットと",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7e3c",
+      "translated": true,
+      "len": 20,
+      "orig_text": "約束したじゃないか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7eaf",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7ef5",
+      "translated": true,
+      "len": 20,
+      "orig_text": "守ってみせるって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7f3d",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・そうだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7f70",
+      "translated": true,
+      "len": 35,
+      "orig_text": "僕はクラレットと\n約束したんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7ff2",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8038",
+      "translated": true,
+      "len": 20,
+      "orig_text": "君を守るんだって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8080",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・そうだよ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "80b7",
+      "translated": true,
+      "len": 40,
+      "orig_text": "あたし・・・\nクラレットと\n約束したもの！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "813e",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8184",
+      "translated": true,
+      "len": 20,
+      "orig_text": "守ってみせるって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8393",
+      "translated": true,
+      "len": 16,
+      "orig_text": "うおおぉぉっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "83d7",
+      "translated": true,
+      "len": 16,
+      "orig_text": "うおおぉぉっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "841b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "あぁぁぁぁっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "845d",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・・・はぁっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8539",
+      "translated": true,
+      "len": 31,
+      "orig_text": "光だ・・・\nあの時と同じ光・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "85b7",
+      "translated": true,
+      "len": 35,
+      "orig_text": "私たちを何度も救って\nくれた光・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "867f",
+      "translated": true,
+      "len": 16,
+      "orig_text": "あいつの光だ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8750",
+      "translated": true,
+      "len": 10,
+      "orig_text": "力よ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "88f0",
+      "translated": true,
+      "len": 31,
+      "orig_text": "俺の中にある\nありったけの力よ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8943",
+      "translated": true,
+      "len": 31,
+      "orig_text": "僕の中にある\nありったけの力よ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8996",
+      "translated": true,
+      "len": 35,
+      "orig_text": "あたしの中でねむる\nありったけの力！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "89ed",
+      "translated": true,
+      "len": 25,
+      "orig_text": "わたしの中の\nすべての力！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8ba5",
+      "translated": true,
+      "len": 31,
+      "orig_text": "俺に、約束を\n守らせてくれ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8beb",
+      "translated": true,
+      "len": 37,
+      "orig_text": "大切なものたちを\n俺に守らせてくれ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8c44",
+      "translated": true,
+      "len": 31,
+      "orig_text": "僕に、約束を守らせて\nくれ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8c8a",
+      "translated": true,
+      "len": 37,
+      "orig_text": "大切なものたちを\n僕に守らせてくれ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8ce3",
+      "translated": true,
+      "len": 38,
+      "orig_text": "おねがい！\nあたしに\n約束をまもらせて！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8d30",
+      "translated": true,
+      "len": 29,
+      "orig_text": "大切なものたちを\n守らせて！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8d81",
+      "translated": true,
+      "len": 31,
+      "orig_text": "わたしに・・・\n約束を守らせて！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8dc7",
+      "translated": true,
+      "len": 27,
+      "orig_text": "大切なものたちを\n守らせて！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8fd1",
+      "translated": true,
+      "len": 16,
+      "orig_text": "うおおぉぉっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9015",
+      "translated": true,
+      "len": 16,
+      "orig_text": "うおおぉぉっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9059",
+      "translated": true,
+      "len": 14,
+      "orig_text": "あぁぁぁぁっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "909b",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・・・はぁっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9177",
+      "translated": true,
+      "len": 31,
+      "orig_text": "光だ・・・\nあの時と同じ光・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "91f5",
+      "translated": true,
+      "len": 35,
+      "orig_text": "私たちを何度も救って\nくれた光・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "92bd",
+      "translated": true,
+      "len": 16,
+      "orig_text": "あいつの光だ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "938e",
+      "translated": true,
+      "len": 10,
+      "orig_text": "力よ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "952e",
+      "translated": true,
+      "len": 31,
+      "orig_text": "俺の中にある\nありったけの力よ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9581",
+      "translated": true,
+      "len": 31,
+      "orig_text": "僕の中にある\nありったけの力よ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "95d4",
+      "translated": true,
+      "len": 35,
+      "orig_text": "あたしの中でねむる\nありったけの力！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "962b",
+      "translated": true,
+      "len": 25,
+      "orig_text": "わたしの中の\nすべての力！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "97e3",
+      "translated": true,
+      "len": 48,
+      "orig_text": "俺に・・・\n大切なものたちを\n俺に守らせてくれ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9847",
+      "translated": true,
+      "len": 48,
+      "orig_text": "僕に・・・\n大切なものたちを\n僕に守らせてくれ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "98ab",
+      "translated": true,
+      "len": 49,
+      "orig_text": "おねがい！\nあたしに\n大切なものたちを\n守らせて！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9910",
+      "translated": true,
+      "len": 42,
+      "orig_text": "わたしに・・・\n大切なものたちを\n守らせて！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9c03",
+      "translated": true,
+      "len": 16,
+      "orig_text": "約束、して・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9c72",
+      "translated": true,
+      "len": 14,
+      "orig_text": "これは・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9cdf",
+      "translated": true,
+      "len": 31,
+      "orig_text": "絶対に帰ってくるって\n約束して！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9d5d",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9dc6",
+      "translated": true,
+      "len": 18,
+      "orig_text": "待ってるから・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9dff",
+      "translated": true,
+      "len": 31,
+      "orig_text": "約束・・・\nしたんだからね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9eaa",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・そうだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9edf",
+      "translated": true,
+      "len": 37,
+      "orig_text": "俺は、リプレと約束を\nしたじゃないか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9f63",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9fa9",
+      "translated": true,
+      "len": 18,
+      "orig_text": "帰ってくるって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9fef",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・そうだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a022",
+      "translated": true,
+      "len": 37,
+      "orig_text": "僕は、リプレと約束を\nしたじゃないか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a0a6",
+      "translated": true,
+      "len": 31,
+      "orig_text": "何があっても・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a0ec",
+      "translated": true,
+      "len": 20,
+      "orig_text": "帰ってくるんだと！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a3f0",
+      "translated": true,
+      "len": 12,
+      "orig_text": "お前は・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a45b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "これは・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a4c8",
+      "translated": true,
+      "len": 42,
+      "orig_text": "お前は・・・俺が\n絶対に守り抜いて\nやる！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a551",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a5ba",
+      "translated": true,
+      "len": 41,
+      "orig_text": "運命なんて、ふたりで\nねじ伏せてやろうぜ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a66f",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・そうだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a6a4",
+      "translated": true,
+      "len": 31,
+      "orig_text": "あたし、ガゼルと\n約束したもの！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a722",
+      "translated": true,
+      "len": 31,
+      "orig_text": "運命なんかに・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a768",
+      "translated": true,
+      "len": 20,
+      "orig_text": "負けないって！！！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a7be",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・そうでしたね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a7f7",
+      "translated": true,
+      "len": 39,
+      "orig_text": "わたし、ガゼルさん\nと約束したもの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a87d",
+      "translated": true,
+      "len": 31,
+      "orig_text": "運命なんかに・・・\n絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a8c3",
+      "translated": true,
+      "len": 20,
+      "orig_text": "負けないって！！！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ab91",
+      "translated": true,
+      "len": 18,
+      "orig_text": "あきらめるな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ac2f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "誰だ・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ac6f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "誰だ・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "acaf",
+      "translated": true,
+      "len": 10,
+      "orig_text": "誰・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "aced",
+      "translated": true,
+      "len": 14,
+      "orig_text": "誰ですか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ad63",
+      "translated": true,
+      "len": 35,
+      "orig_text": "我は、お前の中に眠っ\nていた力・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "adad",
+      "translated": true,
+      "len": 41,
+      "orig_text": "サプレスのエルゴと、\nお前たちが呼ぶ存在だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ae35",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ae9e",
+      "translated": true,
+      "len": 75,
+      "orig_text": "お前がこの世界に召喚\nされた時からずっと、\n我はお前を見守ってい\nたのだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "af10",
+      "translated": true,
+      "len": 39,
+      "orig_text": "お前が本当に、誓約者\nたりえる者なのかを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "af5e",
+      "translated": true,
+      "len": 41,
+      "orig_text": "そして今、新たに我は\nお前と誓約を交わそう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "afae",
+      "translated": true,
+      "len": 37,
+      "orig_text": "我がサプレスの力を、\n受け取るがいい！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b605",
+      "translated": true,
+      "len": 18,
+      "orig_text": "約束したんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b678",
+      "translated": true,
+      "len": 8,
+      "orig_text": "キールを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b6b4",
+      "translated": true,
+      "len": 8,
+      "orig_text": "カシスを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b6f0",
+      "translated": true,
+      "len": 12,
+      "orig_text": "クラレットを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b71e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "助けてみせるって！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b757",
+      "translated": true,
+      "len": 39,
+      "orig_text": "俺はそのために、この\n世界に来たんだ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b807",
+      "translated": true,
+      "len": 54,
+      "orig_text": "だから・・・\nお前に負けるわけには\nいかないんだぁっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b871",
+      "translated": true,
+      "len": 18,
+      "orig_text": "約束したんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b8c9",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソルを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b91e",
+      "translated": true,
+      "len": 8,
+      "orig_text": "カシスを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b95a",
+      "translated": true,
+      "len": 12,
+      "orig_text": "クラレットを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b988",
+      "translated": true,
+      "len": 18,
+      "orig_text": "助けてみせるって！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b9c1",
+      "translated": true,
+      "len": 39,
+      "orig_text": "僕はそのために、この\n世界に来たんだ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ba71",
+      "translated": true,
+      "len": 48,
+      "orig_text": "だから・・・\nお前に負けるわけには\nいかないっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bad5",
+      "translated": true,
+      "len": 16,
+      "orig_text": "約束したの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bb2b",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソルを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bb65",
+      "translated": true,
+      "len": 8,
+      "orig_text": "キールを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bbbc",
+      "translated": true,
+      "len": 12,
+      "orig_text": "クラレットを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bbea",
+      "translated": true,
+      "len": 18,
+      "orig_text": "助けてみせるって！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bc23",
+      "translated": true,
+      "len": 39,
+      "orig_text": "あたしは・・・この\nためにこの世界に来た",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bcd3",
+      "translated": true,
+      "len": 50,
+      "orig_text": "だから・・・\nお前には負けない\n負けるわけにいかない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bd39",
+      "translated": true,
+      "len": 16,
+      "orig_text": "約束したの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bd8f",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ソルさんを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bdcd",
+      "translated": true,
+      "len": 12,
+      "orig_text": "キールさんを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "be0d",
+      "translated": true,
+      "len": 12,
+      "orig_text": "カシスさんを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "be56",
+      "translated": true,
+      "len": 18,
+      "orig_text": "助けてみせるって！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "be8f",
+      "translated": true,
+      "len": 39,
+      "orig_text": "わたし、だからこの\n世界に来たんです・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bf3f",
+      "translated": true,
+      "len": 46,
+      "orig_text": "だから・・・\nわたしは負けません\n・・・絶対に！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c037",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ギャアアアアアッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c10c",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c158",
+      "translated": true,
+      "len": 14,
+      "orig_text": "バノッサ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c19a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "バノッサ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c1dc",
+      "translated": true,
+      "len": 14,
+      "orig_text": "バノッサ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c21e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "バノッサさん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c3ba",
+      "translated": true,
+      "len": 14,
+      "orig_text": "誓約者よ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c470",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ううっ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c4b0",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ううっ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c4f0",
+      "translated": true,
+      "len": 8,
+      "orig_text": "う・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c52c",
+      "translated": true,
+      "len": 8,
+      "orig_text": "う・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c59c",
+      "translated": true,
+      "len": 20,
+      "orig_text": "目を覚ませ、誓約者よ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c682",
+      "translated": true,
+      "len": 29,
+      "orig_text": "俺は・・・\n勝ったのか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c6d3",
+      "translated": true,
+      "len": 29,
+      "orig_text": "僕は・・・\n勝ったのか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c724",
+      "translated": true,
+      "len": 29,
+      "orig_text": "あたし・・・\n勝ったの・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c775",
+      "translated": true,
+      "len": 25,
+      "orig_text": "・・・わたしは\n魔王は！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c7f6",
+      "translated": true,
+      "len": 37,
+      "orig_text": "魔王はサプレスへと\nお前の手で帰された",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c842",
+      "translated": true,
+      "len": 16,
+      "orig_text": "お前は勝ったのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c8de",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そうか・・・\n俺は勝ったのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c926",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c968",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そうか・・・\n僕は勝てたのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c9b0",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c9f2",
+      "translated": true,
+      "len": 29,
+      "orig_text": "そっか・・・\n勝ったんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ca36",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ca78",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そうでしたか\n勝ったんですね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cac0",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cb36",
+      "translated": true,
+      "len": 63,
+      "orig_text": "それだけではない\nお前は、失われたはず\nの力をよみがえらせた\nのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cb9c",
+      "translated": true,
+      "len": 31,
+      "orig_text": "我は・・・\nサプレスのエルゴなり",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cca9",
+      "translated": true,
+      "len": 31,
+      "orig_text": "サプレスの・・・\nエルゴ・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cd27",
+      "translated": true,
+      "len": 75,
+      "orig_text": "あの忌まわしい儀式が\n失敗した時、我が力は\nお前の中にとりこまれ\nたのだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cd99",
+      "translated": true,
+      "len": 71,
+      "orig_text": "お前が使ってきた力は\n我がサプレスの力\n我はずっと、お前と\n共にあったのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ce6c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それじゃあ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ceae",
+      "translated": true,
+      "len": 10,
+      "orig_text": "じゃあ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ceec",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それじゃあ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cf2e",
+      "translated": true,
+      "len": 20,
+      "orig_text": "それじゃあわたしは？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cfaa",
+      "translated": true,
+      "len": 18,
+      "orig_text": "お前は魔王ではない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cfe3",
+      "translated": true,
+      "len": 39,
+      "orig_text": "我らが認めた、エルゴ\nの王にふさわしき者",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d031",
+      "translated": true,
+      "len": 33,
+      "orig_text": "まぎれもない、\n誓約者なのだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d108",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったのか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d14a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったのか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d18c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d1ce",
+      "translated": true,
+      "len": 8,
+      "orig_text": "・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d23e",
+      "translated": true,
+      "len": 46,
+      "orig_text": "さあ、誓約者よ\nここに５つのエルゴは\n全て揃った",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d293",
+      "translated": true,
+      "len": 37,
+      "orig_text": "新たなる結界を紡ぐた\nめの準備は整った",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d2df",
+      "translated": true,
+      "len": 35,
+      "orig_text": "あとは、お前が望む\nだけでいい・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d329",
+      "translated": true,
+      "len": 52,
+      "orig_text": "新たな誓約者の名の下\nに、新たな結界は完成\nするだろう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d42e",
+      "translated": true,
+      "len": 29,
+      "orig_text": "俺が・・・\n俺が望むのは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d47f",
+      "translated": true,
+      "len": 29,
+      "orig_text": "僕が・・・\n僕が望むのは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d4d0",
+      "translated": true,
+      "len": 31,
+      "orig_text": "あたし・・・\nあたしの望み・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d523",
+      "translated": true,
+      "len": 33,
+      "orig_text": "わたしの心は\n決まっています・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d56b",
+      "translated": true,
+      "len": 25,
+      "orig_text": "わたしが望む\n結末は・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d8bd",
+      "translated": true,
+      "len": 4,
+      "orig_text": "っ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d993",
+      "translated": true,
+      "len": 16,
+      "orig_text": "う、ううん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d9d7",
+      "translated": true,
+      "len": 16,
+      "orig_text": "う、ううん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "da1b",
+      "translated": true,
+      "len": 16,
+      "orig_text": "う、ううん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "da5f",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ん、んん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "db1b",
+      "translated": true,
+      "len": 18,
+      "orig_text": "おお、気がついたか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dbd2",
+      "translated": true,
+      "len": 18,
+      "orig_text": "心配させやがって！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dc9a",
+      "translated": true,
+      "len": 29,
+      "orig_text": "みんな・・・\n無事だったんだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dceb",
+      "translated": true,
+      "len": 29,
+      "orig_text": "みんな・・・\n無事だったんだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dd3c",
+      "translated": true,
+      "len": 29,
+      "orig_text": "みんな・・・\n無事だったんだね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dd8d",
+      "translated": true,
+      "len": 27,
+      "orig_text": "みなさん\n無事だったんですね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "de56",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ああ、無事だとも\nそれに、ほら・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ded8",
+      "translated": true,
+      "len": 29,
+      "orig_text": "闇が・・・\n消えていく・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dfc7",
+      "translated": true,
+      "len": 14,
+      "orig_text": "魔王は倒された",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dffc",
+      "translated": true,
+      "len": 46,
+      "orig_text": "おまえが、世界を\n救ったんだ・・・\nおまえの力だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e0d1",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e104",
+      "translated": true,
+      "len": 75,
+      "orig_text": "僕が最後まであきらめ\nずにいられたのは、\nみんなが僕に力を貸し\nてくれたからだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e176",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e1be",
+      "translated": true,
+      "len": 39,
+      "orig_text": "それに、僕はただ約束\nを守りたかったんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e236",
+      "translated": true,
+      "len": 56,
+      "orig_text": "何があったとしても、\n君を守ってみせるって\n約束をね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e2a2",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e2d5",
+      "translated": true,
+      "len": 69,
+      "orig_text": "あたしが最後まであき\nらめなかったのは、\nみんなが力を貸して\nくれたから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e341",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e389",
+      "translated": true,
+      "len": 33,
+      "orig_text": "それに、あたしは\n約束を守っただけ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e3fb",
+      "translated": true,
+      "len": 58,
+      "orig_text": "何があったとしても、\n君を守ってみせるって\n約束を・・・ね！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e469",
+      "translated": true,
+      "len": 20,
+      "orig_text": "それは違います・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e4a4",
+      "translated": true,
+      "len": 65,
+      "orig_text": "わたしが最後まであき\nらめなかったのは、\nみなさんがいて\nくれたから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e50c",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力で、\n世界を救ったんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e554",
+      "translated": true,
+      "len": 33,
+      "orig_text": "それに、わたしは\n約束を守っただけ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e5c6",
+      "translated": true,
+      "len": 52,
+      "orig_text": "何があったとしても、\nあなたを守るという\n約束を・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e68f",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e747",
+      "translated": true,
+      "len": 18,
+      "orig_text": "魔王は倒されたんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e780",
+      "translated": true,
+      "len": 33,
+      "orig_text": "君の力が、世界を\n救ったんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e82d",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e860",
+      "translated": true,
+      "len": 75,
+      "orig_text": "俺が最後まであきらめ\nずにいられたのは、\nみんなが俺に力を貸し\nてくれたからさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e8d2",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e91a",
+      "translated": true,
+      "len": 35,
+      "orig_text": "それに、俺はただ\n約束を守っただけさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e98e",
+      "translated": true,
+      "len": 52,
+      "orig_text": "何があったとしても、\n君を守ってみせるって\n約束をね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ea11",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ea44",
+      "translated": true,
+      "len": 71,
+      "orig_text": "あたしが最後まであき\nらめなかったのは、\nみんなが力を貸して\nてくれたから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eab2",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eafa",
+      "translated": true,
+      "len": 33,
+      "orig_text": "それに、あたしは\n約束を守っただけ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eb6c",
+      "translated": true,
+      "len": 58,
+      "orig_text": "何があったとしても、\n君を守ってみせるって\n約束を・・・ね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ebda",
+      "translated": true,
+      "len": 20,
+      "orig_text": "それは違います・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ec15",
+      "translated": true,
+      "len": 65,
+      "orig_text": "わたしが最後まであき\nらめなかったのは、\nみなさんがいて\nくれたから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ec7d",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力で、\n世界を救ったんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ecc5",
+      "translated": true,
+      "len": 33,
+      "orig_text": "それに、わたしは\n約束を守っただけ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ed37",
+      "translated": true,
+      "len": 52,
+      "orig_text": "何があったとしても、\nあなたを守るという\n約束を・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "edd6",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ee8e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "魔王は倒れた・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eec7",
+      "translated": true,
+      "len": 35,
+      "orig_text": "君の力で、世界を\n救ったんだよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ef76",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "efa9",
+      "translated": true,
+      "len": 75,
+      "orig_text": "俺が最後まであきらめ\nずにいられたのは、\nみんなが俺に力を貸し\nてくれたからさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f01b",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f063",
+      "translated": true,
+      "len": 35,
+      "orig_text": "それに、俺はただ\n約束を守っただけさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f0d7",
+      "translated": true,
+      "len": 52,
+      "orig_text": "何があったとしても、\n君を守ってみせるって\n約束をね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f13f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f172",
+      "translated": true,
+      "len": 75,
+      "orig_text": "僕が最後まであきらめ\nずにいられたのは、\nみんなが僕に力を貸し\nてくれたからだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f1e4",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f22c",
+      "translated": true,
+      "len": 39,
+      "orig_text": "それに、僕はただ約束\nを守りたかったんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f2a4",
+      "translated": true,
+      "len": 56,
+      "orig_text": "何があったとしても、\n君を守ってみせるって\n約束をね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f32b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それは違います",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f360",
+      "translated": true,
+      "len": 73,
+      "orig_text": "わたしが最後まで\nあきらめなかったのは\nみんながわたしに\n力をくれたから・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f3d0",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力で、\n世界を救ったんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f418",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それにわたしは、ただ\n約束を守っただけです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f492",
+      "translated": true,
+      "len": 56,
+      "orig_text": "何があったとしても、\nあなたを守るっていう\n約束です・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f55f",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f617",
+      "translated": true,
+      "len": 18,
+      "orig_text": "魔王は倒されました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f650",
+      "translated": true,
+      "len": 27,
+      "orig_text": "あなたの・・・\n力です・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f6f7",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f72a",
+      "translated": true,
+      "len": 75,
+      "orig_text": "俺が最後まであきらめ\nずにいられたのは、\nみんなが俺に力を貸し\nてくれたからさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f79c",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f7e4",
+      "translated": true,
+      "len": 35,
+      "orig_text": "それに、俺はただ\n約束を守っただけさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f858",
+      "translated": true,
+      "len": 52,
+      "orig_text": "何があったとしても、\n君を守ってみせるって\n約束をね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f8c0",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f8f3",
+      "translated": true,
+      "len": 75,
+      "orig_text": "僕が最後まであきらめ\nずにいられたのは、\nみんなが僕に力を貸し\nてくれたからだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f965",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f9ad",
+      "translated": true,
+      "len": 39,
+      "orig_text": "それに、僕はただ約束\nを守りたかったんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fa25",
+      "translated": true,
+      "len": 56,
+      "orig_text": "何があったとしても、\n君を守ってみせるって\n約束をね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fa91",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fac4",
+      "translated": true,
+      "len": 71,
+      "orig_text": "あたしが最後まであき\nらめなかったのは、\nみんなが力を貸して\nてくれたから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fb32",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fb7a",
+      "translated": true,
+      "len": 33,
+      "orig_text": "それに、あたしは\n約束を守っただけ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fbec",
+      "translated": true,
+      "len": 58,
+      "orig_text": "何があったとしても、\n君を守ってみせるって\n約束を・・・ね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fcd6",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "feda",
+      "translated": true,
+      "len": 10,
+      "orig_text": "雪・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ff89",
+      "translated": true,
+      "len": 52,
+      "orig_text": "いや、光だ！\n光の滴が、空から降り\n注いでいるんだ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1008f",
+      "translated": true,
+      "len": 52,
+      "orig_text": "エルゴだよ\nエルゴの力が、新しい\n結界を作っているんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "100ea",
+      "translated": true,
+      "len": 52,
+      "orig_text": "どんな召喚術でも\n破ることのできない、\n永遠の結界をね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10152",
+      "translated": true,
+      "len": 52,
+      "orig_text": "エルゴだよ\nエルゴの力が、新しい\n結界を作っているんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "101ad",
+      "translated": true,
+      "len": 50,
+      "orig_text": "どんな召喚術でも\n破ることのできない、\n永遠の結界を",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10213",
+      "translated": true,
+      "len": 50,
+      "orig_text": "エルゴだよ\nエルゴの力が、新しい\n結界を作っているの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1026c",
+      "translated": true,
+      "len": 54,
+      "orig_text": "どんな召喚術でも破る\nことのできない、\n永遠の結界・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "102d6",
+      "translated": true,
+      "len": 71,
+      "orig_text": "エルゴの力です\nエルゴの力に、新しい\n結界を作るように\nお願いしました・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10344",
+      "translated": true,
+      "len": 56,
+      "orig_text": "どんな召喚術でも破る\nことのできない、\n永遠の結界を、です",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1042a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それじゃ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "104c4",
+      "translated": true,
+      "len": 71,
+      "orig_text": "ああ、これでもう異界\nの通路は閉ざされる\n召喚術は意味を\nもたなくなるんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10532",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そして・・・\nこの光は、送還術の光",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1057a",
+      "translated": true,
+      "len": 56,
+      "orig_text": "召喚された者たちを、\nあるべき世界へと\n帰すための光なんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "105e6",
+      "translated": true,
+      "len": 71,
+      "orig_text": "ああ、これでもう異界\nの通路は閉ざされる\n召喚術は意味を\nもたなくなるんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10654",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そして・・・\nこの光は、送還術の光",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1069c",
+      "translated": true,
+      "len": 56,
+      "orig_text": "召喚された者たちを、\nあるべき世界へと\n帰すための光なんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10708",
+      "translated": true,
+      "len": 67,
+      "orig_text": "召喚術は\n意味をなさなくなるの\nこれでもう異界の扉は\n開かなくなるから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10772",
+      "translated": true,
+      "len": 31,
+      "orig_text": "でね・・・\nこの光は、送還術の光",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "107b8",
+      "translated": true,
+      "len": 56,
+      "orig_text": "召喚されたみんなを、\nあるべき世界へと\n帰すための光・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10824",
+      "translated": true,
+      "len": 41,
+      "orig_text": "はい、これで、異世界\nとの通路は閉ざされて",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10874",
+      "translated": true,
+      "len": 41,
+      "orig_text": "召喚術は意味をもたな\nくなってしまうんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "108c4",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そして、この光は\n送還術の光です・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10910",
+      "translated": true,
+      "len": 58,
+      "orig_text": "召喚された者たちを、\nあるべき世界へと\n帰すための光なんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10a21",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ちょっと待てよ！？\nまさか、これでお別れ\nだっていうのかよ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10b2b",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10b96",
+      "translated": true,
+      "len": 20,
+      "orig_text": "なんとか言えよっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10c4f",
+      "translated": true,
+      "len": 20,
+      "orig_text": "やめるんだ、ガゼル！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10d08",
+      "translated": true,
+      "len": 33,
+      "orig_text": "つらいのは・・・\nお前だけじゃない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10db2",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10e90",
+      "translated": true,
+      "len": 54,
+      "orig_text": "みんなと一緒に\nいられて、俺は本当に\n楽しかったよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10eed",
+      "translated": true,
+      "len": 41,
+      "orig_text": "この世界に来て、本当\nに良かったと思ってる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10fc9",
+      "translated": true,
+      "len": 60,
+      "orig_text": "だけど、俺はやっぱり\n自分の世界に帰らなく\nちゃいけないんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1102c",
+      "translated": true,
+      "len": 41,
+      "orig_text": "俺のいるべき場所は、\nそこにあると思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11089",
+      "translated": true,
+      "len": 54,
+      "orig_text": "みんなと一緒に\nいられて、僕は本当に\n楽しかったよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "110e6",
+      "translated": true,
+      "len": 37,
+      "orig_text": "この世界に来て、\n本当に良かったと思う",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "111be",
+      "translated": true,
+      "len": 54,
+      "orig_text": "だけど、僕はやっぱり\n自分の世界に帰るべき\nだと思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1121b",
+      "translated": true,
+      "len": 41,
+      "orig_text": "僕のいるべき場所は、\nそこにあると思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11278",
+      "translated": true,
+      "len": 52,
+      "orig_text": "みんなと一緒にいられ\nて、とっても\n楽しかったよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "112d3",
+      "translated": true,
+      "len": 41,
+      "orig_text": "この世界に来て、本当\nに良かったと思ってる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "113af",
+      "translated": true,
+      "len": 48,
+      "orig_text": "だけど、やっぱり\n自分の世界に\n帰らなくちゃ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11406",
+      "translated": true,
+      "len": 33,
+      "orig_text": "あたしの居場所は\n・・・そこだから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1145b",
+      "translated": true,
+      "len": 56,
+      "orig_text": "みんなと一緒にいられ\nて、わたし、本当に\n楽しかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "114ba",
+      "translated": true,
+      "len": 52,
+      "orig_text": "この世界に来て、\n本当に良かったと\n思っています・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "115a1",
+      "translated": true,
+      "len": 60,
+      "orig_text": "でも・・・わたしは\n自分の世界に帰らなく\nてはいけません・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11604",
+      "translated": true,
+      "len": 39,
+      "orig_text": "私の居場所は・・・\nやっぱりそこなんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1171f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そうか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "117fd",
+      "translated": true,
+      "len": 18,
+      "orig_text": "だから、俺は・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11843",
+      "translated": true,
+      "len": 18,
+      "orig_text": "だから、僕は・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11889",
+      "translated": true,
+      "len": 20,
+      "orig_text": "だから、あたしは・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "118d1",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ですから、私は・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "119a9",
+      "translated": true,
+      "len": 12,
+      "orig_text": "いやだっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "119dc",
+      "translated": true,
+      "len": 35,
+      "orig_text": "俺は・・・お前と\n離れたくない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11a26",
+      "translated": true,
+      "len": 75,
+      "orig_text": "おまえがいてくれた\nだから俺はここにいる\n俺の居場所はお前の\n側にしかないんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11b42",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ソル・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11b80",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ソル・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11bbe",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ソルさん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11c88",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・約束しろよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11cbf",
+      "translated": true,
+      "len": 56,
+      "orig_text": "離ればなれになっても\nまた会えるってさ\nな、約束しろよ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11d1e",
+      "translated": true,
+      "len": 27,
+      "orig_text": "これっきりじゃ\nないって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11e34",
+      "translated": true,
+      "len": 27,
+      "orig_text": "ああ・・・\n約束するよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11e76",
+      "translated": true,
+      "len": 41,
+      "orig_text": "いつかまた、どこかで\n君と出会うって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11ed3",
+      "translated": true,
+      "len": 14,
+      "orig_text": "約束・・・する",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11f08",
+      "translated": true,
+      "len": 33,
+      "orig_text": "いつかまた、\nどこかで会おうね・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11f5d",
+      "translated": true,
+      "len": 16,
+      "orig_text": "約束・・・します",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11f94",
+      "translated": true,
+      "len": 25,
+      "orig_text": "いつかまた\nどこかで・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "120b7",
+      "translated": true,
+      "len": 12,
+      "orig_text": "いやだっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "120ea",
+      "translated": true,
+      "len": 35,
+      "orig_text": "僕は君とお別れなんか\nできない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12134",
+      "translated": true,
+      "len": 81,
+      "orig_text": "君がいてくれたから、\n僕はここにいるんだ！\n君の側が、僕にとって\nの居場所なんだ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1223b",
+      "translated": true,
+      "len": 12,
+      "orig_text": "キール・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12296",
+      "translated": true,
+      "len": 12,
+      "orig_text": "キール・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "122d6",
+      "translated": true,
+      "len": 16,
+      "orig_text": "キールさん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12378",
+      "translated": true,
+      "len": 18,
+      "orig_text": "約束してくれ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "123b1",
+      "translated": true,
+      "len": 62,
+      "orig_text": "離ればなれになっても\n僕たちは、また出会う\nことができるって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12416",
+      "translated": true,
+      "len": 35,
+      "orig_text": "これっきりじゃ・・・\nないって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12519",
+      "translated": true,
+      "len": 23,
+      "orig_text": "約束・・・\nするよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12557",
+      "translated": true,
+      "len": 41,
+      "orig_text": "いつかまた、どこかで\n君と出会うって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "125cf",
+      "translated": true,
+      "len": 19,
+      "orig_text": "うん・・・\n約束する",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12609",
+      "translated": true,
+      "len": 35,
+      "orig_text": "絶対に会おうね\nいつか、絶対に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12660",
+      "translated": true,
+      "len": 23,
+      "orig_text": "約束・・・\nします・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1269e",
+      "translated": true,
+      "len": 41,
+      "orig_text": "いつかまた、どこかで\n出会いましょう・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "127d1",
+      "translated": true,
+      "len": 12,
+      "orig_text": "いやだよ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12804",
+      "translated": true,
+      "len": 33,
+      "orig_text": "あたし！あたし\n君と別れたくない！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1284c",
+      "translated": true,
+      "len": 53,
+      "orig_text": "だって！\nあたしの居場所は\n君の側にしか\nないんだもん！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12937",
+      "translated": true,
+      "len": 12,
+      "orig_text": "カシス・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12977",
+      "translated": true,
+      "len": 12,
+      "orig_text": "カシス・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "129d2",
+      "translated": true,
+      "len": 16,
+      "orig_text": "カシスさん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12a9e",
+      "translated": true,
+      "len": 14,
+      "orig_text": "約束・・・して",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12ad3",
+      "translated": true,
+      "len": 29,
+      "orig_text": "離れても\nまた会えるって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12b17",
+      "translated": true,
+      "len": 35,
+      "orig_text": "これっきりじゃ・・・\nないって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12c1a",
+      "translated": true,
+      "len": 23,
+      "orig_text": "約束・・・\nするよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12c58",
+      "translated": true,
+      "len": 41,
+      "orig_text": "いつかまた、どこかで\n君と出会うって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12cb5",
+      "translated": true,
+      "len": 27,
+      "orig_text": "ああ・・・\n約束するよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12cf7",
+      "translated": true,
+      "len": 41,
+      "orig_text": "いつかまた、どこかで\n君と出会うって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12d6f",
+      "translated": true,
+      "len": 27,
+      "orig_text": "約束・・・\nしましょう・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12db1",
+      "translated": true,
+      "len": 25,
+      "orig_text": "いつかまた\nどこかで・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12ed4",
+      "translated": true,
+      "len": 14,
+      "orig_text": "いやです・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12f09",
+      "translated": true,
+      "len": 39,
+      "orig_text": "お別れなんて・・・\nわたしできない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12f57",
+      "translated": true,
+      "len": 48,
+      "orig_text": "あなたがいて、\n私がいる・・・\nそれがわたしの真実",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "12fae",
+      "translated": true,
+      "len": 71,
+      "orig_text": "あなたの側に\nいられないなんて・・\nそんなの、死んでるの\nと同じです・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1307e",
+      "translated": true,
+      "len": 16,
+      "orig_text": "クラレット・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13117",
+      "translated": true,
+      "len": 27,
+      "orig_text": "わがままを\n言わせてください",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13159",
+      "translated": true,
+      "len": 54,
+      "orig_text": "離ればなれになっても\n私たちは・・・\nまた会えるって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "131b6",
+      "translated": true,
+      "len": 44,
+      "orig_text": "約束してください\n探し出して・・・\nくれるって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "132c2",
+      "translated": true,
+      "len": 23,
+      "orig_text": "約束・・・\nするよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13300",
+      "translated": true,
+      "len": 41,
+      "orig_text": "いつかまた、どこかで\n君と出会うって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1335d",
+      "translated": true,
+      "len": 27,
+      "orig_text": "ああ・・・\n約束するよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1339f",
+      "translated": true,
+      "len": 41,
+      "orig_text": "いつかまた、どこかで\n君と出会うって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "133fc",
+      "translated": true,
+      "len": 33,
+      "orig_text": "泣かないで・・・\n約束・・・するよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13444",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いつかまた、どこかで\n会おうね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13637",
+      "translated": true,
+      "len": 44,
+      "orig_text": "俺には\n守らなくちゃいけない\n約束があるんだ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1368a",
+      "translated": true,
+      "len": 35,
+      "orig_text": "待っていてくれる人が\nいるんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "136d4",
+      "translated": true,
+      "len": 54,
+      "orig_text": "だから・・・\nお前に負けるわけには\nいかないんだぁっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1373e",
+      "translated": true,
+      "len": 44,
+      "orig_text": "僕には\n守らなくちゃいけない\n約束があるんだ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13791",
+      "translated": true,
+      "len": 35,
+      "orig_text": "待っていてくれる人が\nいるんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "137db",
+      "translated": true,
+      "len": 48,
+      "orig_text": "だから・・・\nお前に負けるわけには\nいかないっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1383f",
+      "translated": true,
+      "len": 75,
+      "orig_text": "あたし、負けないよ\n信じてるから・・・\nガゼルがあたしを、\n守ってくれるから！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "138b1",
+      "translated": true,
+      "len": 33,
+      "orig_text": "あたしひとりじゃない\nだから・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "138f9",
+      "translated": true,
+      "len": 50,
+      "orig_text": "負けない・・・\nお前になんか！\n負けるわけないっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1395f",
+      "translated": true,
+      "len": 52,
+      "orig_text": "わたしには\n守らなくちゃいけない\n約束があります・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "139ba",
+      "translated": true,
+      "len": 31,
+      "orig_text": "待っていてくれる人が\nいる・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13a00",
+      "translated": true,
+      "len": 63,
+      "orig_text": "だから・・・\n負けるのは嫌です！\n・・・帰りなさい！\nサプレスへ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13b09",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ギャアアアアアッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13bde",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13c2a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "バノッサ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13c6c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "バノッサ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13cae",
+      "translated": true,
+      "len": 14,
+      "orig_text": "バノッサ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13cf0",
+      "translated": true,
+      "len": 18,
+      "orig_text": "バノッサさん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13e8c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "誓約者よ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13f42",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ううっ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13f82",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ううっ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13fc2",
+      "translated": true,
+      "len": 8,
+      "orig_text": "う・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13ffe",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1406c",
+      "translated": true,
+      "len": 20,
+      "orig_text": "目を覚ませ、誓約者よ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14152",
+      "translated": true,
+      "len": 29,
+      "orig_text": "俺は・・・\n勝ったのか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "141a3",
+      "translated": true,
+      "len": 29,
+      "orig_text": "僕は・・・\n勝ったのか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "141f4",
+      "translated": true,
+      "len": 29,
+      "orig_text": "あたし・・・\n勝ったの・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14245",
+      "translated": true,
+      "len": 31,
+      "orig_text": "わたしは・・・？\nここは・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "142cc",
+      "translated": true,
+      "len": 37,
+      "orig_text": "魔王はサプレスへと\nお前の手で帰された",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14318",
+      "translated": true,
+      "len": 16,
+      "orig_text": "お前は勝ったのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "143b4",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そうか・・・\n俺は勝ったのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "143fc",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1443e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そうか・・・\n僕は勝てたのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14486",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "144c8",
+      "translated": true,
+      "len": 29,
+      "orig_text": "そっか・・・\n勝ったんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1450c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1454e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そうか・・・\n勝ったんですね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14596",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1460c",
+      "translated": true,
+      "len": 63,
+      "orig_text": "それだけではない\nお前は、失われたはず\nの力をよみがえらせた\nのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14672",
+      "translated": true,
+      "len": 31,
+      "orig_text": "我は・・・\nサプレスのエルゴなり",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1477f",
+      "translated": true,
+      "len": 31,
+      "orig_text": "サプレスの・・・\nエルゴ・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "147fd",
+      "translated": true,
+      "len": 75,
+      "orig_text": "あの忌まわしい儀式が\n失敗した時、我が力は\nお前の中にとりこまれ\nたのだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1486f",
+      "translated": true,
+      "len": 71,
+      "orig_text": "お前が使ってきた力は\n我がサプレスの力\n我はずっと、お前と共\nにあったのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14942",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それじゃあ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14984",
+      "translated": true,
+      "len": 10,
+      "orig_text": "じゃあ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "149c2",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それじゃあ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14a04",
+      "translated": true,
+      "len": 20,
+      "orig_text": "じゃあわたしは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14a80",
+      "translated": true,
+      "len": 18,
+      "orig_text": "お前は魔王ではない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14ab9",
+      "translated": true,
+      "len": 39,
+      "orig_text": "我らが認めた、エルゴ\nの王にふさわしき者",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14b07",
+      "translated": true,
+      "len": 33,
+      "orig_text": "まぎれもない、\n誓約者なのだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14bde",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったのか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14c20",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったのか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14c62",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14ca4",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14d16",
+      "translated": true,
+      "len": 46,
+      "orig_text": "さあ、誓約者よ\nここに５つのエルゴは\n全て揃った",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14d6b",
+      "translated": true,
+      "len": 37,
+      "orig_text": "新たなる結界を紡ぐた\nめの準備は整った",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14db7",
+      "translated": true,
+      "len": 35,
+      "orig_text": "あとは、お前が望む\nだけでいい・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14e01",
+      "translated": true,
+      "len": 52,
+      "orig_text": "新たな誓約者の名の下\nに、新たな結界は完成\nするだろう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14f06",
+      "translated": true,
+      "len": 29,
+      "orig_text": "俺が・・・\n俺が望むのは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14f57",
+      "translated": true,
+      "len": 29,
+      "orig_text": "僕が・・・\n僕が望むのは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14fa8",
+      "translated": true,
+      "len": 31,
+      "orig_text": "あたし・・・\nあたしの望み・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14ffb",
+      "translated": true,
+      "len": 39,
+      "orig_text": "わたしが望むことは\nもう、決まっています",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1535b",
+      "translated": true,
+      "len": 4,
+      "orig_text": "っ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15431",
+      "translated": true,
+      "len": 16,
+      "orig_text": "う、ううん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15475",
+      "translated": true,
+      "len": 16,
+      "orig_text": "う、ううん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "154b9",
+      "translated": true,
+      "len": 16,
+      "orig_text": "う、ううん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "154fd",
+      "translated": true,
+      "len": 8,
+      "orig_text": "ん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "155b3",
+      "translated": true,
+      "len": 18,
+      "orig_text": "おお、気がついたか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1566a",
+      "translated": true,
+      "len": 18,
+      "orig_text": "心配させやがって！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15732",
+      "translated": true,
+      "len": 29,
+      "orig_text": "みんな・・・\n無事だったんだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15783",
+      "translated": true,
+      "len": 29,
+      "orig_text": "みんな・・・\n無事だったんだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "157d4",
+      "translated": true,
+      "len": 29,
+      "orig_text": "みんな・・・\n無事だったんだね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15825",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みなさん・・・\n無事だったんですね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "158f4",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ああ、無事だとも\nそれに、ほら・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15976",
+      "translated": true,
+      "len": 29,
+      "orig_text": "闇が・・・\n消えていく・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15a65",
+      "translated": true,
+      "len": 14,
+      "orig_text": "魔王は倒された",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15a9a",
+      "translated": true,
+      "len": 46,
+      "orig_text": "おまえが、世界を\n救ったんだ・・・\nおまえの力だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15b7a",
+      "translated": true,
+      "len": 18,
+      "orig_text": "魔王は倒されたんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15bb3",
+      "translated": true,
+      "len": 33,
+      "orig_text": "君の力が、世界を\n救ったんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15c86",
+      "translated": true,
+      "len": 18,
+      "orig_text": "魔王はやっつけたよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15cbf",
+      "translated": true,
+      "len": 35,
+      "orig_text": "君の力で、世界を\n救ったんだよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15d94",
+      "translated": true,
+      "len": 18,
+      "orig_text": "魔王は倒されました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15dcd",
+      "translated": true,
+      "len": 35,
+      "orig_text": "あなたが、世界を\n救ったんです・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15e85",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15eb8",
+      "translated": true,
+      "len": 75,
+      "orig_text": "俺が最後まであきらめ\nずにいられたのは、\nみんなが俺に力を貸し\nてくれたからさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15f2a",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15f7f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15fb2",
+      "translated": true,
+      "len": 75,
+      "orig_text": "僕が最後まであきらめ\nずにいられたのは、\nみんなが僕に力を貸し\nてくれたからだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16024",
+      "translated": true,
+      "len": 31,
+      "orig_text": "みんなの力が、\n世界を救ったんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16077",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは違うよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "160aa",
+      "translated": true,
+      "len": 69,
+      "orig_text": "あたしが最後まであき\nらめなかったのは、\nみんなが力を貸して\nくれたから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16116",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力が、\n世界を救ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1616b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それは違います",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "161a0",
+      "translated": true,
+      "len": 75,
+      "orig_text": "わたしが最後まであき\nらめなかったのは、\nみんなが力を貸して\nくれたから・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16212",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みんなの力で、\n世界を救ったんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16431",
+      "translated": true,
+      "len": 10,
+      "orig_text": "雪・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "164e0",
+      "translated": true,
+      "len": 50,
+      "orig_text": "いや、光だ！\n光の滴が、空から降り\n注いでいるんだ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "165e4",
+      "translated": true,
+      "len": 48,
+      "orig_text": "エルゴだよ\nエルゴの力が、結界を\n修復しているんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16648",
+      "translated": true,
+      "len": 48,
+      "orig_text": "エルゴだよ\nエルゴの力が、結界を\n修復しているんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "166ac",
+      "translated": true,
+      "len": 46,
+      "orig_text": "エルゴだよ\nエルゴの力が、結界を\n修復しているの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1670e",
+      "translated": true,
+      "len": 52,
+      "orig_text": "エルゴの力です\nエルゴの力で、結界を\n修復させています",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1681d",
+      "translated": true,
+      "len": 35,
+      "orig_text": "新しい結界を張ったん\nじゃないのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "168e7",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いろいろ考えたけど、\nそれはやめたよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1693e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "いろいろ考えたけど、\nそれはなし！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16993",
+      "translated": true,
+      "len": 27,
+      "orig_text": "それは・・・\nやめておきます",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16a16",
+      "translated": true,
+      "len": 69,
+      "orig_text": "どうしてだ？\n今のおまえなら召喚術\nを無効にできる結界も\n作れるのに！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16b2c",
+      "translated": true,
+      "len": 19,
+      "orig_text": "ソル\n僕は考えたんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16b66",
+      "translated": true,
+      "len": 77,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16be7",
+      "translated": true,
+      "len": 19,
+      "orig_text": "ソル\n思ったの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16c21",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかなって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16ca4",
+      "translated": true,
+      "len": 40,
+      "orig_text": "ソルさん\nわたしも・・・\n考えたんですよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16cf3",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかなって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16daa",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16e5b",
+      "translated": true,
+      "len": 46,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16eb0",
+      "translated": true,
+      "len": 75,
+      "orig_text": "召喚術という力は、\n使い方を間違えれば、\n世界を滅ぼしてしまう\nおそろしい力だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16f22",
+      "translated": true,
+      "len": 62,
+      "orig_text": "だけど、正しく使えば\nみんなに幸せをもたら\nしてくれる力でもある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16f87",
+      "translated": true,
+      "len": 54,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性のひとつなんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16fe4",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それを奪う権利なんて\n僕にはないと思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17041",
+      "translated": true,
+      "len": 42,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思う",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17092",
+      "translated": true,
+      "len": 75,
+      "orig_text": "召喚術ってさ・・・\n使い方を間違えれば、\n世界を滅ぼしちゃう\nくらいこわいんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17104",
+      "translated": true,
+      "len": 39,
+      "orig_text": "けど、正しく使えば\nみんなを幸せにできる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17152",
+      "translated": true,
+      "len": 48,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性のひとつ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "171a9",
+      "translated": true,
+      "len": 37,
+      "orig_text": "それを奪う権利なんて\nきっと誰にもない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17202",
+      "translated": true,
+      "len": 56,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\nわかりました・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17261",
+      "translated": true,
+      "len": 73,
+      "orig_text": "召喚術は・・・\n使い方を間違えれば、\n世界を滅ぼしかねない\n強い力です・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "172d1",
+      "translated": true,
+      "len": 39,
+      "orig_text": "けど、正しく使えば\nみんなを幸せにできる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1731f",
+      "translated": true,
+      "len": 48,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性のひとつ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17376",
+      "translated": true,
+      "len": 37,
+      "orig_text": "それを奪う権利なんて\nきっと誰にもない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17403",
+      "translated": true,
+      "len": 48,
+      "orig_text": "けど・・・\nきっとまた、人は同じ\n過ちを繰り返すぞ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17504",
+      "translated": true,
+      "len": 8,
+      "orig_text": "大丈夫さ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17533",
+      "translated": true,
+      "len": 69,
+      "orig_text": "どんな過ちだって、\n人と人とが力を合わせ\nれば、絶対に正すこと\nができる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1759f",
+      "translated": true,
+      "len": 50,
+      "orig_text": "僕たちは今、みんなで\nそれを証明したばかり\nだろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17605",
+      "translated": true,
+      "len": 8,
+      "orig_text": "大丈夫！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17634",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どんな過ちだって、\n人と人とが力を合わせ\nれば、絶対に正すこと\nができるんだから！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "176aa",
+      "translated": true,
+      "len": 42,
+      "orig_text": "みんなで今、\nそれを証明したばかり\nでしょ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17708",
+      "translated": true,
+      "len": 12,
+      "orig_text": "大丈夫ですよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1773b",
+      "translated": true,
+      "len": 31,
+      "orig_text": "みんなで証明\nしたじゃないですか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17781",
+      "translated": true,
+      "len": 52,
+      "orig_text": "力を合わせれば、\nどんな困難も克服\nできます・・・絶対",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17847",
+      "translated": true,
+      "len": 31,
+      "orig_text": "ああ・・・\n強いな・・・おまえは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17918",
+      "translated": true,
+      "len": 35,
+      "orig_text": "新しい結界を張ったん\nじゃないのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "179c7",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いろいろ考えたけど、\nそれはやめたよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17a39",
+      "translated": true,
+      "len": 33,
+      "orig_text": "いろいろ考えたけど、\nそれはなし！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17a8e",
+      "translated": true,
+      "len": 37,
+      "orig_text": "いろいろ考えたけど、\n・・・やめました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17b1b",
+      "translated": true,
+      "len": 73,
+      "orig_text": "どうしてなんだ？\n今の君になら、召喚術\nを無効にできる結界も\n作れるのに！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17bf0",
+      "translated": true,
+      "len": 23,
+      "orig_text": "キール\n俺は思ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17c2e",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかなって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17ccc",
+      "translated": true,
+      "len": 21,
+      "orig_text": "キール\n思ったの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17d08",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかなって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17d8b",
+      "translated": true,
+      "len": 40,
+      "orig_text": "キールさん\nわたしだって\n考えたんですよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17dda",
+      "translated": true,
+      "len": 77,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17e8f",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17f4f",
+      "translated": true,
+      "len": 46,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17fa4",
+      "translated": true,
+      "len": 75,
+      "orig_text": "召喚術という力は、\n使い方を間違えれば、\n世界を滅ぼしてしまう\nおそろしい力だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18016",
+      "translated": true,
+      "len": 62,
+      "orig_text": "けれど、正しく使えば\nみんなに幸せをもたら\nしてくれる力でもある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1807b",
+      "translated": true,
+      "len": 54,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性のひとつなんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "180d8",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それを奪う権利なんて\nきっと誰にもないのさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18150",
+      "translated": true,
+      "len": 42,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思う",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "181a1",
+      "translated": true,
+      "len": 75,
+      "orig_text": "召喚術ってさ・・・\n使い方を間違えれば、\n世界を滅ぼしちゃう\nくらいこわいんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18213",
+      "translated": true,
+      "len": 39,
+      "orig_text": "けど、正しく使えば\nみんなを幸せにできる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18261",
+      "translated": true,
+      "len": 48,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性のひとつ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "182b8",
+      "translated": true,
+      "len": 37,
+      "orig_text": "それを奪う権利なんて\nきっと誰にもない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18311",
+      "translated": true,
+      "len": 46,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思います",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18366",
+      "translated": true,
+      "len": 71,
+      "orig_text": "召喚術という力は、\n使い方を間違えれば、\n世界を滅ぼしかねない\n強い力です",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "183d4",
+      "translated": true,
+      "len": 62,
+      "orig_text": "けれど、正しく使えば\nみんなに幸せをもたら\nしてくれる力でもある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18439",
+      "translated": true,
+      "len": 54,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性なんです・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18496",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それを奪う権利なんて\nきっと誰にも・・・\nわたしにも、ないから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1853a",
+      "translated": true,
+      "len": 50,
+      "orig_text": "だけど・・・\nきっとまた、人は同じ\n過ちを繰り返すぞ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18622",
+      "translated": true,
+      "len": 10,
+      "orig_text": "大丈夫だよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18653",
+      "translated": true,
+      "len": 73,
+      "orig_text": "どんな過ちだって、\n人と人とが力を合わせ\nれば、絶対に正すこと\nができるんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "186c3",
+      "translated": true,
+      "len": 50,
+      "orig_text": "俺たちは今、みんなで\nそれを証明したばかり\nだろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18744",
+      "translated": true,
+      "len": 8,
+      "orig_text": "大丈夫！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18773",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どんな過ちだって、\n人と人とが力を合わせ\nれば、絶対に正すこと\nができるんだから！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "187e9",
+      "translated": true,
+      "len": 42,
+      "orig_text": "みんなで今、\nそれを証明したばかり\nでしょ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18847",
+      "translated": true,
+      "len": 12,
+      "orig_text": "いいんですよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1887a",
+      "translated": true,
+      "len": 33,
+      "orig_text": "今、証明した\nばかりじゃないですか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "188c2",
+      "translated": true,
+      "len": 60,
+      "orig_text": "どんな困難も、みんな\nで力をあわせれば、\n克服できます、絶対に",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18990",
+      "translated": true,
+      "len": 29,
+      "orig_text": "ああ・・・\nそうだったな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18a5f",
+      "translated": true,
+      "len": 33,
+      "orig_text": "新しい結界・・・\n張らなかったの？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18b0c",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いろいろ考えたけど、\nそれはやめたよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18b63",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いろいろ考えたけど、\nそれはやめたよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18bd5",
+      "translated": true,
+      "len": 50,
+      "orig_text": "いろいろ考えたけど、\nそれは・・・\nやめちゃいました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18c99",
+      "translated": true,
+      "len": 65,
+      "orig_text": "なんで？\n今の君になら、召喚術\nを無効にできる結界も\n作れるのに！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18d66",
+      "translated": true,
+      "len": 23,
+      "orig_text": "カシス\n俺は思ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18da4",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかなって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18e27",
+      "translated": true,
+      "len": 21,
+      "orig_text": "カシス\n僕は考えたんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18e63",
+      "translated": true,
+      "len": 77,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18eff",
+      "translated": true,
+      "len": 25,
+      "orig_text": "カシスさん\nわたし、思うの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18f3f",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19020",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "190e0",
+      "translated": true,
+      "len": 46,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19135",
+      "translated": true,
+      "len": 75,
+      "orig_text": "召喚術という力は、\n使い方を間違えれば、\n世界を滅ぼしてしまう\nおそろしい力だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "191a7",
+      "translated": true,
+      "len": 62,
+      "orig_text": "けれど、正しく使えば\nみんなに幸せをもたら\nしてくれる力でもある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1920c",
+      "translated": true,
+      "len": 54,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性のひとつなんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19269",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それを奪う権利なんて\nきっと誰にもないのさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "192c6",
+      "translated": true,
+      "len": 46,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1931b",
+      "translated": true,
+      "len": 75,
+      "orig_text": "召喚術という力は、\n使い方を間違えれば、\n世界を滅ぼしてしまう\nおそろしい力だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1938d",
+      "translated": true,
+      "len": 62,
+      "orig_text": "だけど、正しく使えば\nみんなに幸せをもたら\nしてくれる力でもある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "193f2",
+      "translated": true,
+      "len": 54,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性のひとつなんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1944f",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それを奪う権利なんて\n僕にはないと思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "194c7",
+      "translated": true,
+      "len": 56,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思ったんです・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19526",
+      "translated": true,
+      "len": 77,
+      "orig_text": "召喚術という力は、\n使い方を間違えれば、\n世界を滅ぼしてしまう\n強い力です・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1959a",
+      "translated": true,
+      "len": 62,
+      "orig_text": "けれど、正しく使えば\nみんなに幸せをもたら\nしてくれる力でもある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "195ff",
+      "translated": true,
+      "len": 71,
+      "orig_text": "召喚術は・・・\nほかの世界にはない、\nこのリィンバウムの\n可能性です・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1966d",
+      "translated": true,
+      "len": 58,
+      "orig_text": "それを奪う権利なんて\nきっと誰にも・・・\nわたしにもないって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1970f",
+      "translated": true,
+      "len": 44,
+      "orig_text": "だけど・・・\nまた、人は同じ\n過ちを繰り返すよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "197f1",
+      "translated": true,
+      "len": 10,
+      "orig_text": "大丈夫だよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19822",
+      "translated": true,
+      "len": 73,
+      "orig_text": "どんな過ちだって、\n人と人とが力を合わせ\nれば、絶対に正すこと\nができるんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19892",
+      "translated": true,
+      "len": 50,
+      "orig_text": "俺たちは今、みんなで\nそれを証明したばかり\nだろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "198f8",
+      "translated": true,
+      "len": 8,
+      "orig_text": "大丈夫さ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19927",
+      "translated": true,
+      "len": 69,
+      "orig_text": "どんな過ちだって、\n人と人とが力を合わせ\nれば、絶対に正すこと\nができる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19993",
+      "translated": true,
+      "len": 50,
+      "orig_text": "僕たちは今、みんなで\nそれを証明したばかり\nだろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19a14",
+      "translated": true,
+      "len": 10,
+      "orig_text": "平気ですよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19a45",
+      "translated": true,
+      "len": 59,
+      "orig_text": "わたしたちは、\nそれを証明した\nばかりじゃ\nありませんか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19aa7",
+      "translated": true,
+      "len": 69,
+      "orig_text": "どんな困難も、みんな\nが協力すれば・・・\n乗り越えられます\n・・・絶対に",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19b7e",
+      "translated": true,
+      "len": 29,
+      "orig_text": "うん・・・\nそうだったね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19c4d",
+      "translated": true,
+      "len": 39,
+      "orig_text": "新しい結界を張ったの\nではないのですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19d00",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いろいろ考えたけど、\nそれはやめたよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19d57",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いろいろ考えたけど、\nそれはやめたよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19dae",
+      "translated": true,
+      "len": 44,
+      "orig_text": "いろいろ考えてみた\n・・・でも、\nそれはなし！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19e5d",
+      "translated": true,
+      "len": 69,
+      "orig_text": "なぜですか？\nあなたになら、召喚術\nを無効にできる結界も\n作れるのに！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19f2e",
+      "translated": true,
+      "len": 27,
+      "orig_text": "クラレット\n俺は思ったんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19f70",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかなって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19ff3",
+      "translated": true,
+      "len": 25,
+      "orig_text": "クラレット\n僕は考えたんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a033",
+      "translated": true,
+      "len": 77,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a0b4",
+      "translated": true,
+      "len": 27,
+      "orig_text": "クラレット\nあたし、思ったの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a0f6",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どうして先代の誓約者\nは、最初から召喚術の\n使えない結界を作らな\nかったのかなって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a1f2",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a2b2",
+      "translated": true,
+      "len": 46,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a307",
+      "translated": true,
+      "len": 75,
+      "orig_text": "召喚術という力は、\n使い方を間違えれば、\n世界を滅ぼしてしまう\nおそろしい力だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a379",
+      "translated": true,
+      "len": 62,
+      "orig_text": "けれど、正しく使えば\nみんなに幸せをもたら\nしてくれる力でもある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a3de",
+      "translated": true,
+      "len": 54,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性のひとつなんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a43b",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それを奪う権利なんて\nきっと誰にもないのさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a498",
+      "translated": true,
+      "len": 46,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a4ed",
+      "translated": true,
+      "len": 75,
+      "orig_text": "召喚術という力は、\n使い方を間違えれば、\n世界を滅ぼしてしまう\nおそろしい力だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a55f",
+      "translated": true,
+      "len": 62,
+      "orig_text": "だけど、正しく使えば\nみんなに幸せをもたら\nしてくれる力でもある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a5c4",
+      "translated": true,
+      "len": 54,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性のひとつなんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a62e",
+      "translated": true,
+      "len": 42,
+      "orig_text": "彼はきっと・・・\nわざとそうしたんだと\n思う",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a67f",
+      "translated": true,
+      "len": 71,
+      "orig_text": "召喚術ってね\n使い方を間違えれば、\n世界を滅ぼしちゃう\nおそろしい力なんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a6ed",
+      "translated": true,
+      "len": 46,
+      "orig_text": "でもさ、正しく使えば\nみんなを幸せに\nしてくれる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a742",
+      "translated": true,
+      "len": 48,
+      "orig_text": "召喚術は・・・\nこのリィンバウムの\n可能性のひとつ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a799",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それを奪う権利なんて\nきっと誰にもないよね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a845",
+      "translated": true,
+      "len": 50,
+      "orig_text": "でも・・・\nきっとまた、人は同じ\n過ちを繰り返します",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a92d",
+      "translated": true,
+      "len": 10,
+      "orig_text": "大丈夫だよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a95e",
+      "translated": true,
+      "len": 73,
+      "orig_text": "どんな過ちだって、\n人と人とが力を合わせ\nれば、絶対に正すこと\nができるんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a9ce",
+      "translated": true,
+      "len": 50,
+      "orig_text": "俺たちは今、みんなで\nそれを証明したばかり\nだろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1aa34",
+      "translated": true,
+      "len": 8,
+      "orig_text": "大丈夫さ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1aa63",
+      "translated": true,
+      "len": 69,
+      "orig_text": "どんな過ちだって、\n人と人とが力を合わせ\nれば、絶対に正すこと\nができる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1aacf",
+      "translated": true,
+      "len": 50,
+      "orig_text": "僕たちは今、みんなで\nそれを証明したばかり\nだろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ab35",
+      "translated": true,
+      "len": 14,
+      "orig_text": "大丈夫だって！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ab6a",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どんな過ちだって、\n人と人とが力を合わせ\nれば、絶対に正すこと\nができるんだから！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1abe0",
+      "translated": true,
+      "len": 50,
+      "orig_text": "あたしたち、たった今\nそれを証明したばかり\nでしょ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1acbf",
+      "translated": true,
+      "len": 29,
+      "orig_text": "ええ・・・\nそうでしたね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ada6",
+      "translated": true,
+      "len": 18,
+      "orig_text": "まーすーたーっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ae79",
+      "translated": true,
+      "len": 20,
+      "orig_text": "はははっ、呼んでるぞ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1af4e",
+      "translated": true,
+      "len": 35,
+      "orig_text": "小難しい話なんか後で\nいいじゃねえか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1af98",
+      "translated": true,
+      "len": 41,
+      "orig_text": "早いとこ、お前の元気\nなツラを見せてやれよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b077",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ああ、そうだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b0ac",
+      "translated": true,
+      "len": 29,
+      "orig_text": "そして・・・\nみんなで帰ろう！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b0f0",
+      "translated": true,
+      "len": 31,
+      "orig_text": "俺たちの家へ\n帰るべき場所へ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b143",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ああ、そうだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b178",
+      "translated": true,
+      "len": 29,
+      "orig_text": "そして・・・\nみんなで帰ろう！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b1bc",
+      "translated": true,
+      "len": 31,
+      "orig_text": "僕たちの家へ\n帰るべき場所へ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b20f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・うん！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b242",
+      "translated": true,
+      "len": 31,
+      "orig_text": "みんな・・・\nみんなで帰ろうよ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b288",
+      "translated": true,
+      "len": 42,
+      "orig_text": "あたしたちの家、\n帰るべき\n場所へ・・・ね！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b2e6",
+      "translated": true,
+      "len": 8,
+      "orig_text": "あ、はい",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b315",
+      "translated": true,
+      "len": 35,
+      "orig_text": "みんなで・・・\nみんなで帰ろう・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b35f",
+      "translated": true,
+      "len": 52,
+      "orig_text": "わたしたちの家へ\n待っててくれるひとの\nところへ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b51e",
+      "translated": true,
+      "len": 39,
+      "orig_text": "これで終わりだ・・・\n終わらせるんだ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b56c",
+      "translated": true,
+      "len": 58,
+      "orig_text": "誓約者の名の下に\nお前の世界へと帰れ！\nサプレスの魔王よ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b5da",
+      "translated": true,
+      "len": 39,
+      "orig_text": "これで終わりだ・・・\n終わらせるんだ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b628",
+      "translated": true,
+      "len": 58,
+      "orig_text": "誓約者の名の下に\nお前の世界へと帰れ！\nサプレスの魔王よ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b696",
+      "translated": true,
+      "len": 33,
+      "orig_text": "これで・・・！\n終わらせるんだ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b6de",
+      "translated": true,
+      "len": 58,
+      "orig_text": "誓約者の名の下に\nお前の世界へと帰れ！\nサプレスの魔王ォ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b74c",
+      "translated": true,
+      "len": 31,
+      "orig_text": "これで終わりです\n終わらせます！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b792",
+      "translated": true,
+      "len": 69,
+      "orig_text": "誓約者の名の下に\n・・サプレスの魔王は\n・・・自分の世界に\n帰りなさい！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b8a1",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ギャアアアアアッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b976",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b9c2",
+      "translated": true,
+      "len": 14,
+      "orig_text": "バノッサ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ba04",
+      "translated": true,
+      "len": 14,
+      "orig_text": "バノッサ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ba46",
+      "translated": true,
+      "len": 14,
+      "orig_text": "バノッサ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ba88",
+      "translated": true,
+      "len": 18,
+      "orig_text": "バノッサさん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bc24",
+      "translated": true,
+      "len": 14,
+      "orig_text": "誓約者よ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bcad",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ううっ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bd18",
+      "translated": true,
+      "len": 20,
+      "orig_text": "目を覚ませ、誓約者よ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bdfe",
+      "translated": true,
+      "len": 29,
+      "orig_text": "俺は・・・\n勝ったのか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1be4f",
+      "translated": true,
+      "len": 29,
+      "orig_text": "僕は・・・\n勝ったのか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bea0",
+      "translated": true,
+      "len": 29,
+      "orig_text": "あたし・・・\n勝ったの・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bef1",
+      "translated": true,
+      "len": 29,
+      "orig_text": "ここは・・・\n魔王は・・・！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bf76",
+      "translated": true,
+      "len": 37,
+      "orig_text": "魔王はサプレスへと\nお前の手で帰された",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bfc2",
+      "translated": true,
+      "len": 16,
+      "orig_text": "お前は勝ったのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c05e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そうか・・・\n俺は勝ったのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c0a6",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c0e8",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そうか・・・\n僕は勝てたのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c130",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c172",
+      "translated": true,
+      "len": 29,
+      "orig_text": "そっか・・・\n勝ったんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c1b6",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c1f8",
+      "translated": true,
+      "len": 29,
+      "orig_text": "そうですか・・・\n勝って・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c23c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "よかった・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c2b2",
+      "translated": true,
+      "len": 63,
+      "orig_text": "それだけではない\nお前は、失われたはず\nの力をよみがえらせた\nのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c318",
+      "translated": true,
+      "len": 31,
+      "orig_text": "我は・・・\nサプレスのエルゴなり",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c425",
+      "translated": true,
+      "len": 31,
+      "orig_text": "サプレスの・・・\nエルゴ・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c4a3",
+      "translated": true,
+      "len": 75,
+      "orig_text": "あの忌まわしい儀式が\n失敗した時、我が力は\nお前の中にとりこまれ\nたのだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c515",
+      "translated": true,
+      "len": 71,
+      "orig_text": "お前が使ってきた力は\n我がサプレスの力\n我はずっと、お前と\n共にあったのだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c5e8",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それじゃあ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c62a",
+      "translated": true,
+      "len": 10,
+      "orig_text": "じゃあ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c668",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それじゃあ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c6aa",
+      "translated": true,
+      "len": 20,
+      "orig_text": "じゃあ、わたし・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c726",
+      "translated": true,
+      "len": 18,
+      "orig_text": "お前は魔王ではない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c75f",
+      "translated": true,
+      "len": 39,
+      "orig_text": "我らが認めた、エルゴ\nの王にふさわしき者",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c7ad",
+      "translated": true,
+      "len": 33,
+      "orig_text": "まぎれもない、\n誓約者なのだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c884",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったのか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c8c6",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そうだったのか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c908",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そうだっんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c948",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c9b6",
+      "translated": true,
+      "len": 46,
+      "orig_text": "さあ、誓約者よ\nここに５つのエルゴは\n全て揃った",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ca0b",
+      "translated": true,
+      "len": 37,
+      "orig_text": "新たなる結界を紡ぐた\nめの準備は整った",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ca57",
+      "translated": true,
+      "len": 35,
+      "orig_text": "あとは、お前が望む\nだけでいい・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1caa1",
+      "translated": true,
+      "len": 52,
+      "orig_text": "新たな誓約者の名の下\nに、新たな結界は完成\nするだろう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cb61",
+      "translated": true,
+      "len": 40,
+      "orig_text": "いや・・・\nまだ、準備は終わって\nいないよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cbbd",
+      "translated": true,
+      "len": 38,
+      "orig_text": "いや・・・\nまだ、準備は終わって\nいない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cc17",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ううん・・・\nまだ、準備は終わって\nいない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cc79",
+      "translated": true,
+      "len": 48,
+      "orig_text": "いいえ・・・\nまだ、準備は終わって\nいません・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cd11",
+      "translated": true,
+      "len": 25,
+      "orig_text": "どういうことだ？\n誓約者よ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cde0",
+      "translated": true,
+      "len": 60,
+      "orig_text": "俺はこの世界に来て、\n召喚術にまつわるもの\nをたくさん見てきた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ce43",
+      "translated": true,
+      "len": 73,
+      "orig_text": "召喚術によってもたら\nされる幸せも、悲しみ\nも、いろいろな形で\n俺は見てきた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ceb3",
+      "translated": true,
+      "len": 69,
+      "orig_text": "そして思ったんだ\n今のこの世界に、\n本当に召喚術が必要\nなのかって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cf1f",
+      "translated": true,
+      "len": 39,
+      "orig_text": "俺はまだ、その答えを\n出せていないんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cf6d",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それを見つけるまでは\n俺は本当の誓約者とは\nいえないと思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cfd0",
+      "translated": true,
+      "len": 42,
+      "orig_text": "だから・・・\n俺はたしかめなくちゃ\nいけない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d021",
+      "translated": true,
+      "len": 52,
+      "orig_text": "召喚術の意味を！\nそして、この世界の\n本当の価値を！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d07c",
+      "translated": true,
+      "len": 58,
+      "orig_text": "新しい結界を作り出す\nためには、どうしても\nそれが必要なんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d0ea",
+      "translated": true,
+      "len": 60,
+      "orig_text": "僕はこの世界に来て、\n召喚術にまつわるもの\nをたくさん見てきた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d14d",
+      "translated": true,
+      "len": 73,
+      "orig_text": "召喚術によってもたら\nされる幸せも、悲しみ\nも、いろいろな形で僕\nは見てきた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d1bd",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そして思った\n今のこの世界に、本当\nに召喚術が必要なもの\nなのだろうか、と",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d22b",
+      "translated": true,
+      "len": 39,
+      "orig_text": "その答えを、僕はまだ\n見つけられていない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d279",
+      "translated": true,
+      "len": 56,
+      "orig_text": "それを見つけるまでは\n僕は本当の誓約者とは\nいえないと思う",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d2d8",
+      "translated": true,
+      "len": 44,
+      "orig_text": "だから・・・\n僕はたしかめてみたい\nと思うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d32b",
+      "translated": true,
+      "len": 58,
+      "orig_text": "召喚術の意味を・・・\nそして、この世界の\n本当の価値を・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d38c",
+      "translated": true,
+      "len": 56,
+      "orig_text": "新しい結界を作るのは\nそれからでも遅くはな\nいと思うんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d3f8",
+      "translated": true,
+      "len": 63,
+      "orig_text": "あたし・・・\nこの世界で\n召喚術にまつわるもの\nをたくさん見てきた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d45e",
+      "translated": true,
+      "len": 71,
+      "orig_text": "召喚術によってもたら\nされる幸せも、悲しみ\nも、いろいろな形で\n見てきたの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d4cc",
+      "translated": true,
+      "len": 69,
+      "orig_text": "そして思ったんだ\n今のこの世界に、\n本当に召喚術が必要\nなのかって・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d538",
+      "translated": true,
+      "len": 42,
+      "orig_text": "あたしまだ\n答えを・・・\n出せていないんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d589",
+      "translated": true,
+      "len": 73,
+      "orig_text": "それを見つけるまでは\nあたし、本当の誓約者\nじゃない・・・\nそう思うの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d5f9",
+      "translated": true,
+      "len": 42,
+      "orig_text": "だから・・・\nあたし確かめなくちゃ\nいけない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d64a",
+      "translated": true,
+      "len": 52,
+      "orig_text": "召喚術の意味を！\nそして、この世界の\n本当の価値を！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d6a5",
+      "translated": true,
+      "len": 58,
+      "orig_text": "新しい結界を作り出す\nためには、どうしても\nそれが必要なの！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d713",
+      "translated": true,
+      "len": 58,
+      "orig_text": "わたしはこの世界で、\n召喚術とそれを使う\n人々を見てきました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d774",
+      "translated": true,
+      "len": 79,
+      "orig_text": "召喚術によってもたら\nされる幸せも、悲しみ\nも、いろいろな形で\n存在しました・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d7ea",
+      "translated": true,
+      "len": 56,
+      "orig_text": "召喚術は必要なのか？\n本当に、この世界に\n必要なのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d849",
+      "translated": true,
+      "len": 46,
+      "orig_text": "まだ、わからない\nんです・・・\nわたしには・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d89e",
+      "translated": true,
+      "len": 75,
+      "orig_text": "それを見つけるまでは\nわたし、誓約者の名を\n受け継ぐわけには\nいきません・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d910",
+      "translated": true,
+      "len": 65,
+      "orig_text": "確かめて・・・\n答えをだすこと\nそれが、準備だと\n思っています・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d978",
+      "translated": true,
+      "len": 54,
+      "orig_text": "召喚術の意味・・・\nそして、この世界の\n本当の価値・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d9d5",
+      "translated": true,
+      "len": 67,
+      "orig_text": "新しい結界を作り出す\nために、どうしても\n知っておきたいこと\nなんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1da80",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ならば・・・\nたしかめるがよかろう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1dac8",
+      "translated": true,
+      "len": 37,
+      "orig_text": "お前はすでに、我らと\n誓約を交わした者",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1db14",
+      "translated": true,
+      "len": 41,
+      "orig_text": "我らの力をどのように\n使うも、お前の自由だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1db64",
+      "translated": true,
+      "len": 16,
+      "orig_text": "だが、いいのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1db9b",
+      "translated": true,
+      "len": 71,
+      "orig_text": "お前が見つけようとし\nている答えは、簡単に\n見つかるものでは\nないのだぞ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1dc6e",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・わかってる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1dcb2",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・わかってるさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1dcf8",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・わかってる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1dd3c",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・はい",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ddae",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ならば、行くがいい\nお前の信じた道を！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ddfc",
+      "translated": true,
+      "len": 33,
+      "orig_text": "お前が信じる\n仲間たちと共に・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1deea",
+      "translated": true,
+      "len": 30,
+      "orig_text": "　そして、俺は帰ってきたんだ。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1df80",
+      "translated": true,
+      "len": 99,
+      "orig_text": "　何もかもがそのままだった。\n　俺は制服のまま、夕暮れの\n　公園でぼんやりと\n　立ちつくしていたんだ。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e05c",
+      "translated": true,
+      "len": 90,
+      "orig_text": "　夢でも見たっていうのか？\n　でも、リィンバウムでの日々は\n　俺の心にはっきり刻まれている。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e12f",
+      "translated": true,
+      "len": 57,
+      "orig_text": "　夕闇に風が吹いて、頬に\n　ひんやりとした冷たさを感じた。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e1e1",
+      "translated": true,
+      "len": 45,
+      "orig_text": "　あれ・・・？\n　俺、どうして泣いているんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e287",
+      "translated": true,
+      "len": 89,
+      "orig_text": "　いつもと変わりない\n　毎日が始まる。\n　ただ、俺はちょっとだけ\n　変わったのかも知れない。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e359",
+      "translated": true,
+      "len": 86,
+      "orig_text": "　こうやって一人で、いろいろな\n　ことを考える時間が増えた。\n　そして、俺は問いかける。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e428",
+      "translated": true,
+      "len": 88,
+      "orig_text": "　なあ、俺、がんばってるかな？\n　お前に胸を張って言えるぐらい\n　がんばって生きてるかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e4f9",
+      "translated": true,
+      "len": 59,
+      "orig_text": "　心を澄ませば、またあの声が\n　聞こえてくるような気がする。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e5ae",
+      "translated": true,
+      "len": 24,
+      "orig_text": "　　　　会いたい・・・。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e640",
+      "translated": true,
+      "len": 28,
+      "orig_text": "　もう一度、お前に会いたい！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e6f1",
+      "translated": true,
+      "len": 26,
+      "orig_text": "　そして、僕は帰ってきた。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e783",
+      "translated": true,
+      "len": 103,
+      "orig_text": "　何もかもがそのままだった。\n　僕は制服のまま、あの夕暮れの\n　公園でぼんやりと\n　立ちつくしていたんだ。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e863",
+      "translated": true,
+      "len": 97,
+      "orig_text": "　夢でも見ていたんだろうか？\n　でも、リィンバウムでの日々は\n　僕の心にはっきりと\n　刻まれている。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e93d",
+      "translated": true,
+      "len": 57,
+      "orig_text": "　夕闇に風が吹いて、頬に\n　ひんやりとした冷たさを感じた。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e9ef",
+      "translated": true,
+      "len": 45,
+      "orig_text": "　あ・・・？\n　どうして、僕は泣いているんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ea95",
+      "translated": true,
+      "len": 99,
+      "orig_text": "　いつもと同じ毎日が始まった。\n　僕は前よりも、\n　クラスメイトとうちとけて\n　話をするようになった。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1eb71",
+      "translated": true,
+      "len": 70,
+      "orig_text": "　それは多分、本当の\n　友達というものを知ったから\n　なのかもしれない。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ec30",
+      "translated": true,
+      "len": 59,
+      "orig_text": "　人を信じることの大切さを、\n　知ったせいなのかもしれない。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ece4",
+      "translated": true,
+      "len": 72,
+      "orig_text": "　ありがとう・・・\n　どうやら僕も、自分の居場所を\n　見つけられそうだよ。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1eda5",
+      "translated": true,
+      "len": 66,
+      "orig_text": "　遠い世界の君へと呼びかける。\n　届くはずのない声に\n　心を澄ます。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ee61",
+      "translated": true,
+      "len": 24,
+      "orig_text": "　　　　会いたい・・・。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1eef3",
+      "translated": true,
+      "len": 28,
+      "orig_text": "　もう一度、お前に会いたい！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1efa4",
+      "translated": true,
+      "len": 30,
+      "orig_text": "　そして、あたしは帰ってきた。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f03a",
+      "translated": true,
+      "len": 101,
+      "orig_text": "　何もかもがそのままだった。\n　あたしは制服のまま、\n　夕暮れの公園でぼんやり\n　立ちつくしていたんだ。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f117",
+      "translated": true,
+      "len": 99,
+      "orig_text": "　夢でも見ていたっていうの？\n　でも、リィンバウムでの日々は\n　あたしの心にはっきり\n　刻まれている。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f1f3",
+      "translated": true,
+      "len": 57,
+      "orig_text": "　夕闇に風が吹いて、頬に\n　ひんやりとした冷たさを感じた。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f2a5",
+      "translated": true,
+      "len": 56,
+      "orig_text": "　あれ・・・？\n　あたし・・・\n　どうして泣いてるのかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f356",
+      "translated": true,
+      "len": 93,
+      "orig_text": "　いつもと変わりない\n　毎日が始まる。\n　ただ、あたしはちょっとだけ\n　変わったのかも知れない。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f42b",
+      "translated": true,
+      "len": 105,
+      "orig_text": "　友達とおしゃべりする時間が\n　少しだけ減って、\n　一人でいる時間ができた。\n　そして、あたしは問いかける。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f50d",
+      "translated": true,
+      "len": 78,
+      "orig_text": "　あたし、がんばってるかな？\n　あなたに恥ずかしくないように\n　生きているかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f5d4",
+      "translated": true,
+      "len": 59,
+      "orig_text": "　心を澄ませば、またあの声が\n　聞こえてくるような気がして。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f689",
+      "translated": true,
+      "len": 24,
+      "orig_text": "　　　　会いたい・・・。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f71b",
+      "translated": true,
+      "len": 30,
+      "orig_text": "　もう一度、あなたに会いたい！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f7ce",
+      "translated": true,
+      "len": 30,
+      "orig_text": "　そして、私は帰ってきました。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f864",
+      "translated": true,
+      "len": 103,
+      "orig_text": "　何もかもがそのままでした。\n　私は制服のまま、\n　あの夕暮れの公園でぼんやり\n　立ちつくしていたんです。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f943",
+      "translated": true,
+      "len": 97,
+      "orig_text": "　夢でも見ていたのかしら？\n　でも、リィンバウムでの日々は\n　私の心にはっきりと\n　刻まれています。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fa1d",
+      "translated": true,
+      "len": 64,
+      "orig_text": "　夕闇に風が吹いて、\n　頬にひんやりとした冷たさを\n　感じました。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fad6",
+      "translated": true,
+      "len": 45,
+      "orig_text": "　あれ・・・？\n　どうして、涙が止まらないの？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fb7c",
+      "translated": true,
+      "len": 94,
+      "orig_text": "　いつもと同じ毎日が始まります。\n　私はほんの少し、前より明るく\n　なれたような気がしています。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fc53",
+      "translated": true,
+      "len": 84,
+      "orig_text": "　それはきっと、みんなと\n　出会うことができたおかげ。\n　貴方と出会えたおかげ・・・。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fd20",
+      "translated": true,
+      "len": 51,
+      "orig_text": "　ありがとう・・・私は\n　この場所で元気でいますよ。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fdcc",
+      "translated": true,
+      "len": 68,
+      "orig_text": "　目を閉じ、心を澄ませて、\n　届くはずのない声に\n　私は耳を傾けます。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fe8a",
+      "translated": true,
+      "len": 24,
+      "orig_text": "　　　　会いたい・・・。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ff1c",
+      "translated": true,
+      "len": 30,
+      "orig_text": "　もう一度、あなたに会いたい！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20037",
+      "translated": true,
+      "len": 70,
+      "orig_text": "　あれからどれぐらい\n　たっただろう？\n　いくつもの問題や戦いを越えて。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "200f6",
+      "translated": true,
+      "len": 49,
+      "orig_text": "　まだ、俺は答えを出せずにいる。\n　だけど・・・。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "201a1",
+      "translated": true,
+      "len": 129,
+      "orig_text": "いつかはきっと見つけてみせる。\n　だって、俺は一人じゃないんだ。\n　頼りになる仲間が側にいてくれる\n　だから、きっと見つけてみせる。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2029b",
+      "translated": true,
+      "len": 64,
+      "orig_text": "　これがそうだ、と\n　胸を張って言える\n　俺だけの答えってヤツを！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2036f",
+      "translated": true,
+      "len": 80,
+      "orig_text": "　あれからもう、どれぐらい\n　たったのだろうか？\n　いくつもの問題や戦いを越えて。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20439",
+      "translated": true,
+      "len": 32,
+      "orig_text": "　僕はまだ、答えを出せずにいる。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "204d1",
+      "translated": true,
+      "len": 125,
+      "orig_text": "　でも、あきらめたりはしない。\n　僕は一人じゃないのだから。\n　頼りになる仲間が側にいてくれる\n　だから、きっと見つけてみせる。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "205c7",
+      "translated": true,
+      "len": 51,
+      "orig_text": "　誓約者として、僕が\n　導いていく未来の形を・・・。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2068e",
+      "translated": true,
+      "len": 70,
+      "orig_text": "　あれからどれぐらい\n　たったのかな？\n　いくつもの問題や戦いを越えて。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2074d",
+      "translated": true,
+      "len": 49,
+      "orig_text": "　まだあたしは答えを出せてない。\n　でもね・・・。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "207f6",
+      "translated": true,
+      "len": 138,
+      "orig_text": "　いつかはきっと見つけてみせる。\n　だって、あたしは一人じゃない。\n　頼りになる仲間が側に\n　いてくれる。だから、きっと\n　見つかるはずだよ。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "208f9",
+      "translated": true,
+      "len": 55,
+      "orig_text": "　みんなが幸せになれる、\n　とっておきの答えが・・・ね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "209c4",
+      "translated": true,
+      "len": 82,
+      "orig_text": "　あれからもう、\n　どれぐらいたったのでしょうか？\n　いくつもの問題や戦いを越えて。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20a90",
+      "translated": true,
+      "len": 32,
+      "orig_text": "　私はまだ答えを出せずにいます。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20b11",
+      "translated": true,
+      "len": 137,
+      "orig_text": "でも、\n　いつかは見つかるはずです。\n　だって、私は一人じゃないから。\n　頼りになる仲間が側に\n　いてくれる。\n　だから、きっと見つけられる。",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20c14",
+      "translated": true,
+      "len": 32,
+      "orig_text": "　私は・・そう信じています・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    }
+  ]
+}

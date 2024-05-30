@@ -1,0 +1,2732 @@
+{
+  "md5": "57f606161125a95353677889a4b6e9fb",
+  "blocks": [
+    {
+      "offset": "6e18",
+      "translated": true,
+      "len": 29,
+      "orig_text": "なるほど\n父親の仇討ちか・・・",
+      "translated_text": "I see.\nAvenging your father...",
+      "translated_text_zh": "原来如此。\n为父报仇吗...",
+      "note": ""
+    },
+    {
+      "offset": "6e94",
+      "translated": true,
+      "len": 54,
+      "orig_text": "しかし、あそこの森に\nそんな凶暴な獣がいる\nとは初耳だぞ",
+      "translated_text": "But this is the first\nI've heard of such a\nfearsome beast being in\nthat forest.",
+      "translated_text_zh": "可是，我第一次\n听说那片森林\n里有那么凶猛\n的野兽。",
+      "note": ""
+    },
+    {
+      "offset": "6f6f",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ガレフの縄張りは\n森のずっと奥なんです",
+      "translated_text": "Galef's territory is\ndeep in the forest.",
+      "translated_text_zh": "加雷夫的地盘\n在森林深处。",
+      "note": ""
+    },
+    {
+      "offset": "6fbb",
+      "translated": true,
+      "len": 48,
+      "orig_text": "ですから普通の人は、\nまず出会うことは\nありません",
+      "translated_text": "So ordinary people\nwould never encounter\nit.",
+      "translated_text_zh": "所以普通人\n基本不会遇到它。",
+      "note": ""
+    },
+    {
+      "offset": "7090",
+      "translated": true,
+      "len": 37,
+      "orig_text": "でもよ、今もそうとは\n限らねえんだろ？",
+      "translated_text": "But you can't say that\nfor sure now, can you?",
+      "translated_text_zh": "可是现在可就\n说不准了吧？",
+      "note": ""
+    },
+    {
+      "offset": "7114",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ええ・・・",
+      "translated_text": "Yes...",
+      "translated_text_zh": "是啊...",
+      "note": ""
+    },
+    {
+      "offset": "717d",
+      "translated": true,
+      "len": 56,
+      "orig_text": "まあ、あそこの森には\n薪とか拾いに行ったり\nもしてるからな",
+      "translated_text": "Well, we do go to that\nforest to gather\nfirewood and stuff.",
+      "translated_text_zh": "我们也去那片\n森林里捡柴火\n什么的。",
+      "note": ""
+    },
+    {
+      "offset": "71dc",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そんな奴がうろうろし\nてたんじゃ困るぜ",
+      "translated_text": "It'd be a problem if\nsomething like that was\nroaming around.",
+      "translated_text_zh": "如果那种家伙\n在附近徘徊\n就麻烦了。",
+      "note": ""
+    },
+    {
+      "offset": "72d3",
+      "translated": true,
+      "len": 16,
+      "orig_text": "それじゃあ・・・",
+      "translated_text": "In that case...",
+      "translated_text_zh": "既然如此...",
+      "note": ""
+    },
+    {
+      "offset": "7317",
+      "translated": true,
+      "len": 12,
+      "orig_text": "じゃあ・・・",
+      "translated_text": "Then...",
+      "translated_text_zh": "那么...",
+      "note": ""
+    },
+    {
+      "offset": "7357",
+      "translated": true,
+      "len": 16,
+      "orig_text": "それじゃあ・・・",
+      "translated_text": "In that case...",
+      "translated_text_zh": "既然如此...",
+      "note": ""
+    },
+    {
+      "offset": "739b",
+      "translated": true,
+      "len": 16,
+      "orig_text": "それじゃあ・・・",
+      "translated_text": "In that case...",
+      "translated_text_zh": "既然如此...",
+      "note": ""
+    },
+    {
+      "offset": "7459",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ああ、私たちにできる\nことでいいなら\n手を貸すよ",
+      "translated_text": "Yeah, we'll lend you\na hand if there's\nanything we can do.",
+      "translated_text_zh": "嗯，如果我们\n能帮上忙，\n就帮帮你吧。",
+      "note": ""
+    },
+    {
+      "offset": "753d",
+      "translated": true,
+      "len": 21,
+      "orig_text": "よかったな\nスウォン？",
+      "translated_text": "That's good,\nSworn?",
+      "translated_text_zh": "太好了，\n斯沃恩？",
+      "note": ""
+    },
+    {
+      "offset": "7586",
+      "translated": true,
+      "len": 21,
+      "orig_text": "よかったな\nスウォン？",
+      "translated_text": "That's good,\nSworn?",
+      "translated_text_zh": "太好了，\n斯沃恩？",
+      "note": ""
+    },
+    {
+      "offset": "75cf",
+      "translated": true,
+      "len": 21,
+      "orig_text": "よかったね\nスウォン？",
+      "translated_text": "That's good,\nSworn?",
+      "translated_text_zh": "太好了，\n斯沃恩？",
+      "note": ""
+    },
+    {
+      "offset": "7618",
+      "translated": true,
+      "len": 25,
+      "orig_text": "よかったね\nスウォンくん？",
+      "translated_text": "That's good,\nSworn-kun?",
+      "translated_text_zh": "太好了，\n斯沃恩君？",
+      "note": ""
+    },
+    {
+      "offset": "76df",
+      "translated": true,
+      "len": 31,
+      "orig_text": "はい・・・\nありがとうございます",
+      "translated_text": "Yes...\nThank you.",
+      "translated_text_zh": "是的...\n谢谢你们。",
+      "note": ""
+    },
+    {
+      "offset": "7940",
+      "translated": true,
+      "len": 54,
+      "orig_text": "しかし、なんだ\nいつ襲われるかわから\nないってのは・・・",
+      "translated_text": "But... not knowing\nwhen we'll be attacked\nis...",
+      "translated_text_zh": "可是，不知道\n什么时候会\n被袭击...",
+      "note": ""
+    },
+    {
+      "offset": "79d5",
+      "translated": true,
+      "len": 27,
+      "orig_text": "なんだよ、\nびびってんのか？",
+      "translated_text": "What's wrong?\nAre you scared?",
+      "translated_text_zh": "怎么了，\n害怕了吗？",
+      "note": ""
+    },
+    {
+      "offset": "7a79",
+      "translated": true,
+      "len": 56,
+      "orig_text": "そういうわけじゃない\nただ、油断はするなと\n言いたいだけさ",
+      "translated_text": "That's not it.\nI just want to say\ndon't let your guard down.",
+      "translated_text_zh": "不是那样。\n我只是想说\n别掉以轻心。",
+      "note": ""
+    },
+    {
+      "offset": "7b56",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それにしても、さっき\nから同じところを何度\nも回っていないか？",
+      "translated_text": "But haven't we been\ngoing around the same\nplace over and over again?",
+      "translated_text_zh": "话说回来，我们\n是不是一直在\n同一个地方\n绕圈子？",
+      "note": ""
+    },
+    {
+      "offset": "7c37",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ええ、そうです",
+      "translated_text": "Yes, that's right.",
+      "translated_text_zh": "是的，没错。",
+      "note": ""
+    },
+    {
+      "offset": "7c6c",
+      "translated": true,
+      "len": 71,
+      "orig_text": "僕たちはさっきから、\nガレフの縄張りの周り\nをジグザグに進んでる\nんですよ",
+      "translated_text": "We've been moving in\na zigzag pattern around\nGalef's territory.",
+      "translated_text_zh": "我们一直在\n加雷夫地盘周围\n呈之字形前进。",
+      "note": ""
+    },
+    {
+      "offset": "7d58",
+      "translated": true,
+      "len": 67,
+      "orig_text": "おいおい！\nそれじゃ襲ってくれっ\nて言ってるようなもん\nじゃねえか！？",
+      "translated_text": "Hey hey!\nIsn't that like\nasking to be\nattacked!?",
+      "translated_text_zh": "喂喂！\n那不就等于\n在说“快来袭击\n我”嘛！？",
+      "note": ""
+    },
+    {
+      "offset": "7dfa",
+      "translated": true,
+      "len": 35,
+      "orig_text": "でも、絶対にガレフを\nおびき出せます",
+      "translated_text": "But it will definitely\nlure out Galef.",
+      "translated_text_zh": "但是，这样一定\n能引出加雷夫。",
+      "note": ""
+    },
+    {
+      "offset": "7e44",
+      "translated": true,
+      "len": 61,
+      "orig_text": "一人の時は\n無理でしたけど、\n今はみなさんがいます\n大丈夫ですよ",
+      "translated_text": "I couldn't do it alone,\nbut you guys are here\nnow. It'll be fine.",
+      "translated_text_zh": "我一个人\n不行，但现在\n你们都在。\n没问题。",
+      "note": ""
+    },
+    {
+      "offset": "7ee0",
+      "translated": true,
+      "len": 10,
+      "orig_text": "おい・・・",
+      "translated_text": "Hey...",
+      "translated_text_zh": "喂...",
+      "note": ""
+    },
+    {
+      "offset": "7f06",
+      "translated": true,
+      "len": 21,
+      "orig_text": "\n本当に大丈夫なのか？",
+      "translated_text": "\nAre you really sure?",
+      "translated_text_zh": "\n真的没问题吗？",
+      "note": ""
+    },
+    {
+      "offset": "7fed",
+      "translated": true,
+      "len": 27,
+      "orig_text": "大丈夫だよ・・・\n多分・・・",
+      "translated_text": "It'll be fine...\nProbably...",
+      "translated_text_zh": "没问题...\n大概...",
+      "note": ""
+    },
+    {
+      "offset": "803c",
+      "translated": true,
+      "len": 27,
+      "orig_text": "大丈夫だよ・・・\n多分・・・",
+      "translated_text": "It'll be fine...\nProbably...",
+      "translated_text_zh": "没问题...\n大概...",
+      "note": ""
+    },
+    {
+      "offset": "808b",
+      "translated": true,
+      "len": 27,
+      "orig_text": "大丈夫だよ・・・\n多分・・・",
+      "translated_text": "It'll be fine...\nProbably...",
+      "translated_text_zh": "没问题...\n大概...",
+      "note": ""
+    },
+    {
+      "offset": "80da",
+      "translated": true,
+      "len": 25,
+      "orig_text": "大丈夫・・・\nきっと・・・",
+      "translated_text": "It'll be fine...\nI'm sure...",
+      "translated_text_zh": "没问题...\n一定...",
+      "note": ""
+    },
+    {
+      "offset": "81d2",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！！",
+      "translated_text": "...!!",
+      "translated_text_zh": "...！！",
+      "note": ""
+    },
+    {
+      "offset": "8281",
+      "translated": true,
+      "len": 25,
+      "orig_text": "どうやら\n現れたようだな？",
+      "translated_text": "Looks like\nit's here.",
+      "translated_text_zh": "看来是\n出现了？",
+      "note": ""
+    },
+    {
+      "offset": "8369",
+      "translated": true,
+      "len": 39,
+      "orig_text": "って言うか、囲まれて\nるじゃねえかよ！？",
+      "translated_text": "Or rather, we're\nsurrounded!?",
+      "translated_text_zh": "不对，我们被\n包围了！？",
+      "note": ""
+    },
+    {
+      "offset": "8435",
+      "translated": true,
+      "len": 56,
+      "orig_text": "慌てないでください\nいきなり襲ってきたり\nすることは・・・",
+      "translated_text": "Don't panic.\nThey won't attack us\nout of the blue...",
+      "translated_text_zh": "别慌。\n它们不会突然\n袭击我们...",
+      "note": ""
+    },
+    {
+      "offset": "855b",
+      "translated": true,
+      "len": 8,
+      "orig_text": "うわっ！",
+      "translated_text": "Whoa!",
+      "translated_text_zh": "哇！",
+      "note": ""
+    },
+    {
+      "offset": "8597",
+      "translated": true,
+      "len": 8,
+      "orig_text": "うわっ！",
+      "translated_text": "Whoa!",
+      "translated_text_zh": "哇！",
+      "note": ""
+    },
+    {
+      "offset": "85d3",
+      "translated": true,
+      "len": 8,
+      "orig_text": "うわぁ！",
+      "translated_text": "Whoa!",
+      "translated_text_zh": "哇！",
+      "note": ""
+    },
+    {
+      "offset": "860f",
+      "translated": true,
+      "len": 8,
+      "orig_text": "きゃぁ！",
+      "translated_text": "Eek!",
+      "translated_text_zh": "呀！",
+      "note": ""
+    },
+    {
+      "offset": "867f",
+      "translated": true,
+      "len": 54,
+      "orig_text": "そんな・・・\n威嚇もなしにいきなり\n襲ってくるなんて！？",
+      "translated_text": "No way...\nThey're attacking us\nwithout any warning!?",
+      "translated_text_zh": "怎么会...\n它们居然不加\n警告就袭击！？",
+      "note": ""
+    },
+    {
+      "offset": "8773",
+      "translated": true,
+      "len": 34,
+      "orig_text": "！\nこいつら普通の状態\nじゃない！！",
+      "translated_text": "!\nThey're not in their\nright minds!!",
+      "translated_text_zh": "！\n它们状态\n不对劲！！",
+      "note": ""
+    },
+    {
+      "offset": "8866",
+      "translated": true,
+      "len": 16,
+      "orig_text": "なんだって・・・",
+      "translated_text": "What...?",
+      "translated_text_zh": "什么...",
+      "note": ""
+    },
+    {
+      "offset": "88aa",
+      "translated": true,
+      "len": 12,
+      "orig_text": "なにそれ！？",
+      "translated_text": "What's that!?",
+      "translated_text_zh": "那是什么！？",
+      "note": ""
+    },
+    {
+      "offset": "88ea",
+      "translated": true,
+      "len": 20,
+      "orig_text": "どういうことですか？",
+      "translated_text": "What do you mean?",
+      "translated_text_zh": "什么意思？",
+      "note": ""
+    },
+    {
+      "offset": "8966",
+      "translated": true,
+      "len": 23,
+      "orig_text": "かすかだが\n魔力を感じる",
+      "translated_text": "I can sense\na faint magical power.",
+      "translated_text_zh": "我能感觉到\n微弱的魔力。",
+      "note": ""
+    },
+    {
+      "offset": "89a4",
+      "translated": true,
+      "len": 31,
+      "orig_text": "そのせいで凶暴化して\nいるんだ！",
+      "translated_text": "That's why they're\nso ferocious!",
+      "translated_text_zh": "所以它们才\n变得凶暴！",
+      "note": ""
+    },
+    {
+      "offset": "8a9d",
+      "translated": true,
+      "len": 38,
+      "orig_text": "！\nこの獣は、普通の状態\nじゃないぞ！！",
+      "translated_text": "!\nThese beasts are not\nin their right minds!!",
+      "translated_text_zh": "！\n这些野兽状态\n不对劲！！",
+      "note": ""
+    },
+    {
+      "offset": "8b79",
+      "translated": true,
+      "len": 16,
+      "orig_text": "なんだって・・・",
+      "translated_text": "What...?",
+      "translated_text_zh": "什么...",
+      "note": ""
+    },
+    {
+      "offset": "8bd8",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ちょっと・・・ウソ？",
+      "translated_text": "Wait... You're kidding?",
+      "translated_text_zh": "等等... 开玩笑吧？",
+      "note": ""
+    },
+    {
+      "offset": "8c20",
+      "translated": true,
+      "len": 20,
+      "orig_text": "どういうことですか？",
+      "translated_text": "What do you mean?",
+      "translated_text_zh": "什么意思？",
+      "note": ""
+    },
+    {
+      "offset": "8c9c",
+      "translated": true,
+      "len": 41,
+      "orig_text": "かすかだが、こいつら\nから魔力が感じられる",
+      "translated_text": "I can sense a faint\nmagical power from them.",
+      "translated_text_zh": "我能感觉到\n它们身上有微弱\n的魔力。",
+      "note": ""
+    },
+    {
+      "offset": "8cec",
+      "translated": true,
+      "len": 31,
+      "orig_text": "そのせいで凶暴化して\nいるんだ！",
+      "translated_text": "That's why they're\nso ferocious!",
+      "translated_text_zh": "所以它们才\n变得凶暴！",
+      "note": ""
+    },
+    {
+      "offset": "8de5",
+      "translated": true,
+      "len": 40,
+      "orig_text": "！\nこいつら、普通の状態\nじゃないって！！",
+      "translated_text": "!\nThey're not in their\nright minds!!",
+      "translated_text_zh": "！\n它们状态\n不对劲！！",
+      "note": ""
+    },
+    {
+      "offset": "8ec3",
+      "translated": true,
+      "len": 16,
+      "orig_text": "なんだって・・・",
+      "translated_text": "What...?",
+      "translated_text_zh": "什么...",
+      "note": ""
+    },
+    {
+      "offset": "8f07",
+      "translated": true,
+      "len": 16,
+      "orig_text": "なんだって・・・",
+      "translated_text": "What...?",
+      "translated_text_zh": "什么...",
+      "note": ""
+    },
+    {
+      "offset": "8f66",
+      "translated": true,
+      "len": 20,
+      "orig_text": "どういうことですか？",
+      "translated_text": "What do you mean?",
+      "translated_text_zh": "什么意思？",
+      "note": ""
+    },
+    {
+      "offset": "8fe2",
+      "translated": true,
+      "len": 35,
+      "orig_text": "かすかだけど、魔力が\n感じられるもの",
+      "translated_text": "I can sense a faint\nmagical power.",
+      "translated_text_zh": "我能感觉到\n微弱的魔力。",
+      "note": ""
+    },
+    {
+      "offset": "9064",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そのせいで凶暴化して\nいるのよっ！",
+      "translated_text": "That's why they're\nso ferocious!",
+      "translated_text_zh": "所以它们才\n变得凶暴！",
+      "note": ""
+    },
+    {
+      "offset": "915f",
+      "translated": true,
+      "len": 42,
+      "orig_text": "！\nこの獣は、普通の状態\nじゃありません！！",
+      "translated_text": "!\nThese beasts are not\nin their right minds!!",
+      "translated_text_zh": "！\n这些野兽状态\n不对劲！！",
+      "note": ""
+    },
+    {
+      "offset": "923f",
+      "translated": true,
+      "len": 16,
+      "orig_text": "なんだって・・・",
+      "translated_text": "What...?",
+      "translated_text_zh": "什么...",
+      "note": ""
+    },
+    {
+      "offset": "9283",
+      "translated": true,
+      "len": 16,
+      "orig_text": "なんだって・・・",
+      "translated_text": "What...?",
+      "translated_text_zh": "什么...",
+      "note": ""
+    },
+    {
+      "offset": "92c7",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ちょっと・・・ウソ？",
+      "translated_text": "Wait... You're kidding?",
+      "translated_text_zh": "等等... 开玩笑吧？",
+      "note": ""
+    },
+    {
+      "offset": "935e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "かすかですが、魔力が\n感じられます",
+      "translated_text": "I can sense a faint\nmagical power.",
+      "translated_text_zh": "我能感觉到\n微弱的魔力。",
+      "note": ""
+    },
+    {
+      "offset": "93a6",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そのせいで凶暴化して\nいるみたいです！",
+      "translated_text": "That's probably why\nthey're so ferocious!",
+      "translated_text_zh": "所以它们才\n变得凶暴！",
+      "note": ""
+    },
+    {
+      "offset": "9486",
+      "translated": true,
+      "len": 16,
+      "orig_text": "グルルルッ・・・",
+      "translated_text": "Grrrr...",
+      "translated_text_zh": "咕噜噜...",
+      "note": ""
+    },
+    {
+      "offset": "953b",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ガレフ！！",
+      "translated_text": "Galef!!",
+      "translated_text_zh": "加雷夫！！",
+      "note": ""
+    },
+    {
+      "offset": "9617",
+      "translated": true,
+      "len": 54,
+      "orig_text": "スウォン、やめろ！\nこいつらはもう普通の\n獣じゃない！！",
+      "translated_text": "Sworn, stop!\nThese aren't ordinary\nbeasts anymore!!",
+      "translated_text_zh": "斯沃恩，住手！\n它们已经不是\n普通的野兽了！！",
+      "note": ""
+    },
+    {
+      "offset": "9681",
+      "translated": true,
+      "len": 54,
+      "orig_text": "スウォン、やめろ！\nこいつらはもう普通の\n獣じゃない！！",
+      "translated_text": "Sworn, stop!\nThese aren't ordinary\nbeasts anymore!!",
+      "translated_text_zh": "斯沃恩，住手！\n它们已经不是\n普通的野兽了！！",
+      "note": ""
+    },
+    {
+      "offset": "96eb",
+      "translated": true,
+      "len": 59,
+      "orig_text": "スウォン、やめて！\nここにいるのは\nもう普通の獣じゃ\nないの！",
+      "translated_text": "Sworn, stop!\nThese aren't\nordinary beasts\nanymore!",
+      "translated_text_zh": "斯沃恩，住手！\n它们已经不是\n普通的野兽\n了！",
+      "note": ""
+    },
+    {
+      "offset": "975a",
+      "translated": true,
+      "len": 69,
+      "orig_text": "スウォンくん！\nガレフはもう、普通の\n獣じゃないの！\n危ないよ、やめて！",
+      "translated_text": "Sworn-kun! Galef isn't\nanordinary beast anymore!\nIt's dangerous, stop!",
+      "translated_text_zh": "斯沃恩君！\n加雷夫已经\n不是普通的\n野兽了！危险，\n住手！",
+      "note": ""
+    },
+    {
+      "offset": "984d",
+      "translated": true,
+      "len": 37,
+      "orig_text": "父さんの仇、今日こそ\n討ってやるっ！！",
+      "translated_text": "I'll avenge my\nfather today!!",
+      "translated_text_zh": "今天我就要\n为父亲报仇！！",
+      "note": ""
+    },
+    {
+      "offset": "9c3b",
+      "translated": true,
+      "len": 29,
+      "orig_text": "はぁ、はぁ・・・\n勝てた・・・",
+      "translated_text": "Pant... Pant...\nWe won...",
+      "translated_text_zh": "呼... 呼...\n赢了...",
+      "note": ""
+    },
+    {
+      "offset": "9c8c",
+      "translated": true,
+      "len": 29,
+      "orig_text": "はぁ、はぁ・・・\n勝てた・・・",
+      "translated_text": "Pant... Pant...\nWe won...",
+      "translated_text_zh": "呼... 呼...\n赢了...",
+      "note": ""
+    },
+    {
+      "offset": "9cdd",
+      "translated": true,
+      "len": 37,
+      "orig_text": "・・・はぁ・・・\n勝て・・・た・・・？",
+      "translated_text": "...Pant...\nWe... won...?",
+      "translated_text_zh": "...呼...\n赢了...？",
+      "note": ""
+    },
+    {
+      "offset": "9d36",
+      "translated": true,
+      "len": 29,
+      "orig_text": "はぁ、はぁ・・・\n勝てた・・・",
+      "translated_text": "Pant... Pant...\nWe won...",
+      "translated_text_zh": "呼... 呼...\n赢了...",
+      "note": ""
+    },
+    {
+      "offset": "9dbb",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ああ、なんとかな",
+      "translated_text": "Yeah, we managed.",
+      "translated_text_zh": "啊，总算...",
+      "note": ""
+    },
+    {
+      "offset": "9ea8",
+      "translated": true,
+      "len": 12,
+      "orig_text": "バカ野郎っ！",
+      "translated_text": "You idiot!",
+      "translated_text_zh": "笨蛋！",
+      "note": ""
+    },
+    {
+      "offset": "9f13",
+      "translated": true,
+      "len": 8,
+      "orig_text": "あっ！！",
+      "translated_text": "Ah!!",
+      "translated_text_zh": "啊！！",
+      "note": ""
+    },
+    {
+      "offset": "a009",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ガゼル・・・",
+      "translated_text": "Gazel...",
+      "translated_text_zh": "加泽尔...",
+      "note": ""
+    },
+    {
+      "offset": "a049",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ガゼル・・・",
+      "translated_text": "Gazel...",
+      "translated_text_zh": "加泽尔...",
+      "note": ""
+    },
+    {
+      "offset": "a089",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ガゼル・・・",
+      "translated_text": "Gazel...",
+      "translated_text_zh": "加泽尔...",
+      "note": ""
+    },
+    {
+      "offset": "a0c9",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ガゼルさん・・・",
+      "translated_text": "Gazel-san...",
+      "translated_text_zh": "加泽尔先生...",
+      "note": ""
+    },
+    {
+      "offset": "a1a6",
+      "translated": true,
+      "len": 38,
+      "orig_text": "が\n止めたのが聞こえなか\nったのかよ！？",
+      "translated_text": "Didn't you hear me\ntell you to stop!?",
+      "translated_text_zh": "没听到我\n叫你住手吗！？",
+      "note": ""
+    },
+    {
+      "offset": "a22b",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "...",
+      "translated_text_zh": "...",
+      "note": ""
+    },
+    {
+      "offset": "a27a",
+      "translated": true,
+      "len": 48,
+      "orig_text": "どうしよう？\n　ガゼルをなだめる\n　スウォンを叱る",
+      "translated_text": "What should I do?\n  Calm down Gazel\n  Scold Sworn",
+      "translated_text_zh": "我该怎么办？\n  安抚加泽尔\n  斥责斯沃恩",
+      "note": ""
+    },
+    {
+      "offset": "a3c0",
+      "translated": true,
+      "len": 54,
+      "orig_text": "仕方ないよ、ガゼル\nスウォンはお父さんを\n殺されてるんだ",
+      "translated_text": "It's understandable,\nGazel. Sworn's father\nwas killed.",
+      "translated_text_zh": "没办法啊，加泽尔。\n斯沃恩的父亲\n被杀了。",
+      "note": ""
+    },
+    {
+      "offset": "a42a",
+      "translated": true,
+      "len": 56,
+      "orig_text": "仕方ないさ、ガゼル\nスウォンはお父さんを\n殺されているんだ",
+      "translated_text": "It's understandable,\nGazel. Sworn's father\nwas killed.",
+      "translated_text_zh": "没办法啊，加泽尔。\n斯沃恩的父亲\n被杀了。",
+      "note": ""
+    },
+    {
+      "offset": "a496",
+      "translated": true,
+      "len": 60,
+      "orig_text": "仕方ないでしょガゼル\nお父さんを殺されて\nるんだよ、スウォンは",
+      "translated_text": "It's understandable,\nGazel. Sworn's father\nwas killed, you know.",
+      "translated_text_zh": "没办法啊，加泽尔。\n斯沃恩的父亲\n被杀了，你知道吧。",
+      "note": ""
+    },
+    {
+      "offset": "a506",
+      "translated": true,
+      "len": 69,
+      "orig_text": "仕方ないですよ\nスウォンくんは\nお父さまを、殺されて\nいるんですし・・・",
+      "translated_text": "It's understandable.\nSworn-kun's father\nwas killed, after all...",
+      "translated_text_zh": "没办法啊。\n毕竟斯沃恩君\n的父亲被杀\n了...",
+      "note": ""
+    },
+    {
+      "offset": "a5dd",
+      "translated": true,
+      "len": 20,
+      "orig_text": "だからってな・・・！",
+      "translated_text": "Even so...!",
+      "translated_text_zh": "就算如此...！",
+      "note": ""
+    },
+    {
+      "offset": "a696",
+      "translated": true,
+      "len": 16,
+      "orig_text": "いえ、いいんです",
+      "translated_text": "No, it's okay.",
+      "translated_text_zh": "不，没关系。",
+      "note": ""
+    },
+    {
+      "offset": "a6c2",
+      "translated": true,
+      "len": 4,
+      "orig_text": "さん",
+      "translated_text": "-san",
+      "translated_text_zh": "先生",
+      "note": ""
+    },
+    {
+      "offset": "a6ed",
+      "translated": true,
+      "len": 56,
+      "orig_text": "僕が悪かったんです\nみなさんに迷惑をかけ\nてしまって・・・",
+      "translated_text": "It was my fault.\nI'm sorry for causing\ntrouble for everyone...",
+      "translated_text_zh": "是我不好。\n给大家添麻烦\n了...",
+      "note": ""
+    },
+    {
+      "offset": "a74c",
+      "translated": true,
+      "len": 18,
+      "orig_text": "本当にごめんなさい",
+      "translated_text": "I'm really sorry.",
+      "translated_text_zh": "真的很抱歉。",
+      "note": ""
+    },
+    {
+      "offset": "a87e",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ガゼルの言うとおりだ\nよ、スウォン？",
+      "translated_text": "Gazel is right,\nSworn?",
+      "translated_text_zh": "加泽尔说得对，\n斯沃恩？",
+      "note": ""
+    },
+    {
+      "offset": "a8c8",
+      "translated": true,
+      "len": 73,
+      "orig_text": "勝てたから良かったけ\nど、負けていたら仇を\n討つどころじゃなかっ\nたんだから",
+      "translated_text": "It's good that you won,\nbut if you had lost,\nyou wouldn't have been\nable to avenge him.",
+      "translated_text_zh": "赢了还好，\n要是输了，\n就别提报仇\n了。",
+      "note": ""
+    },
+    {
+      "offset": "a945",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ガゼルの言うとおりだ\nよ、スウォン？",
+      "translated_text": "Gazel is right,\nSworn?",
+      "translated_text_zh": "加泽尔说得对，\n斯沃恩？",
+      "note": ""
+    },
+    {
+      "offset": "a98f",
+      "translated": true,
+      "len": 69,
+      "orig_text": "勝てたから良かったけ\nど、負けていたら仇を\n討つどころじゃなかっ\nたんだ",
+      "translated_text": "It's good that you won,\nbut if you had lost,\nyou wouldn't have been\nable to avenge him.",
+      "translated_text_zh": "赢了还好，\n要是输了，\n就别提报仇\n了。",
+      "note": ""
+    },
+    {
+      "offset": "aa08",
+      "translated": true,
+      "len": 44,
+      "orig_text": "スウォン！\nガゼルの言うとおり\nなんだからね！",
+      "translated_text": "Sworn!\nGazel is right,\nyou know!",
+      "translated_text_zh": "斯沃恩！\n加泽尔说得对，\n知道吗！",
+      "note": ""
+    },
+    {
+      "offset": "aa5b",
+      "translated": true,
+      "len": 67,
+      "orig_text": "もしあそこで\n負けてたら、仇どころ\nの騒ぎじゃすまな\nかったんだから！",
+      "translated_text": "If you had lost back\nthere, it wouldn't\nhave been just about\navenging him!",
+      "translated_text_zh": "如果你刚才\n输了，就不只是\n报仇那么简单\n了！",
+      "note": ""
+    },
+    {
+      "offset": "aad2",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ガゼルさんの言う\nとおりですよ・・・",
+      "translated_text": "Gazel-san is\nright...",
+      "translated_text_zh": "加泽尔先生\n说得对...",
+      "note": ""
+    },
+    {
+      "offset": "ab1c",
+      "translated": true,
+      "len": 81,
+      "orig_text": "勝てたから良かったけ\nど、負けていたら仇を\n討つどころじゃなかっ\nたんですから・・・",
+      "translated_text": "It's good that you won,\nbut if you had lost,\nyou wouldn't have been\nable to avenge him...",
+      "translated_text_zh": "赢了还好，\n要是输了，\n就别提报仇\n了...",
+      "note": ""
+    },
+    {
+      "offset": "abd5",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・はい",
+      "translated_text": "...Yes.",
+      "translated_text_zh": "...是的。",
+      "note": ""
+    },
+    {
+      "offset": "ac9a",
+      "translated": true,
+      "len": 50,
+      "orig_text": "しかし良かったな\nこうして仇を討つこと\nができたんだ",
+      "translated_text": "But it's good you\nwere able to avenge\nhim like this.",
+      "translated_text_zh": "不过还好，\n你总算能\n报仇了。",
+      "note": ""
+    },
+    {
+      "offset": "acf3",
+      "translated": true,
+      "len": 54,
+      "orig_text": "これでワシらも、安心\nしてこの森に来られる\nようになった",
+      "translated_text": "Now we can come to\nthis forest without\nworrying.",
+      "translated_text_zh": "这样一来我们\n也能安心地来\n这片森林了。",
+      "note": ""
+    },
+    {
+      "offset": "ae53",
+      "translated": true,
+      "len": 35,
+      "orig_text": "いや、そうはさせて\nくれないみたいだ",
+      "translated_text": "No, it seems like\nthat's not going to\nhappen.",
+      "translated_text_zh": "不，看来事\n情没那么简单。",
+      "note": ""
+    },
+    {
+      "offset": "af47",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソル？",
+      "translated_text": "Sol?",
+      "translated_text_zh": "索尔？",
+      "note": ""
+    },
+    {
+      "offset": "af81",
+      "translated": true,
+      "len": 6,
+      "orig_text": "ソル？",
+      "translated_text": "Sol?",
+      "translated_text_zh": "索尔？",
+      "note": ""
+    },
+    {
+      "offset": "afbb",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ソルさん？",
+      "translated_text": "Sol-san?",
+      "translated_text_zh": "索尔先生？",
+      "note": ""
+    },
+    {
+      "offset": "b072",
+      "translated": true,
+      "len": 33,
+      "orig_text": "みてくれ、こいつら\nのからだ・・・",
+      "translated_text": "Look at their\nbodies...",
+      "translated_text_zh": "看看它们\n的身体...",
+      "note": ""
+    },
+    {
+      "offset": "b138",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！？",
+      "translated_text": "...!?",
+      "translated_text_zh": "...！？",
+      "note": ""
+    },
+    {
+      "offset": "b1e9",
+      "translated": true,
+      "len": 27,
+      "orig_text": "これは・・・\nキノコなのか？",
+      "translated_text": "This is...\na mushroom?",
+      "translated_text_zh": "这是...\n蘑菇吗？",
+      "note": ""
+    },
+    {
+      "offset": "b238",
+      "translated": true,
+      "len": 19,
+      "orig_text": "これって\nキノコ？？",
+      "translated_text": "Is this\na mushroom??",
+      "translated_text_zh": "这是\n蘑菇？？",
+      "note": ""
+    },
+    {
+      "offset": "b27f",
+      "translated": true,
+      "len": 25,
+      "orig_text": "これって\nキノコですよね？",
+      "translated_text": "This is\na mushroom, right?",
+      "translated_text_zh": "这是\n蘑菇吧？",
+      "note": ""
+    },
+    {
+      "offset": "b346",
+      "translated": true,
+      "len": 56,
+      "orig_text": "ただのキノコじゃない\nこれでもれっきとした\n召喚獣なんだぜ",
+      "translated_text": "It's not just any\nmushroom. This is a full-\nfledged Summon Beast.",
+      "translated_text_zh": "这不是普通的\n蘑菇。这是一只\n货真价实的召唤兽。",
+      "note": ""
+    },
+    {
+      "offset": "b423",
+      "translated": true,
+      "len": 14,
+      "orig_text": "なんだとっ！？",
+      "translated_text": "What!?",
+      "translated_text_zh": "什么！？",
+      "note": ""
+    },
+    {
+      "offset": "b490",
+      "translated": true,
+      "len": 56,
+      "orig_text": "たぶん、この獣たちは\nこいつの胞子を浴びて\n凶暴化したんだ",
+      "translated_text": "These beasts were\nprobably exposed to its\nspores and became\nfearsome.",
+      "translated_text_zh": "这些野兽大概\n是被它的孢子\n感染了，所以\n才变得凶暴。",
+      "note": ""
+    },
+    {
+      "offset": "b5b5",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nただけなのか・・・",
+      "translated_text": "So, Galef and the\nothers were just\nvictims of a Summon\nBeast...",
+      "translated_text_zh": "这么说，加雷夫\n他们只是召唤兽\n的牺牲品吗...",
+      "note": ""
+    },
+    {
+      "offset": "b625",
+      "translated": true,
+      "len": 69,
+      "orig_text": "ちょっと・・・\nガレフたちって・・・\n召喚獣の犠牲になった\nっていうの？",
+      "translated_text": "Wait a minute...\nAre you saying Galef\nand the others were\nvictims of a Summon Beast?",
+      "translated_text_zh": "等等...\n你是说加雷夫\n他们都是召唤兽\n的牺牲品？",
+      "note": ""
+    },
+    {
+      "offset": "b69e",
+      "translated": true,
+      "len": 56,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nただけ・・・？",
+      "translated_text": "So, Galef and the\nothers were just\nvictims of a Summon\nBeast...?",
+      "translated_text_zh": "这么说，加雷夫\n他们只是召唤兽\n的牺牲品...？",
+      "note": ""
+    },
+    {
+      "offset": "b73e",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ああ、まだそいつは\nこの森のどこかに\nいるかもしれない",
+      "translated_text": "Yeah, it might still\nbe somewhere in this\nforest.",
+      "translated_text_zh": "嗯，它可能\n还在这片森林\n的某个地方。",
+      "note": ""
+    },
+    {
+      "offset": "b849",
+      "translated": true,
+      "len": 37,
+      "orig_text": "いや、そういうわけに\nはいかないようだ",
+      "translated_text": "No, it seems like\nthat's not the case.",
+      "translated_text_zh": "不，事情好像\n没那么简单。",
+      "note": ""
+    },
+    {
+      "offset": "b924",
+      "translated": true,
+      "len": 8,
+      "orig_text": "キール？",
+      "translated_text": "Keel?",
+      "translated_text_zh": "基尔？",
+      "note": ""
+    },
+    {
+      "offset": "b97b",
+      "translated": true,
+      "len": 8,
+      "orig_text": "キール？",
+      "translated_text": "Keel?",
+      "translated_text_zh": "基尔？",
+      "note": ""
+    },
+    {
+      "offset": "b9b7",
+      "translated": true,
+      "len": 12,
+      "orig_text": "キールさん？",
+      "translated_text": "Keel-san?",
+      "translated_text_zh": "基尔先生？",
+      "note": ""
+    },
+    {
+      "offset": "ba70",
+      "translated": true,
+      "len": 35,
+      "orig_text": "こいつらの身体をよく\n見るんだ・・・",
+      "translated_text": "Take a good look at\ntheir bodies...",
+      "translated_text_zh": "仔细看看\n它们的身体...",
+      "note": ""
+    },
+    {
+      "offset": "bb38",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！？",
+      "translated_text": "...!?",
+      "translated_text_zh": "...！？",
+      "note": ""
+    },
+    {
+      "offset": "bbce",
+      "translated": true,
+      "len": 23,
+      "orig_text": "これって\nキノコなのか？",
+      "translated_text": "Is this\na mushroom?",
+      "translated_text_zh": "这是\n蘑菇吗？",
+      "note": ""
+    },
+    {
+      "offset": "bc34",
+      "translated": true,
+      "len": 17,
+      "orig_text": "これって\nキノコ？",
+      "translated_text": "Is this\na mushroom?",
+      "translated_text_zh": "这是\n蘑菇？",
+      "note": ""
+    },
+    {
+      "offset": "bc79",
+      "translated": true,
+      "len": 25,
+      "orig_text": "これって\nキノコですよね？",
+      "translated_text": "This is\na mushroom, right?",
+      "translated_text_zh": "这是\n蘑菇吧？",
+      "note": ""
+    },
+    {
+      "offset": "bd40",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ただのキノコじゃない\nこれでもれっきとした\n召喚獣なんだ",
+      "translated_text": "It's not just any\nmushroom. This is a full-\nfledged Summon Beast.",
+      "translated_text_zh": "这不是普通的\n蘑菇。这是一只\n货真价实的召唤兽。",
+      "note": ""
+    },
+    {
+      "offset": "be1b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "なんだとっ！？",
+      "translated_text": "What!?",
+      "translated_text_zh": "什么！？",
+      "note": ""
+    },
+    {
+      "offset": "be88",
+      "translated": true,
+      "len": 60,
+      "orig_text": "おそらくこの獣たちは\nこいつの胞子を浴びて\n凶暴化したんだろう",
+      "translated_text": "These beasts were\nprobably exposed to its\nspores and became\nfearsome.",
+      "translated_text_zh": "这些野兽大概\n是被它的孢子\n感染了，所以\n才变得凶暴。",
+      "note": ""
+    },
+    {
+      "offset": "bf96",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nただけなのか・・・",
+      "translated_text": "So, Galef and the\nothers were just\nvictims of a Summon\nBeast...",
+      "translated_text_zh": "这么说，加雷夫\n他们只是召唤兽\n的牺牲品吗...",
+      "note": ""
+    },
+    {
+      "offset": "c021",
+      "translated": true,
+      "len": 48,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nたの？",
+      "translated_text": "So, Galef and the\nothers were just\nvictims of a Summon\nBeast?",
+      "translated_text_zh": "这么说，加雷夫\n他们都是召唤兽\n的牺牲品？",
+      "note": ""
+    },
+    {
+      "offset": "c085",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nただけなんですか？",
+      "translated_text": "So, Galef and the\nothers were just\nvictims of a Summon\nBeast?",
+      "translated_text_zh": "这么说，加雷夫\n他们只是召唤兽\n的牺牲品？",
+      "note": ""
+    },
+    {
+      "offset": "c129",
+      "translated": true,
+      "len": 58,
+      "orig_text": "ああ、そしてそいつは\nまだこの森の中にいる\nかもしれないんだ",
+      "translated_text": "Yeah, and it might\nstill be somewhere in\nthis forest.",
+      "translated_text_zh": "嗯，它可能还\n在这片森林里。",
+      "note": ""
+    },
+    {
+      "offset": "c23a",
+      "translated": true,
+      "len": 31,
+      "orig_text": "悪いけど、それは無理\nだと思うよ",
+      "translated_text": "Sorry, but I don't\nthink that's possible.",
+      "translated_text_zh": "抱歉，我觉得\n那不可能。",
+      "note": ""
+    },
+    {
+      "offset": "c30f",
+      "translated": true,
+      "len": 8,
+      "orig_text": "カシス？",
+      "translated_text": "Cassis?",
+      "translated_text_zh": "卡西斯？",
+      "note": ""
+    },
+    {
+      "offset": "c34b",
+      "translated": true,
+      "len": 8,
+      "orig_text": "カシス？",
+      "translated_text": "Cassis?",
+      "translated_text_zh": "卡西斯？",
+      "note": ""
+    },
+    {
+      "offset": "c3a2",
+      "translated": true,
+      "len": 12,
+      "orig_text": "カシスさん？",
+      "translated_text": "Cassis-san?",
+      "translated_text_zh": "卡西斯先生？",
+      "note": ""
+    },
+    {
+      "offset": "c45b",
+      "translated": true,
+      "len": 37,
+      "orig_text": "こいつらの身体をよく\n見てみなよ・・・",
+      "translated_text": "Take a good look\nat their bodies...",
+      "translated_text_zh": "仔细看看\n它们的身体...",
+      "note": ""
+    },
+    {
+      "offset": "c525",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！？",
+      "translated_text": "...!?",
+      "translated_text_zh": "...！？",
+      "note": ""
+    },
+    {
+      "offset": "c5bb",
+      "translated": true,
+      "len": 23,
+      "orig_text": "これって\nキノコなのか？",
+      "translated_text": "Is this\na mushroom?",
+      "translated_text_zh": "这是\n蘑菇吗？",
+      "note": ""
+    },
+    {
+      "offset": "c606",
+      "translated": true,
+      "len": 27,
+      "orig_text": "これは・・・\nキノコなのか？",
+      "translated_text": "This is...\na mushroom?",
+      "translated_text_zh": "这是...\n蘑菇吗？",
+      "note": ""
+    },
+    {
+      "offset": "c670",
+      "translated": true,
+      "len": 25,
+      "orig_text": "これって\nキノコですよね？",
+      "translated_text": "This is\na mushroom, right?",
+      "translated_text_zh": "这是\n蘑菇吧？",
+      "note": ""
+    },
+    {
+      "offset": "c737",
+      "translated": true,
+      "len": 50,
+      "orig_text": "見た目はそうだけど、\nこいつはれっきとした\n召喚獣よ",
+      "translated_text": "It looks like one, but\nthis is a full-fledged\nSummon Beast.",
+      "translated_text_zh": "虽然看起来\n像，但这可是\n货真价实的召唤兽。",
+      "note": ""
+    },
+    {
+      "offset": "c80e",
+      "translated": true,
+      "len": 14,
+      "orig_text": "なんだとっ！？",
+      "translated_text": "What!?",
+      "translated_text_zh": "什么！？",
+      "note": ""
+    },
+    {
+      "offset": "c87b",
+      "translated": true,
+      "len": 60,
+      "orig_text": "このコたちは、こいつ\nの胞子を浴びちゃって\nおかしくなったのね",
+      "translated_text": "These poor things were\nexposed to its spores and\nwent crazy.",
+      "translated_text_zh": "这些可怜的家伙\n是被它的孢子\n感染了才发狂的。",
+      "note": ""
+    },
+    {
+      "offset": "c989",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nただけなのか・・・",
+      "translated_text": "So, Galef and the\nothers were just\nvictims of a Summon\nBeast...",
+      "translated_text_zh": "这么说，加雷夫\n他们只是召唤兽\n的牺牲品吗...",
+      "note": ""
+    },
+    {
+      "offset": "c9f9",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nただけなのか・・・",
+      "translated_text": "So, Galef and the\nothers were just\nvictims of a Summon\nBeast...",
+      "translated_text_zh": "这么说，加雷夫\n他们只是召唤兽\n的牺牲品吗...",
+      "note": ""
+    },
+    {
+      "offset": "ca84",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nただけなんですか？",
+      "translated_text": "So, Galef and the\nothers were just\nvictims of a Summon\nBeast?",
+      "translated_text_zh": "这么说，加雷夫\n他们只是召唤兽\n的牺牲品？",
+      "note": ""
+    },
+    {
+      "offset": "cb28",
+      "translated": true,
+      "len": 56,
+      "orig_text": "うん、そしてそいつは\nまだこの森の中にいる\nんじゃないかな",
+      "translated_text": "Yeah, and it's\nprobably still\nsomewhere in this forest.",
+      "translated_text_zh": "嗯，它可能\n还在这片森林里。",
+      "note": ""
+    },
+    {
+      "offset": "cc37",
+      "translated": true,
+      "len": 31,
+      "orig_text": "残念ですが、まだ無理\nみたいです",
+      "translated_text": "I'm sorry, but it\nseems like that's not\npossible yet.",
+      "translated_text_zh": "很遗憾，现在\n好像还不行。",
+      "note": ""
+    },
+    {
+      "offset": "ccdf",
+      "translated": true,
+      "len": 12,
+      "orig_text": "クラレット？",
+      "translated_text": "Claret?",
+      "translated_text_zh": "克拉雷特？",
+      "note": ""
+    },
+    {
+      "offset": "cd8f",
+      "translated": true,
+      "len": 35,
+      "orig_text": "獣たちの体をよく見て\nください・・・",
+      "translated_text": "Please take a good\nlook at their bodies...",
+      "translated_text_zh": "请仔细看看\n它们的身体...",
+      "note": ""
+    },
+    {
+      "offset": "ce57",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・！？",
+      "translated_text": "...!?",
+      "translated_text_zh": "...！？",
+      "note": ""
+    },
+    {
+      "offset": "ceed",
+      "translated": true,
+      "len": 23,
+      "orig_text": "これって\nキノコなのか？",
+      "translated_text": "Is this\na mushroom?",
+      "translated_text_zh": "这是\n蘑菇吗？",
+      "note": ""
+    },
+    {
+      "offset": "cf38",
+      "translated": true,
+      "len": 27,
+      "orig_text": "これは・・・\nキノコなのか？",
+      "translated_text": "This is...\na mushroom?",
+      "translated_text_zh": "这是...\n蘑菇吗？",
+      "note": ""
+    },
+    {
+      "offset": "cf87",
+      "translated": true,
+      "len": 17,
+      "orig_text": "これって\nキノコ？",
+      "translated_text": "Is this\na mushroom?",
+      "translated_text_zh": "这是\n蘑菇？",
+      "note": ""
+    },
+    {
+      "offset": "d061",
+      "translated": true,
+      "len": 56,
+      "orig_text": "見かけはそうですが、\nこれでもれっきとした\n召喚獣なんです",
+      "translated_text": "It looks like one, but\nthis is a full-fledged\nSummon Beast.",
+      "translated_text_zh": "虽然看起来\n像，但这可是\n货真价实的召唤兽。",
+      "note": ""
+    },
+    {
+      "offset": "d13e",
+      "translated": true,
+      "len": 14,
+      "orig_text": "なんだとっ！？",
+      "translated_text": "What!?",
+      "translated_text_zh": "什么！？",
+      "note": ""
+    },
+    {
+      "offset": "d1ab",
+      "translated": true,
+      "len": 62,
+      "orig_text": "おそらくこの獣たちは\n召喚獣の胞子を浴びて\n凶暴化したんでしょう",
+      "translated_text": "These beasts were\nprobably exposed to the\nSummon Beast's spores\nand became fearsome.",
+      "translated_text_zh": "这些野兽大概\n是被召唤兽的孢子\n感染了，所以才\n变得凶暴。",
+      "note": ""
+    },
+    {
+      "offset": "d2bb",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nただけなのか・・・",
+      "translated_text": "So, Galef and the\nothers were just\nvictims of a Summon\nBeast...",
+      "translated_text_zh": "这么说，加雷夫\n他们只是召唤兽\n的牺牲品吗...",
+      "note": ""
+    },
+    {
+      "offset": "d32b",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nただけなのか・・・",
+      "translated_text": "So, Galef and the\nothers were just\nvictims of a Summon\nBeast...",
+      "translated_text_zh": "这么说，加雷夫\n他们只是召唤兽\n的牺牲品吗...",
+      "note": ""
+    },
+    {
+      "offset": "d39b",
+      "translated": true,
+      "len": 60,
+      "orig_text": "それじゃ、ガレフたち\nは召喚獣の犠牲になっ\nたっていうの・・・",
+      "translated_text": "So, you're saying\nGalef and the others\nwere just victims of\na Summon Beast...",
+      "translated_text_zh": "这么说，加雷夫\n他们都是召唤兽\n的牺牲品...",
+      "note": ""
+    },
+    {
+      "offset": "d45a",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ええ、そして召喚獣は\nまだこの森の中にいる\nかもしれないんです",
+      "translated_text": "Yes, and the Summon\nBeast might still be\nsomewhere in this forest.",
+      "translated_text_zh": "是的，召唤兽\n可能还在这片\n森林里。",
+      "note": ""
+    },
+    {
+      "offset": "d551",
+      "translated": true,
+      "len": 52,
+      "orig_text": "そのキノコ野郎を倒さ\nなけりゃ、意味がない\nじゃねぇか",
+      "translated_text": "We have to defeat\nthat damn mushroom,\notherwise this was all\nfor nothing.",
+      "translated_text_zh": "不打倒那个\n蘑菇混蛋，\n就毫无意义。",
+      "note": ""
+    },
+    {
+      "offset": "d62a",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "No way...",
+      "translated_text_zh": "怎么会...",
+      "note": ""
+    },
+    {
+      "offset": "d6db",
+      "translated": true,
+      "len": 27,
+      "orig_text": "とにかく\nいったん街へ戻ろう",
+      "translated_text": "Anyway,\nlet's head back to town.",
+      "translated_text_zh": "总之，\n先回城里吧。",
+      "note": ""
+    },
+    {
+      "offset": "e41b",
+      "translated": true,
+      "len": 40,
+      "orig_text": "スウォンのやつ\n相当落ち込んどる\nようだな",
+      "translated_text": "Sworn seems to be\nreally depressed.",
+      "translated_text_zh": "斯沃恩那家伙\n好像很消沉啊。",
+      "note": ""
+    },
+    {
+      "offset": "e4a2",
+      "translated": true,
+      "len": 44,
+      "orig_text": "仕方あるまい\n父親が襲われた理由が\nあれではな",
+      "translated_text": "It can't be helped.\nThat's not the reason\nhis father was attacked.",
+      "translated_text_zh": "没办法，\n他父亲被袭击\n的原因不是那样。",
+      "note": ""
+    },
+    {
+      "offset": "e5ab",
+      "translated": true,
+      "len": 6,
+      "orig_text": "なあ、",
+      "translated_text": "Hey,",
+      "translated_text_zh": "喂，",
+      "note": ""
+    },
+    {
+      "offset": "e5b4",
+      "translated": true,
+      "len": 21,
+      "orig_text": "\nこれからどうすんだ？",
+      "translated_text": "\nWhat are we gonna do?",
+      "translated_text_zh": "\n接下来怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "e628",
+      "translated": true,
+      "len": 4,
+      "orig_text": "え？",
+      "translated_text": "Huh?",
+      "translated_text_zh": "咦？",
+      "note": ""
+    },
+    {
+      "offset": "e68b",
+      "translated": true,
+      "len": 52,
+      "orig_text": "え、じゃねえよ\nあいつを連れてきたの\nはお前だろうが？",
+      "translated_text": "Don't 'huh?' me.\nYou were the one who\nbrought him here, right?",
+      "translated_text_zh": "别“咦”了。\n是你把他带\n来的吧？",
+      "note": ""
+    },
+    {
+      "offset": "e6e6",
+      "translated": true,
+      "len": 60,
+      "orig_text": "あいつの追いかけてた\nガレフは倒したんだ\n仇は討ったじゃねえか",
+      "translated_text": "We defeated the Galef\nhe was chasing.\nHe's avenged his father,\nhasn't he?",
+      "translated_text_zh": "我们打倒了\n他追杀的加雷夫。\n他已经报仇\n了，不是吗？",
+      "note": ""
+    },
+    {
+      "offset": "e7ae",
+      "translated": true,
+      "len": 50,
+      "orig_text": "でも、ガレフは召喚獣\nに狂わされていただけ\nで・・・",
+      "translated_text": "But Galef was just\nbeing controlled by a\nSummon Beast...",
+      "translated_text_zh": "可是，加雷夫\n只是被召唤兽\n操纵了...",
+      "note": ""
+    },
+    {
+      "offset": "e814",
+      "translated": true,
+      "len": 50,
+      "orig_text": "でも、ガレフは召喚獣\nに狂わされていただけ\nで・・・",
+      "translated_text": "But Galef was just\nbeing controlled by a\nSummon Beast...",
+      "translated_text_zh": "可是，加雷夫\n只是被召唤兽\n操纵了...",
+      "note": ""
+    },
+    {
+      "offset": "e87a",
+      "translated": true,
+      "len": 56,
+      "orig_text": "でも、ガレフは召喚獣\nに狂わされていただけ\nなんだし・・・",
+      "translated_text": "But Galef was just\nbeing controlled by\na Summon Beast...",
+      "translated_text_zh": "可是，加雷夫\n只是被召唤兽\n操纵了...",
+      "note": ""
+    },
+    {
+      "offset": "e8e6",
+      "translated": true,
+      "len": 50,
+      "orig_text": "でも、ガレフは召喚獣\nに狂わされていただけ\nで・・・",
+      "translated_text": "But Galef was just\nbeing controlled by a\nSummon Beast...",
+      "translated_text_zh": "可是，加雷夫\n只是被召唤兽\n操纵了...",
+      "note": ""
+    },
+    {
+      "offset": "e9aa",
+      "translated": true,
+      "len": 75,
+      "orig_text": "だーかーらっ！\nここで仇討ちを終わり\nにするかを決めるのは\nあいつだろうが！？",
+      "translated_text": "That's why!\nIt's up to him to decide\nif he wants to end\nhis revenge here!?",
+      "translated_text_zh": "所以说！\n要不要在这里\n结束复仇，\n要由他来决定！？",
+      "note": ""
+    },
+    {
+      "offset": "ea7e",
+      "translated": true,
+      "len": 8,
+      "orig_text": "あ・・・",
+      "translated_text": "Ah...",
+      "translated_text_zh": "啊...",
+      "note": ""
+    },
+    {
+      "offset": "eb2b",
+      "translated": true,
+      "len": 44,
+      "orig_text": "そうだな\n肝心なのはスウォンが\nどうしたいかだ",
+      "translated_text": "You're right.\nWhat matters is what\nSworn wants to do.",
+      "translated_text_zh": "你说得对。\n重要的是斯沃恩\n想怎么做。",
+      "note": ""
+    },
+    {
+      "offset": "ebb6",
+      "translated": true,
+      "len": 73,
+      "orig_text": "さっさとスウォンの奴\nを呼んで来いよ\nいつまでもいじけてる\nんじゃねえってな",
+      "translated_text": "Go get Sworn\nalready.\nTell him to stop\nsulking.",
+      "translated_text_zh": "快去把斯沃恩\n那家伙叫来。\n别让他一直\n闷闷不乐。",
+      "note": ""
+    },
+    {
+      "offset": "ecd1",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・うん！",
+      "translated_text": "...Yeah!",
+      "translated_text_zh": "...嗯！",
+      "note": ""
+    },
+    {
+      "offset": "ed11",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・そうだな",
+      "translated_text": "...You're right.",
+      "translated_text_zh": "...你说得对。",
+      "note": ""
+    },
+    {
+      "offset": "ed53",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・うん！",
+      "translated_text": "...Yeah!",
+      "translated_text_zh": "...嗯！",
+      "note": ""
+    },
+    {
+      "offset": "ed93",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・はい",
+      "translated_text": "...Okay.",
+      "translated_text_zh": "...好的。",
+      "note": ""
+    },
+    {
+      "offset": "ef1c",
+      "translated": true,
+      "len": 27,
+      "orig_text": "スウォン\nみんなが待ってるぜ",
+      "translated_text": "Sworn,\neveryone's waiting.",
+      "translated_text_zh": "斯沃恩，\n大家都在等你。",
+      "note": ""
+    },
+    {
+      "offset": "ef6b",
+      "translated": true,
+      "len": 27,
+      "orig_text": "スウォン\nみんなが待ってるよ",
+      "translated_text": "Sworn,\neveryone's waiting.",
+      "translated_text_zh": "斯沃恩，\n大家都在等你。",
+      "note": ""
+    },
+    {
+      "offset": "efba",
+      "translated": true,
+      "len": 27,
+      "orig_text": "スウォン\nみんなが待ってるよ",
+      "translated_text": "Sworn,\neveryone's waiting.",
+      "translated_text_zh": "斯沃恩，\n大家都在等你。",
+      "note": ""
+    },
+    {
+      "offset": "f009",
+      "translated": true,
+      "len": 31,
+      "orig_text": "スウォンくん\nみんなが待ってるよ",
+      "translated_text": "Sworn-kun,\neveryone's waiting.",
+      "translated_text_zh": "斯沃恩君，\n大家都在等你。",
+      "note": ""
+    },
+    {
+      "offset": "f093",
+      "translated": true,
+      "len": 19,
+      "orig_text": "さん\nもういいんです",
+      "translated_text": "-san,\nit's okay now.",
+      "translated_text_zh": "先生，\n我已经没事了。",
+      "note": ""
+    },
+    {
+      "offset": "f0cd",
+      "translated": true,
+      "len": 35,
+      "orig_text": "もう、父さんの仇討ち\nはあきらめます",
+      "translated_text": "I'm giving up on\navenging my father.",
+      "translated_text_zh": "我放弃为\n父亲报仇了。",
+      "note": ""
+    },
+    {
+      "offset": "f1a6",
+      "translated": true,
+      "len": 20,
+      "orig_text": "そんな、どうして！？",
+      "translated_text": "What, why!?",
+      "translated_text_zh": "什么，为什么！？",
+      "note": ""
+    },
+    {
+      "offset": "f1ee",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そんな・・・",
+      "translated_text": "But...",
+      "translated_text_zh": "可是...",
+      "note": ""
+    },
+    {
+      "offset": "f22e",
+      "translated": true,
+      "len": 10,
+      "orig_text": "どうして？",
+      "translated_text": "Why?",
+      "translated_text_zh": "为什么？",
+      "note": ""
+    },
+    {
+      "offset": "f26c",
+      "translated": true,
+      "len": 20,
+      "orig_text": "そんな、どうして！？",
+      "translated_text": "What, why!?",
+      "translated_text_zh": "什么，为什么！？",
+      "note": ""
+    },
+    {
+      "offset": "f2e8",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ガレフが父さんを襲っ\nたのは、召喚獣のせい\nですよね",
+      "translated_text": "Galef attacked my\nfather because of the\nSummon Beast, right?",
+      "translated_text_zh": "加雷夫袭击我\n父亲是因为召唤兽，\n对吧？",
+      "note": ""
+    },
+    {
+      "offset": "f3a6",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ああ\nだから、そいつが君の\n父さんの本当の・・・",
+      "translated_text": "Yeah.\nSo, that's your father's\ntrue...",
+      "translated_text_zh": "是啊。\n所以，它才是你\n父亲真正的...",
+      "note": ""
+    },
+    {
+      "offset": "f408",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ああ\nだから、そいつが君の\n父さんの本当の・・・",
+      "translated_text": "Yeah.\nSo, that's your father's\ntrue...",
+      "translated_text_zh": "是啊。\n所以，它才是你\n父亲真正的...",
+      "note": ""
+    },
+    {
+      "offset": "f46a",
+      "translated": true,
+      "len": 38,
+      "orig_text": "うん、\nだから、本当の仇は\nそいつ・・・",
+      "translated_text": "Yes,\nso, it's the true\nenemy...",
+      "translated_text_zh": "嗯，\n所以，它才是\n真正的仇人...",
+      "note": ""
+    },
+    {
+      "offset": "f4c4",
+      "translated": true,
+      "len": 48,
+      "orig_text": "そうです\nだから、その相手が\n父さまの本当の・・・",
+      "translated_text": "That's right.\nSo, that's the one\nwho's truly responsible\nfor your father's...",
+      "translated_text_zh": "没错。\n所以，它才是\n令尊真正的...",
+      "note": ""
+    },
+    {
+      "offset": "f586",
+      "translated": true,
+      "len": 10,
+      "orig_text": "違います！",
+      "translated_text": "That's wrong!",
+      "translated_text_zh": "不对！",
+      "note": ""
+    },
+    {
+      "offset": "f5b7",
+      "translated": true,
+      "len": 50,
+      "orig_text": "そいつだって、自分で\nあの森にやって来たん\nじゃない",
+      "translated_text": "It didn't come to\nthat forest on its\nown.",
+      "translated_text_zh": "它也不是\n自己跑到那片\n森林里去的。",
+      "note": ""
+    },
+    {
+      "offset": "f610",
+      "translated": true,
+      "len": 56,
+      "orig_text": "召喚師に呼ばれたから\nこの世界に来たんじゃ\nないですか！？",
+      "translated_text": "It came to this world\nbecause it was summoned\nby a Summoner, right!?",
+      "translated_text_zh": "它是被召唤师\n召唤到这个世界\n来的，不是吗！？",
+      "note": ""
+    },
+    {
+      "offset": "f6a7",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "!?",
+      "translated_text_zh": "！？",
+      "note": ""
+    },
+    {
+      "offset": "f70a",
+      "translated": true,
+      "len": 48,
+      "orig_text": "ガレフを倒した時に、\nやっと僕は気づいたん\nですよ",
+      "translated_text": "When I defeated Galef,\nI finally realized it.",
+      "translated_text_zh": "当我打倒加雷夫\n的时候，我才终于\n明白。",
+      "note": ""
+    },
+    {
+      "offset": "f761",
+      "translated": true,
+      "len": 56,
+      "orig_text": "どこまで繰り返したっ\nて、復讐には終わりが\nないってことに",
+      "translated_text": "That no matter how many\ntimes you repeat it,\nrevenge never ends.",
+      "translated_text_zh": "无论重复多少次，\n复仇都永无止境。",
+      "note": ""
+    },
+    {
+      "offset": "f825",
+      "translated": true,
+      "len": 18,
+      "orig_text": "確かに、そうかもな",
+      "translated_text": "You might be right.",
+      "translated_text_zh": "你可能是对的。",
+      "note": ""
+    },
+    {
+      "offset": "f888",
+      "translated": true,
+      "len": 35,
+      "orig_text": "だけど、それじゃ森は\nどうなるんだ？",
+      "translated_text": "But what about the\nforest then?",
+      "translated_text_zh": "但是，那森林\n怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "f8d2",
+      "translated": true,
+      "len": 56,
+      "orig_text": "召喚獣を倒さなければ\n別の獣がガレフのよう\nになってしまう",
+      "translated_text": "If we don't defeat the\nSummon Beast, other\nbeasts will end up\nlike Galef.",
+      "translated_text_zh": "如果不打倒召唤兽，\n其他的野兽就会\n变成加雷夫那样。",
+      "note": ""
+    },
+    {
+      "offset": "f931",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そしてそいつが、君の\n父さんのような犠牲者\nを作るかもしれないん\nだぞ！？",
+      "translated_text": "And it might create\nmore victims like\nyour father!?",
+      "translated_text_zh": "然后它可能会\n制造更多像你\n父亲一样的牺牲者！？",
+      "note": ""
+    },
+    {
+      "offset": "f9ac",
+      "translated": true,
+      "len": 27,
+      "orig_text": "たしかにそうかもしれ\nないな",
+      "translated_text": "You might be right.",
+      "translated_text_zh": "你可能是对的。",
+      "note": ""
+    },
+    {
+      "offset": "fa18",
+      "translated": true,
+      "len": 37,
+      "orig_text": "だけど、それじゃ森は\nどうなるんだい？",
+      "translated_text": "But what about the\nforest then?",
+      "translated_text_zh": "但是，那森林\n怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "fa64",
+      "translated": true,
+      "len": 56,
+      "orig_text": "召喚獣を倒さなければ\n別の獣がガレフのよう\nになってしまう",
+      "translated_text": "If we don't defeat the\nSummon Beast, other\nbeasts will end up\nlike Galef.",
+      "translated_text_zh": "如果不打倒召唤兽，\n其他的野兽就会\n变成加雷夫那样。",
+      "note": ""
+    },
+    {
+      "offset": "fac3",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そしてそいつが、君の\n父さんのような犠牲者\nを作るかもしれないん\nだよ！？",
+      "translated_text": "And it might create\nmore victims like\nyour father!?",
+      "translated_text_zh": "然后它可能会\n制造更多像你\n父亲一样的牺牲者！？",
+      "note": ""
+    },
+    {
+      "offset": "fb3e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "うん・・・そうかも",
+      "translated_text": "Yeah... Maybe.",
+      "translated_text_zh": "嗯... 也许吧。",
+      "note": ""
+    },
+    {
+      "offset": "fba1",
+      "translated": true,
+      "len": 31,
+      "orig_text": "でも、森を放って\nおいていいの？",
+      "translated_text": "But is it okay to\nleave the forest\nalone?",
+      "translated_text_zh": "可是，就这样\n放着森林不管\n吗？",
+      "note": ""
+    },
+    {
+      "offset": "fbe7",
+      "translated": true,
+      "len": 54,
+      "orig_text": "召喚獣を倒さないと\n今度は別の獣が\nガレフみたいに・・・",
+      "translated_text": "If we don't defeat\nthe Summon Beast, another\nbeast might end up\nlike Galef...",
+      "translated_text_zh": "如果不打倒\n召唤兽，下次\n别的野兽也会\n变成加雷夫那样...",
+      "note": ""
+    },
+    {
+      "offset": "fc44",
+      "translated": true,
+      "len": 69,
+      "orig_text": "もう、あなたの\nお父さんみたいな\n犠牲者は出しちゃダメ\nなんじゃないの？",
+      "translated_text": "We can't let there\nbe any more victims\nlike your father,\ncan we?",
+      "translated_text_zh": "不能再出现\n像你父亲那样\n的牺牲者了，\n不是吗？",
+      "note": ""
+    },
+    {
+      "offset": "fcbd",
+      "translated": true,
+      "len": 18,
+      "orig_text": "確かに、そうですね",
+      "translated_text": "You're right.",
+      "translated_text_zh": "你说得对。",
+      "note": ""
+    },
+    {
+      "offset": "fd20",
+      "translated": true,
+      "len": 29,
+      "orig_text": "でも、森はどうなる\nんですか？",
+      "translated_text": "But what about\nthe forest?",
+      "translated_text_zh": "但是，那森林\n怎么办？",
+      "note": ""
+    },
+    {
+      "offset": "fd64",
+      "translated": true,
+      "len": 79,
+      "orig_text": "召喚獣を倒さなければ\n別の獣がガレフのよう\nになってしまうんじゃ\nないでしょうか？",
+      "translated_text": "If we don't defeat\nthe Summon Beast, won't\nother beasts end up\nlike Galef?",
+      "translated_text_zh": "如果不打倒召唤兽，\n其他的野兽也会\n变成加雷夫那样\n吧？",
+      "note": ""
+    },
+    {
+      "offset": "fdda",
+      "translated": true,
+      "len": 71,
+      "orig_text": "ほうっておけば、\n父さまのような犠牲者\nを作るかもしれないん\nですよ・・・",
+      "translated_text": "If we leave it alone,\nit might create more\nvictims like your\nfather...",
+      "translated_text_zh": "如果放任不管，\n它可能会制造\n更多像令尊\n一样的牺牲者...",
+      "note": ""
+    },
+    {
+      "offset": "fe89",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは・・・",
+      "translated_text": "That's...",
+      "translated_text_zh": "那...",
+      "note": ""
+    },
+    {
+      "offset": "ff21",
+      "translated": true,
+      "len": 58,
+      "orig_text": "君の父さん、ガレフ、\nそして君自身のために\n召喚獣を倒そう？",
+      "translated_text": "Let's defeat the\nSummon Beast for your\nfather, for Galef,\nand for yourself.",
+      "translated_text_zh": "为了你的父亲，\n为了加雷夫，\n也为了你自己，\n打倒召唤兽吧？",
+      "note": ""
+    },
+    {
+      "offset": "ff82",
+      "translated": true,
+      "len": 20,
+      "orig_text": "復讐するためじゃない",
+      "translated_text": "Not for revenge.",
+      "translated_text_zh": "不是为了复仇。",
+      "note": ""
+    },
+    {
+      "offset": "ffbd",
+      "translated": true,
+      "len": 37,
+      "orig_text": "同じ悲しみを繰り返さ\nないために・・・",
+      "translated_text": "To prevent the same\nsadness from happening\nagain...",
+      "translated_text_zh": "为了不再重蹈\n覆辙...",
+      "note": ""
+    },
+    {
+      "offset": "10016",
+      "translated": true,
+      "len": 58,
+      "orig_text": "君の父さん、ガレフ、\nそして君自身のために\n召喚獣を倒そう？",
+      "translated_text": "Let's defeat the\nSummon Beast for your\nfather, for Galef,\nand for yourself.",
+      "translated_text_zh": "为了你的父亲，\n为了加雷夫，\n也为了你自己，\n打倒召唤兽吧？",
+      "note": ""
+    },
+    {
+      "offset": "10077",
+      "translated": true,
+      "len": 20,
+      "orig_text": "復讐するためじゃない",
+      "translated_text": "Not for revenge.",
+      "translated_text_zh": "不是为了复仇。",
+      "note": ""
+    },
+    {
+      "offset": "100b2",
+      "translated": true,
+      "len": 37,
+      "orig_text": "同じ悲しみを繰り返さ\nないために・・・",
+      "translated_text": "To prevent the same\nsadness from happening\nagain...",
+      "translated_text_zh": "为了不再重蹈\n覆辙...",
+      "note": ""
+    },
+    {
+      "offset": "1010b",
+      "translated": true,
+      "len": 75,
+      "orig_text": "あなたのお父さんや、\nガレフ・・・なにより\nキミのために、\n召喚獣を倒すの、ね",
+      "translated_text": "For your father, for\nGalef... and most importantly\nfor you, let's defeat the\nSummon Beast.",
+      "translated_text_zh": "为了你的父亲，\n为了加雷夫...\n最重要的是，\n为了你，我们\n要打倒召唤兽。",
+      "note": ""
+    },
+    {
+      "offset": "1017d",
+      "translated": true,
+      "len": 14,
+      "orig_text": "復讐じゃないよ",
+      "translated_text": "It's not for revenge.",
+      "translated_text_zh": "不是为了复仇。",
+      "note": ""
+    },
+    {
+      "offset": "101b2",
+      "translated": true,
+      "len": 41,
+      "orig_text": "もうおんなじ悲しみ、\n繰り返しちゃだめなの",
+      "translated_text": "We can't let the same\nsadness happen again.",
+      "translated_text_zh": "不能再让\n同样的悲剧\n重演了。",
+      "note": ""
+    },
+    {
+      "offset": "1020f",
+      "translated": true,
+      "len": 61,
+      "orig_text": "お父さま、ガレフ\nそして貴方自身の\nために召喚獣を\n倒しましょう",
+      "translated_text": "Let's defeat the\nSummon Beast for\nyour father, for Galef,\nand for yourself.",
+      "translated_text_zh": "为了令尊，\n为了加雷夫，\n也为了你自己，\n打倒召唤兽吧。",
+      "note": ""
+    },
+    {
+      "offset": "10273",
+      "translated": true,
+      "len": 35,
+      "orig_text": "復讐するためなんか\nじゃなくて・・・",
+      "translated_text": "Not for the sake\nof revenge...",
+      "translated_text_zh": "不是为了复仇...",
+      "note": ""
+    },
+    {
+      "offset": "102bd",
+      "translated": true,
+      "len": 39,
+      "orig_text": "同じ悲しみを繰り返さ\nないための戦いです",
+      "translated_text": "It's a fight to prevent\nthe same sadness from\nhappening again.",
+      "translated_text_zh": "这是一场为了\n不再重蹈覆辙\n而进行的战斗。",
+      "note": ""
+    },
+    {
+      "offset": "1034c",
+      "translated": true,
+      "len": 33,
+      "orig_text": "悲しみを繰り返さない\nために・・・",
+      "translated_text": "To prevent the same\nsadness from happening\nagain...",
+      "translated_text_zh": "为了不再重蹈\n覆辙...",
+      "note": ""
+    },
+    {
+      "offset": "105af",
+      "translated": true,
+      "len": 41,
+      "orig_text": "召喚獣はきっと、森の\n奥に隠れてるはずです",
+      "translated_text": "The Summon Beast is\nprobably hiding in the\ndepths of the forest.",
+      "translated_text_zh": "召唤兽应该\n躲在森林深处。",
+      "note": ""
+    },
+    {
+      "offset": "1067d",
+      "translated": true,
+      "len": 12,
+      "orig_text": "どうしてだ？",
+      "translated_text": "Why is that?",
+      "translated_text_zh": "为什么？",
+      "note": ""
+    },
+    {
+      "offset": "106e8",
+      "translated": true,
+      "len": 62,
+      "orig_text": "森の奥はほとんど日が\n差さないから、地面が\nいつも湿ってるんです",
+      "translated_text": "The depths of the forest\nhardly get any sunlight,\nso the ground is always\ndamp.",
+      "translated_text_zh": "森林深处几乎\n没有阳光照射，\n所以地面总是\n很潮湿。",
+      "note": ""
+    },
+    {
+      "offset": "107cb",
+      "translated": true,
+      "len": 44,
+      "orig_text": "なるほど・・・\n相手はキノコの化け物\nだからな",
+      "translated_text": "I see...\nThe enemy is a\nmushroom monster.",
+      "translated_text_zh": "原来如此...\n对手是蘑菇\n怪物。",
+      "note": ""
+    },
+    {
+      "offset": "108e5",
+      "translated": true,
+      "len": 31,
+      "orig_text": "奴らの吐き出す胞子に\n注意しろ！",
+      "translated_text": "Watch out for the\nspores they release!",
+      "translated_text_zh": "小心它们释放\n的孢子！",
+      "note": ""
+    },
+    {
+      "offset": "1092b",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ガレフたちみたいに\n狂わされるぞ！",
+      "translated_text": "You'll go crazy like\nGalef and the others!",
+      "translated_text_zh": "你会像加雷夫\n他们一样发狂的！",
+      "note": ""
+    },
+    {
+      "offset": "10a0c",
+      "translated": true,
+      "len": 35,
+      "orig_text": "奴らの吐き出す胞子に\n注意するんだ！",
+      "translated_text": "Be careful of the\nspores they release!",
+      "translated_text_zh": "小心它们释放\n的孢子！",
+      "note": ""
+    },
+    {
+      "offset": "10a56",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ガレフたちのように、\n狂わされてしまうぞ",
+      "translated_text": "You'll end up going\ncrazy like Galef and\nthe others!",
+      "translated_text_zh": "你会像加雷夫\n他们一样发狂的！",
+      "note": ""
+    },
+    {
+      "offset": "10b3d",
+      "translated": true,
+      "len": 35,
+      "orig_text": "キノコの胞子だけは\n浴びちゃダメよ！",
+      "translated_text": "Don't get hit by the\nmushroom spores!",
+      "translated_text_zh": "千万别被蘑菇\n孢子击中！",
+      "note": ""
+    },
+    {
+      "offset": "10b87",
+      "translated": true,
+      "len": 31,
+      "orig_text": "ガレフみたいに\nなっちゃうからね",
+      "translated_text": "You'll end up like\nGalef.",
+      "translated_text_zh": "你会变成加雷夫\n那样的。",
+      "note": ""
+    },
+    {
+      "offset": "10c66",
+      "translated": true,
+      "len": 39,
+      "orig_text": "彼らの吐き出す胞子に\n注意してください！",
+      "translated_text": "Be careful of the\nspores they release!",
+      "translated_text_zh": "小心它们释放\n的孢子！",
+      "note": ""
+    },
+    {
+      "offset": "10cb4",
+      "translated": true,
+      "len": 41,
+      "orig_text": "ガレフたちと同じよう\nになってしまいますよ",
+      "translated_text": "You'll end up like\nGalef and the others!",
+      "translated_text_zh": "你会变成加雷夫\n他们那样的！",
+      "note": ""
+    },
+    {
+      "offset": "10d8b",
+      "translated": true,
+      "len": 25,
+      "orig_text": "ケッ！\nくらってたまるかよ",
+      "translated_text": "Tch!\nLike I'd let that\nhappen!",
+      "translated_text_zh": "切！\n我才不会中招！",
+      "note": ""
+    },
+    {
+      "offset": "10ed2",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・あれか！？",
+      "translated_text": "...Is that it!?",
+      "translated_text_zh": "...是那个！？",
+      "note": ""
+    },
+    {
+      "offset": "10f16",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・あれか！？",
+      "translated_text": "...Is that it!?",
+      "translated_text_zh": "...是那个！？",
+      "note": ""
+    },
+    {
+      "offset": "10f5a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・あれ！？",
+      "translated_text": "...That!?",
+      "translated_text_zh": "...那个！？",
+      "note": ""
+    },
+    {
+      "offset": "10f9c",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・あれですね",
+      "translated_text": "...That's it.",
+      "translated_text_zh": "...是那个。",
+      "note": ""
+    },
+    {
+      "offset": "1105a",
+      "translated": true,
+      "len": 31,
+      "orig_text": "あいつが・・・\nはぐれ召喚獣！！",
+      "translated_text": "That's...\nthe Stray Summon Beast!!",
+      "translated_text_zh": "那就是...\n迷途召唤兽！！",
+      "note": ""
+    },
+    {
+      "offset": "11105",
+      "translated": true,
+      "len": 18,
+      "orig_text": "みんな、行くぞっ！",
+      "translated_text": "Everyone, let's go!",
+      "translated_text_zh": "大家，上！",
+      "note": ""
+    },
+    {
+      "offset": "1114b",
+      "translated": true,
+      "len": 16,
+      "orig_text": "みんな、行くぞ！",
+      "translated_text": "Everyone, let's go!",
+      "translated_text_zh": "大家，上！",
+      "note": ""
+    },
+    {
+      "offset": "1118f",
+      "translated": true,
+      "len": 18,
+      "orig_text": "みんな、行こうっ！",
+      "translated_text": "Everyone, let's go!",
+      "translated_text_zh": "大家，上吧！",
+      "note": ""
+    },
+    {
+      "offset": "111d5",
+      "translated": true,
+      "len": 18,
+      "orig_text": "みんな、行こうっ！",
+      "translated_text": "Everyone, let's go!",
+      "translated_text_zh": "大家，上吧！",
+      "note": ""
+    },
+    {
+      "offset": "11593",
+      "translated": true,
+      "len": 35,
+      "orig_text": "これで、終わったんで\nすよね・・・？",
+      "translated_text": "It's over now,\nright...?",
+      "translated_text_zh": "这样就结束\n了吧...？",
+      "note": ""
+    },
+    {
+      "offset": "115f9",
+      "translated": true,
+      "len": 12,
+      "orig_text": "どうしよう？",
+      "translated_text": "What should I say?",
+      "translated_text_zh": "我该说什么？",
+      "note": ""
+    },
+    {
+      "offset": "1164b",
+      "translated": true,
+      "len": 33,
+      "orig_text": "　ああ、そうだよ\n　とりあえずはね",
+      "translated_text": "  Yeah, that's right.\n  For now, at least.",
+      "translated_text_zh": "  嗯，没错。\n  至少现在是。",
+      "note": ""
+    },
+    {
+      "offset": "116a0",
+      "translated": true,
+      "len": 33,
+      "orig_text": "　ああ、そうだよ\n　とりあえずはね",
+      "translated_text": "  Yeah, that's right.\n  For now, at least.",
+      "translated_text_zh": "  嗯，没错。\n  至少现在是。",
+      "note": ""
+    },
+    {
+      "offset": "116f5",
+      "translated": true,
+      "len": 33,
+      "orig_text": "　うん、そうだよ\n　とりあえずはね",
+      "translated_text": "  Yeah, that's right.\n  For now, at least.",
+      "translated_text_zh": "  嗯，没错。\n  至少现在是。",
+      "note": ""
+    },
+    {
+      "offset": "1174a",
+      "translated": true,
+      "len": 29,
+      "orig_text": "　そうですね\n　とりあえずはね",
+      "translated_text": "  That's right.\n  For now, at least.",
+      "translated_text_zh": "  没错。\n  至少现在是。",
+      "note": ""
+    },
+    {
+      "offset": "11878",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ああ、そうだよ",
+      "translated_text": "Yeah, that's right.",
+      "translated_text_zh": "嗯，没错。",
+      "note": ""
+    },
+    {
+      "offset": "118ad",
+      "translated": true,
+      "len": 29,
+      "orig_text": "スウォンが\n終わらせたんだぜ？",
+      "translated_text": "Sworn finished\nit, you know?",
+      "translated_text_zh": "是斯沃恩\n解决的，知道吗？",
+      "note": ""
+    },
+    {
+      "offset": "118fe",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ああ、そうだよ",
+      "translated_text": "Yeah, that's right.",
+      "translated_text_zh": "嗯，没错。",
+      "note": ""
+    },
+    {
+      "offset": "11933",
+      "translated": true,
+      "len": 25,
+      "orig_text": "スウォンが\n終わらせたんだ",
+      "translated_text": "Sworn finished\nit.",
+      "translated_text_zh": "是斯沃恩\n解决的。",
+      "note": ""
+    },
+    {
+      "offset": "11980",
+      "translated": true,
+      "len": 14,
+      "orig_text": "うん、そうだよ",
+      "translated_text": "Yeah, that's right.",
+      "translated_text_zh": "嗯，没错。",
+      "note": ""
+    },
+    {
+      "offset": "119b5",
+      "translated": true,
+      "len": 29,
+      "orig_text": "スウォンが終わらせた\nんだよ？",
+      "translated_text": "Sworn finished it,\nyou know?",
+      "translated_text_zh": "是斯沃恩解决\n的，知道吗？",
+      "note": ""
+    },
+    {
+      "offset": "11a07",
+      "translated": true,
+      "len": 11,
+      "orig_text": "そうですね",
+      "translated_text": "That's right.",
+      "translated_text_zh": "没错。",
+      "note": ""
+    },
+    {
+      "offset": "11a37",
+      "translated": true,
+      "len": 33,
+      "orig_text": "スウォンくんが\n終わらせたんですよ",
+      "translated_text": "Sworn-kun finished\nit.",
+      "translated_text_zh": "是斯沃恩君\n解决的。",
+      "note": ""
+    },
+    {
+      "offset": "11af8",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・ううっ",
+      "translated_text": "...Sniff.",
+      "translated_text_zh": "...呜呜",
+      "note": ""
+    },
+    {
+      "offset": "11b2b",
+      "translated": true,
+      "len": 18,
+      "orig_text": "父さあぁ〜んっ！！",
+      "translated_text": "Fatherrrr!!",
+      "translated_text_zh": "父亲啊啊啊！！",
+      "note": ""
+    },
+    {
+      "offset": "11bdc",
+      "translated": true,
+      "len": 14,
+      "orig_text": "とりあえずはね",
+      "translated_text": "For now, at least.",
+      "translated_text_zh": "至少现在是。",
+      "note": ""
+    },
+    {
+      "offset": "11c73",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ガレフ・・・\n君を殺してしまって\nごめんね・・・",
+      "translated_text": "Galef...\nI'm sorry I killed\nyou...",
+      "translated_text_zh": "加雷夫...\n对不起，我杀了\n你...",
+      "note": ""
+    },
+    {
+      "offset": "11cc8",
+      "translated": true,
+      "len": 18,
+      "orig_text": "許しておくれ・・・",
+      "translated_text": "Please forgive me...",
+      "translated_text_zh": "请原谅我...",
+      "note": ""
+    },
+    {
+      "offset": "11ebc",
+      "translated": true,
+      "len": 37,
+      "orig_text": "みなさん、本当に\nありがとうございます",
+      "translated_text": "Everyone, thank you\nso much.",
+      "translated_text_zh": "各位，真的\n非常感谢。",
+      "note": ""
+    },
+    {
+      "offset": "11f08",
+      "translated": true,
+      "len": 41,
+      "orig_text": "何かお礼ができれば、\nいいんですけど・・・",
+      "translated_text": "I wish I could\ndo something to repay\nyou...",
+      "translated_text_zh": "如果能报答\n你们就好了...",
+      "note": ""
+    },
+    {
+      "offset": "11fd6",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ケッ、最初からそんな\nの期待してねえよ",
+      "translated_text": "Tch, we weren't\nexpecting anything\nfrom you.",
+      "translated_text_zh": "切，我们从\n没期待过什么\n回报。",
+      "note": ""
+    },
+    {
+      "offset": "120a0",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ワシらは損得勘定で、\nお前さんを手伝ったん\nじゃない",
+      "translated_text": "We didn't help you\nbecause we expected\nsomething in return.",
+      "translated_text_zh": "我们帮你\n可不是为了\n回报。",
+      "note": ""
+    },
+    {
+      "offset": "12123",
+      "translated": true,
+      "len": 20,
+      "orig_text": "友達だから助けたのさ",
+      "translated_text": "We helped you because\nwe're friends.",
+      "translated_text_zh": "我们是因为\n朋友才帮你的。",
+      "note": ""
+    },
+    {
+      "offset": "12214",
+      "translated": true,
+      "len": 10,
+      "orig_text": "そうだろう",
+      "translated_text": "That's right.",
+      "translated_text_zh": "没错。",
+      "note": ""
+    },
+    {
+      "offset": "122f2",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ああ、そうだよ",
+      "translated_text": "Yeah, that's right.",
+      "translated_text_zh": "嗯，没错。",
+      "note": ""
+    },
+    {
+      "offset": "12327",
+      "translated": true,
+      "len": 58,
+      "orig_text": "スウォンは俺の・・・\nううん、俺たちの大事\nな友達だもんな！",
+      "translated_text": "Sworn is my...\nNo, he's our precious\nfriend!",
+      "translated_text_zh": "斯沃恩是我的...\n不，他是我们\n重要的朋友！",
+      "note": ""
+    },
+    {
+      "offset": "12395",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ああ、そうさ",
+      "translated_text": "Yeah, that's right.",
+      "translated_text_zh": "嗯，没错。",
+      "note": ""
+    },
+    {
+      "offset": "123c8",
+      "translated": true,
+      "len": 56,
+      "orig_text": "スウォンは俺の・・・\nううん、俺たちの大事\nな友達だからな",
+      "translated_text": "Sworn is my...\nNo, he's our precious\nfriend.",
+      "translated_text_zh": "斯沃恩是我的...\n不，他是我们\n重要的朋友。",
+      "note": ""
+    },
+    {
+      "offset": "12434",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・うん",
+      "translated_text": "...Yeah.",
+      "translated_text_zh": "...嗯。",
+      "note": ""
+    },
+    {
+      "offset": "12465",
+      "translated": true,
+      "len": 56,
+      "orig_text": "スウォンは、あたしの\nあたしたちの大事な\n友達なんだから！",
+      "translated_text": "Sworn is my... No,\nhe's our precious\nfriend!",
+      "translated_text_zh": "斯沃恩是我的...\n不，他是我们\n重要的朋友！",
+      "note": ""
+    },
+    {
+      "offset": "124d1",
+      "translated": true,
+      "len": 10,
+      "orig_text": "はい・・・",
+      "translated_text": "Yes...",
+      "translated_text_zh": "是的...",
+      "note": ""
+    },
+    {
+      "offset": "12502",
+      "translated": true,
+      "len": 48,
+      "orig_text": "スウォンくんは・・・\n大事なお友達\nですから・・・",
+      "translated_text": "Sworn-kun is...\na precious friend...",
+      "translated_text_zh": "斯沃恩君是...\n重要的朋友...",
+      "note": ""
+    },
+    {
+      "offset": "125e0",
+      "translated": true,
+      "len": 14,
+      "orig_text": "みなさん・・・",
+      "translated_text": "Everyone...",
+      "translated_text_zh": "大家...",
+      "note": ""
+    },
+    {
+      "offset": "1267a",
+      "translated": true,
+      "len": 39,
+      "orig_text": "だからいつだって遊び\nに来ていいんだぜ？",
+      "translated_text": "So you can come visit\nus anytime, you know?",
+      "translated_text_zh": "所以你随时\n都可以来玩，\n知道吗？",
+      "note": ""
+    },
+    {
+      "offset": "126d5",
+      "translated": true,
+      "len": 39,
+      "orig_text": "だからいつだって頼っ\nてくれていいんだよ",
+      "translated_text": "So you can always\nrely on us.",
+      "translated_text_zh": "所以你随时\n都可以依靠我们。",
+      "note": ""
+    },
+    {
+      "offset": "12730",
+      "translated": true,
+      "len": 33,
+      "orig_text": "だからね、いつでも\n遊びに来てね？",
+      "translated_text": "So, you can come\nvisit us anytime, okay?",
+      "translated_text_zh": "所以，随时\n都可以来玩哦？",
+      "note": ""
+    },
+    {
+      "offset": "12785",
+      "translated": true,
+      "len": 39,
+      "orig_text": "だからいつでも、遊び\nに来てくださいね？",
+      "translated_text": "So, you can come\nvisit us anytime, okay?",
+      "translated_text_zh": "所以，随时\n都可以来玩哦？",
+      "note": ""
+    },
+    {
+      "offset": "1283e",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・はい！",
+      "translated_text": "...Yes!",
+      "translated_text_zh": "...好的！",
+      "note": ""
+    }
+  ]
+}

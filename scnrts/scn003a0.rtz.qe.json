@@ -1,0 +1,2120 @@
+{
+  "md5": "7cec41c639b758fcb59fefbcf8a06757",
+  "blocks": [
+    {
+      "offset": "35c1",
+      "translated": true,
+      "len": 16,
+      "orig_text": "話ってなんだい？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3605",
+      "translated": true,
+      "len": 16,
+      "orig_text": "話ってなんだい？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3649",
+      "translated": true,
+      "len": 8,
+      "orig_text": "話って？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3685",
+      "translated": true,
+      "len": 18,
+      "orig_text": "話ってなんですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "375d",
+      "translated": true,
+      "len": 50,
+      "orig_text": "お前の持ってる力\n説明しとかなけりゃ\nならないだろ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3860",
+      "translated": true,
+      "len": 25,
+      "orig_text": "あの不思議な光の\nことか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "38a0",
+      "translated": true,
+      "len": 60,
+      "orig_text": "使っておいて言うのも\nなんだが、あれは一体\nどういう力なんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "393a",
+      "translated": true,
+      "len": 25,
+      "orig_text": "もしかして\nあの光のこと？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "397a",
+      "translated": true,
+      "len": 46,
+      "orig_text": "自分でやっといて\n言うのもなんだけど\nなにあれ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3a06",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ええ、あの不思議な\n光のことですね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3a4e",
+      "translated": true,
+      "len": 73,
+      "orig_text": "自分で使っておいて、\nこういうのも\nなんなんですが・・・\nあれはなんですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3aff",
+      "translated": true,
+      "len": 77,
+      "orig_text": "俺にもはっきりとした\nことはわからないが、\nたぶん【召喚術】の\n一種に間違いない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3bf3",
+      "translated": true,
+      "len": 75,
+      "orig_text": "ちょっと待ってくれ\n召喚術ってのは召喚師\nしか使えないものなん\nじゃないのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3c9c",
+      "translated": true,
+      "len": 47,
+      "orig_text": "・・・\nそれってさ\nわかんないも\n同然じゃん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3cf2",
+      "translated": true,
+      "len": 59,
+      "orig_text": "だいたい召喚術って\n召喚師しか\n使えないって\n言ってなかった？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3d61",
+      "translated": true,
+      "len": 61,
+      "orig_text": "え・・・\n召喚術というのは\n召喚師しか使えないと\n聞きましたけど",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3e06",
+      "translated": true,
+      "len": 54,
+      "orig_text": "普通の奴等はそう思っ\nているようだけど、\nそれは違ってる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3e63",
+      "translated": true,
+      "len": 41,
+      "orig_text": "方法さえ知っていれば\n召喚術は誰でも使える",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3f5d",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3f95",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そうなの！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3fff",
+      "translated": true,
+      "len": 56,
+      "orig_text": "そうなんですか？\nでも、わたし召喚術\nの使い方なんて・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "40c9",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ま・・・\n詳しくはあとで説明\nするとして・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "411c",
+      "translated": true,
+      "len": 73,
+      "orig_text": "ただ、お前の力は、\nどうも違うみたいだ\n呪文も儀式も必要とし\nないんだからな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "418c",
+      "translated": true,
+      "len": 44,
+      "orig_text": "あんなことは熟達した\n召喚師でも\nできっこない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "425f",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そんなに、すごいこと\nだったのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "42e2",
+      "translated": true,
+      "len": 31,
+      "orig_text": "あたしって\nもしかしてすごいかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "435f",
+      "translated": true,
+      "len": 46,
+      "orig_text": "・・・そんなにも\nすごいこと\n・・・なんですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "43f5",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ただし、問題もある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "442e",
+      "translated": true,
+      "len": 77,
+      "orig_text": "お前の召喚術はまだ\n未熟なんだ。きっちり\n制御しないと、暴発を\n起こす危険がある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4522",
+      "translated": true,
+      "len": 18,
+      "orig_text": "それは困るな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4592",
+      "translated": true,
+      "len": 20,
+      "orig_text": "・・・あ、やっぱり？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4604",
+      "translated": true,
+      "len": 10,
+      "orig_text": "そんな！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "46a0",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そこで、だ\nこれから俺が、初歩の\n召喚術の手順を教えよ\nうと思うんだが・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4842",
+      "translated": true,
+      "len": 10,
+      "orig_text": "覚えたか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "48f3",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ああ、まず\n【サモナイト石】に\n精神を集中して・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "494c",
+      "translated": true,
+      "len": 54,
+      "orig_text": "次に何かの行動を起こ\nせば【召喚術】が発動\nするんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "49b6",
+      "translated": true,
+      "len": 50,
+      "orig_text": "簡単だよ\nまず【サモナイト石】\nに精神を集中して、と",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4a0f",
+      "translated": true,
+      "len": 50,
+      "orig_text": "で、なにか行動を起こ\nせば【召喚術】が発動\nする、と",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4a75",
+      "translated": true,
+      "len": 58,
+      "orig_text": "え、はいなんとか\nまず【サモナイト石】\nに精神を集中して・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4ad6",
+      "translated": true,
+      "len": 63,
+      "orig_text": "次に何かの行動を\n起こせば【召喚術】が\n発動する\n・・・ですよね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4ba7",
+      "translated": true,
+      "len": 57,
+      "orig_text": "なんだけどな・・・\n実はこの方法は\nあまり確実じゃない\nのさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4c07",
+      "translated": true,
+      "len": 81,
+      "orig_text": "いちいちサモナイト石\nを消耗するし、望んだ\n召喚術が確実に使える\nわけじゃないからな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4cff",
+      "translated": true,
+      "len": 14,
+      "orig_text": "たしかに・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4d6b",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・だめじゃん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4daf",
+      "translated": true,
+      "len": 16,
+      "orig_text": "そうですね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4e51",
+      "translated": true,
+      "len": 56,
+      "orig_text": "だから召喚師たちは、\n【誓約】という儀式を\n一緒に行うのさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4f5a",
+      "translated": true,
+      "len": 6,
+      "orig_text": "誓約？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4f94",
+      "translated": true,
+      "len": 6,
+      "orig_text": "誓約？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4ff8",
+      "translated": true,
+      "len": 12,
+      "orig_text": "誓・・・約？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "506c",
+      "translated": true,
+      "len": 44,
+      "orig_text": "そう\n呼び出された召喚獣に\n名前をつける儀式さ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "50bf",
+      "translated": true,
+      "len": 73,
+      "orig_text": "名前をつけた召喚獣は\n魔力を消費するだけで\nいつでも自由に呼べる\nようになる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "512f",
+      "translated": true,
+      "len": 39,
+      "orig_text": "たとえ名づけた本人で\nなくても、だけどな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5227",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それが、さっき言って\nた特別な方法か・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5284",
+      "translated": true,
+      "len": 25,
+      "orig_text": "これが\nもうひとつの方法ね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "52d1",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それが、さっき言って\nた特別な方法ですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5362",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ああ、ご名答、だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5399",
+      "translated": true,
+      "len": 60,
+      "orig_text": "本当なら、こんなこと\n普通の奴に教えちゃ\nいけないんだが・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "53fc",
+      "translated": true,
+      "len": 40,
+      "orig_text": "今回は特別だ\n俺はお前を信じる\nことにする",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "54cb",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ソル・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5509",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ソル・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5547",
+      "translated": true,
+      "len": 16,
+      "orig_text": "ありがとう・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5639",
+      "translated": true,
+      "len": 52,
+      "orig_text": "君の持っている力に\nついて、説明して\nおこうと思ってな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5723",
+      "translated": true,
+      "len": 25,
+      "orig_text": "あの不思議な光の\nことか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5763",
+      "translated": true,
+      "len": 50,
+      "orig_text": "使っておいてなんだけ\nど、あれはいったい\n何なんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "580e",
+      "translated": true,
+      "len": 25,
+      "orig_text": "もしかして\nあの光のこと？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "584e",
+      "translated": true,
+      "len": 46,
+      "orig_text": "自分でやっといて\n言うのもなんだけど\nなにあれ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "58da",
+      "translated": true,
+      "len": 29,
+      "orig_text": "あの不思議な光のこと\nですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "591e",
+      "translated": true,
+      "len": 60,
+      "orig_text": "使った自分で言うのも\nなんなんですが・・・\nあれはなんですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "59c2",
+      "translated": true,
+      "len": 73,
+      "orig_text": "僕にもはっきりした\nことはわからないが、\nおそらく【召喚術】の\n一種だと思う",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5ac1",
+      "translated": true,
+      "len": 77,
+      "orig_text": "おいおい、待ってくれ\n召喚術ってのは召喚師\nしか使えないものなん\nじゃないのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5b87",
+      "translated": true,
+      "len": 47,
+      "orig_text": "・・・\nそれってさ\nわかんないも\n同然じゃん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5bdd",
+      "translated": true,
+      "len": 58,
+      "orig_text": "だいたい召喚術って\n召喚師しか使えないっ\nて言ってなかった？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5c4b",
+      "translated": true,
+      "len": 81,
+      "orig_text": "待ってください・・・\n召喚術ってのは召喚師\nしか使えないものなん\nじゃないんですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5d04",
+      "translated": true,
+      "len": 52,
+      "orig_text": "普通の人々はそう思っ\nているようだが、\nそれは間違いだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5d5f",
+      "translated": true,
+      "len": 41,
+      "orig_text": "方法さえ知っていれば\n召喚術は誰でも使える",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5e3e",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5e91",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そうなの！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5efb",
+      "translated": true,
+      "len": 10,
+      "orig_text": "え・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5f6d",
+      "translated": true,
+      "len": 37,
+      "orig_text": "詳しくはあとで説明を\nするとして・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5fe3",
+      "translated": true,
+      "len": 77,
+      "orig_text": "まあ、君の力はそんな\nものとは根本的に違う\n呪文も儀式も必要とし\nないんだからな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6057",
+      "translated": true,
+      "len": 41,
+      "orig_text": "あんなことは熟達した\n召喚師でも不可能だよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6136",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そんなに、すごいこと\nだったのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "61d4",
+      "translated": true,
+      "len": 31,
+      "orig_text": "あたしって\nもしかしてすごいかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6251",
+      "translated": true,
+      "len": 35,
+      "orig_text": "そんなに、すごいこと\nだったんですか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "62dc",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ただし、問題もある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6315",
+      "translated": true,
+      "len": 77,
+      "orig_text": "君の召喚術は我流だ\nきちんとした制御法を\n学ばなくては、暴発を\n起こす危険がある",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6418",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ええっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "649b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "・・・あ、やっぱり？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "650d",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ええっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "65a9",
+      "translated": true,
+      "len": 71,
+      "orig_text": "そうならないためにも\nこれから僕が、\n初歩の召喚術の手順を\n教えようと思う",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "674b",
+      "translated": true,
+      "len": 10,
+      "orig_text": "覚えたか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "67e1",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ああ\nまず【サモナイト石】\nに精神を集中して・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6836",
+      "translated": true,
+      "len": 54,
+      "orig_text": "次に何かの行動を\n起こせば【召喚術】が\n発動するんだろ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "68bb",
+      "translated": true,
+      "len": 50,
+      "orig_text": "簡単だよ\nまず【サモナイト石】\nに精神を集中して、と",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6914",
+      "translated": true,
+      "len": 50,
+      "orig_text": "で、なにか行動を起こ\nせば【召喚術】が発動\nする、と",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "697a",
+      "translated": true,
+      "len": 50,
+      "orig_text": "はい、まず\n【サモナイト石】に\n精神を集中して・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "69d3",
+      "translated": true,
+      "len": 56,
+      "orig_text": "次に何かの行動を\n起こせば【召喚術】が\n発動するんですね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6a9d",
+      "translated": true,
+      "len": 41,
+      "orig_text": "だがこの方法は不確実\nすぎて実戦的じゃない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6aed",
+      "translated": true,
+      "len": 81,
+      "orig_text": "いちいちサモナイト石\nを消耗するし、望んだ\n召喚術が確実に使える\nわけじゃないからな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6bf4",
+      "translated": true,
+      "len": 14,
+      "orig_text": "たしかに・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6c51",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・だめじゃん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6c95",
+      "translated": true,
+      "len": 52,
+      "orig_text": "そうですよね・・・\n不確実だとは\n思いましたけど・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6d31",
+      "translated": true,
+      "len": 56,
+      "orig_text": "だから召喚師たちは、\n【誓約】という儀式を\n一緒に行うんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6df5",
+      "translated": true,
+      "len": 6,
+      "orig_text": "誓約？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6e74",
+      "translated": true,
+      "len": 25,
+      "orig_text": "誓約？\n契約みたいなもん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6ec1",
+      "translated": true,
+      "len": 12,
+      "orig_text": "誓約ですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6f35",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ああ\n呼び出された召喚獣に\n名前をつける儀式さ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6f88",
+      "translated": true,
+      "len": 73,
+      "orig_text": "名前をつけた召喚獣は\n魔力を消費するだけで\nいつでも自由に呼べる\nようになる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6ff8",
+      "translated": true,
+      "len": 31,
+      "orig_text": "たとえ名づけた本人で\nなくてもね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "70cd",
+      "translated": true,
+      "len": 37,
+      "orig_text": "それが、さっき言って\nた特別な方法！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "716b",
+      "translated": true,
+      "len": 25,
+      "orig_text": "これが\nもうひとつの方法ね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "71e2",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それが、さっき言って\nた特別な方法・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "729d",
+      "translated": true,
+      "len": 14,
+      "orig_text": "そういうことだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "72d2",
+      "translated": true,
+      "len": 62,
+      "orig_text": "本来なら、こんなこと\nを普通の人に教えては\nいけないんだが・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7337",
+      "translated": true,
+      "len": 54,
+      "orig_text": "場合が場合だから、僕\nは君たちを信じること\nに決めたんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "73f9",
+      "translated": true,
+      "len": 12,
+      "orig_text": "キール・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7454",
+      "translated": true,
+      "len": 12,
+      "orig_text": "キール・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7494",
+      "translated": true,
+      "len": 16,
+      "orig_text": "キールさん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7586",
+      "translated": true,
+      "len": 56,
+      "orig_text": "キミのあの不思議な力\nの使い方を、教えたげ\nようと思ってね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7674",
+      "translated": true,
+      "len": 25,
+      "orig_text": "あの不思議な光の\nことか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "76b4",
+      "translated": true,
+      "len": 50,
+      "orig_text": "使っておいてなんだけ\nど、あれはいったい\n何なんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7744",
+      "translated": true,
+      "len": 25,
+      "orig_text": "あの不思議な光の\nことか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7784",
+      "translated": true,
+      "len": 60,
+      "orig_text": "使っておいて言うのも\nなんだが、あれは一体\nどういう力なんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7839",
+      "translated": true,
+      "len": 35,
+      "orig_text": "あの、わたしたちを\n包んだ光ですね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7883",
+      "translated": true,
+      "len": 37,
+      "orig_text": "あれは・・・いったい\nなんなんですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "793a",
+      "translated": true,
+      "len": 79,
+      "orig_text": "んー、あたしも断言は\nできないんだけどね、\nおそらく【召喚術】の\n一種じゃないかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7a3f",
+      "translated": true,
+      "len": 77,
+      "orig_text": "おいおい、待ってくれ\n召喚術ってのは召喚師\nしか使えないものなん\nじゃないのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7ac0",
+      "translated": true,
+      "len": 75,
+      "orig_text": "ちょっと待ってくれ\n召喚術ってのは召喚師\nしか使えないものなん\nじゃないのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7b5a",
+      "translated": true,
+      "len": 61,
+      "orig_text": "え・・・\n召喚術というのは\n召喚師しか使えないと\n聞きましたけど",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7c29",
+      "translated": true,
+      "len": 18,
+      "orig_text": "あ、それは思いこみ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7c62",
+      "translated": true,
+      "len": 52,
+      "orig_text": "方法さえ知ってれば、\n召喚術は誰でも\n使えるもんなのよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7cf5",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7d58",
+      "translated": true,
+      "len": 77,
+      "orig_text": "まあ、それはともかく\nキミの場合は呪文すら\nいらないし、まったく\n別次元の力だね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7dcc",
+      "translated": true,
+      "len": 37,
+      "orig_text": "あんなことは召喚師\nだってできないもん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7ea7",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そんなに、すごいこと\nだったのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7f00",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そんなに、すごいこと\nだったのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7f74",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そんなに、すごいこと\nだったんですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "802b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ただし、問題もあるわ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8066",
+      "translated": true,
+      "len": 81,
+      "orig_text": "キミの召喚術は我流よ\nきちんとした制御法を\n学んでないから下手す\nると暴発しちゃうわ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "816d",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ええっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "81ab",
+      "translated": true,
+      "len": 18,
+      "orig_text": "それは困るな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "820c",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ええっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "82a8",
+      "translated": true,
+      "len": 81,
+      "orig_text": "そうならないためにも\nこれからあたしが召喚\n術の初歩を教えたげる\nよーく聞きなさいよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8454",
+      "translated": true,
+      "len": 12,
+      "orig_text": "覚えたかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "84ec",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ああ\nまず【サモナイト石】\nに精神を集中して・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8541",
+      "translated": true,
+      "len": 54,
+      "orig_text": "次に何かの行動を\n起こせば【召喚術】が\n発動するんだろ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "85ab",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ああ、まず\n【サモナイト石】に\n精神を集中して・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8604",
+      "translated": true,
+      "len": 54,
+      "orig_text": "次に何かの行動を起こ\nせば【召喚術】が発動\nするんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8689",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ええと・・・\nまず【サモナイト石】\nに精神を集中して・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "86e6",
+      "translated": true,
+      "len": 56,
+      "orig_text": "次に何かの行動を\n起こせば【召喚術】が\n発動するんですね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "87b0",
+      "translated": true,
+      "len": 53,
+      "orig_text": "でも、\nこの方法だけじゃ\nいまいち役に\n立たないのよねえ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "880c",
+      "translated": true,
+      "len": 77,
+      "orig_text": "いちいちサモナイト石\nを消耗するし、望んだ\n召喚術が確実に使える\nわけじゃないし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "890f",
+      "translated": true,
+      "len": 14,
+      "orig_text": "たしかに・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8951",
+      "translated": true,
+      "len": 14,
+      "orig_text": "たしかに・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "89ae",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ですよね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8a4e",
+      "translated": true,
+      "len": 54,
+      "orig_text": "だからあたしたちは、\n【誓約】という儀式を\n一緒に行うの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8ae3",
+      "translated": true,
+      "len": 6,
+      "orig_text": "誓約？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8b48",
+      "translated": true,
+      "len": 44,
+      "orig_text": "うん\n呼び出された召喚獣に\n名前をつける儀式よ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8b9b",
+      "translated": true,
+      "len": 77,
+      "orig_text": "名前をつけた召喚獣は\n魔力を消費するだけで\nいつでも自由に呼べる\nようになるのよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8c0f",
+      "translated": true,
+      "len": 31,
+      "orig_text": "たとえ名づけた本人で\nなくてもね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8ce4",
+      "translated": true,
+      "len": 37,
+      "orig_text": "それが、さっき言って\nた特別な方法！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8d3d",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それが、さっき言って\nた特別な方法か・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8db5",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それが、さっき言って\nた特別な方法ですか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8e46",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そーゆーこと",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8e79",
+      "translated": true,
+      "len": 62,
+      "orig_text": "本当なら、こんなこと\nをぺらぺらと喋っちゃ\nダメなんだけど・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8ede",
+      "translated": true,
+      "len": 52,
+      "orig_text": "場合が場合だしね\nキミたちを信じて特別\nに教えたげるわ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8f9e",
+      "translated": true,
+      "len": 12,
+      "orig_text": "カシス・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8fde",
+      "translated": true,
+      "len": 12,
+      "orig_text": "カシス・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9039",
+      "translated": true,
+      "len": 16,
+      "orig_text": "カシスさん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "912b",
+      "translated": true,
+      "len": 50,
+      "orig_text": "貴方の持っている力に\nついて、お話ししたい\nと思って",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9213",
+      "translated": true,
+      "len": 25,
+      "orig_text": "あの不思議な光の\nことか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9253",
+      "translated": true,
+      "len": 50,
+      "orig_text": "使っておいてなんだけ\nど、あれはいったい\n何なんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "92b9",
+      "translated": true,
+      "len": 25,
+      "orig_text": "あの不思議な光の\nことか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "92f9",
+      "translated": true,
+      "len": 60,
+      "orig_text": "使っておいて言うのも\nなんだが、あれは一体\nどういう力なんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9393",
+      "translated": true,
+      "len": 27,
+      "orig_text": "光・・・？\nあの不思議な光ね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "93d5",
+      "translated": true,
+      "len": 46,
+      "orig_text": "自分で使っといて\nなんだけど・・・\nあれ、なに？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9486",
+      "translated": true,
+      "len": 79,
+      "orig_text": "私もよくはわからない\nのですけど、おそらく\n【召喚術】の一種では\nないかと思います",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "958b",
+      "translated": true,
+      "len": 77,
+      "orig_text": "おいおい、待ってくれ\n召喚術ってのは召喚師\nしか使えないものなん\nじゃないのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9636",
+      "translated": true,
+      "len": 75,
+      "orig_text": "ちょっと待ってくれ\n召喚術ってのは召喚師\nしか使えないものなん\nじゃないのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "96df",
+      "translated": true,
+      "len": 59,
+      "orig_text": "え？\n召喚術ってのは召喚師\nしか使えないんじゃな\nかったっけ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "979d",
+      "translated": true,
+      "len": 20,
+      "orig_text": "いえ、それは違います",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "97d8",
+      "translated": true,
+      "len": 54,
+      "orig_text": "方法さえ知っていれば\n召喚術は誰でも使える\nものなんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "98c4",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "98fc",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9934",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そうなの！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "99c3",
+      "translated": true,
+      "len": 81,
+      "orig_text": "あ・・・それより貴方\nの場合ですが、呪文を\n必要としない時点で、\n普通とは違いますね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9a3b",
+      "translated": true,
+      "len": 41,
+      "orig_text": "あんなことは熟達した\n召喚師でも無理ですし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9b1a",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そんなに、すごいこと\nだったのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9b9d",
+      "translated": true,
+      "len": 37,
+      "orig_text": "そんなに、すごいこと\nだったのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9c20",
+      "translated": true,
+      "len": 48,
+      "orig_text": "あたしって、そんな\nすごいことが\nできちゃったんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9cd3",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ただ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9d2e",
+      "translated": true,
+      "len": 81,
+      "orig_text": "貴方の召喚術はいわば\n我流です。正式な技法\nを学んでおかないと暴\n発の危険があります",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9e35",
+      "translated": true,
+      "len": 10,
+      "orig_text": "ええっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9e9d",
+      "translated": true,
+      "len": 18,
+      "orig_text": "それは困るな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9f0d",
+      "translated": true,
+      "len": 8,
+      "orig_text": "ええ〜っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9f98",
+      "translated": true,
+      "len": 79,
+      "orig_text": "ですから、これから私\nが召喚術の初歩を貴方\nにお教えします。よく\n聞いてくださいね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a16c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "覚えましたか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a206",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ああ\nまず【サモナイト石】\nに精神を集中して・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a25b",
+      "translated": true,
+      "len": 54,
+      "orig_text": "次に何かの行動を\n起こせば【召喚術】が\n発動するんだろ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a2c5",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ああ、まず\n【サモナイト石】に\n精神を集中して・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a31e",
+      "translated": true,
+      "len": 54,
+      "orig_text": "次に何かの行動を起こ\nせば【召喚術】が発動\nするんだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a388",
+      "translated": true,
+      "len": 54,
+      "orig_text": "簡単ね・・・\nまず【サモナイト石】\nに精神を集中して・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a3e5",
+      "translated": true,
+      "len": 46,
+      "orig_text": "次に何か行動すれば\n【召喚術】が発動！\nでしょ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a496",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ええ・・・ですがこの\n方法は基礎だけあって\n不都合も多いんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a4f9",
+      "translated": true,
+      "len": 81,
+      "orig_text": "いちいちサモナイト石\nを消耗しますし望んだ\n召喚術を確実に使える\nわけじゃないですし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a600",
+      "translated": true,
+      "len": 14,
+      "orig_text": "たしかに・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a66c",
+      "translated": true,
+      "len": 14,
+      "orig_text": "たしかに・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a6d8",
+      "translated": true,
+      "len": 16,
+      "orig_text": "だめじゃん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a795",
+      "translated": true,
+      "len": 58,
+      "orig_text": "ですから召喚師は普通\n【誓約】という儀式を\n一緒に行うんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a82e",
+      "translated": true,
+      "len": 6,
+      "orig_text": "誓約？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a893",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ええ\n呼び出された召喚獣に\n名前をつける儀式です",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a8e8",
+      "translated": true,
+      "len": 79,
+      "orig_text": "名前をつけた召喚獣は\n魔力を消費するだけで\nいつでも自由に呼べる\nようになるんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a95e",
+      "translated": true,
+      "len": 29,
+      "orig_text": "たとえ名づけた本人で\nなくても",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "aa31",
+      "translated": true,
+      "len": 37,
+      "orig_text": "それが、さっき言って\nた特別な方法！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "aab4",
+      "translated": true,
+      "len": 41,
+      "orig_text": "それが、さっき言って\nた特別な方法か・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ab3b",
+      "translated": true,
+      "len": 33,
+      "orig_text": "今のがさっき言ってた\n特別な方法？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "abdf",
+      "translated": true,
+      "len": 16,
+      "orig_text": "そういうことです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ac16",
+      "translated": true,
+      "len": 58,
+      "orig_text": "本来なら、普通の人に\n教えるべきことではな\nいのですが・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ac77",
+      "translated": true,
+      "len": 58,
+      "orig_text": "貴方たちのことを信じ\nて、私、特別にお教え\nしようと思います",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ad10",
+      "translated": true,
+      "len": 16,
+      "orig_text": "クラレット・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ae78",
+      "translated": true,
+      "len": 77,
+      "orig_text": "・・・というわけでさ\n理由はわからないけど\n俺は【召喚術】が使え\nるみたいなんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "aef9",
+      "translated": true,
+      "len": 69,
+      "orig_text": "・・・というわけだ\n理由はわからないが、\n僕は【召喚術】が使え\nるらしい",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "af72",
+      "translated": true,
+      "len": 65,
+      "orig_text": "・・・でさ\n理由はわからないけど\n【召喚術】が使える\nみたい、あたし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "afe7",
+      "translated": true,
+      "len": 77,
+      "orig_text": "・・というわけで、\n理由はわからないけど\nわたしは【召喚術】が\n使えるみたいなの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b0e2",
+      "translated": true,
+      "len": 33,
+      "orig_text": "にわかには信じがたい\n話だが・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b1a8",
+      "translated": true,
+      "len": 10,
+      "orig_text": "で、なんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b1d9",
+      "translated": true,
+      "len": 73,
+      "orig_text": "お前さんが【誓約】\nとやらをすれば、\nワシらにも召喚術が\n使えるってことか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b2d8",
+      "translated": true,
+      "len": 54,
+      "orig_text": "俺がきちんと【誓約】\nができればね\nまだ、試してないから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b342",
+      "translated": true,
+      "len": 69,
+      "orig_text": "僕がきちんと【誓約】\nができるのならね\n試してみないとわから\nないけれど",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b3bb",
+      "translated": true,
+      "len": 60,
+      "orig_text": "できれば、だけどね\nあたし、まだ【誓約】\nって、試してないから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b42b",
+      "translated": true,
+      "len": 69,
+      "orig_text": "わたしがきちんと\n【誓約】ができれば\nですけど・・・\nまだ試してないので",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b51e",
+      "translated": true,
+      "len": 71,
+      "orig_text": "心配なんかいらねえと\n俺は思うぜ\n今までだって、無意識\nで使えてたんだしよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b60a",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b675",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ん、どうしたレイド？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b6e8",
+      "translated": true,
+      "len": 27,
+      "orig_text": "あ、いや\nちょっと、な・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    }
+  ]
+}
