@@ -1,34 +1,7 @@
 {
   "md5": "1e7f0060e24acc7fab0d625bf0f70c77",
   "blocks": [
-    {
-      "offset": "856",
-      "translated": true,
-      "len": 4,
-      "orig_text": "臆限",
-      "translated_text": "",
-      "translated_text_zh": "",
-      "note": ""
-    },
-    {
-      "offset": "8de",
-      "translated": true,
-      "len": 3,
-      "orig_text": "耐\n",
-      "translated_text": "",
-      "translated_text_zh": "",
-      "note": ""
-    },
-    {
-      "offset": "a41",
-      "translated": true,
-      "len": 3,
-      "orig_text": "\n",
-      "translated_text": "",
-      "translated_text_zh": "",
-      "note": ""
-    },
-    {
+     {
       "offset": "3836",
       "translated": true,
       "len": 54,
